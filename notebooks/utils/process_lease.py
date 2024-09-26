@@ -6,7 +6,7 @@ import pandas as pd
 from notebooks.utils.ai import get_answer_from_ai
 from notebooks.utils.questions import ProcessedQuestion, json_to_dict
 from notebooks.utils.storage import store_pdf_in_vector_db
-from openai_pinecone.services.store_pdf import upload_to_s3
+from openai_pinecone.services.upload_to_s3 import upload_to_s3
 
 from .constants import AvailableEmbeddingModels, AvailableModels
 
@@ -23,7 +23,7 @@ def process_lease(
     embedding_model: AvailableEmbeddingModels = "text-embedding-ada-002",
     already_stored=False,
     already_vectorized=False,
-    force_structured_output=False,
+    use_structured_outputs=False,
     index_name=os.getenv("INDEX_NAME", ""),
 ):
     if not already_stored:
@@ -33,26 +33,25 @@ def process_lease(
         store_pdf_in_vector_db(
             file_key, namespace, embedding_model=embedding_model, index_name=index_name
         )
-    supports_structured_output = (
-        model in ["gpt-4o-2024-08-06", "gpt-4o-mini"]
-    ) or force_structured_output
     answer_from_ai = get_answer_from_ai(
         json.dumps(question_for_ai),
         namespace,
         model=model,
         embedding_model=embedding_model,
-        supports_structured_output=supports_structured_output,
-        use_json_object=force_structured_output,
+        supports_structured_output=use_structured_outputs,
         index_name=index_name,
     )
     question_id_str = f"{question_id}"
     answers_for_lease_df = answers_df[answers_df["Lease"] == file_name][question_id]
-    if model in ["gpt-4o-2024-08-06", "gpt-4o-mini"]:
+
+    if use_structured_outputs:
         return {
             "answer": answer_from_ai,
             "real_answer_unprocessed": answers_for_lease_df,
         }
+
     answer_as_dict = json_to_dict(answer_from_ai)
+
     if not answer_as_dict:
         print("No answer found")
         return {"answer": None, "real_answer_unprocessed": answers_for_lease_df}
