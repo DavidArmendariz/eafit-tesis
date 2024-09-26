@@ -5,7 +5,17 @@ description = "Default template for PDM package"
 authors = [
     {name = "David Armendariz", email = "david.adrian.a.p@gmail.com"},
 ]
-dependencies = []
+dependencies = [
+    "notebook>=7.2.2",
+    "pandas>=2.2.3",
+    "plotly>=5.24.1",
+    "tiktoken>=0.7.0",
+    "fuzzywuzzy[speedup]>=0.18.0",
+    "PyPDF2>=3.0.1",
+    "sec-api>=1.0.20",
+    "numpy>=2.1.1",
+    "openpyxl>=3.1.5",
+]
 requires-python = "==3.11.*"
 readme = "README.md"
 license = {text = "MIT"}
