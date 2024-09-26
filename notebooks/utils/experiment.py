@@ -2,9 +2,41 @@ import csv
 
 import pandas as pd
 from fuzzywuzzy import fuzz
+from utils.constants import AvailableEmbeddingModels, AvailableModels
+from utils.process_lease import process_lease
+from utils.storage import store_pdf_in_vector_db
 
-from notebooks.utils.constants import AvailableEmbeddingModels, AvailableModels
-from notebooks.utils.process_lease import process_lease
+from openai_pinecone.services.upload_to_s3 import upload_to_s3
+
+
+class DocumentsPreprocessing:
+    def __init__(
+        self,
+        index_name: str,
+        embedding_model: AvailableEmbeddingModels,
+    ):
+        self.numbers_list = [str(i).zfill(3) for i in range(1, 101)]
+        self.index_name = index_name
+        self.embedding_model: AvailableEmbeddingModels = embedding_model
+
+    def store_in_s3(self):
+        for number in self.numbers_list:
+            file_name = f"lease{number}"
+            local_file = f"../data/asc_842/lease_agreements/{file_name}.pdf"
+            file_key = f"eafit/{file_name}.pdf"
+            upload_to_s3(local_file, file_key)
+
+    def store_in_vector_db(self):
+        for number in self.numbers_list:
+            file_name = f"lease{number}"
+            file_key = f"eafit/{file_name}.pdf"
+            namespace = f"eafit_{file_name}"
+            store_pdf_in_vector_db(
+                file_key,
+                namespace,
+                embedding_model=self.embedding_model,
+                index_name=self.index_name,
+            )
 
 
 class Experiment:
@@ -70,8 +102,6 @@ class Experiment:
                     answers_df=self.answers_df,
                     model=self.model,
                     embedding_model=self.embedding_model,
-                    already_stored=self.already_stored,
-                    already_vectorized=self.already_vectorized,
                     use_structured_outputs=self.use_structured_outputs,
                     index_name=self.index_name,
                 )
@@ -119,4 +149,5 @@ class Experiment:
         else:
             result_status = 0  # Incorrect
             print("INCORRECT")
+        self.results.append([answer, formatted_answer, result_status])
         self.results.append([answer, formatted_answer, result_status])

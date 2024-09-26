@@ -17,8 +17,8 @@ bucket_name = os.getenv("BUCKET_NAME", "")
 def store_pdf_in_vector_db(
     file_key: str,
     namespace: str,
-    embedding_model: AvailableEmbeddingModels = "text-embedding-ada-002",
-    index_name=os.getenv("INDEX_NAME", ""),
+    index_name: str,
+    embedding_model: AvailableEmbeddingModels,
 ):
     try:
         ingestor = Ingestor(
