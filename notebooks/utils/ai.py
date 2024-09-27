@@ -43,6 +43,7 @@ def get_answer_from_ai(
             llm=llm,
             prompt_template=prompt_template,
             supports_structured_output=supports_structured_output,
+            model=model,
         )
         answer = question_answerer.process_answer(questions)
         return answer

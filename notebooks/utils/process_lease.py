@@ -10,9 +10,7 @@ from .constants import AvailableEmbeddingModels, AvailableModels
 
 
 def process_lease(
-    local_file: str,
     file_name: str,
-    file_key: str,
     namespace: str,
     question_for_ai: ProcessedQuestion,
     question_id: int,

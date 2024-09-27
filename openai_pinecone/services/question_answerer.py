@@ -41,7 +41,7 @@ class QuestionAnswerer:
         }
 
         if self.supports_structured_output and self.model != "gpt-3.5-turbo":
-            llm = llm.with_structured_output(QuestionResponse)
+            llm = llm.with_structured_output(QuestionResponse, method="json_schema")
             rag_chain = retrieve_context | self.prompt_template | llm
         else:
             rag_chain = (

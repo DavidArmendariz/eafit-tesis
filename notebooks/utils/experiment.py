@@ -1,12 +1,13 @@
 import csv
+import os
 
 import pandas as pd
 from fuzzywuzzy import fuzz
+
+from openai_pinecone.services.upload_to_s3 import upload_to_s3
 from utils.constants import AvailableEmbeddingModels, AvailableModels
 from utils.process_lease import process_lease
 from utils.storage import store_pdf_in_vector_db
-
-from openai_pinecone.services.upload_to_s3 import upload_to_s3
 
 
 class DocumentsPreprocessing:
@@ -71,12 +72,16 @@ class Experiment:
         self.correct_answers = 0
         self.results = []
         self.csv_filename = csv_results_filename
+        self.lease_number = 0
+        os.makedirs(os.path.dirname(self.csv_filename), exist_ok=True)
 
     def run(self):
+        with open(self.csv_filename, "w", newline="") as file:
+            writer = csv.writer(file)
+            writer.writerow(["Lease", "Answer", "Real answer", "Correct"])
+
         for number in self.numbers_list:
             file_name = f"lease{number}"
-            local_file = f"../data/asc_842/lease_agreements/{file_name}.pdf"
-            file_key = f"eafit/{file_name}.pdf"
             namespace = f"eafit_{file_name}"
 
             # Check if the real answer is NaT
@@ -90,12 +95,11 @@ class Experiment:
                 continue
 
             self.total_answers += 1
+            self.lease_number = number
 
             try:
                 result = process_lease(
-                    local_file=local_file,
                     file_name=file_name,
-                    file_key=file_key,
                     namespace=namespace,
                     question_for_ai=self.question_for_ai,
                     question_id=self.question_id,
@@ -118,12 +122,6 @@ class Experiment:
                 continue
         accuracy = self.correct_answers / self.total_answers
         print(f"Accuracy: {accuracy}")
-
-        with open(self.csv_filename, "w", newline="") as file:
-            writer = csv.writer(file)
-            writer.writerow(["Answer", "Real answer", "Correct"])  # Header
-            writer.writerows(self.results)
-
         print(f"Results saved to {self.csv_filename}")
 
     def evaluate_structured_output(self, answer, formatted_answer):
@@ -149,5 +147,8 @@ class Experiment:
         else:
             result_status = 0  # Incorrect
             print("INCORRECT")
-        self.results.append([answer, formatted_answer, result_status])
-        self.results.append([answer, formatted_answer, result_status])
+        with open(self.csv_filename, "a", newline="") as file:
+            writer = csv.writer(file)
+            writer.writerow(
+                [int(self.lease_number), answer, formatted_answer, result_status]
+            )
