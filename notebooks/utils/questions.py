@@ -26,7 +26,14 @@ def convert_text_to_json(text: str | None) -> dict | None:
 
 def json_to_dict(json_string) -> dict | None:
     try:
-        return json.loads(json_string)
+        # Use regex to find the part of the string that looks like JSON
+        match = re.search(r"\{.*\}", json_string, re.DOTALL)
+        if match:
+            json_string = match.group(0)
+            return json.loads(json_string)
+        else:
+            print("No valid JSON found in the string.")
+            return None
     except json.JSONDecodeError as e:
         print(f"Error decoding JSON: {e}")
         return None

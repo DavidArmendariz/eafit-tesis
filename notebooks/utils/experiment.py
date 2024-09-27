@@ -55,6 +55,7 @@ class Experiment:
         use_structured_outputs=True,
         csv_results_filename="results.csv",
         lessor_question=False,
+        date_question=False,
     ):
         self.answers_df = answers_df
         self.question_id = question_id
@@ -73,6 +74,7 @@ class Experiment:
         self.results = []
         self.csv_filename = csv_results_filename
         self.lease_number = 0
+        self.date_question = date_question
         os.makedirs(os.path.dirname(self.csv_filename), exist_ok=True)
 
     def run(self):
@@ -112,7 +114,11 @@ class Experiment:
                 answer = result["answer"]
                 real_answer_unprocessed = result["real_answer_unprocessed"]
                 formatted_answer = real_answer_unprocessed.iloc[0]
-                if self.use_structured_outputs:
+
+                if self.date_question:
+                    formatted_answer = formatted_answer.strftime("%Y-%m-%d")
+
+                if self.use_structured_outputs and self.model != "gpt-3.5-turbo":
                     self.evaluate_structured_output(answer, formatted_answer)
                 else:
                     self.evaluate_unstructured_output(answer, formatted_answer)
@@ -127,10 +133,32 @@ class Experiment:
     def evaluate_structured_output(self, answer, formatted_answer):
         if self.lessor_question:
             self.evaluate_lessor_questions(answer.answer_string[0], formatted_answer)
+        else:
+            if self.date_question:
+                extracted_answer = answer.answer_date
+            self.evaluate_exact_match(extracted_answer, formatted_answer)
 
     def evaluate_unstructured_output(self, answer, formatted_answer):
         if self.lessor_question:
             self.evaluate_lessor_questions(answer[0], formatted_answer)
+        else:
+            self.evaluate_exact_match(answer, formatted_answer)
+
+    def evaluate_exact_match(self, answer, formatted_answer):
+        print(f"Answer: {answer}")
+        print(f"Real answer: {formatted_answer}")
+        if answer == formatted_answer:
+            self.correct_answers += 1
+            result_status = 1  # Correct
+            print("CORRECT")
+        else:
+            result_status = 0  # Incorrect
+            print("INCORRECT")
+        with open(self.csv_filename, "a", newline="") as file:
+            writer = csv.writer(file)
+            writer.writerow(
+                [int(self.lease_number), answer, formatted_answer, result_status]
+            )
 
     def evaluate_lessor_questions(
         self,

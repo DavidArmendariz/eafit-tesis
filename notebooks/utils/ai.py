@@ -21,7 +21,7 @@ def get_answer_from_ai(
     try:
         prompt_template = (
             asc_842_prompt_template_structured
-            if supports_structured_output
+            if supports_structured_output and model != "gpt-3.5-turbo"
             else asc_842_prompt_template
         )
 

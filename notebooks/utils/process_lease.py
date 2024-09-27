@@ -1,5 +1,4 @@
 import json
-import os
 
 import pandas as pd
 
@@ -15,10 +14,10 @@ def process_lease(
     question_for_ai: ProcessedQuestion,
     question_id: int,
     answers_df: pd.DataFrame,
+    index_name: str,
     model: AvailableModels = "gpt-3.5-turbo",
     embedding_model: AvailableEmbeddingModels = "text-embedding-ada-002",
     use_structured_outputs=False,
-    index_name=os.getenv("INDEX_NAME", ""),
 ):
     answer_from_ai = get_answer_from_ai(
         json.dumps(question_for_ai),
@@ -31,7 +30,7 @@ def process_lease(
     question_id_str = f"{question_id}"
     answers_for_lease_df = answers_df[answers_df["Lease"] == file_name][question_id]
 
-    if use_structured_outputs:
+    if use_structured_outputs and model != "gpt-3.5-turbo":
         return {
             "answer": answer_from_ai,
             "real_answer_unprocessed": answers_for_lease_df,
