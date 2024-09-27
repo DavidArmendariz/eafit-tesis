@@ -3,11 +3,11 @@ import os
 
 import pandas as pd
 from fuzzywuzzy import fuzz
-
-from openai_pinecone.services.upload_to_s3 import upload_to_s3
 from utils.constants import AvailableEmbeddingModels, AvailableModels
 from utils.process_lease import process_lease
 from utils.storage import store_pdf_in_vector_db
+
+from openai_pinecone.services.upload_to_s3 import upload_to_s3
 
 
 class DocumentsPreprocessing:
@@ -56,6 +56,7 @@ class Experiment:
         csv_results_filename="results.csv",
         lessor_question=False,
         date_question=False,
+        boolean_question=False,
     ):
         self.answers_df = answers_df
         self.question_id = question_id
@@ -75,6 +76,7 @@ class Experiment:
         self.csv_filename = csv_results_filename
         self.lease_number = 0
         self.date_question = date_question
+        self.boolean_question = boolean_question
         os.makedirs(os.path.dirname(self.csv_filename), exist_ok=True)
 
     def run(self):
@@ -132,19 +134,40 @@ class Experiment:
 
     def evaluate_structured_output(self, answer, formatted_answer):
         if self.lessor_question:
-            self.evaluate_lessor_questions(answer.answer_string[0], formatted_answer)
-        else:
-            if self.date_question:
-                extracted_answer = answer.answer_date
-            self.evaluate_exact_match(extracted_answer, formatted_answer)
+            extracted_answer = answer.answer_string[0]
+            self.evaluate_lessor_questions(extracted_answer, formatted_answer)
+        elif self.date_question:
+            extracted_answer = answer.answer_date
+            self.evaluate_date_question(extracted_answer, formatted_answer)
+        elif self.boolean_question:
+            extracted_answer = answer.answer_boolean
+            self.evaluate_boolean_question(extracted_answer, formatted_answer)
 
     def evaluate_unstructured_output(self, answer, formatted_answer):
         if self.lessor_question:
             self.evaluate_lessor_questions(answer[0], formatted_answer)
-        else:
-            self.evaluate_exact_match(answer, formatted_answer)
+        elif self.date_question:
+            self.evaluate_date_question(answer, formatted_answer)
+        elif self.boolean_question:
+            self.evaluate_boolean_question(answer, formatted_answer)
 
-    def evaluate_exact_match(self, answer, formatted_answer):
+    def evaluate_boolean_question(self, answer, formatted_answer):
+        print(f"Answer: {answer}")
+        print(f"Real answer: {formatted_answer}")
+        if int(answer) == int(formatted_answer):
+            self.correct_answers += 1
+            result_status = 1  # Correct
+            print("CORRECT")
+        else:
+            result_status = 0  # Incorrect
+            print("INCORRECT")
+        with open(self.csv_filename, "a", newline="") as file:
+            writer = csv.writer(file)
+            writer.writerow(
+                [int(self.lease_number), answer, formatted_answer, result_status]
+            )
+
+    def evaluate_date_question(self, answer, formatted_answer):
         print(f"Answer: {answer}")
         print(f"Real answer: {formatted_answer}")
         if answer == formatted_answer:
