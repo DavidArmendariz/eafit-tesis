@@ -3,11 +3,12 @@ import os
 
 import pandas as pd
 from fuzzywuzzy import fuzz
-from utils.constants import AvailableEmbeddingModels, AvailableModels
-from utils.process_lease import process_lease
-from utils.storage import store_pdf_in_vector_db
 
 from openai_pinecone.services.upload_to_s3 import upload_to_s3
+
+from .constants import AvailableEmbeddingModels, AvailableModels
+from .process_lease import process_lease
+from .storage import store_pdf_in_vector_db
 
 
 class DocumentsPreprocessing:

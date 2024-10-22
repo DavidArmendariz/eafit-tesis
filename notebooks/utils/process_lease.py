@@ -2,10 +2,9 @@ import json
 
 import pandas as pd
 
-from notebooks.utils.ai import get_answer_from_ai
-from notebooks.utils.questions import ProcessedQuestion, json_to_dict
-
+from .ai import get_answer_from_ai
 from .constants import AvailableEmbeddingModels, AvailableModels
+from .questions import ProcessedQuestion, json_to_dict
 
 
 def process_lease(

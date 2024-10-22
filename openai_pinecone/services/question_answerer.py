@@ -1,10 +1,10 @@
+from typing import Literal
+
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import PromptTemplate
 from langchain_core.runnables import RunnablePassthrough
 from langchain_openai import ChatOpenAI
 from langchain_pinecone.vectorstores import PineconeVectorStore
-
-from notebooks.utils.constants import AvailableModels
 
 from .types import QuestionResponse
 
@@ -17,7 +17,9 @@ class QuestionAnswerer:
         llm: ChatOpenAI = ChatOpenAI(),
         prompt_template=PromptTemplate.from_template(""),
         supports_structured_output=False,
-        model: AvailableModels = "gpt-3.5-turbo",
+        model: Literal[
+            "gpt-3.5-turbo", "gpt-4o-2024-08-06", "gpt-4o-mini"
+        ] = "gpt-3.5-turbo",
     ):
         self.namespace = namespace
         self.vectorstore = vectorstore
