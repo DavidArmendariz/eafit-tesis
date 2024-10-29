@@ -17,6 +17,7 @@ def process_lease(
     model: AvailableModels = "gpt-3.5-turbo",
     embedding_model: AvailableEmbeddingModels = "text-embedding-ada-002",
     use_structured_outputs=False,
+    template_string: str | None = None,
 ):
     answer_from_ai = get_answer_from_ai(
         json.dumps(question_for_ai),
@@ -25,6 +26,7 @@ def process_lease(
         embedding_model=embedding_model,
         supports_structured_output=use_structured_outputs,
         index_name=index_name,
+        template_string=template_string,
     )
     question_id_str = f"{question_id}"
     answers_for_lease_df = answers_df[answers_df["Lease"] == file_name][question_id]

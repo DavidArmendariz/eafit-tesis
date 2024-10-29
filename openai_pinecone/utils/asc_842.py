@@ -35,8 +35,12 @@ asc_842_prompt_template = PromptTemplate.from_template(
     """
 )
 
-asc_842_prompt_template_structured = PromptTemplate.from_template(
-    """Your task is to read the provided Source Document and respond to the questions provided in Inquiries.
+
+def asc_842_prompt_template_structured(template_string: str | None = None):
+    template = (
+        template_string
+        if template_string
+        else """Your task is to read the provided Source Document and respond to the questions provided in Inquiries.
     Inquiries is an array of objects, each representing a question and its parameters.
     Each object in the Inquiries array contains the following keys:
 
@@ -63,4 +67,5 @@ asc_842_prompt_template_structured = PromptTemplate.from_template(
     Inquiries: {questions}
     Source Document: {context}
     """
-)
+    )
+    return PromptTemplate.from_template(template)
