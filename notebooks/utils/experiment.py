@@ -58,6 +58,7 @@ class Experiment:
         lessor_question=False,
         date_question=False,
         boolean_question=False,
+        template_string: str | None = None,
     ):
         self.answers_df = answers_df
         self.question_id = question_id
@@ -78,6 +79,7 @@ class Experiment:
         self.lease_number = 0
         self.date_question = date_question
         self.boolean_question = boolean_question
+        self.template_string = template_string
         os.makedirs(os.path.dirname(self.csv_filename), exist_ok=True)
 
     def run(self):
@@ -113,6 +115,7 @@ class Experiment:
                     embedding_model=self.embedding_model,
                     use_structured_outputs=self.use_structured_outputs,
                     index_name=self.index_name,
+                    template_string=self.template_string,
                 )
                 answer = result["answer"]
                 real_answer_unprocessed = result["real_answer_unprocessed"]
