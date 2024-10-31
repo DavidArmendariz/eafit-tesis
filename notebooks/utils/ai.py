@@ -18,6 +18,7 @@ def get_answer_from_ai(
     embedding_model: AvailableEmbeddingModels = "text-embedding-ada-002",
     supports_structured_output=False,
     template_string: str | None = None,
+    retriever_question: str | None = None,
 ):
     try:
         prompt_template = (
@@ -45,6 +46,7 @@ def get_answer_from_ai(
             prompt_template=prompt_template,
             supports_structured_output=supports_structured_output,
             model=model,
+            retriever_question=retriever_question,
         )
         answer = question_answerer.process_answer(questions)
         return answer

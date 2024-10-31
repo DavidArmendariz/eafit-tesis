@@ -5,7 +5,7 @@
 groups = ["default", "dev"]
 strategy = ["inherit_metadata"]
 lock_version = "4.5.0"
-content_hash = "sha256:f1bd672b2d7614517cd05a3b7ad109d26ce2a3bd8ba860a4d422ce908f5eddd0"
+content_hash = "sha256:4cb2c96b6b11414eea27023e48759178a2cd4f98eb5661f17cb1e4cd3fc5e5e8"
 
 [[metadata.targets]]
 requires_python = ">=3.11,<3.12"
@@ -1722,7 +1722,7 @@ files = [
 
 [[package]]
 name = "langchain"
-version = "0.3.1"
+version = "0.3.5"
 requires_python = "<4.0,>=3.9"
 summary = "Building applications with LLMs through composability"
 groups = ["default"]
@@ -1731,18 +1731,18 @@ dependencies = [
     "SQLAlchemy<3,>=1.4",
     "aiohttp<4.0.0,>=3.8.3",
     "async-timeout<5.0.0,>=4.0.0; python_version < \"3.11\"",
-    "langchain-core<0.4.0,>=0.3.6",
+    "langchain-core<0.4.0,>=0.3.13",
     "langchain-text-splitters<0.4.0,>=0.3.0",
     "langsmith<0.2.0,>=0.1.17",
     "numpy<2,>=1; python_version < \"3.12\"",
     "numpy<2.0.0,>=1.26.0; python_version >= \"3.12\"",
     "pydantic<3.0.0,>=2.7.4",
     "requests<3,>=2",
-    "tenacity!=8.4.0,<9.0.0,>=8.1.0",
+    "tenacity!=8.4.0,<10,>=8.1.0",
 ]
 files = [
-    {file = "langchain-0.3.1-py3-none-any.whl", hash = "sha256:94e5ee7464d4366e4b158aa5704953c39701ea237b9ed4b200096d49e83bb3ae"},
-    {file = "langchain-0.3.1.tar.gz", hash = "sha256:54d6e3abda2ec056875a231a418a4130ba7576e629e899067e499bfc847b7586"},
+    {file = "langchain-0.3.5-py3-none-any.whl", hash = "sha256:f62ea88bb12e40b1b210cf059a5e564bfb17ee3194651944d5a013abb88d30ee"},
+    {file = "langchain-0.3.5.tar.gz", hash = "sha256:ff8f138e7e75c34ab155397853964494b212abda856b9c983dedc535249f29e8"},
 ]
 
 [[package]]
@@ -1766,7 +1766,7 @@ files = [
 
 [[package]]
 name = "langchain-community"
-version = "0.3.1"
+version = "0.3.3"
 requires_python = "<4.0,>=3.9"
 summary = "Community contributed LangChain integrations."
 groups = ["default"]
@@ -1775,23 +1775,23 @@ dependencies = [
     "SQLAlchemy<3,>=1.4",
     "aiohttp<4.0.0,>=3.8.3",
     "dataclasses-json<0.7,>=0.5.7",
-    "langchain-core<0.4.0,>=0.3.6",
-    "langchain<0.4.0,>=0.3.1",
+    "langchain-core<0.4.0,>=0.3.12",
+    "langchain<0.4.0,>=0.3.4",
     "langsmith<0.2.0,>=0.1.125",
     "numpy<2,>=1; python_version < \"3.12\"",
     "numpy<2.0.0,>=1.26.0; python_version >= \"3.12\"",
     "pydantic-settings<3.0.0,>=2.4.0",
     "requests<3,>=2",
-    "tenacity!=8.4.0,<9.0.0,>=8.1.0",
+    "tenacity!=8.4.0,<10,>=8.1.0",
 ]
 files = [
-    {file = "langchain_community-0.3.1-py3-none-any.whl", hash = "sha256:627eb26c16417764762ac47dd0d3005109f750f40242a88bb8f2958b798bcf90"},
-    {file = "langchain_community-0.3.1.tar.gz", hash = "sha256:c964a70628f266a61647e58f2f0434db633d4287a729f100a81dd8b0654aec93"},
+    {file = "langchain_community-0.3.3-py3-none-any.whl", hash = "sha256:319cfc2f923a066c91fbb8e02decd7814018af952b6b98298b8ac9d30ea1da56"},
+    {file = "langchain_community-0.3.3.tar.gz", hash = "sha256:bfb3f2b219aed21087e0ecb7d2ebd1c81401c02b92239e11645c822d5be63f80"},
 ]
 
 [[package]]
 name = "langchain-core"
-version = "0.3.6"
+version = "0.3.13"
 requires_python = "<4.0,>=3.9"
 summary = "Building applications with LLMs through composability"
 groups = ["default", "dev"]
@@ -1802,28 +1802,28 @@ dependencies = [
     "packaging<25,>=23.2",
     "pydantic<3.0.0,>=2.5.2; python_full_version < \"3.12.4\"",
     "pydantic<3.0.0,>=2.7.4; python_full_version >= \"3.12.4\"",
-    "tenacity!=8.4.0,<9.0.0,>=8.1.0",
+    "tenacity!=8.4.0,<10.0.0,>=8.1.0",
     "typing-extensions>=4.7",
 ]
 files = [
-    {file = "langchain_core-0.3.6-py3-none-any.whl", hash = "sha256:7bb3df0117bdc628b18b6c8748de72c6f537d745d47566053ce6650d5712281c"},
-    {file = "langchain_core-0.3.6.tar.gz", hash = "sha256:eb190494a5483f1965f693bb2085edb523370b20fc52dc294d3bd425773cd076"},
+    {file = "langchain_core-0.3.13-py3-none-any.whl", hash = "sha256:e79cfac046cab293c02047f081741f4a433ca5aa54a3973e179eaef147cdfba4"},
+    {file = "langchain_core-0.3.13.tar.gz", hash = "sha256:d3a6c838284ff73705dd0f24a36cd8b2fa34a348e6b357e6b3d58199ab063cde"},
 ]
 
 [[package]]
 name = "langchain-openai"
-version = "0.2.1"
+version = "0.2.4"
 requires_python = "<4.0,>=3.9"
 summary = "An integration package connecting OpenAI and LangChain"
 groups = ["default"]
 dependencies = [
-    "langchain-core<0.4,>=0.3",
-    "openai<2.0.0,>=1.40.0",
+    "langchain-core<0.4.0,>=0.3.13",
+    "openai<2.0.0,>=1.52.0",
     "tiktoken<1,>=0.7",
 ]
 files = [
-    {file = "langchain_openai-0.2.1-py3-none-any.whl", hash = "sha256:215efa4526c88f8105f002b43b7cbf98cebd9baeb4f62c3b58faebdb578715bc"},
-    {file = "langchain_openai-0.2.1.tar.gz", hash = "sha256:a131ea18736f1a8792925391b91a8c8bd834431ffc2055c92ba49f59c3dcaaf0"},
+    {file = "langchain_openai-0.2.4-py3-none-any.whl", hash = "sha256:7e78adde0f97bf28440b0e08be27bc3b45ff88e41c12a859b30959d9504506a4"},
+    {file = "langchain_openai-0.2.4.tar.gz", hash = "sha256:8fe494ea0b61241fe213bede8234e41e6927b348eaa8f6ce60f547676b0f2e14"},
 ]
 
 [[package]]
@@ -2649,7 +2649,7 @@ files = [
 
 [[package]]
 name = "openai"
-version = "1.49.0"
+version = "1.52.2"
 requires_python = ">=3.7.1"
 summary = "The official Python library for the openai API"
 groups = ["default"]
@@ -2665,8 +2665,8 @@ dependencies = [
     "typing-extensions<5,>=4.11",
 ]
 files = [
-    {file = "openai-1.49.0-py3-none-any.whl", hash = "sha256:6efcf09bde703b991086603bc9c770ddea01ad57f1ded9bd735fd607e6e84c3c"},
-    {file = "openai-1.49.0.tar.gz", hash = "sha256:965e5c7cdf59277a8422250b1a81e683c9e7b10d28d4262b8daeeba4238202d4"},
+    {file = "openai-1.52.2-py3-none-any.whl", hash = "sha256:57e9e37bc407f39bb6ec3a27d7e8fb9728b2779936daa1fcf95df17d3edfaccc"},
+    {file = "openai-1.52.2.tar.gz", hash = "sha256:87b7d0f69d85f5641678d414b7ee3082363647a5c66a462ed7f3ccb59582da0d"},
 ]
 
 [[package]]
