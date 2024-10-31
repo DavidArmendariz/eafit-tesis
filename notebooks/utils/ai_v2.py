@@ -10,6 +10,7 @@ def get_answer_from_ai_v2(
     index_name: str,
     template_string: str | None = None,
     retriever_question: str | None = None,
+    use_llm_filter=False,
 ):
     try:
         prompt_template = asc_842_prompt_template_structured(template_string)
@@ -22,6 +23,7 @@ def get_answer_from_ai_v2(
             namespace=namespace,
             prompt_template=prompt_template,
             retriever_question=retriever_question,
+            use_llm_filter=use_llm_filter,
         )
         answer = question_answerer.process_answer()
         return answer

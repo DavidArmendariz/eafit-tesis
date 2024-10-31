@@ -22,6 +22,7 @@ class SimplifiedExperiment:
         boolean_question=False,
         template_string: str | None = None,
         retriever_question: str | None = None,
+        use_llm_filter=False,
     ):
         self.answers_df = answers_df
         self.question_id = question_id
@@ -40,6 +41,7 @@ class SimplifiedExperiment:
         self.boolean_question = boolean_question
         self.template_string = template_string
         self.retriever_question = retriever_question
+        self.use_llm_filter = use_llm_filter
         os.makedirs(os.path.dirname(self.csv_filename), exist_ok=True)
 
     def run(self):
@@ -73,6 +75,7 @@ class SimplifiedExperiment:
                     index_name=self.index_name,
                     template_string=self.template_string,
                     retriever_question=self.retriever_question,
+                    use_llm_filter=self.use_llm_filter,
                 )
                 answer = result["answer"]
                 real_answer_unprocessed = result["real_answer_unprocessed"]

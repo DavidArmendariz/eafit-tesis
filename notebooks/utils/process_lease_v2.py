@@ -11,12 +11,14 @@ def process_lease_v2(
     index_name: str,
     template_string: str | None = None,
     retriever_question: str | None = None,
+    use_llm_filter=False,
 ):
     answer_from_ai = get_answer_from_ai_v2(
         namespace,
         index_name=index_name,
         template_string=template_string,
         retriever_question=retriever_question,
+        use_llm_filter=use_llm_filter,
     )
     answers_for_lease_df = answers_df[answers_df["Lease"] == file_name][
         question_id
