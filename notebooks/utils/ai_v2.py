@@ -13,6 +13,7 @@ def get_answer_from_ai_v2(
     use_llm_filter=False,
     lessor_question=True,
     date_question=False,
+    boolean_question=False,
 ):
     try:
         prompt_template = asc_842_prompt_template_structured(template_string)

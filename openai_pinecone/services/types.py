@@ -22,3 +22,7 @@ class QuestionResponseStr(BaseModel):
 
 class QuestionResponseDate(BaseModel):
     answer_date: str
+
+
+class QuestionResponseBoolean(BaseModel):
+    answer_boolean: bool

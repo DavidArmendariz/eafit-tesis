@@ -4,7 +4,12 @@ from langchain_core.prompts import PromptTemplate
 from langchain_openai import ChatOpenAI
 from langchain_pinecone.vectorstores import PineconeVectorStore
 
-from .types import QuestionResponseAll, QuestionResponseDate, QuestionResponseStr
+from .types import (
+    QuestionResponseAll,
+    QuestionResponseBoolean,
+    QuestionResponseDate,
+    QuestionResponseStr,
+)
 
 
 class QuestionAnswererV2:
@@ -17,6 +22,7 @@ class QuestionAnswererV2:
         retriever_question: str | None = None,
         lessor_question=True,
         date_question=False,
+        boolean_question=False,
     ):
         self.namespace = namespace
         self.vectorstore = vectorstore
@@ -25,6 +31,7 @@ class QuestionAnswererV2:
         self.retriever_question = retriever_question
         self.lessor_question = lessor_question
         self.date_question = date_question
+        self.boolean_question = boolean_question
 
     def process_answer(self):
         retriever = self.vectorstore.as_retriever(
@@ -45,6 +52,8 @@ class QuestionAnswererV2:
             structure = QuestionResponseStr
         elif self.date_question:
             structure = QuestionResponseDate
+        elif self.boolean_question:
+            structure = QuestionResponseBoolean
 
         llm = llm.with_structured_output(structure, method="json_schema")
 
