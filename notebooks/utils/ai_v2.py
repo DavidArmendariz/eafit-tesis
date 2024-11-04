@@ -29,6 +29,7 @@ def get_answer_from_ai_v2(
             use_llm_filter=use_llm_filter,
             lessor_question=lessor_question,
             date_question=date_question,
+            boolean_question=boolean_question,
         )
         answer = question_answerer.process_answer()
         return answer
