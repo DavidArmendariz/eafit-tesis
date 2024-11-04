@@ -2,100 +2,100 @@ Lease,Answer,Real answer,Correct
 1,Kyle J. Beller,"BarBell Real Estate, LLC",0
 2,Augmedix Bangladesh Ltd.,Sony Chocolate Industries Ltd,0
 3,Licensor,The Wheelership LLC,0
-4,"Venable Tenant, LLC","Venable Tenant, LLC",1
-5,Marathon Business,Wyomissing Professional Center III Limited Partnership,0
-6,Lessor,Hooten Non Exempt Family Trust B,0
-7,Landlord,"AR Industrial No. 1, Ltd",0
-8,Embassy Bank,"Village Corner, LLC",0
-9,Blackstone,GH4 Partners LLC,0
-10,The name of the lessor is not explicitly mentioned in the provided source document.,"YESCO Properties, LLC",0
+4,Landlord,"Venable Tenant, LLC",0
+5,"Wyomissing Professional Center III, Limited Partnership",Wyomissing Professional Center III Limited Partnership,1
+6,Hooten Non Exempt Family Trust B,Hooten Non Exempt Family Trust B,1
+7,Confidentiality,"AR Industrial No. 1, Ltd",0
+8,"Village Corner, LLC","Village Corner, LLC",1
+9,BLACKSTONE,GH4 Partners LLC,0
+10,Landlord,"YESCO Properties, LLC",0
 11,"HOLDER INVESTMENTS, INC.","Holder Investments, Inc",1
-12,"Orwig Property Management Center Square, LLC",ORWIG PROPERTY MANAGEMENT CENTER SQUARE LLC,1
-13,"The name of the lessor is not explicitly stated in the provided source document. However, it is referred to as 'Landlord' in the context of the agreement.",Douglas R. Rippel,0
-14,The name of the lessor is not explicitly mentioned in the provided source document.,"Adairsville GA, LLC",0
-15,,"Narcoossee Acquisitions, LLC",0
+12,Lessor,ORWIG PROPERTY MANAGEMENT CENTER SQUARE LLC,0
+13,Landlord,Douglas R. Rippel,0
+14,Landlord,"Adairsville GA, LLC",0
+15,"Narcoossee Acquisitions, LLC","Narcoossee Acquisitions, LLC",1
 16,"Exponent Realty, LLC","EXPONENT REALTY, LLC",1
 17,Landlord,"SRE TKC CHARLESTON IV, LLC",0
-18,The name of the lessor is not explicitly mentioned in the provided source document.,"BOYER RESEARCH PARK ASSOCIATES X, L.C.",0
-19,PAB,Chicago Executive Airport,0
-20,"UP 64 SIDNEY STREET, LLC","UP 64 SIDNEY STREET, LLC",1
-21,The name of the lessor is not explicitly mentioned in the provided source document.,"INDUSTRIAL DEVELOPMENTS INTERNATIONAL, INC.",0
-22,Suzie Markin and Dante Angelucci,"ARE-MA REGION NO. 75, LLC",0
-23,The name of the lessor is not explicitly mentioned in the provided source document.,"MEADOWS OFFICE, L.L.C.",0
-24,Owner,"APT Cowork, LLC",0
-25,The name of the lessor is not explicitly mentioned in the provided source document.,"Wilks Ranch Texas, LTD",0
-26,"Alexandria Real Estate Equities, Inc","ARE-708 QUINCE ORCHARD, LLC",0
+18,Landlord,"BOYER RESEARCH PARK ASSOCIATES X, L.C.",0
+19,Chicago Executive Airport,Chicago Executive Airport,1
+20,Landlord,"UP 64 SIDNEY STREET, LLC",0
+21,Landlord,"INDUSTRIAL DEVELOPMENTS INTERNATIONAL, INC.",0
+22,Landlord,"ARE-MA REGION NO. 75, LLC",0
+23,"Meadows Office, L.L.C.","MEADOWS OFFICE, L.L.C.",1
+24,,"APT Cowork, LLC",0
+25,Landlord,"Wilks Ranch Texas, LTD",0
+26,Landlord,"ARE-708 QUINCE ORCHARD, LLC",0
 27,Lessor,"FARNAM STREET FINANCIAL, INC",0
-28,IAMSA,"Industrias Asociadas Maquiladoras, S.A. de C.V.",0
-29,F.E.R. Fischer Edelstahlrohre GmbH,fischer group SE & Co. KG,0
-30,"Eagle 1 Investments, L.L.C.","Eagle I Investments, L.L.C.",1
-31,"Oak Street Real Estate Capital, LLC",CTROOK002 LLC,0
-32,Dan Tsang,"ARE-SAN FRANCISCO NO. 63, LLC",0
+28,"INDUSTRIAS ASOCIADAS MAQUILADORAS, S.A. de C.V.","Industrias Asociadas Maquiladoras, S.A. de C.V.",1
+29,fischer_group_SE_&_Co._KG,fischer group SE & Co. KG,1
+30,"Paradigm Realty Advisors, L.L.C.","Eagle I Investments, L.L.C.",0
+31,CTROOK002 LLC,CTROOK002 LLC,1
+32,Landlord,"ARE-SAN FRANCISCO NO. 63, LLC",0
 33,Landa Properties LLC,Landa Properties LLC,1
-34,Landa App LLC - 1703 Summerwoods Lane Griffin GA LLC,Landa App LLC - 1703 Summerwoods Lane Griffin GA LLC,1
+34,Landa App LLC,Landa App LLC - 1703 Summerwoods Lane Griffin GA LLC,0
 35,Landa Properties LLC,Landa Properties LLC,1
-36,The name of the lessor is not explicitly stated in the provided source document.,PINAL COUNTY,0
+36,Landlord,PINAL COUNTY,0
 37,Anthony Nigel Sampson,Anthony Nigel Sampson,1
-38,"ARE-SD REGION NO. 71, LLC","ARE-SD REGION NO. 71, LLC",1
-39,"Cargill, Incorporated","CARGILL, INCORPORATED",1
-40,The name of the lessor is not explicitly mentioned in the provided source document.,"BERNARDO WINDELL, LLC",0
-41,The name of the lessor is not explicitly mentioned in the provided source document.,"BERNARDO WINDELL, LLC",0
-42,100 Chesapeake Blvd LLC,100 CHESAPEAKE BLVD LLC,1
-43,"The exact name of the lessor is not explicitly mentioned in the provided source document. The term 'Landlord' is used, but no specific name is given.","Hudson Towers at Shore Center, LLC, a Delaware limited liability company",0
-44,The name of the lessor is not explicitly mentioned in the provided source document.,"Taylyn Holdings, LLC",0
-45,Minoan Capital Pty Ltd,MINOAN CAPITAL PTY LTD,1
-46,"Clene Nanomedicine, Inc.","UPPER CHEASPEAKE FLEX ONE, LLC",0
-47,"Apple Moving, Inc.","Apple Moving, Inc.",1
-48,The name of the lessor is not explicitly mentioned in the provided source document.,Sunrise Nominee Trust,0
+38,The Lessor,"ARE-SD REGION NO. 71, LLC",0
+39,"CARGILL, INCORPORATED","CARGILL, INCORPORATED",1
+40,Landlord,"BERNARDO WINDELL, LLC",0
+41,Landlord,"BERNARDO WINDELL, LLC",0
+42,Landlord,100 CHESAPEAKE BLVD LLC,0
+43,JAMS,"Hudson Towers at Shore Center, LLC, a Delaware limited liability company",0
+44,Landlord,"Taylyn Holdings, LLC",0
+45,MINOAN CAPITAL PTY LTD,MINOAN CAPITAL PTY LTD,1
+46,,"UPPER CHEASPEAKE FLEX ONE, LLC",0
+47,"Apple Moving, INC.","Apple Moving, Inc.",1
+48,Sunrise NT,Sunrise Nominee Trust,0
 49,"Cruiser Lane, LLC","Cruiser Lane, LLC",1
-50,The name of the lessor is not explicitly mentioned in the provided source document.,NWP BUILDING 20 LLC,0
+50,Landlord,NWP BUILDING 20 LLC,0
 51,Phil Bosua,Phil Bosua,1
-52,The name of the lessor is not explicitly mentioned in the provided source document.,VISIONS FEDERAL CREDIT UNION,0
+52,Lessor,VISIONS FEDERAL CREDIT UNION,0
 53,Hooten Non Exempt Family Trust B,Hooten Non Exempt Family Trust B,1
-54,The name of the lessor is not explicitly mentioned in the provided source document.,Trustmark National Bank,0
+54,"Invo Bioscience, Inc.",Trustmark National Bank,0
 55,"Price-Poore House, LLC","Price-Poore House, LLC",1
-56,State of Wyoming,State of Wyoming,1
-57,"Queen Mary and Westfield College, University of London.",Queen Mary Bioenterprises Limited,0
-58,"Sichuan Anyi Hengke Technology Co., Ltd.","Sichuan Anyi Hengke Technology Co., Ltd.",1
-59,The name of the lessor is not explicitly mentioned in the provided source document.,"GIFFORD INVESTMENTS, INC.",0
-60,The name of the lessor is not explicitly mentioned in the provided source document.,Kathryn Joy Atkinson,0
-61,"Overlook At Rob Roy Owner (Delaware), LLC","Overlook At Rob Roy Owner, LLC",1
+56,STATE OF WYOMING,State of Wyoming,1
+57,Queen Mary Bioenterprises Limited,Queen Mary Bioenterprises Limited,1
+58,Party A,"Sichuan Anyi Hengke Technology Co., Ltd.",0
+59,Lessor,"GIFFORD INVESTMENTS, INC.",0
+60,Lessor,Kathryn Joy Atkinson,0
+61,Lessor,"Overlook At Rob Roy Owner, LLC",0
 62,Phil Bosua,Phil Bosua,1
-63,"Tianjin Information Sea Information Technology Co., LTD","Hangzhou Zhexin Information Technology Co., LTD",0
-64,"Beijing Guochuan Borui Technology Co., Ltd.","Beijing Guochuan Borui Technology Co., Ltd.",1
-65,"Beijing Guochuan Borui Technology Co., Ltd.","Beijing Guochuan Borui Technology Co., Ltd.",1
+63,Party A,"Hangzhou Zhexin Information Technology Co., LTD",0
+64,Party A,"Beijing Guochuan Borui Technology Co., Ltd.",0
+65,Party A,"Beijing Guochuan Borui Technology Co., Ltd.",0
 66,State of Wyoming,STATE OF WYOMING,1
-67,The name of the lessor is not explicitly mentioned in the provided source document.,McCLELLAN FARM,0
-68,The name of the lessor is not explicitly mentioned in the provided source document.,STATE OF WYOMING,0
-69,"105 W First Street Owner, L.L.C.","105 W. First Street Owner, L.L.C.",1
-70,Mundo Talio SL,Mundo Talio SL,1
+67,McClellan Farm,McCLELLAN FARM,1
+68,State of Wyoming,STATE OF WYOMING,1
+69,Landlord,"105 W. First Street Owner, L.L.C.",0
+70,[Entity Name Not Provided],Mundo Talio SL,0
 71,Steven Atkinson,Steven and Janet Atkinson,0
-72,The name of the lessor is not explicitly mentioned in the provided source document.,Kathryn Joy Atkinson,0
+72,Lessor,Kathryn Joy Atkinson,0
 73,ALC Aircraft Limited,ALC Aircraft Limited,1
-74,Achong Plexus International,"5550 Nicollet, LLC",0
-75,"Le-Mar Holdings, Inc.","HP LUMINA, LLC",0
-76,E. & E. McLaughlin Ltd.,TARGET GROUP INC.,0
-77,The name of the lessor is not explicitly mentioned in the provided source document.,"MALONE US ROUTE 2 WATERBURY PROPERTIES, LLC",0
+74,Plexus International,"5550 Nicollet, LLC",0
+75,"HP Lumina, LLC","HP LUMINA, LLC",1
+76,TARGET GROUP INC.,TARGET GROUP INC.,1
+77,"MALONE RTE 2 WATERBURY PROPERTIES, LLC","MALONE US ROUTE 2 WATERBURY PROPERTIES, LLC",1
 78,"Rehco Holdings, LLC","Rehco Holdings, LLC",1
-79,Ever Winland Limited,Ever Winland Limited,1
-80,The name of the lessor is not explicitly stated in the provided source document.,Ailanthus L.L.C.,0
-81,VT Aviation Leasing LLC,VT Aviation Leasing LLC,1
-82,VT Equipment Leasing LLC,VT Equipment Leasing LLC,1
+79,Nong Bing Luw,Ever Winland Limited,0
+80,Landlord,Ailanthus L.L.C.,0
+81,[Entity Name Not Provided],VT Aviation Leasing LLC,0
+82,,VT Equipment Leasing LLC,0
 83,"Rehco Holdings, LLC","Rehco Holdings, LLC",1
-84,"Malone Rte 2 Waterbury Properties, LLC","MALONE US ROUTE 2 WATERBURY PROPERTIES, LLC",1
-85,The name of the lessor is not explicitly mentioned in the provided source document.,"HP LUMINA, LLC",0
+84,Landlord,"MALONE US ROUTE 2 WATERBURY PROPERTIES, LLC",0
+85,Landlord,"HP LUMINA, LLC",0
 86,ALC Aircraft Limited,ALC Aircraft Limited,1
 87,ALC Aircraft Limited,ALC Aircraft Limited,1
-88,The name of the lessor is not explicitly mentioned in the provided source document.,Steven and Janet Atkinso,0
+88,Lessor,Steven and Janet Atkinso,0
 89,Queen Mary Bioenterprises Limited,Queen Mary Bioenterprises Limited,1
-90,"The name of the lessor is not explicitly stated in the provided source document. The document refers to the lessor as 'Landlord' in various sections, but does not provide a specific name.",Ailanthus L.L.C.,0
-91,Lessor is a validly organized limited liability company under the laws of the State of Delaware.,"WESTWIND ACQUISITION COMPANY, L.L.C.",0
-92,Ever Winland Limited,Ever Winland Limited,1
-93,The name of the lessor is not explicitly stated in the provided source document.,"Penta Partners, LLC",0
-94,V G INSTRUMENTS GROUP LIMITED,THE COUNCIL OF THE CITY OF MANCHESTER,0
+90,Landlord,Ailanthus L.L.C.,0
+91,Lessor,"WESTWIND ACQUISITION COMPANY, L.L.C.",0
+92,The Landlord,Ever Winland Limited,0
+93,"Penta Partners, LLC","Penta Partners, LLC",1
+94,the Lessors,THE COUNCIL OF THE CITY OF MANCHESTER,0
 95,Mo Industripark AS,Mo Industripark AS,1
-96,The name of the lessor is not explicitly mentioned in the provided source document.,"UCB, INC.",0
-97,"Cargill, Incorporated","CARGILL, INCORPORATED",1
-98,"Beijing Luji Technology Co., Ltd.","Beijing Hontao Management Consulting Co., Ltd.",0
-99,Wickfield Properties LLC,Wickfield Phoenix LLC,1
-100,The name of the lessor is not explicitly mentioned in the provided source document.,McCLELLAN FARM,0
+96,Landlord,"UCB, INC.",0
+97,Landlord,"CARGILL, INCORPORATED",0
+98,"Beijing Hontao Management Consulting Co., Ltd","Beijing Hontao Management Consulting Co., Ltd.",1
+99,Landlord,Wickfield Phoenix LLC,0
+100,McClellan Farm,McCLELLAN FARM,1

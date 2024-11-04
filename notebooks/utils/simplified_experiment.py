@@ -76,10 +76,16 @@ class SimplifiedExperiment:
                     template_string=self.template_string,
                     retriever_question=self.retriever_question,
                     use_llm_filter=self.use_llm_filter,
+                    lessor_question=self.lessor_question,
+                    date_question=self.date_question,
                 )
                 answer = result["answer"]
                 real_answer_unprocessed = result["real_answer_unprocessed"]
                 formatted_answer = real_answer_unprocessed
+
+                if self.date_question:
+                    formatted_answer = formatted_answer.strftime("%Y-%m-%d")
+
                 self.evaluate_structured_output(answer, formatted_answer)
                 print("----------------------------------------------------")
             except Exception as error:
@@ -93,6 +99,9 @@ class SimplifiedExperiment:
         if self.lessor_question:
             extracted_answer = answer.answer_string
             self.evaluate_lessor_questions(extracted_answer, formatted_answer)
+        elif self.date_question:
+            extracted_answer = answer.answer_date
+            self.evaluate_date_question(extracted_answer, formatted_answer)
 
     def evaluate_lessor_questions(
         self,
@@ -103,6 +112,22 @@ class SimplifiedExperiment:
         print(f"Real answer: {formatted_answer}")
         similarity_score = fuzz.ratio(answer.lower(), formatted_answer.lower())
         if similarity_score >= self.threshold:
+            self.correct_answers += 1
+            result_status = 1  # Correct
+            print("CORRECT")
+        else:
+            result_status = 0  # Incorrect
+            print("INCORRECT")
+        with open(self.csv_filename, "a", newline="") as file:
+            writer = csv.writer(file)
+            writer.writerow(
+                [int(self.lease_number), answer, formatted_answer, result_status]
+            )
+
+    def evaluate_date_question(self, answer, formatted_answer):
+        print(f"Answer: {answer}")
+        print(f"Real answer: {formatted_answer}")
+        if answer == formatted_answer:
             self.correct_answers += 1
             result_status = 1  # Correct
             print("CORRECT")

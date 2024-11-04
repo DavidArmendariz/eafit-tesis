@@ -12,6 +12,8 @@ def process_lease_v2(
     template_string: str | None = None,
     retriever_question: str | None = None,
     use_llm_filter=False,
+    lessor_question=True,
+    date_question=False,
 ):
     answer_from_ai = get_answer_from_ai_v2(
         namespace,
@@ -19,6 +21,8 @@ def process_lease_v2(
         template_string=template_string,
         retriever_question=retriever_question,
         use_llm_filter=use_llm_filter,
+        lessor_question=lessor_question,
+        date_question=date_question,
     )
     answers_for_lease_df = answers_df[answers_df["Lease"] == file_name][
         question_id

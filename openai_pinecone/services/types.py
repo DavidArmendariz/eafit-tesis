@@ -11,7 +11,14 @@ class QuestionResponse(BaseModel):
     meta: str | None
 
 
+class QuestionResponseAll(BaseModel):
+    answer_string: str | None
+    answer_date: str | None
+
+
 class QuestionResponseStr(BaseModel):
-    question_id: str
     answer_string: str
-    meta: str | None
+
+
+class QuestionResponseDate(BaseModel):
+    answer_date: str
