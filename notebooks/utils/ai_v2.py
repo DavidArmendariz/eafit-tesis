@@ -14,6 +14,7 @@ def get_answer_from_ai_v2(
     lessor_question=True,
     date_question=False,
     boolean_question=False,
+    temperature=0.0,
 ):
     try:
         prompt_template = asc_842_prompt_template_structured(template_string)
@@ -30,6 +31,7 @@ def get_answer_from_ai_v2(
             lessor_question=lessor_question,
             date_question=date_question,
             boolean_question=boolean_question,
+            temperature=temperature,
         )
         answer = question_answerer.process_answer()
         return answer

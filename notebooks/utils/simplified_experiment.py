@@ -23,6 +23,7 @@ class SimplifiedExperiment:
         template_string: str | None = None,
         retriever_question: str | None = None,
         use_llm_filter=False,
+        temperature=0.0,
     ):
         self.answers_df = answers_df
         self.question_id = question_id
@@ -42,6 +43,7 @@ class SimplifiedExperiment:
         self.template_string = template_string
         self.retriever_question = retriever_question
         self.use_llm_filter = use_llm_filter
+        self.temperature = temperature
         os.makedirs(os.path.dirname(self.csv_filename), exist_ok=True)
 
     def run(self):
@@ -79,6 +81,7 @@ class SimplifiedExperiment:
                     lessor_question=self.lessor_question,
                     date_question=self.date_question,
                     boolean_question=self.boolean_question,
+                    temperature=self.temperature,
                 )
                 answer = result["answer"]
                 real_answer_unprocessed = result["real_answer_unprocessed"]

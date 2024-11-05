@@ -23,6 +23,7 @@ class QuestionAnswererV2:
         lessor_question=True,
         date_question=False,
         boolean_question=False,
+        temperature=0.0,
     ):
         self.namespace = namespace
         self.vectorstore = vectorstore
@@ -32,6 +33,7 @@ class QuestionAnswererV2:
         self.lessor_question = lessor_question
         self.date_question = date_question
         self.boolean_question = boolean_question
+        self.temperature = temperature
 
     def process_answer(self):
         retriever = self.vectorstore.as_retriever(
@@ -59,7 +61,7 @@ class QuestionAnswererV2:
 
         if self.use_llm_filter and self.retriever_question:
             _filter = LLMChainFilter.from_llm(
-                ChatOpenAI(model="gpt-4o-mini", temperature=0)
+                ChatOpenAI(model="gpt-4o-mini", temperature=self.temperature)
             )
             retriever = ContextualCompressionRetriever(
                 base_compressor=_filter, base_retriever=retriever

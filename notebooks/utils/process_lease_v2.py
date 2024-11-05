@@ -15,6 +15,7 @@ def process_lease_v2(
     lessor_question=True,
     date_question=False,
     boolean_question=False,
+    temperature=0.0,
 ):
     answer_from_ai = get_answer_from_ai_v2(
         namespace,
@@ -25,6 +26,7 @@ def process_lease_v2(
         lessor_question=lessor_question,
         date_question=date_question,
         boolean_question=boolean_question,
+        temperature=temperature,
     )
     answers_for_lease_df = answers_df[answers_df["Lease"] == file_name][
         question_id
