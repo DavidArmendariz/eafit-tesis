@@ -14,6 +14,7 @@ class QuestionResponse(BaseModel):
 class QuestionResponseAll(BaseModel):
     answer_string: str | None
     answer_date: str | None
+    answer_boolean: bool | None
 
 
 class QuestionResponseStr(BaseModel):
