@@ -1,5 +1,6 @@
 from langchain.retrievers import ContextualCompressionRetriever
 from langchain.retrievers.document_compressors.chain_filter import LLMChainFilter
+from langchain.retrievers.document_compressors.listwise_rerank import LLMListwiseRerank
 from langchain_core.prompts import PromptTemplate
 from langchain_openai import ChatOpenAI
 from langchain_pinecone.vectorstores import PineconeVectorStore
@@ -19,6 +20,7 @@ class QuestionAnswererV2:
         namespace: str,
         prompt_template=PromptTemplate.from_template(""),
         use_llm_filter=False,
+        use_listwise_rerank=False,
         retriever_question: str | None = None,
         lessor_question=True,
         date_question=False,
@@ -34,6 +36,7 @@ class QuestionAnswererV2:
         self.date_question = date_question
         self.boolean_question = boolean_question
         self.temperature = temperature
+        self.use_listwise_rerank = use_listwise_rerank
 
     def process_answer(self):
         retriever = self.vectorstore.as_retriever(
@@ -59,10 +62,14 @@ class QuestionAnswererV2:
 
         llm = llm.with_structured_output(structure, method="json_schema")
 
-        if self.use_llm_filter and self.retriever_question:
-            _filter = LLMChainFilter.from_llm(
-                ChatOpenAI(model="gpt-4o-mini", temperature=self.temperature)
+        if self.retriever_question:
+            llm_for_contextual_compression = ChatOpenAI(
+                model="gpt-4o-mini", temperature=self.temperature
             )
+            if self.use_llm_filter:
+                _filter = LLMChainFilter.from_llm(llm_for_contextual_compression)
+            elif self.use_listwise_rerank:
+                _filter = LLMListwiseRerank.from_llm(llm_for_contextual_compression)
             retriever = ContextualCompressionRetriever(
                 base_compressor=_filter, base_retriever=retriever
             )

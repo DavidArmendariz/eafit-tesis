@@ -12,6 +12,7 @@ def process_lease_v2(
     template_string: str | None = None,
     retriever_question: str | None = None,
     use_llm_filter=False,
+    use_listwise_rerank=False,
     lessor_question=True,
     date_question=False,
     boolean_question=False,
@@ -27,6 +28,7 @@ def process_lease_v2(
         date_question=date_question,
         boolean_question=boolean_question,
         temperature=temperature,
+        use_listwise_rerank=use_listwise_rerank,
     )
     answers_for_lease_df = answers_df[answers_df["Lease"] == file_name][
         question_id

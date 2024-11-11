@@ -5,7 +5,7 @@ Lease,Answer,Real answer,Correct
 4,Landlord,"Venable Tenant, LLC",0
 5,"Wyomissing Professional Center III, Limited Partnership",Wyomissing Professional Center III Limited Partnership,1
 6,Hooten Non Exempt Family Trust B,Hooten Non Exempt Family Trust B,1
-7,Confidentiality,"AR Industrial No. 1, Ltd",0
+7,Lessor,"AR Industrial No. 1, Ltd",0
 8,"Village Corner, LLC","Village Corner, LLC",1
 9,BLACKSTONE,GH4 Partners LLC,0
 10,Landlord,"YESCO Properties, LLC",0
@@ -22,12 +22,12 @@ Lease,Answer,Real answer,Correct
 21,Landlord,"INDUSTRIAL DEVELOPMENTS INTERNATIONAL, INC.",0
 22,Landlord,"ARE-MA REGION NO. 75, LLC",0
 23,"Meadows Office, L.L.C.","MEADOWS OFFICE, L.L.C.",1
-24,,"APT Cowork, LLC",0
+24,the lessor,"APT Cowork, LLC",0
 25,Landlord,"Wilks Ranch Texas, LTD",0
 26,Landlord,"ARE-708 QUINCE ORCHARD, LLC",0
 27,Lessor,"FARNAM STREET FINANCIAL, INC",0
 28,"INDUSTRIAS ASOCIADAS MAQUILADORAS, S.A. de C.V.","Industrias Asociadas Maquiladoras, S.A. de C.V.",1
-29,fischer_group_SE_&_Co._KG,fischer group SE & Co. KG,1
+29,fischer_group SE & Co. KG,fischer group SE & Co. KG,1
 30,"Paradigm Realty Advisors, L.L.C.","Eagle I Investments, L.L.C.",0
 31,CTROOK002 LLC,CTROOK002 LLC,1
 32,Landlord,"ARE-SAN FRANCISCO NO. 63, LLC",0
@@ -36,15 +36,15 @@ Lease,Answer,Real answer,Correct
 35,Landa Properties LLC,Landa Properties LLC,1
 36,Landlord,PINAL COUNTY,0
 37,Anthony Nigel Sampson,Anthony Nigel Sampson,1
-38,The Lessor,"ARE-SD REGION NO. 71, LLC",0
+38,the Lessor,"ARE-SD REGION NO. 71, LLC",0
 39,"CARGILL, INCORPORATED","CARGILL, INCORPORATED",1
 40,Landlord,"BERNARDO WINDELL, LLC",0
 41,Landlord,"BERNARDO WINDELL, LLC",0
 42,Landlord,100 CHESAPEAKE BLVD LLC,0
-43,JAMS,"Hudson Towers at Shore Center, LLC, a Delaware limited liability company",0
+43,Lessor,"Hudson Towers at Shore Center, LLC, a Delaware limited liability company",0
 44,Landlord,"Taylyn Holdings, LLC",0
 45,MINOAN CAPITAL PTY LTD,MINOAN CAPITAL PTY LTD,1
-46,,"UPPER CHEASPEAKE FLEX ONE, LLC",0
+46,Not provided in the context.,"UPPER CHEASPEAKE FLEX ONE, LLC",0
 47,"Apple Moving, INC.","Apple Moving, Inc.",1
 48,Sunrise NT,Sunrise Nominee Trust,0
 49,"Cruiser Lane, LLC","Cruiser Lane, LLC",1
@@ -68,7 +68,7 @@ Lease,Answer,Real answer,Correct
 67,McClellan Farm,McCLELLAN FARM,1
 68,State of Wyoming,STATE OF WYOMING,1
 69,Landlord,"105 W. First Street Owner, L.L.C.",0
-70,[Entity Name Not Provided],Mundo Talio SL,0
+70,The Lessor,Mundo Talio SL,0
 71,Steven Atkinson,Steven and Janet Atkinson,0
 72,Lessor,Kathryn Joy Atkinson,0
 73,ALC Aircraft Limited,ALC Aircraft Limited,1
@@ -79,11 +79,11 @@ Lease,Answer,Real answer,Correct
 78,"Rehco Holdings, LLC","Rehco Holdings, LLC",1
 79,Nong Bing Luw,Ever Winland Limited,0
 80,Landlord,Ailanthus L.L.C.,0
-81,[Entity Name Not Provided],VT Aviation Leasing LLC,0
-82,,VT Equipment Leasing LLC,0
+81,Not specified in the provided text.,VT Aviation Leasing LLC,0
+82,[Entity Name],VT Equipment Leasing LLC,0
 83,"Rehco Holdings, LLC","Rehco Holdings, LLC",1
 84,Landlord,"MALONE US ROUTE 2 WATERBURY PROPERTIES, LLC",0
-85,Landlord,"HP LUMINA, LLC",0
+85,"HP Lumina, LLC","HP LUMINA, LLC",1
 86,ALC Aircraft Limited,ALC Aircraft Limited,1
 87,ALC Aircraft Limited,ALC Aircraft Limited,1
 88,Lessor,Steven and Janet Atkinso,0

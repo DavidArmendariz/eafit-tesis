@@ -11,6 +11,7 @@ def get_answer_from_ai_v2(
     template_string: str | None = None,
     retriever_question: str | None = None,
     use_llm_filter=False,
+    use_listwise_rerank=False,
     lessor_question=True,
     date_question=False,
     boolean_question=False,
@@ -32,6 +33,7 @@ def get_answer_from_ai_v2(
             date_question=date_question,
             boolean_question=boolean_question,
             temperature=temperature,
+            use_listwise_rerank=use_listwise_rerank,
         )
         answer = question_answerer.process_answer()
         return answer

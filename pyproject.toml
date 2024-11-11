@@ -17,6 +17,7 @@ dependencies = [
     "unstructured[pdf]>=0.15.9",
     "numpy>=1.26.4",
     "scikit-learn>=1.5.2",
+    "pandas>=2.2.3",
 ]
 requires-python = "<3.12,>=3.11"
 readme = "README.md"
@@ -31,7 +32,10 @@ url = "https://pypi.org/simple"
 verify_ssl = false
 name = "pip_conf_index_global"
 
-[tool.pdm.dev-dependencies]
+[tool.pdm.scripts]
+_.env_file = ".env"
+
+[dependency-groups]
 dev = [
     "mypy>=1.11.2",
     "sec-api>=1.0.20",
@@ -53,9 +57,5 @@ dev = [
     "langchain-cli>=0.0.30",
     "tiktoken>=0.7.0",
     "plotly>=5.24.0",
-    "pandas>=2.2.2",
     "matplotlib>=3.9.2",
 ]
-
-[tool.pdm.scripts]
-_.env_file = ".env"
