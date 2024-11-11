@@ -24,7 +24,9 @@ class SimplifiedExperiment:
         retriever_question: str | None = None,
         use_llm_filter=False,
         use_listwise_rerank=False,
+        use_embeddings_filter=False,
         temperature=0.0,
+        chunks_filename: str | None = None,
     ):
         self.answers_df = answers_df
         self.question_id = question_id
@@ -45,8 +47,14 @@ class SimplifiedExperiment:
         self.retriever_question = retriever_question
         self.use_llm_filter = use_llm_filter
         self.use_listwise_rerank = use_listwise_rerank
+        self.use_embeddings_filter = use_embeddings_filter
         self.temperature = temperature
+        self.chunks_filename = chunks_filename
         os.makedirs(os.path.dirname(self.csv_filename), exist_ok=True)
+        if self.chunks_filename:
+            os.makedirs(os.path.dirname(self.chunks_filename), exist_ok=True)
+            with open(self.chunks_filename, "w"):
+                pass
 
     def run(self):
         with open(self.csv_filename, "w", newline="") as file:
@@ -68,7 +76,7 @@ class SimplifiedExperiment:
                 continue
 
             self.total_answers += 1
-            self.lease_number = number
+            self.lease_number = int(number)
 
             try:
                 result = process_lease_v2(
@@ -85,6 +93,9 @@ class SimplifiedExperiment:
                     boolean_question=self.boolean_question,
                     temperature=self.temperature,
                     use_listwise_rerank=self.use_listwise_rerank,
+                    use_embeddings_filter=self.use_embeddings_filter,
+                    chunks_filename=self.chunks_filename,
+                    lease_number=self.lease_number,
                 )
                 answer = result["answer"]
                 real_answer_unprocessed = result["real_answer_unprocessed"]
@@ -131,7 +142,7 @@ class SimplifiedExperiment:
         with open(self.csv_filename, "a", newline="") as file:
             writer = csv.writer(file)
             writer.writerow(
-                [int(self.lease_number), answer, formatted_answer, result_status]
+                [self.lease_number, answer, formatted_answer, result_status]
             )
 
     def evaluate_date_question(self, answer, formatted_answer):
@@ -147,7 +158,7 @@ class SimplifiedExperiment:
         with open(self.csv_filename, "a", newline="") as file:
             writer = csv.writer(file)
             writer.writerow(
-                [int(self.lease_number), answer, formatted_answer, result_status]
+                [self.lease_number, answer, formatted_answer, result_status]
             )
 
     def evaluate_boolean_question(self, answer, formatted_answer):
@@ -163,5 +174,5 @@ class SimplifiedExperiment:
         with open(self.csv_filename, "a", newline="") as file:
             writer = csv.writer(file)
             writer.writerow(
-                [int(self.lease_number), answer, formatted_answer, result_status]
+                [self.lease_number, answer, formatted_answer, result_status]
             )

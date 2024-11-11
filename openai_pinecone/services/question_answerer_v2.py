@@ -1,8 +1,9 @@
 from langchain.retrievers import ContextualCompressionRetriever
 from langchain.retrievers.document_compressors.chain_filter import LLMChainFilter
+from langchain.retrievers.document_compressors.embeddings_filter import EmbeddingsFilter
 from langchain.retrievers.document_compressors.listwise_rerank import LLMListwiseRerank
 from langchain_core.prompts import PromptTemplate
-from langchain_openai import ChatOpenAI
+from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_pinecone.vectorstores import PineconeVectorStore
 
 from .types import (
@@ -18,6 +19,7 @@ class QuestionAnswererV2:
         self,
         vectorstore: PineconeVectorStore,
         namespace: str,
+        lease_number: int,
         prompt_template=PromptTemplate.from_template(""),
         use_llm_filter=False,
         use_listwise_rerank=False,
@@ -26,6 +28,9 @@ class QuestionAnswererV2:
         date_question=False,
         boolean_question=False,
         temperature=0.0,
+        use_embeddings_filter=False,
+        embeddings=OpenAIEmbeddings(model="text-embedding-3-large"),
+        chunks_filename: str | None = None,
     ):
         self.namespace = namespace
         self.vectorstore = vectorstore
@@ -37,6 +42,10 @@ class QuestionAnswererV2:
         self.boolean_question = boolean_question
         self.temperature = temperature
         self.use_listwise_rerank = use_listwise_rerank
+        self.use_embeddings_filter = use_embeddings_filter
+        self.embeddings = embeddings
+        self.chunks_filename = chunks_filename
+        self.lease_number = lease_number
 
     def process_answer(self):
         retriever = self.vectorstore.as_retriever(
@@ -70,9 +79,26 @@ class QuestionAnswererV2:
                 _filter = LLMChainFilter.from_llm(llm_for_contextual_compression)
             elif self.use_listwise_rerank:
                 _filter = LLMListwiseRerank.from_llm(llm_for_contextual_compression)
+            elif self.use_embeddings_filter:
+                _filter = EmbeddingsFilter(
+                    embeddings=self.embeddings, similarity_threshold=0.76
+                )
             retriever = ContextualCompressionRetriever(
                 base_compressor=_filter, base_retriever=retriever
             )
+            chunks = retriever.invoke(self.retriever_question)
+            if self.chunks_filename:
+                with open(self.chunks_filename, "a") as f:
+                    f.write(f"Chunks for lease {self.lease_number}\n")
+                    f.write(f"Number of chunks retrieved: {len(chunks)}\n")
+                    content = f"\n{'*' * 100}\n".join(
+                        [
+                            f"Document {i+1}:\n\n" + d.page_content
+                            for i, d in enumerate(chunks)
+                        ]
+                    )
+                    f.write(content)
+                    f.write(f"\n\n{'^' * 100}\n\n")
             retrieve_context["context"] = retriever | format_docs
             rag_chain = retrieve_context | self.prompt_template | llm
             return rag_chain.invoke(self.retriever_question)
