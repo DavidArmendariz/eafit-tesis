@@ -63,6 +63,7 @@ class SimplifiedExperiment:
 
         for number in self.numbers_list:
             file_name = f"lease{number}"
+            self.file_name = file_name
             namespace = f"eafit_{file_name}"
 
             # Check if the real answer is NaT
@@ -129,6 +130,7 @@ class SimplifiedExperiment:
         answer,
         formatted_answer,
     ):
+        print(f"Lease: {self.file_name}")
         print(f"Answer: {answer}")
         print(f"Real answer: {formatted_answer}")
         similarity_score = fuzz.ratio(answer.lower(), formatted_answer.lower())
@@ -146,6 +148,7 @@ class SimplifiedExperiment:
             )
 
     def evaluate_date_question(self, answer, formatted_answer):
+        print(f"Lease: {self.file_name}")
         print(f"Answer: {answer}")
         print(f"Real answer: {formatted_answer}")
         if answer == formatted_answer:
@@ -162,6 +165,7 @@ class SimplifiedExperiment:
             )
 
     def evaluate_boolean_question(self, answer, formatted_answer):
+        print(f"Lease: {self.file_name}")
         print(f"Answer: {answer}")
         print(f"Real answer: {formatted_answer}")
         if int(answer) == int(formatted_answer):
