@@ -1,10 +1,11 @@
 from langchain_core.prompts import PromptTemplate
 
 asc_842_prompt_template = PromptTemplate.from_template(
-    """Your task is to read the provided Source Document and respond to the questions provided in Inquiries.
+    """
+    Your task is to read the provided Source Document and respond to the questions provided in Inquiries.
     Inquiries is an array of objects, each representing a question and its parameters.
     Each object in the Inquiries array contains the following keys:
-    reader_question: the value notes the question your have to answer;
+    reader_question: the value notes the question you have to answer;
     id: the value is the question's id;
     restrictions: the value notes any requirements for or restrictions on the response you can provide for that specific question.
     user_response: the value is optional. The reader_question will explain how this value is to be utilized.
@@ -45,7 +46,7 @@ def asc_842_prompt_template_structured(template_string: str | None = None):
     Each object in the Inquiries array contains the following keys:
 
     - id: the value is the question's id;
-    - reader_question: the value notes the question your have to answer;
+    - reader_question: the value notes the question you have to answer;
     - restrictions: the value notes any requirements for or restrictions on the response you can provide for that specific question.
     - user_response: the value is optional. The reader_question will explain how this value is to be utilized.
     - type: the value represents the expected format of the <<answer>> you provide.
