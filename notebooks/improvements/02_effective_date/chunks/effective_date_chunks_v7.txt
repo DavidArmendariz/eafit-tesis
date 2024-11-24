@@ -1,39 +1,5 @@
-Chunks for lease 1
-Number of chunks retrieved: 3
-Document 1:
-
-AMENDMENT(S).	No	amendment	of	this	Lease	shall	be	effective	unless	reduced	to	writing	and	subscribed	by	both Landlord	and	Tenant	with	all	the	formality	of	the	original.
-
-SEVERABILITY.	If	any	term	or	provision	of	this	Lease	Agreement	is	illegal,	invalid	or	unenforceable,	such	term	shall	be limited	to	the	extent	necessary	to	make	it	legal	and	enforceable,	and,	if	necessary,	severed	from	this	Lease	Agreement. All	other	terms	and	provisions	of	this	Lease	Agreement	shall	remain	in	full	force	and	effect.
-
-BINDING	EFFECT.	This	Lease	Agreement	and	any	amendments	thereto	shall	be	binding	upon	Landlord	and	Tenant	and their	respective	successors,	heirs,	assigns,	executors	and	administrators.
-
-LANDLORD	SIGNATURE																	TENANT	SIGNATURE
-
-Kyle	J.	Beller	/	Manager				1/25/2022								Chris	Cunningham	Senior	VP	1/25/2022 Printed	Name/Title					Date								Printed	Name/Title									Date
-****************************************************************************************************
-Document 2:
-
-Lease	Agreement	-	BarBell	Real	Estate	&	HVE,	Inc.				Page	2	of	#NUM_PAGES#
-
-SEC.	2	-	TERMS	OF	LEASE	AGREEMENT (3)	Purpose:	Landlord	and	Tenant	agree	that	the	Leased	Premises	shall	be	used	only	for	Tenant’s	regular	business purposes.	Any	other	use	of	Leased	Premises	by	Tenant	without	prior	written	consent	of	Landlord	shall	be	considered	a default	of	this	Lease	Agreement.
-
-(4)	Term:	The	term	of	this	Lease	Agreement	(“Term”)	shall	commence	on	the	Effective	Date	and	expire	on	the	five	(5) year	anniversary	of	the	Rent	Commencement	Date.	Tenant	shall	notify	Landlord	in	writing	of	the	expected	Rent Commencement	Date	at	least	thirty	(30)	days	prior	to	the	Rent	Commencement	Date.
-
-(5)	Security	Deposit:	On	the	Effective	Date	of	this	Lease	Agreement,	Tenant	shall	pay	to	Landlord	a	one-time	security deposit	equal	to	Rent.
-****************************************************************************************************
-Document 3:
-
-Kyle	J.	Beller	/	Manager				1/25/2022								Chris	Cunningham	Senior	VP	1/25/2022 Printed	Name/Title					Date								Printed	Name/Title									Date
-
-/s/	Kyle	Beller																								/s/	Chris	Cunningham _______________________________								_____________________________								 Signature																								Signature																 BarBell	Real	Estate,	LLC																HVE,	Inc.
-
-Lease	Agreement	-	BarBell	Real	Estate	&	HVE,	Inc.				Page	8	of	#NUM_PAGES#
-
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 Chunks for lease 2
-Number of chunks retrieved: 3
+Number of chunks retrieved: 2
 Document 1:
 
 Sl.	No
@@ -101,57 +67,23 @@ Rent	start	date
 th
 
 17 	floor
-****************************************************************************************************
-Document 3:
-
-EX-10.41	3	augx-20231231xexx1041.htm	EX-10.41
-
-Exhibit 10.41
-
-LEASE	AGREEMENT
-
-th
-
-This	LEASE	AGREEMENT	for	lease	of	Commercial	Space	#	C-17	at	the	17 	floor	of	the	Commercial	Complex	of	 Sony	Chocolate	Industries	Ltd.	 at st Rahman’s	Regnum	Centre,	191/1,	Tejgaon-Gulshan	Link	Road,	Tejgaon	C/A,	Dhaka-1208	is	made	on	this	 22	November,	2023	to	be	effective	from	1 March,	2024	(hereinafter	the	“Lease	Agreement”).
-
-BETWEEN
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 3
-Number of chunks retrieved: 1
-Document 1:
+Number of chunks retrieved: 0
 
-37,
-
-38.	Entire	 Understanding.	 This	 License	 Agreement	 and	 the	 terms	 and	 conditions	 of	 the	 Lease Agreement,	which	terms	and	conditions	the	Licensee	has	had	the	opportunity	to	examine	and	ask	questions concerning	 those	 terms	 and	 conditions,	 constitute	 the	 entire	 understanding	 of	 the	 Parties	 and	 the	 License Agreement	 shall	 not	 be	 changed,	 altered,	 modified	 or	 discharged,	 except	 in	 writing	 consented	 to	 by	 the Parties	 and	 shall	 be	 binding	 upon	 and	 inure	 to	 the	 benefit	 of	 the	 Parties	 and	 their	 respective	 permitted successors	and	assigns	and	shall	not	be	modified	except	by	and	express	written	agreement	signed	by	duly authorized	representatives	of	both	Parties. [Remainder	of	this	page	intentionally	left	blank.]
-
-11
-
-written	above.
-
-IN	 WITNESS	 WHEREOF,	 the	 Parties	 have	 executed	 this	 Agreement	 as	 of	 the	 date	 first
-
-LICENSOR
-
-The	WHEELERSHIP	LLC a	New	York	Limited	Liability	Company
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 4
-Number of chunks retrieved: 2
-Document 1:
+Number of chunks retrieved: 0
 
-4.Term.		The	Term	of	the	Lease	will	begin	on	the	Commencement	Date	and	end	on	the	Termination	Date,	unless	sooner	terminated	or	 extended	pursuant	to	the	provisions	hereof.	The	Commencement	Date	and	Termination	Date	will	be	extended	at	the	option	of	Landlord	 due	to	Force	Majeure.		Landlord	shall	use	commercially	reasonable	measures	to	ensure	that	the	Commencement	Date	is	no	later	than	 October	1,	2010.		In	the	event	that	the	Commencement	Date	is	later	than	February	1,	2011	for	reasons	other	than	a	Tenant	Delay	or	 Force	Majeure,	and	provided	there	is	no	default	or	event	of	default	by	Tenant	hereunder,	Tenant	shall,	by	written	notice	to	Landlord	on	or	 prior	to	February	6,	2011	(time	being	of	the	essence),	have	the	right	to	terminate	this	Lease	and	all	of	its	obligations	hereunder	(as	of	the	 date	of	giving	such	notice),	and	the	parties	hereto	shall	have	no	further	obligation	to	each	other	hereunder.
-****************************************************************************************************
-Document 2:
-
-WB200	Premises	shall	commence	as	of	May	1,	2019	(the	“Suite	WB200	Premises	Seventh	Amendment	Commencement	Date”,	together	with	the	 Suite	WB100	Premises	Seventh	Amendment	Commencement	Date,	collectively,	the	“Seventh	Amendment	Commencement	Date”)	and	shall	be	 coterminous	with	the	Term	applicable	to	the	remainder	of	the	Premises.		From	and	after	the	Suite	WB100	Premises	Seventh	Amendment	 Commencement	Date	and	the	Suite	WB200	Premises	Seventh	Amendment	Commencement	Date,	respectively,	the	Suite	WB100	Premises	and	the	 Suite	WB200	Premises,	respectively,	shall	constitute	a	portion	of	the	“Premises”	for	all	purposes	under	the	Lease.	Landlord	shall	have	no	liability	 to	Tenant	in	the	event	Landlord	is	unable	to	deliver	possession	of	the	Suite	WB100	Premises	and	the	Suite	WB200	Premises	to	Tenant	on	the	 Suite	WB100	Premises	Seventh	Amendment	Commencement	Date	and	the	Suite	WB200	Premises	Seventh	Amendment	Commencement	Date,
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 5
-Number of chunks retrieved: 4
+Number of chunks retrieved: 3
 Document 1:
 
 6.									Effective	Date.	The	effective	date	for	Tenant’s	increased	space	and	rental	payments	shall	be	May	1,	2007	(the	“Effective	Date”).
@@ -189,26 +121,16 @@ Document 3:
 IN	WITNESS	WHEREOF,	and	intending	to	be	legally	bound	hereby,	Landlord	and	Tenant	have	caused	this	Amendment	of	Lease	Terms	to	be	duly	executed	this	16th	day	of	November,	1999.
 
 THIS	LEASE	MUST	BE	EXECUTED	FOR	TENANT,	IF	A	CORPORATION,	BY	THE	PRESIDENT	OR	VICE	PRESIDENT	AND	ATTESTED	BY	THE	SECRETARY	OR
-****************************************************************************************************
-Document 4:
-
-5.														Fixed	Annual	Minimum	Rent:	As	per	attached	Exhibit	A.
-
-6.														Effective	Date.	The	effective	date	for	Tenant’s	increased	space	and	rental	payments	shall	be	June	15,	2000.
-
-7.														Term	of	Lease.	Term	of	Lease	is	unchanged;	ten	(10)	years	starting	April	1,	1995	and	ending	March	31,	2005.
-
-8.														Binding	effect.	This	Amendment	shall	be	binding	upon,	and	shall	inure	to	the	benefit	of,	Landlord	and	Tenant,	and	their	respective	successors	and	assigns.
-
-IN	WITNESS	WHEREOF,	and	intending	to	be	legally	bound	hereby,	Landlord	and	Tenant	have	caused	this	Amendment	of	Lease	Terms	to	be	duly	executed	this	21	day	of	August,	2000.
-
-THIS	LEASE	MUST	BE	EXECUTED	FOR	TENANT,	IF	A	CORPORATION,	BY	THE	PRESIDENT	OR	VICE	PRESIDENT	AND	ATTESTED	BY	THE	SECRETARY	OR
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 6
-Number of chunks retrieved: 1
+Number of chunks retrieved: 2
 Document 1:
+
+(c)	 	 	 	 	 	 	 	 	 	 The	 "commencement	 date"	 shall	 be	 the	 date	 set	 forth	 in	 paragraph	 2.	 The	 "commencement	 date"	 shall	 constitute	 the	 commencement	 of	 this	 Lease Agreement	for	all	purposes,	whether	or	not	Lessee	has	actually	taken	possession.
+****************************************************************************************************
+Document 2:
 
 2.	TERM:	Subject	to	and	upon	the	conditions	set	forth	below,	the	term	of	this	Lease	shall	commence	upon	a	fully	executed	Lease,	(the	"commencement	date”)	and shall	end	twenty-four	(24)	months	thereafter.	Lessee	shall	have	the	right	to	terminate	the	Lease	at	any	time,	for	any	reason	by	providing	Landlord	with	six	(6) months	prior	written	notice.
 
@@ -221,7 +143,7 @@ Year	One	(1)																		$1,165.00	per	month Year	Two	(2)																		
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 7
-Number of chunks retrieved: 2
+Number of chunks retrieved: 1
 Document 1:
 
 This	Lease	is	executed	on	the	respective	dates	set	forth	below,	but	for	reference	purposes,	this	Lease	shall	be	dated	as	of	the	date	first	above	written.	If	the	execution	 date	is	left	blank,	this	Lease	shall	be	deemed	executed	as	of	the	date	first	written	above.
@@ -255,24 +177,6 @@ Date:
 2/10/2009
 
 LEASE	AGREEMENT	(INDUSTRIAL)	-	Page	24
-****************************************************************************************************
-Document 2:
-
-One	hundred	twenty	(120)	full	calendar	months,	plus	any	partial	month	from	the	Commencement	Date	to	the	end	of	the	month	in	 which	the	Commencement	Date	falls,	starting	on	the	Commencement	Date	and	ending	at	5:00	p.m.	local	time	on	the	last	day	of	the	 120th	full	calendar	month	following	the	Commencement	Date,	subject	to	adjustment	and	earlier	termination	as	provided	in	the	 Lease.
-
-The	earliest	of	(a)	the	date	on	which	Tenant	occupies	any	portion	of	the	Premises	and	begins	conducting	business	therein,	(b)	the	 date	on	which	the	Work	(as	defined	in	Exhibit	D	hereto)	in	the	Premises	is	Substantially	Completed	(as	defined	in	Exhibit	 D	hereto),	or	(c)	the	date	on	which	the	Work	in	the	Premises	would	have	been	Substantially	Completed	but	for	the	occurrence	of	 any	Tenant	Delay	Days	(as	defined	in	Exhibit	D	hereto),	provided	that	in	no	event	shall	the	Commencement	Date	be	sooner	than	 January	31,	2010.
-
-i
-
-Basic	Rent:
-
-Additional	Rent:
-
-Security	Deposit:
-
-Rent:
-
-Permitted	Use:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -312,22 +216,6 @@ June	2018	Rent	will	be	discounted	by	$1500.
 ****************************************************************************************************
 Document 2:
 
-Except	as	modified	by	this	Addendum,	the	Lease	remains	in	full	force	and	effect.	This	Addendum	is	effective	as	of	the	date	of	the	Lease.
-
-Date	Signed:_
-
-CO-DIAGNOSTICS,	INC.
-
-YESCO	LLC.
-
-By: Title: Date	Signed:
-
-By: 	 Title: 	 Date	Signed:
-
-13
-****************************************************************************************************
-Document 3:
-
 11
 
 above.
@@ -355,6 +243,22 @@ Date:
 ADDENDUM	#1 TO LEASE	AGREEMENT
 
 That	certain	Lease	Agreement	dated								June	5,	2018								between	YESCO	Properties	LLC,	a	Utah	limited	liability	company	(“Landlord”)	and	Co- Diagnostics,	Inc.	(“Tenant”)	(the	“Lease”)	is	by	this	Addendum	#1	to	the	Lease	(this	“Addendum”)	amended.	Capitalized	terms	not	defined	in	this Addendum	shall	have	the	meaning	as	set	forth	in	the	Lease.	Notwithstanding	any	provision	of	the	Lease	to	the	contrary,	the	following	provisions control:
+****************************************************************************************************
+Document 3:
+
+Except	as	modified	by	this	Addendum,	the	Lease	remains	in	full	force	and	effect.	This	Addendum	is	effective	as	of	the	date	of	the	Lease.
+
+Date	Signed:_
+
+CO-DIAGNOSTICS,	INC.
+
+YESCO	LLC.
+
+By: Title: Date	Signed:
+
+By: 	 Title: 	 Date	Signed:
+
+13
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -371,50 +275,14 @@ Number of chunks retrieved: 0
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 13
-Number of chunks retrieved: 1
-Document 1:
+Number of chunks retrieved: 0
 
-34.					Termination	or	Continuation	of	Existing	Lease,	Landlord	and	Tenant	acknowledge	that	they	are	parties	to	an	existing	lease	dated	April	16,	2012	and expiring	on	March	16,	2022	("Existing	Lease")	by	which	Tenant	currently	leases	a	portion	of	the	Premises	from	Landlord.	Landlord	and	Tenant	hereby	agree	to the	following:
-
-a. Date	shall	be	extended	to	the	date	that	Landlord	actually	delivers	the	Premises	to	Tenant. b. provisions	that	are	specifically	described	as	surviving	the	termination	of	the	Existing	Lease.
-
-In	the	event	Landlord	is	unable	to	deliver	possession	of	the	Premises	on	or	prior	to	the	Lease	Commencement	Date,	the	Lease	Commencement
-
-Upon	delivery	of	the	Premises	to	Tenant,	the	Existing	Lease	shall	terminate	and	be	of	no	further	force	and	effect	with	the	exception	of	those
-
-IN	WITNESS	WHEREOF	the	parties	set	their	hands	the	date	first	set	forth	above.
-
-LANDLORD:	Douglas	R.	Rippel
-
-By:		/s/	Douglas	Rippel
-
-TENANT:	Curo	Management,	LLC
-
-By:	/s/	Chris	Darnell
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 14
-Number of chunks retrieved: 1
-Document 1:
+Number of chunks retrieved: 0
 
-19. Whenever	 this	 Guaranty	 is	 executed	 by	 more	 than	 one	 party	 as	 "Guarantor,"	 all	 references	 herein	 to "Guarantor"	 shall	 refer	 to	 each	 and	 all	 of	 the	 undersigned	 parties	 signing	 this	 Guaranty	 as	 Guarantor;	 and	 the liability	of	said	parties	for	the	performance	of	the	covenants,	duties	and	obligations	of	Guarantor	hereunder	shall	be joint	and	several.
-
-2679199lvl2
-
-20. Should	 any	 po11ion	 of	 this	 Guaranty	 ever	 be	 held	 legally	 invalid	 or	 unenforceable,	 the	 balance	 of	 this Guaranty	 shall	 not	 thereby	 be	 affected,	 but	 shall	 remain	 in	 full	 force	 and	 effect	 in	 accordance	 with	 its	 terms	 and provisions.
-
-21. All	terms	and	provisions	hereof	shall	inure	to	the	benefit	of	the	assigns	and	successors	of	Landlord	and
-
-shall	be	binding	upon	the	heirs,	executors,	administrators,	successors	and	assigns	of	Guarantor.
-
-[THE	FOLLOWING	PAGE	IS	THE	SIGNATURE	PAGE]
-
-2679199lvl2
-
-SIGNATURE	PAGE	OF	GUARANTY
-
-EXECUTED	as	of	December,	2023.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -461,16 +329,8 @@ The	term	of	this	LEASE	(the	“LEASE	Term”)	shall	commence	upon	full	execution
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 16
-Number of chunks retrieved: 2
+Number of chunks retrieved: 1
 Document 1:
-
-C.				Commencement	Date	Memorandum.	When	the	actual	Commencement	Date	is	determined,	the
-
-parties	shall	execute	a	“Commencement	Date	Memorandum”,	in	the	form	attached	hereto	as	EXHIBIT	D,	setting	forth the	Commencement	Date	and	Expiration	Date.
-
-D.				Early	Entry.	Landlord	shall	permit	Tenant	to	enter	upon	the	Premises	from	and	after	the	date	of	full
-****************************************************************************************************
-Document 2:
 
 4
 
@@ -537,12 +397,8 @@ EXPONENT	REALITY,	LLC	A	Delaware	limited	liability	company
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 17
-Number of chunks retrieved: 3
+Number of chunks retrieved: 1
 Document 1:
-
-on	the	date	that	is	the	sixty-three	(63)	months	after	the	Commencement	Date	(the	“Term”),	which	defined	term	shall	include	all	renewals	and	 extensions	of	the	Term);	however,	if	the	Commencement	Date	is	not	the	first	day	of	a	calendar	month,	then	the	Term	shall	end	on	the	last	day	of	the	 12-month	period	that	begins	on	the	first	day	of	the	first	full	calendar	month	of	the	Tenn.	The	“Commencement	Date”	shall	mean	the	date	that	(i)	a	 temporary	certificate	of	occupancy	has	been	obtained	for	the	entirety	of	the	Premises,	and	(ii)	the	HVAC	(hereafter	defined)	serving	the	Premises	 shall	he	fully	installed	and	in	good	working	order	and	condition.	Landlord	and	Tenant	agree	that	the	target	Commencement	Date	is	May	1,	2021.	 Notwithstanding	the	foregoing,	Landlord	may	access	and	enter	the	Premises	after	the	Commencement	Date	to	complete	construction	of	the	Initial	 Improvements	(as	defined	on	Exhibit	B),	and	such	construction	shall	not	constitute	an	actual	or	constructive	eviction	so	long	as
-****************************************************************************************************
-Document 2:
 
 RECITALS
 
@@ -575,54 +431,12 @@ IN	WITNESS	WHEREOF,	the	parties	have	executed	this	Commencement	Date	Certificate
 LANDLORD:
 
 SRE	TKC	CHARLESTON	IV,	LLC a	Delaware	limited	liability	company
-****************************************************************************************************
-Document 3:
-
-Any	waste	removal	service	and/or	containers	provided	on	the	property	may	only	be	utilized	by	the	tenants	for	waste	originating	from	the	 Premises	in	the	conduct	of	tenant's	normal	business	operations.	Under	no	circumstances	may	waste	products	be	brought	onto	the	 property	and	disposed	of	in	any	containers	provided	at	the	property.	If	the	Landlord	in	its	sole	discretion	determines	that	any	tenant	is	 overburdening	the	containers	with	its	waste,	the	tenant	may	be	required	to	provide	their	own	dumpster	facilities	and	waste	removal	 services	upon	Landlord's	request.
-
-Exhibit	E
-
-COMMENCEMENT	DATE	CERTIFICATE
-
-THIS	COMMENCEMENT	DATE	CERTIFICATE	is	made	as	of	the	____	day	of	_______,	20__,	by	and	between	SRE	TKC	CHARLESTON	IV,
-
-LLC,	a	Delaware	limited	liability	company	(“Landlord”),	and	THORNE	RESEARCH,	INC.,	a	South	Carolina	corporation	(“Tenant”).
-
-RECITALS
-
-WHEREAS,	Landlord	and	Tenant	have	entered	into	that	certain	Lease	Agreement	(the	“Lease”)	dated	as	of	_______,	20__	for	the	lease	of
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 18
-Number of chunks retrieved: 1
-Document 1:
+Number of chunks retrieved: 0
 
-F.
-
-Commencement	 Date	 Agreement.	 When	 the	 Commencement	 Date	 has	 been	 determined, Landlord	 and	 Tenant	 shall	 execute	 Exhibit	 “D”	 to	 the	 Lease	 expressly	 confirming	 the	 Commencement	 Date	 and	 the expiration	date	of	the	term	of	this	Lease	and	confirming,	to	the	best	knowledge	of	Tenant	and	Landlord,	that	substantial completion	of	Landlord’s	Work	and	the	Tenant	Finish	has	occurred.
-
-G.
-
-Tenant’s	Construction	Obligations.	Tenant	shall	be	fully	responsible	for	the	installation	of	all of	Tenant’s	trade	fixtures,	equipment,	furnishings	or	decorations,	except	to	the	extent	such	installation	is	contemplated or	provided	for	in	the	Tenant	Finish	Plans.	Landlord	shall	provide	Tenant	reasonable	access	to	the	Leased	Premises	for such	purposes.
-
-H.
-
-35
-
-EXHIBIT	“D”
-
-ACKNOWLEDGMENT	OF	COMMENCEMENT	DATE AND	TENANT	ESTOPPEL	CERTIFICATE
-
-TO:
-
-DATE:
-
-RE:
-
-Gentlemen:
-
-The	undersigned,	as	Tenant,	has	been	advised	that	the	Lease	has	been	or	will	be	assigned	to	you	as	a	result	of
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -659,7 +473,7 @@ Tenant	is,	as	of	the	date	of	exercise	and	as	of	the	commencement	date	of	the	Ext
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 21
-Number of chunks retrieved: 4
+Number of chunks retrieved: 3
 Document 1:
 
 Lease	 Date.	 For	 purposes	 of	 this	 Lease,	 the	 term	 “Lease	 Date”	 shall	 mean	 the	 later	 date	 upon	 which	 this	 Lease	 is	 signed	 by	 Landlord	 and Tenant.
@@ -678,85 +492,13 @@ Lease	 Date.	 For	 purposes	 of	 this	 Lease,	 the	 term	 “Lease	 Date”	 sha
 ****************************************************************************************************
 Document 3:
 
-28-
-
-IN	WITNESS	WHEREOF,	the	parties	hereto	have	hereunto	set	their	hands	under	seals,	the	day	and	year	first	above	written.
-
-Date:	April	26,	2007
-
-LANDLORD:
-
-INDUSTRIAL	DEVELOPMENTS	INTERNATIONAL,	INC.,	a	Delaware	corporation
-
-By:				/s/	David	R.	Birdwell								 Name:					David	R.	Birdwell	 Title:				Secretary
-
-Attest:				/s/	G.	Bryan	Blasingame									 Name:				G.	Bryan	Blasingame Title:				Assistant	Secretary
-
-[CORPORATE	SEAL]
-
-Date:	April	27,	2007
-
-TENANT:
-
-8650	Commerce	Drive,	LLC,	a	Mississippi	limited	liability	company
-
-By:				/s/	Andrea	D.	Meade									 Name:				Andrea	D.	Meade Title:				EVP,	Corporate	Operations
-
-Attest:				/s/	John	Ellsworth									 Name:				John	Ellsworth Title:				Corporate	Secretary
-
-[signature	page	to	Lease	Agreement]
-
-Exhibit	10.40
-****************************************************************************************************
-Document 4:
-
-Guarantor.	Landlord	and	Tenant	acknowledge	that	ScanSource,	Inc.,	a	South	Carolina	corporation	(“Guarantor”)	has	agreed	to	guaranty	the obligations	of	Tenant	under	this	Lease	by	executing	a	guaranty	in	the	form	attached	hereto	as	Exhibit	G	(the	“Guaranty”).	The	parties	further acknowledge	 that	 Landlord	 would	 not	 agree	 to	 enter	 into	 this	 Lease	 but	 for	 the	 delivery	 of	 the	 Guaranty.	 Tenant	 shall	 cause	 Guarantor	 to execute	the	Guaranty	and	shall	deliver	the	Guaranty	to	Landlord	together	with	the	executed	Lease,	and	all	obligations	of	Landlord	hereunder are	contingent	upon	receipt	of	the
-
-27-
-
-Exhibit	10.40
-
-executed	 Guaranty.	 Tenant	 agrees	 to	 provide	 to	 Landlord	 during	 the	 Lease	 Term,	 upon	 the	 reasonable	 request	 of	 Landlord,	 financial information	on	Guarantor,	subject	to	the	provisions	of	Section	40.
-
-28-
-
-IN	WITNESS	WHEREOF,	the	parties	hereto	have	hereunto	set	their	hands	under	seals,	the	day	and	year	first	above	written.
-
-Date:	April	26,	2007
+No	Offer	Until	Executed.	The	submission	of	this	Lease	by	Landlord	to	Tenant	for	examination	or	consideration	does	not	constitute	an	offer	by Landlord	 to	 lease	 the	 Demised	 Premises	 and	 this	 Lease	 shall	 become	 effective,	 if	 at	 all,	 only	 upon	 the	 execution	 and	 delivery	 thereof	 by Landlord	and	Tenant.	Execution	and	delivery	of	this	Lease	by	Tenant	to	Landlord	constitutes	an	offer	to	lease	the	Demised	Premises	on	the terms	contained	herein.	The	offer	by	Tenant	will	be	irrevocable	until	6:00	p.m.	Eastern	time	for	fifteen	(15)	days	after	the	date	of	execution	of this	Lease	by	Tenant	and	delivery	to	Landlord.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 22
-Number of chunks retrieved: 3
+Number of chunks retrieved: 2
 Document 1:
-
-The	“Commencement	Date”	shall	be	the	earliest	of:		(i)	the	date	Landlord	Delivers	the	Premises	to	Tenant;	(ii)	the	date	Landlord	could
-
-have	Delivered	the	Premises	but	for	Tenant	Delays;	and	(iii)	the	date
-
-Building	1	(AOTC)	/	Kymera	Therapeutics,	Inc.	-	Page	5
-
-Exhibit	10.16
-
-Tenant	conducts	any	business	in	the	Premises	or	any	part	thereof.		Upon	request	of	Landlord,	Tenant	shall	execute	and	deliver	a	written	 acknowledgment	of	the	Commencement	Date,	the	Base	Rent	Commencement	Date,	and	the	expiration	date	of	the	Term	when	such	are	established	 in	the	form	of	the	“Acknowledgement	of	Commencement	Date”	attached	to	this	Lease	as	Exhibit	D;	provided,	however,	Tenant’s	failure	to	execute	 and	deliver	such	acknowledgment	shall	not	affect	Landlord’s	rights	hereunder.		The	“Term”	of	this	Lease	shall	be	the	Base	Term,	as	defined	above	 on	the	first	page	of	this	Lease,	and	(if	timely	and	properly	exercised)	the	Extension	Term	that	Tenant	may	elect	pursuant	to	Section	40	hereof.
-****************************************************************************************************
-Document 2:
-
-Building	1	(AOTC)	/	Kymera	Therapeutics,	Inc.	–	Ex.	D
-
-Exhibit	10.16
-
-EXHIBIT	D
-
-ACKNOWLEDGEMENT	OF	COMMENCEMENT	DATE
-
-This	ACKNOWLEDGMENT	OF	COMMENCEMENT	DATE	is	made	as	of	this	_____	day	of	______________,	202_,	between	ARE-MA	REGION
-
-NO.	75,	LLC,	a	Delaware	limited	liability	company	(“Landlord”),	and	______________________,	a	_______________	(“Tenant”),	and	is	attached	to	and	 made	a	part	of	that	certain	Lease	Agreement	dated	as	of	______________,	202_	(the	“Lease”),	by	and	between	Landlord	and	Tenant.		Any	initially	 capitalized	terms	used	but	not	defined	herein	shall	have	the	meanings	given	them	in	the	Lease.
-
-Landlord	and	Tenant	hereby	acknowledge	and	agree,	for	all	purposes	of	the	Lease,	that	the	Commencement	Date	of	the	Base	Term	of	the
-****************************************************************************************************
-Document 3:
 
 Landlord	and	Tenant	hereby	acknowledge	and	agree,	for	all	purposes	of	the	Lease,	that	the	Commencement	Date	of	the	Base	Term	of	the
 
@@ -781,16 +523,36 @@ ARE-MA	REGION	NO.	75,	LLC,	 a	Delaware	limited	liability	company
 By:		Alexandria	Real	Estate	Equities,	L.P.,	 							a	Delaware	limited	partnership,	managing	member
 
 By:		ARE-QRS	Corp.,	 														a	Maryland	corporation,	general	partner
+****************************************************************************************************
+Document 2:
+
+Building	1	(AOTC)	/	Kymera	Therapeutics,	Inc.	–	Ex.	D
+
+Exhibit	10.16
+
+EXHIBIT	D
+
+ACKNOWLEDGEMENT	OF	COMMENCEMENT	DATE
+
+This	ACKNOWLEDGMENT	OF	COMMENCEMENT	DATE	is	made	as	of	this	_____	day	of	______________,	202_,	between	ARE-MA	REGION
+
+NO.	75,	LLC,	a	Delaware	limited	liability	company	(“Landlord”),	and	______________________,	a	_______________	(“Tenant”),	and	is	attached	to	and	 made	a	part	of	that	certain	Lease	Agreement	dated	as	of	______________,	202_	(the	“Lease”),	by	and	between	Landlord	and	Tenant.		Any	initially	 capitalized	terms	used	but	not	defined	herein	shall	have	the	meanings	given	them	in	the	Lease.
+
+Landlord	and	Tenant	hereby	acknowledge	and	agree,	for	all	purposes	of	the	Lease,	that	the	Commencement	Date	of	the	Base	Term	of	the
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 23
-Number of chunks retrieved: 3
+Number of chunks retrieved: 4
 Document 1:
+
+deemed	 to	 have	 accepted	 the	 Premises	 in	 their	 condition	 as	 of	 the	 date	 of	 such	 occupancy.	 After	 determination	 of	 the	 Commencement	 Date, Landlord	may	send	Tenant	a	commencement	letter	confirming	the	Commencement	Date,	the	Expiration	Date	and	any	other	variable	terms	of	the Lease.	The	commencement	letter,	which	may	be	delivered	by	regular	mail,	shall	become	a	part	of	this	Lease	and	shall	be	binding	on	Tenant	and Landlord	if	Tenant	does	not	give	Landlord	notice	of	its	disagreement	with	any	of	the	provisions	of	such	commencement	letter	within	ten	(10)	days after	the	date	of	such	letter.	Occupancy	of	the	Premises	by	Tenant	prior	to	the	Commencement	Date	shall	be	subject	to	all	of	the	provisions	of	this Lease	excepting	only	those	requiring	the	payment	of	Rent.	Tenant	shall	have	access	to	the	Premises	twenty-four	(24)	hours	per	day,	seven	(7)	days
+****************************************************************************************************
+Document 2:
 
 3.	 Tender	 of	 Possession.	 Landlord	 and	 Tenant	 presently	 anticipate	 that	 possession	 of	 the	 Premises	 will	 be	 tendered	 to	 Tenant	 in	 the condition	required	by	this	Lease	on	or	about	the	date	of	execution	and	delivery	of	this	Lease	by	Landlord	and	Tenant	(the	“Estimated	Delivery Date”).	If	Landlord	is	unable	to	tender	possession	of	the	Premises	in	such	condition	to	Tenant	by	the	Estimated	Delivery	Date,	then:	(a)	the	validity of	 this	 Lease	 shall	 not	 be	 affected	 or	 impaired	 thereby;	 (b)	 Landlord	 shall	 not	 be	 in	 default	 hereunder	 or	 be	 liable	 for	 damages	 therefor;	 and	 (c) Tenant	shall	accept	possession	of	the	Premises	when	Landlord	tenders	possession	thereof	to	Tenant.	By	occupying	the	Premises,	Tenant	shall	be deemed	 to	 have	 accepted	 the	 Premises	 in	 their	 condition	 as	 of	 the	 date	 of	 such	 occupancy.	 After	 determination	 of	 the	 Commencement	 Date,
 ****************************************************************************************************
-Document 2:
+Document 3:
 
 LANDLORD	AND	TENANT	EXPRESSLY	DISCLAIM	ANY	IMPLIED	WARRANTY	THAT	THE	PREMISES	ARE	SUITABLE	FOR	TENANT’S	INTENDED COMMERCIAL	 PURPOSE,	 AND	 TENANT’S	 OBLIGATION	 TO	 PAY	 RENT	 HEREUNDER	 IS	 NOT	 DEPENDENT	 UPON	 THE	 CONDITION	 OF	 THE PREMISES	 OR	 THE	 PERFORMANCE	 BY	 LANDLORD	 OF	 ITS	 OBLIGATIONS	 HEREUNDER,	 AND,	 EXCEPT	 AS	 OTHERWISE	 EXPRESSLY PROVIDED	 HEREIN,	 TENANT	 SHALL	 CONTINUE	 TO	 PAY	 THE	 RENT,	 WITHOUT	 ABATEMENT,	 DEMAND,	 SETOFF	 OR	 DEDUCTION, NOTWITHSTANDING	ANY	BREACH	BY	LANDLORD	OF	ITS	DUTIES	OR	OBLIGATIONS	HEREUNDER,	WHETHER	EXPRESS	OR	IMPLIED.
 
@@ -804,7 +566,7 @@ MEADOWS	OFFICE,	L.L.C.,	a	Delaware	limited	liability	company
 
 By: Name: Title: Execution	Date:
 ****************************************************************************************************
-Document 3:
+Document 4:
 
 Term:
 
@@ -829,8 +591,22 @@ $ 	 	 $ 	 	 $ 	 	 $ 	 	 $
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 25
-Number of chunks retrieved: 1
+Number of chunks retrieved: 3
 Document 1:
+
+EXECUTED	as	of	the	day	and	year	first	above	written.
+
+GUARANTOR:
+
+[signature]
+
+Printed	Name:
+
+Date:
+
+SSN:
+****************************************************************************************************
+Document 2:
 
 Property	Rentable	Area
 
@@ -861,6 +637,22 @@ Landlord	hereby	leases	the	Premises	to	Tenant	and	Tenant	leases	the	Premises	fro
 b.
 
 Delivery.
+****************************************************************************************************
+Document 3:
+
+n.
+
+Execution	of	Lease.
+
+This	Lease	may	be	executed	in	counterparts	and,	when	all	counterpart	documents	are	executed,	the	counterparts	will	constitute	a	single	binding	 instrument.	Landlord’s	delivery	of	this	Lease	to	Tenant	is	not	be	deemed	to	be	an	offer	to	lease	and	will	not	be	binding	upon	either	party	until	 executed	and	delivered	by	both	parties.	This	Lease	may	be	executed	or	delivered	by	electronic	or	facsimile	means,	and	copies	of	executed	signature	 pages	stored	electronically	in	portable	document	format	(.pdf)	shall	be	binding	as	originals.	 Simultaneously	with	the	execution	hereof,	Tenant	shall	cause	Guarantor	to	execute	and	deliver	to	Landlord	a	Guaranty	in	the	form	set	forth	on	 Exhibit	“E”	attached	hereto.
+
+o.
+
+Survival.
+
+All	representations	and	warranties	of	Landlord	and	Tenant,	Tenant’s	indemnity	under	Section	6.04,	the	provisions	of	Section	8.02	and	all	 obligations	of	Tenant	to	pay	Additional	Rent	hereunder,	shall	survive	the	termination	of	this	Lease.
+
+p.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -889,7 +681,7 @@ Any	notice	provided	for	herein	shall	be	in	writing	and	sent	by	certified	or	regi
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 28
-Number of chunks retrieved: 2
+Number of chunks retrieved: 1
 Document 1:
 
 B.-	COMPANY	shall	perform	all	installations	in	accordance	with	all	laws,	ordinances,	regulations,	orders	of	government	authorities, and	the	Industrial	Park’s	Regulations	which	was	attached	hereto	as	Exhibit	“D”.
@@ -899,20 +691,6 @@ IV.-	LEASE	TERM,	AND	COMMENCEMENT	DATE.
 A.-	Lease	Agreement.	This	Lease	Agreement	shall	be	effective	upon	its	execution	and	delivery	by	IAMSA	and	COMPANY.
 
 B.-	Term.	The	term	of	this	Lease	shall	commence	on	the	later	of	(i)	September	1,	2007	and	(ii)	the	date	on	which	IAMSA	delivers possession	 of	 the	 Leased	 Property	 to	 COMPANY	 with	 all	 Improvements	 completed	 in	 accordance	 with	 the	 Specifications.	 Such date	shall	be	referred	to	herein	as	the	“Commencement	Date.”	The	term	of	this	Lease	shall	terminate	upon	the	conclusion	of the	seventh	(7th)	Lease	Year	(defined	below).
-****************************************************************************************************
-Document 2:
-
-L.-	This	Agreement	and	each	and	all	of	its	stipulations	as	drafted,	are	for	the	sole	and	exclusive	use	by	IAMSA	with	its	lessees.	Its contents	shall	not	be	disclosed	to	or	used	by	other	parties,	for	any	other	purpose	whatsoever,	except	for	disclosures	to	a	party’s attorneys	or	accountants,	or	for	disclosure	required	under	applicable	laws	(including	without	limitation	securities	laws).
-
-M.-	 All	 Exhibits	 mentioned	 hereunder	 shall	 be	 signed	 by	 all	 parties	 involved,	 and	 shall	 be	 enforceable	 together	 with	 Lease Agreement.
-
-N.-	 This	 Agreement	 will	 be	 executed	 in	 the	 English	 and	 Spanish	 versions.	 In	 the	 event	 any	 inconsistency	 arises	 regarding	 its interpretation,	then	the	English	version	shall	prevail.
-
-[Signature	Page	Follows]
-
-IN	WITNESS	WHEREOF,	the	parties	have	executed	this	Lease	Agreement	in	the	city	of	Mexicali,	Baja	California,	Mexico,	on	the	1st day	of	September,	two	thousand	seven.
-
-INDUSTRIAS	ASOCIADAS MAQUILADORAS	S.A.	DE	C.V.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -920,13 +698,21 @@ Chunks for lease 29
 Number of chunks retrieved: 1
 Document 1:
 
-The	Parties	intend	to	have	the	Leased	Premises	separated	from	the	adjoining	area,	e.g.	by	erecting	a	fence	and	separate	entrance	area.	The parties	shall	agree	on	the	actual	implementation	of	a	separation	of	the	Leased	Premises	and	the	Lessor	shall	implement	it	at	its	expense	in accordance	 with	 the	 applicable	 regulatory	 requirements	 such	 as	 fire	 protection.	 The	 separation	 of	 the	 Leased	 Premises	 shall	 include	 the construction	 of	 a	 separate	 entrance,	 equipped	 with	 a	 locking	 system	 that	 the	 parties	 shall	 agree	 on	 beforehand.	 The	 Lessor	 shall	 be responsible	to	obtain	an	according	building	permit	(if	necessary).
-
-2.5 The	Lessee	shall	not	be	entitled	to	claim	protection	from	competition	of	whatever	nature.
-
 §	3 Term	of	lease,	handover
 
 3.1 The	lease	shall	commence	on	1	September	2021,	0:00	hrs.	CEST	and	end	on	31	August	2026,	24:00	hrs.	CEST	(fixed	lease	term).
+
+3.2 The	 Lessor	 shall	 grant	 the	 Lessee	 an	 option	 right	 to	 extend	 the	 lease	 by	 another	 five	 (5)	 years	 at	 the	 terms	 and	 conditions	 of	 this	 Lease Agreement	(option	term).	The	option	right	shall	be	exercised	by	written	declaration	of	the	Lessee,	which	must	be	delivered	to	the	Lessor	no later	than	ninety	(90)	days	prior	to	the	expiry	of	the	fixed	term.
+
+The	Lessee	is	entitled	to	terminate	the	lease	early	(even	during	fixed	lease	term	or	option	term),	to	the	end	of	each	calendar	quarter	with	a notice	period	of	4	months.
+
+3.3 The	Lessor	shall	handover	the	Leased	Premises	to	the	Lessee	on	1	September	2021.
+
+§	4 Rent	and	VAT	option
+
+4.1 The	monthly	basic	rental	fee	shall	be	EUR	7,768	plus	VAT	at	the	statutory	rate	in	force	at	the	time,	currently	nineteen	percent	(19%).
+
+Gleiss	Lutz
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -934,18 +720,12 @@ Chunks for lease 30
 Number of chunks retrieved: 1
 Document 1:
 
-Landlord,	the	Premises.
-
-TERM.	 If	 the	 Commencement	 Date	 is	 not	 the	 first	 day	 of	 a	 calendar	 month,	 then	 the	 Term	 shall	 be extended	 by	 the	 time	 between	 the	 Commencement	 Date	 and	 the	 first	 day	 of	 the	 next	 month.	 If	 this	 Lease	 is	 executed before	the	Premises	become	vacant	or	otherwise	available	and	ready	for	occupancy	by	Tenant,	or	if	any	present	occupant of	the	Premises	holds	over	and	Landlord	cannot	acquire	possession	of	the	Premises	before	the	Commencement	Date,	then (a)	 Tenant's	 obligation	 to	 pay	 Rent	 hereunder	 shall	 be	 waived	 	 until	 Landlord	 	 tenders	 	 possession	 of	 	 the	 	 Premises	 to Tenant,	(b)	 the	Term	 shall	 be	extended	 by	the	 time	between	 the	 scheduled	Commencement	 Date	and	 the	date	 on	which Landlord	tenders	 possession	 of	the	 Premises	 to	Tenant	 (which	 date	 will	 then	 be	defined	 as	 the	 Commencement
-
-3.
-
-2	-
+years,	 then	 the	 Term	 shall	 be	 extended	 so	 that	 it	 continues	 for	 three	 (3)	 years	 from	 the	 Substitution	 Effective Date,	 and	 (2)	 Tenant	 shall	 continue	 to	 occupy	 the	 Premises	 (upon	 all	 of	 the	 terms	 of	 this	 Lease)	 until	 the Substitution	 Effective	Date.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 31
-Number of chunks retrieved: 2
+Number of chunks retrieved: 3
 Document 1:
 
 1. Memorandum	 of	 Lease	 of	 Premises.	 	 This	 Memorandum	 is	 recorded	 in connection	with,	and	as	evidence	of,	that	certain	Lease	Agreement	(the	“Lease”)	dated	as of	 _________,	 2022,	 as	 may	 be	 amended	 from	 time	 to	 time,	 by	 and	 between	 Landlord	 and Tenant	for	that	certain	real	property	and	the	improvements	thereon	described	on	Exhibit	A attached	 hereto	 and	 made	 a	 part	 hereof	 (the	 “Premises”).	 	 The	 Lease	 is	 incorporated	 by reference	into	this	Memorandum.		Capitalized	terms	used	herein	and	not	otherwise	defined shall	have	the	meanings	ascribed	to	such	terms	in	the	Lease. Lease	 Term	 and	 Certain	 Other	 Provisions.	 	 The	 initial	 Term	 of	 the	 Lease commenced	 on	 the	 Effective	 Date	 of	 this	 Memorandum	 and	 expires	 on	 _________,	 2037. Tenant	has	six	(6)	options	to	extend	the	initial	Term	of	the	Lease	pursuant	to	the	applicable provisions	thereof	for	an	additional	term	of	five	(5)	years	each.
@@ -971,6 +751,46 @@ NOW	 THEREFORE,	 in	 consideration	 of	 the	 mutual	 promises,	 covenants,	 and 
 1.
 
 BASIC	TERMS.
+
+A.
+****************************************************************************************************
+Document 3:
+
+D.
+
+“Commencement	Date”:		The	Effective	Date.
+
+E.
+
+“Expiration	 Date”:	 	 The	 last	 day	 of	 the	 calendar	 month	 in	 which	 the	 fifteenth	 (15th) anniversary	of	the	Commencement	Date	shall	occur,	subject	to	extension	pursuant	to Section	38	of	this	Lease.
+
+F.
+
+“Option	to	Renew”:		Six	(6)	additional	periods	of	five	(5)	years	each	under	the	terms and	conditions	set	forth	in	Section	38	of	this	Lease.
+
+G.
+
+“Premises”:		Collectively,	the	Building	and	the	Property.
+
+H.
+
+“Property”:		certain	tracts	or	parcels	of	land	commonly	known	as	601	Paw	Paw	Road, Roland,
+
+1
+
+Oklahoma	 74954,	 more	 particularly	 described	 on	 Exhibit	 B	 attached	 hereto	 and	 made	 a part	hereof.
+
+I.
+
+“Term”:	 	 The	 period	 commencing	 on	 the	 Commencement	 Date	 and	 expiring	 on	 the Expiration	Date,	unless	extended	pursuant	to	Section	38	of	this	Lease.
+
+2.
+
+DEFINITIONS	AND	BASE	PROVISIONS.
+
+For	 purposes	 of	 this	 Lease,	 the	 following	 terms	 shall	 have	 the	 meanings	 indicated
+
+below:
 
 A.
 
@@ -1039,7 +859,7 @@ Number of chunks retrieved: 0
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 35
-Number of chunks retrieved: 2
+Number of chunks retrieved: 1
 Document 1:
 
 e.	Refusal	to	allow	the	Landlord	to	inspect	the	premises.
@@ -1067,26 +887,50 @@ Tenant: [***] October	29,	2021
 Agent: Marlena	Harte
 
 October	29,	2021
-****************************************************************************************************
-Document 2:
-
-Nature	Of	Occupancy
-
-As	a	special	consideration	and	inducement	for	the	granting	of	this	Lease	by	the	Landlord	to	the	Tenant,	the	personal	residence	described	above	shall be	used	and	occupied	only	by	the	members	of	the	Tenant’s	family	or	others	whose	names	and	ages	are	set	forth	below:
-
-[***],	[***]
-
-Term	Of	Lease
-
-This	Lease	shall	commence	1st	day	of	November,	2021	to	31st	day	of	October,	2022,	unless	renewed	or	extended	pursuant	to	the	terms	herein.
-
-Security	Deposit
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 36
-Number of chunks retrieved: 0
+Number of chunks retrieved: 1
+Document 1:
 
+Signature	Page	-	Lease
+
+My	Commission	Expires:
+
+October	1,	2024
+
+My	Commission	Expires:
+
+October	1,	2024
+
+Signature	Page	-	Lease
+
+Notary	Public
+
+TENANT:
+
+LUCID	USA,	INC., a	Delaware	corporation
+
+By:	/s/	Sherry	House__________ Name:	Sherry	House Its:	Chief	Financial	Officer
+
+STATE	OF	ARIZONA				) 				)	ss. County	of	Pinal				)
+
+The	 foregoing	 was	 acknowledged	 before	 me	 this	 _4_	 day	 of	 August,	 2022,	 by	 Sherry	 House,	 the	 Chief	 Financial
+
+Officer	of	LUCID	USA,	INC.,	a	Delaware	corporation,	on	behalf	of	the	corporation.
+
+/s/	Adrienne	Elene	Cox
+
+/s/	Adrienne	Elene	Cox
+
+Notary	Public
+
+My	Commission	Expires:
+
+February	10,	2026
+
+Signature	Page	-	Lease
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -1094,67 +938,43 @@ Chunks for lease 37
 Number of chunks retrieved: 1
 Document 1:
 
-1954	Act
+4.2
 
-Landlord	and	Tenant	Act	1954.
+The	rights	and	obligations	under	the	new	lease	will	take	effect	from	and	including	the	date	of	the	disclaimer	and	the	new	lease	will:
 
-1995	Act
+4.2.1
 
-Landlord	and	Tenant	(Covenants)	Act	1995.
+be	granted	subject	to	the	right	of	any	person	to	have	the	Lease	vested	in	them	by	the	court	and	to	the	terms	on	which	any	such order	may	be	made	and	subject	to	the	rights	of	any	third	party	existing	at	the	date	of	the	grant;
 
-Authorised	Guarantee Agreement
+4.2.2
 
-authorised	guarantee	agreement	set	out	in	Schedule	1.
+be	for	a	term	that	expires	on	the	same	date	as	the	end	of	the	contractual	term	of	the	Lease	had	there	been	no	disclaimer;
 
-Assignment
+4.2.3
 
-assignment	of	the	Lease	by	the	Tenant	to	the	Assignee	permitted	under	Clause	2.
+subject	to	Paragraphs	4.6	and	4.8	reserve	as	an	initial	annual	rent	an	amount	equal	to	the	annual	rent	which	is	reserved	by	the Lease	on	the	date	of	the	disclaimer	and	which	is	subject	to	review	on	the	same	terms	and	dates	provided	by	the	Lease;	and
 
-Assignment	Date
+4.2.4
 
-date	of	the	deed	of	assignment	of	the	Lease	to	the	Assignee.
+be	excluded	from	sections	24	to	28	1954	Act;	and
 
-Guarantee
-
-authorised	guarantee	agreement	set	out	in	Schedule	2.
-
-Lease
-
-lease	of	the	Property	dated	1	August	2018	and	made	between	Anthony	Nigel	Sampson	(1)	Vertical	Aerospace Limited	(2)	and	Imagination	Industries	Limited	(3)	and	all	documents	supplemental	or	collateral	to	that	lease.
-
-2
-
-Liability	Period
-
-from	and	including	the	Assignment	Date	until	the	end	of	the	Term	or	until	the	Assignee	is	released	from	the	tenant covenants	of	the	Lease	by	virtue	of	the	1995	Act,	if	earlier.
-
-Property
-
-Unit	1,	Camwal	Court,	Chapel	Street,	St	Philips	Marsh,	Bristol	BS2	0UW	as	demised	by	the	Lease.
-
-Rent	Deposit Deed
+4.2.5
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 38
-Number of chunks retrieved: 1
-Document 1:
+Number of chunks retrieved: 0
 
-when	 such	 are established	 in	 the	 form	 of	 the	 “Acknowledgement	 of	 Commencement	 Date”	 attached	 to	 this	 Lease	 as	 Exhibit	 E;	 provided, however,	 Tenant’s	 failure	 to	 execute	 and	 deliver	 such	 acknowledgment	 shall	 not	 affect	 Landlord’s	 rights	 hereunder.	 Landlord shall	make	the	Premises	available	to	Tenant	on	the	Commencement	Date.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 39
-Number of chunks retrieved: 2
+Number of chunks retrieved: 1
 Document 1:
 
 Premises,	all	in	accordance	of	the	terms	and	conditions	hereof	(the	“Lease”).
 
 2.	 	 	 	 	 	 	 	 	 	 Term	 of	 the	 Lease.	 The	 term	 of	 the	 Lease	 shall	 be	 for	 a	 period	 of	 sixty	 (60)	 months,	 commencing	 on	 November	 1,	 2021	 (the “Commencement	Date”)	and	expiring	on	October	31,	2026	(the	“Lease	Term”	or	“term	of	the	Lease”).	Each	twelve-month	period	commencing	on the	Commencement	Date	and	each	one-year	period	thereafter,	is	hereinafter	referred	to	as	a	“Lease	Year”.	Upon	the	written	request	by	Tenant,	the Lease	may	be	terminated	prior	to	the	end	of	the	Lease	Term	in	order	to	facilitate	Tenant’s	purchase	of	the	Premises	as	set	forth	in	Section	16.	No right	of	renewal	is	expressed	or	implied	in	the	Lease.	The	“Effective	Time”	of	the	Commencement	Date	will	be	12:01	a.m.	Mountain	time	on	the Commencement	Date	for	all	purposes	of	the	Lease.
-****************************************************************************************************
-Document 2:
-
-27.								Sale	of	Transferred	Equipment.	Effective	as	of	the	Commencement	Date,	Landlord	hereby	sells,	transfers,	assigns	and	conveys	to Tenant	all	of	Landlord’s	right,	title	and	interest	in	and	to	the	Transferred	Equipment	for	an	aggregate	purchase	price	of	$1,994,587.00,	payable	in cash	on	or	before	Commencement	Date.	Title	to	the	Transferred	Equipment	free	and	clear	of	all	liens,	claims	and	encumbrances	of	any	kind	shall vest	in	Tenant	upon	payment	by	Tenant	of	the	foregoing	purchase	price	and	the	execution	and	deliver	on	or	before	the	Commencement	Date	by	the Tenant	 and	 Landlord	 of	 a	 Bill	 of	 Sale,	 the	 form	 of	 which	 is	 attached	 as	 hereto	 as	 Exhibit	 B.	 Landlord	 makes	 no	 representations	 or	 warranties regarding	the	Transferred	Equipment,	and	Tenant	agrees	to	acquire	the	Transferred	Equipment	in	an	“as-is”,	“where-is”,	“with	all	faults	accepted” condition.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -1226,48 +1046,48 @@ Chunks for lease 43
 Number of chunks retrieved: 1
 Document 1:
 
-1.1Date:
+CONFIRMATION	LETTER
 
-April	16,	2021
+_____________________,	20__
 
-1.2Premises.
+To:
 
-1.2.1“Building”:
+Re:
 
-203	Redwood	Shores	Parkway,	Redwood	City, California,	 commonly	 known	 as	 Towers	 @ Shores	-	203	Redwood	Shores.
+_______________________ _______________________ _______________________ _______________________ Office	 Lease
 
-1.2.2“Premises”:
+(the	 “Lease”)	 dated	 ______________,	 20____,	 between	 ___________________________,	 a ________________________	 (“Tenant”), concerning	 Suite	 _____	 on	 the	 _______	 floor	 of	 the	 building	 located	 at	 ___________________,	 _____________________ California.
 
-6,368	rentable	square	feet	of	space	located	on the	 5th	 floor	 of	 the	 Building	 and	 commonly known	 as	 Suite	 500,	 the	 outline	 and	 location of	 which	 is	 set	 forth	 in	 Exhibit	 A.	 	 If	 the Premises	 include	 any	 floor	 in	 its	 entirety,	 all corridors	 and	 restroom	 facilities	 located	 on such	 floor	 shall	 be	 considered	 part	 of	 the Premises.
+(“Landlord”),	 and	 ______________________________,	 a	 _____________________
 
-1.2.3“Property”:
+Dear	_________________:
 
-The	Building,	the	parcel(s)	of	land	upon	which it	is	located,	and,	at	Landlord’s	discretion,	any parking	 facilities	 and	 other	 improvements serving	 the	 Building	 and	 the	 parcel(s)	 of	 land upon	 which	 such	 parking	 facilities	 and	 other improvements	are	located.
+In	accordance	with	the	Lease,	Tenant	accepts	possession	of	the	Premises	and	confirms	the	following:
 
-1.2.4“Project”:
+1.
+
+The	Commencement	Date	is	_____________	and	the	Expiration	Date	is	_______________.
+
+2.
+
+The	exact	number	of	rentable	square	feet	within	the	Premises	is	_________	square	feet.
+
+3.
+
+Tenant’s	Share,	based	upon	the	exact	number	of	rentable	square	feet	within	the	Premises.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 44
-Number of chunks retrieved: 3
+Number of chunks retrieved: 1
 Document 1:
 
 Landlord	 hereby	 leases	 the	 Leased	 Premises	 to	 Tenant,	 and	 Tenant	 hereby	 leases	 the	 same	 from	 Landlord,	 for	 an	 “Initial	 Term” beginning	on	the	Effective	Date,	and	ending	on	the	tenth	(10th)	anniversary	thereafter.;	provided,	however,	that	notwithstanding	the foregoing,	 the	 Term	 shall	 not	 commence	 unless	 and	 until	 (i)	 the	 APA,	 EPA,	 and	 MSA	 have	 executed,	 delivered	 and	 closed	 by	 the parties	thereto,	(ii)	Landlord	has	delivered	evidence	to	Tenant	that	the	Unlimited	Continuing	Guaranty,	dated	October	1,	2020,	made in	 favor	 of	 U.S.	 Bank	 National	 Association	 by	 the	 Practice	 in	 connection	 with	 Landlord’s	 Term	 Loan	 Agreement,	 dated	 October	 1, 2020,	 by	 and	 between	 Taylyn	 Holdings,	 LLC	 and	 U.S.	 Bank	 National	 Association	 (“Bank”)	 and	 each	 ancillary	 agreement	 thereto (collectively,	 the	 “Loan	 Agreement”),	 has	 been	 terminated	 in	 all	 respects,	 and	 (iii)	 Landlord	 has	 delivered	 evidence	 to	 Tenant	 that
-****************************************************************************************************
-Document 2:
-
-WHEREAS	Landlord	is	an	affiliate	of	Wisconsin	Fertility	and	Reproductive	Associates,	S.C.,	a	Wisconsin	professional	corporation	(“Practice”).
-
-WHEREAS,	pursuant	to	an	Asset	Purchase	Agreement,	anticipated	to	be	effective	on	or	immediately	prior	to	the	Effective	Date,	by	and	among	the Tenant,	 the	 Practice,	 The	 Elizabeth	 Pritts	 Revocable	 Living	 Trust	 (the	 “Seller”),	 and	 Dr.	 Elizabeth	 Pritts,	 an	 individual	 and	 sole	 trustee	 of	 Seller (“Dr.	Pritts”),	Practice	will	sell	all	of	its	non-clinical	assets	to	Tenant	(the	“APA”);
-****************************************************************************************************
-Document 3:
-
-WHEREAS,	pursuant	to	an	Equity	Purchase	Agreement,	anticipated	to	be	effective	on	or	immediately	prior	to	the	Effective	Date,	by	and	among	the Tenant,	 Fertility	 Labs	 of	 Wisconsin,	 LLC,	 a	 Wisconsin	 limited	 liability	 company	 (“Lab”),	 IVF	 Science,	 LLC,	 a	 Wisconsin	 limited	 liability	 company (“IVF	 Science”)	 owned	 by	 Wael	 Megid,	 Ph.D.	 (“Dr.	 Megid”),	 Dr.	 Pritts	 and	 the	 Seller’s	 Representative	 (as	 defined	 therein),	 the	 Sellers	 named therein	will	sell	one	hundred	percent	(100%)	of	its	issued	and	outstanding	equity,	respectively,	to	Tenant	(the	“EPA”);
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 45
-Number of chunks retrieved: 4
+Number of chunks retrieved: 3
 Document 1:
 
 conditions	set	out	herein	which	shall	remain	open	for	acceptance	and	shall	be	irrevocable	for	a	period	of	30	[thirty]	days	from	the	date	of	signature	by	the
@@ -1331,80 +1151,12 @@ Branch	Code:	580105
 Account:	Current	Account Account	Number:	XXX	XXXXXXX
 
 5.
-****************************************************************************************************
-Document 4:
-
-BUILDINGS
-
-the	buildings	accommodating	the	LEASED	PREMISES;
-
-LAND
-
-the	immovable	property	on	which	the	BUILDINGS	are	erected;
-
-PROPERTY
-
-the	LAND	and	the	BUILDINGS;
-
-TENANT'S	PROPORTIONATEVAT
-
-Value	Added	Tax	payable	in	terms	of	the	Value	Added	Tax	Act	No.	89	of	1991,	as	amended;
-
-SCHEDULE
-
-the	schedule	to	which	this	Annexure	"A"	is	attached'
-
-DAY/S
-
-means	calendar	days.
-
-2.
-
-LETTING	AND	HIRING
-
-The	LANDLORD	lets	to	the	TENANT,	which	hires	the	LEASED	PREMISES.
-
-3.
-
-INITIAL	PERIOD
-
-3.1
-
-This	lease	is	for	the	initial	period	recorded	in	Item	4	of	the	SCHEDULE.
-
-3.2
-
-If	the	LEASED	PREMISES	are	not	ready	for	occupation	by	the	TENANT	on	the	date	of	commencement	of	this	lease	for	any	reason	whatsoever,	the	TENANT
-
-3.3
-
-shall	not	claim	for	cancellation	of	this	lease	or	for	damages	or	for	any	other	right	of	action	against	the	LANDLORD. The	TENANT	shall	accept	occupation	of	the	LEASED	PREMISES	on	1st	of	February	2020	and
-
-3.4
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 46
 Number of chunks retrieved: 2
 Document 1:
-
-known	as	Principio	Flex	A,	Cecil	Technology	Campus,	Principio	Business	Park,	located	at	500	Principio	Parkway	West,	Suite	300,	400	and	900, North	East,	Maryland	(the	“Property”).
-
-The	boundaries	and	location	of	the	improvements	and	the	land	comprising	the	Premises	are	shown	on	the	plans	attached	hereto	and	made	a
-
-part	hereof	and	marked	as	Exhibit	D	-Site	Plan	and	Exhibit	F	-Floor	Plan.
-
-ARTICLE	1.	TERM:
-
-The	initial	base	term	of	this	Lease	shall	begin	on	the	Commencement	Date	and	shall	end	seven	(7)	years	after	the	Commencement	Date	(the
-
-“Term”).
-
-ARTICLE	2.	COMMENCEMENT	DATE:
-
-The	Commencement	Date	of	this	Lease	Agreement	shall	be	December	1,	2021.	Landlord	shall	send	Tenant	a	commencement	letter	in
-****************************************************************************************************
-Document 2:
 
 “Term”).
 
@@ -1417,6 +1169,54 @@ substantially	the	same	form	as	shown	on	Exhibit	A	attached.	Tenant	shall	sign	su
 ARTICLE	3.	RENT:
 
 The	Tenant,	in	consideration	of	the	Lease,	covenants	and	agrees	to	pay	to	the	Landlord	the	annual	rent	for	the	Premises	as	set	forth	below
+****************************************************************************************************
+Document 2:
+
+ARTICLE	35.	TERMINATION	OF	LEASES:
+
+All	prior	leases	that	Tenant	has	with	Landlord	shall	terminate	in	accordance	with	a	Lease	Termination	Agreement	of	even	date.
+
+ARTICLE	36.	PARTIES:
+
+Except	as	otherwise	expressly	provided	herein,	the	covenants,	conditions,	and	agreements	contained	in	this	Lease	shall	bind	and	inure	to
+
+the	benefit	of	Landlord	and	Tenant	and	their	respective	successors	and	assigns.
+
+[SIGNATURES	APPEAR	ON	FOLLOWING	PAGE]
+
+19
+
+IN	WITNESS	WHEREOF,	the	parties	hereto	have	hereunder	set	their	hands	and	seals	the	day	and	year	first	above	written.
+
+LANDLORD:
+
+UPPER	CHESAPEAKE	FLEX	ONE,	LLC
+
+By:	Sunrise	Holdings,	Inc.,	general	partner	of Sunrise	Holdings	L.P.,	the	sole	member
+
+Witness	Signature
+
+By:
+
+/s/	Gary	A.	Stewart,	Jr. Gary	A.	Stewart,	Jr.
+
+Title: Vice	President
+
+Print	Name
+
+TENANT:
+
+CLENE	NANOMEDICINE,	INC.
+
+Witness	Signature
+
+By:
+
+/s/	Rob	Etherington Rob	Etherington,	CEO
+
+TED	JEONG Print	Name
+
+Exhibit	A	-	Commencement	Letter
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -1497,7 +1297,7 @@ applicable	stairs	for	access	to	and	egress	from	said	Premises.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 49
-Number of chunks retrieved: 3
+Number of chunks retrieved: 2
 Document 1:
 
 12 13
@@ -1559,50 +1359,12 @@ Tenant	Signature																																					Date
 164
 
 Tenant	Signature																																										Date
-****************************************************************************************************
-Document 3:
-
-23
-
-24 25 26 27 28 29 30 31
-
-32
-
-Monthly	Rent
-
-First	Month’s	Rent Last	Month’s	Rent Performance	Deposit Common	Area Maintenance “CAM” Taxes Hazard	Insurance Late	Charge
-
-$														9450																												,	on	the	1st	day	of	each	month,	commencing															February	15th, 2012																																										 $												4725	(prorated)															,	upon	entry	into	this	Commercial	Lease. $														10939.56														,	upon	entry	into	this	Commercial	Lease. $																		9450														,	upon	entry	into	this	Commercial	Lease. ☐	yes,	equal	to	___________%	of	the	total	CAM	charges.
-
-☒	yes;	☐	no;	☐	included	in	CAM ☒	yes;	☐	no;	☐	included	in	CAM $																														or								10								%	of	the	Monthly	Rent,	if	the	Monthly	Rent	is	not	paid	in	full	by	the 						7th							day	of	each	month.
-
-33 34
-
-36 37 38 39 40 41 42
-
-44
-
-45 46
-
-49 50
-
-52 53 54
-
-58 59
-
-61 62 63 64 65
-
-Returned	Check	Fee Other
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 50
 Number of chunks retrieved: 2
 Document 1:
-
-Term.		TO	HAVE	AND	TO	HOLD	for	a	term	(the	“Term”)	beginning	on	the	Commencement	Date,	which	shall	be	the	date	on	 which	the	Landlord	obtains	possession	of	the	Premises	from	the	Existing	Tenant	(as	such	term	is	defined	below)	and	 delivers	possession	of	the	Premises	to	the	Tenant,	which	Commencement	Date	is	anticipated	to	be	on	or	before	February	1,	 2022,	and	ending	on	the	Expiration	Date,	unless	sooner	terminated	per	the	terms	of	the	Lease.	The	Landlord	and	Tenant	 hereby	acknowledge	and	agree	that	the	Premises	is	currently	occupied	by	XebiaLabs,	Inc.	(“Existing	Tenant”)	pursuant	to a	lease	dated	September	29,	2016,	as	may	be	amended	(“Existing	Lease”)	entered	into	between	Landlord	and	such Existing	Tenant,	which	Existing	Lease	expires	by	its	terms	on	January	31,	2022.	Notwithstanding	anything	contained herein	to	the	contrary,	this	Lease	is	expressly	contingent	upon	Landlord	obtaining	possession	of	the	Premises	from	the
-****************************************************************************************************
-Document 2:
 
 10.14 Execution	and	Delivery.		This	Lease	shall	only	become	effective	and	binding	upon	full	execution	hereof	by	Landlord	and
 
@@ -1627,32 +1389,74 @@ By: Name: Crosby	Nordblom,	as	Manager	and	not	individually Title: Manager
 By: Name: Peter	C	Nordblom,	as	Manager	and	not	individually Title: Manager
 
 /s/	Peter	C	Nordblom
+****************************************************************************************************
+Document 2:
+
+COMMENCEMENT	DATE	NOTIFICATION
+
+To:_____________________________
+
+_________________(“Landlord”)	and		______________(“Tenant”)	are	parties	to	a	lease	(“Lease”)	dated		______________________,
+
+201_,	of	premises	in	a	building	known	as		__________________________,	Massachusetts.		Landlord	hereby	notifies	Tenant	that	the	 Commencement	Date	is	___________________________;	the	Expiration	Date	is	_________________________;	the	first	Lease	Year	 commenced	on	_________________	and	will	end	on	______________;	and	the	Rent	Commencement	Date	is	______________________.		 Although	not	required	for	this	notification	to	be	effective,	we	would	appreciate	you	confirming	the	foregoing	by	signing	the	 enclosed	copy	of	this	letter	and	returning	it	to	us.
+
+(Landlord)
+
+By:
+
+Confirmed:
+
+(Tenant)
+
+By:
+
+39
+
+EXHIBIT	C
+
+[Intentionally	Omitted.]
+
+40
+
+EXHIBIT	D
+
+[Intentionally	Omitted.]
+
+41
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+EXHIBIT	E
+
+RULES	AND	REGULATIONS
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 51
-Number of chunks retrieved: 1
-Document 1:
+Number of chunks retrieved: 0
 
-IN	WITNESS	WHEREOF,	the	parties	hereto	have	executed	this	Agreement	the	day	and	year	first	written	above.
-
-Landlord:	Phil	Bosua
-
-By:	/s/	Phil	Bosua________________________________________________ Phil	Bosua
-
-9/22/2022	 Date
-
-Tenant:	Know	Labs,	Inc.
-
-By	/s/	Ron	Erickson	:______________________________________________ Ron	Erickson Its:	Chairman	&	Founder
-
-9/22/2022 Date
-
-4
-
-Disclosure	of	Information	on	Lead-Based	Paint	and/or	Lead-Based	Paint	Hazards Lead	Warning	Statement
-
-HOUSING	 BUILT	 BEFORE	 1978	 MAY	 CONTAIN	 LEAD-BASED	 PAINT.	 LEAD	 FROM	 PAINT,	 PAINT	 CHIPS,	 AND	 DUST	 CAN	 POSE	 HEALTH HAZARDS	 IF	 NOT	 MANAGED	 PROPERLY.	 LEAD	 EXPOSURE	 IS	 ESPECIALLY	 HARMFUL	 TO	 YOUNG	 CHILDREN	 AND	 PREGNANT	 WOMEN. BEFORE	 RENTING	 PRE-1978	 HOUSING,	 LESSORS	 MUST	 DISCLOSE	 THE	 PRESENCE	 OF	 KNOWN	 LEAD-BASED	 PAINT	 AND/OR	 LEAD-BASED PAINT	 HAZARDS	 IN	 THE	 DWELLING.	 LESSEES	 MUST	 ALSO	 RECEIVE	 A	 FEDERALLY	 APPROVED	 PAMPHLET	 ON	 LEAD	 POISONING PREVENTION.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -1741,38 +1545,8 @@ Date:	_____________________________
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 55
-Number of chunks retrieved: 2
+Number of chunks retrieved: 1
 Document 1:
-
-d.
-
-Validity:	In	the	event	that	any	provision	of	this	lease	shall	be	held	to	be	invalid,	the	same	shall	not	affect	in any	respect	whatsoever	the	validity	of	the	remainder	of	this	lease.
-
-e.
-
-Captions:	Any	section	or	paragraph	title	or	captions	contained	in	this	lease	are	for	convenience	or	reference only,	and	shall	not	be	deemed	a	part	of	or	construed	to	affect	the	context	of	this	lease.
-
-f.
-
-Amendments:	 This	 lease	 or	 any	 portion	 hereof	 shall	 not	 be	 changed,	 annulled,	 supplemented	 or	 amended (except	for	the	Lessor’s	right	to	revise	the	Rules	and	Regulations),	without	such	change	being	in	writing	and signed	by	the	party	to	be	bound	thereby.
-
-IN	WITNESS	WHERE	OF,	the	parties	have	executed	this	lease	the	date	and	year	first	above	written.
-
-LESSOR:
-
-Price-Poore	House,	LLC
-
-/s/	Meghan	Murray By:	Meghan	Murray Its:	Manager
-
-LESSEE:
-
-Acumen	Pharmaceuticals	Inc.
-
-/s/	Dan	O’Connell By:	Dan	O’Connell				 Its:	CEO
-
-6-
-****************************************************************************************************
-Document 2:
 
 EX-10.11	3	abos-20221231xexx1011.htm	EX-10.11
 
@@ -1799,6 +1573,22 @@ TERM.	 The	 term	 of	 this	 lease	 is	 fifteen	 (15)	 months,	 beginning	 on	 Oc
 Chunks for lease 56
 Number of chunks retrieved: 3
 Document 1:
+
+Section	8.	HEIRS	AND	SUCCESSORS	IN	INTEREST.	It	is	further	agreed	that	each	obligation	hereunder	shall	extend	to and	be	binding	upon	and	every	benefit	hereof	shall	inure	to	the	heirs,	executors,	administrators,	successors	of	or	assigns	of the	respective	parties	hereto.
+
+Section	9.	This	lease	is	issued	by	virtue	of	and	under	the	authority	conferred	by	Title	36,	W.S.	1977	as	to	the	State	and
+
+School	Lands	and	Title	11,	W.S.	1977	as	to	State	Lands	and	Investment	Board	and	amendments	thereto.
+
+Section	 10.	 Sovereign	 Immunity.	 The	 State	 of	 Wyoming	 and	 the	 lessor	 do	 not	 waive	 sovereign	 immunity	 by	 entering	 into	 this lease,	and	specifically	retain	immunity	and	all	defenses	available	to	them	as	sovereigns	pursuant	to	Wyoming	Statute§	1-39- 104(a)	and	all	other	state	laws.
+
+IN	 WITNESS	 WHEREOF,	 this	 lease	 has	 been	 executed	 by	 lessor	 and	 lessee	 effective	 on	 the	 day	 and	 year	 first	 above
+
+written.
+
+LESSOR,	STATE OF
+****************************************************************************************************
+Document 2:
 
 IN	 WITNESS	 WHEREOF,	 this	 lease	 has	 been	 executed	 by	 lessor	 and	 lessee	 effective	 on	 the	 day	 and	 year	 first	 above
 
@@ -1837,20 +1627,6 @@ TYPE	OF	LEASE:	Sodium/Trona	and	associated	mineral	salts	NAME	OF	LESSEE:Ciner	Wy
 COUNTY:	Sweetwater	FUND:	CS BOND:
 
 STIP:
-****************************************************************************************************
-Document 2:
-
-Sodium/Trona	and	associated	mineral	salts
-
-.
-
-All	Section	36,	Township	20N,	Range	109W,	6th	p.m.
-
-consisting	of	640.00	acres,	more	or	less,	Sweetwater	county,	together	with	the	right	to	construct	and	maintain	thereon	all works,	 buildings,	 plants,	 waterways,	 roads,	 communication	 lines,	 power	 lines,	 tipples,	 hoists,	 or	 other	 structures	 and appurtenances	necessary	to	the	full	enjoyment	thereof,	subject	however,	to	the	conditions	hereinafter	set	forth;
-
-Section	2	-	TERM	OF	LEASE.	This	lease	unless	terminated	at	an	earlier	date	as	hereinafter	provided,	shall	remain	in force	and	effect	for	a	term	of	ten	(10)	years	beginning	on	the	2nd	day	of	August	2019	and	expiring	on	the	1st	day	of	August 2029.
-
-Section	3.	In	consideration	of	the	foregoing,	the	lessee	covenants	and	agrees	as	follows:
 ****************************************************************************************************
 Document 3:
 
@@ -1913,30 +1689,8 @@ Insured	Risk	 such	risks	as	are	specified	in	the	Superior	Lease.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 58
-Number of chunks retrieved: 2
+Number of chunks retrieved: 1
 Document 1:
-
-negotiation	by	both	Party	A	and	Party	B.	The	supplementary	contract	and	its	Appendix	are	the	inseparable	part	of	this	contract.
-
-3.	 This	 Contract,	 together	 with	 its	 Appendix,	 has	 11	 pages	 in	 total	 and	 is	 made	 in	 quadruplicate.	 Each	 party	 holds	 one
-
-copy	with	the	same	legal	effect.
-
-Party	A	(signature	or	seal):	Party	B	(signature	or	seal):
-
-[Legal	representative]:	/s/	Haomiao	He	 [Legal	representative]:	/s/	Jun	Wang
-
-[Entrusted	agent]	(signature	or	seal):
-
-[Entrusted	agent]	(signature	or	seal):
-
-Signed	on:
-
-Signing	date:
-
-16
-****************************************************************************************************
-Document 2:
 
 5.	After	the	dispute	enters	into	the	arbitration	or	civil	proceedings,	if	the	party	involved	responds	to	suits	and	submits	the confirmation	letter	of	the	address	for	service	to	arbitral	institution	and	court,	and	the	address	is	different	from	the	address	for service	as	confirmed	before	the	litigation,	the	address	for	service	submitted	to	arbitration	institution	and	court	for	confirmation shall	prevail	(the	address	for	service	shall	be	applicable	to	the	service	method	and	the	legal	consequences	of	service	as	specified in	the	above	paragraph	3). Article	14	Other	articles
 
@@ -1949,7 +1703,7 @@ negotiation	by	both	Party	A	and	Party	B.	The	supplementary	contract	and	its	Appe
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 59
-Number of chunks retrieved: 2
+Number of chunks retrieved: 1
 Document 1:
 
 IN	WITNESS	WHEREOF,	the	parties	hereunto	set	their	hands	and	seals	this	19th	day	of	May,	2006.
@@ -2025,66 +1779,6 @@ $11,666.67	per	month
 March	1,	2013	–	February	28,	2014
 
 $140,000.04
-****************************************************************************************************
-Document 2:
-
-March	1,	2011	–	February	28,	2012
-
-$129,999.96
-
-$10,833.33	per	month
-
-March	1,	2012	–	February	28,	2013
-
-$140,000.04
-
-$11,666.67	per	month
-
-March	1,	2013	–	February	28,	2014
-
-$140,000.04
-
-$11,666.67	per	month
-
-March	1,	2014	–	February	28,	2015
-
-$150,000.00
-
-$12,500.00	per	month
-
-March	1,	2015	–	February	28,	2016
-
-$150,000.00
-
-$12,500.00	per	month
-
-Schedule	B
-
-Roof	Replacement
-
-Per	the	attached	McGarrahan	Roofing	Company	letter	of	May	4,	2006,	and	the	attached	drawing,	the	status	of	the	roof	is	as follows:
-
-ROOF	AREA	PER DRAWING
-
-STATUS	AS	OF	LEASE	SIGNING
-
-LESSOR’S	RESPONSIBILITY
-
-Area	1
-
-Area	2
-
-Area	3
-
-Area	4
-
-Building	4
-
-Garage
-
-New	as	of	2005;	estimated	remaining	life	of 18	years Needs	replacement
-
-Estimated	remaining	life	of	eight	(8)	years with	some	maintenance	required. Estimate	remaining	life	of	ten	(10)	years	with some	maintenance	required. Estimated	remaining	life	of	ten	(10)	years	with some	maintenance	required. TBD
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -2163,7 +1857,7 @@ b)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 61
-Number of chunks retrieved: 2
+Number of chunks retrieved: 1
 Document 1:
 
 39.1 The	 “identification”	 date	 of	 this	 lease	 is	 the	Dateoflease	 (the	 same	 date	 as	 at	 the	 top	 of	 Basic	 Lease	 Information).	The	 “effective	 date”	 on	 which	 this	 lease	 becomes binding	is	the	date	on	which	the	lease	has	been	signed	by	lessor,	lessee,	and	any	guarantors.	The	names	and	signatures	of	all	parties	are	shown	below;	and	all	persons signing	 have	 been	 duly	 authorized	 to	 sign.	IF	 LESSEE	 IS	A	 CORPORATION,	A	 CORPORATE	 RESOLUTION	AUTHORIZING	 LESSEE	 TO	 EXECUTE	 THIS LEASE	IS	ATTACHED	AS	EXHIBIT	I.	Corporate	seals	are	unnecessary	under	Texas	law.
@@ -2185,18 +1879,6 @@ SONIM	TECHNOLOGIES	INC. Printed	name	of	company	or	firm	(if	applicable)
 /s/	Joel	Sher Signature
 
 /s/	Tom	Wilkinson Signature
-****************************************************************************************************
-Document 2:
-
-Security	Deposit
-
-4.1 The	initial	lease	term	shall	be	for	the	number	of	full	calendar	months	from	commencement	date,	plus	the	remainder	of	the	last	month.		The	commencement	date	of	this lease	shall	be	the	earlier	of	(a)	the	date	Specified	in	Basic	Lease	Information	#6,	(b)	the	date	Lessee	opens	for	business	in	Lessee's	office	space,	or	(c)	five	(5)	days	after Lessor	 delivers	 possession	 of	 Lessor's	 office	 space	 to	 Lessee	 and	 gives	 Lessee	 written	 notice	 that	 Lessor's	 work	 (as	 described	 in	 Exhibit	 E)	 is	 substantially complete.		Lessor's	anticipated	delivery	date	of	possession	is	Commencement	 Date	.		If	Lessor	delays	in	delivering	possession	of	Lessee's	office	space	as	shown	on Exhibit	A,	the	commencement	and	anniversary	dates	shall	be	delayed	in	accordance	with	Exhibit	D.
-
-Term,	Possession,	and	Anniversary
-
-5.1 (Check	one):
-
-Tenant	Finish-Out
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -2204,32 +1886,18 @@ Chunks for lease 62
 Number of chunks retrieved: 1
 Document 1:
 
-IN	WITNESS	WHEREOF,	the	parties	hereto	have	executed	this	Agreement	the	day	and	year	first	written	above.
+__X__	Landlord	has	no	knowledge	of	asbestos	and/or	asbestos	hazards	located	in	or	around	the	Lease	Premises.
 
-Landlord:	Phil	Bosua
+Landlords	Signature:	__________________________________________	Date:	_________
 
-By:	/s/	Phil	Bosua________________________________________________ Phil	Bosua
+Tenant’s	Signature:	___________________________________________	Date:	_________
 
-9/22/2022	 Date
-
-Tenant:	Know	Labs,	Inc.
-
-By	/s/	Ron	Erickson	:______________________________________________ Ron	Erickson Its:	Chairman	&	Founder
-
-9/22/2022 Date
-
-4
-
-Disclosure	of	Information	on	Lead-Based	Paint	and/or	Lead-Based	Paint	Hazards Lead	Warning	Statement
-
-HOUSING	BUILT	BEFORE	1978	MAY	CONTAIN	LEAD-BASED	PAINT.	LEAD	FROM	PAINT,	PAINT	CHIPS,	AND	DUST	CAN	POSE	HEALTH	HAZARDS	IF	NOT MANAGED	 PROPERLY.	 LEAD	 EXPOSURE	 IS	 ESPECIALLY	 HARMFUL	 TO	 YOUNG	 CHILDREN	 AND	 PREGNANT	 WOMEN.	 BEFORE	 RENTING	 PRE-1978 HOUSING,	 LESSORS	 MUST	 DISCLOSE	 THE	 PRESENCE	 OF	 KNOWN	 LEAD-BASED	 PAINT	 AND/OR	 LEAD-BASED	 PAINT	 HAZARDS	 IN	 THE	 DWELLING. LESSEES	MUST	ALSO	RECEIVE	A	FEDERALLY	APPROVED	PAMPHLET	ON	LEAD	POISONING	PREVENTION.
-
-Lessor’s	Disclosure
+6
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 63
-Number of chunks retrieved: 2
+Number of chunks retrieved: 1
 Document 1:
 
 2.	The	Contract	shall	come	into	force	upon	being	sealed	by	both	parties	(official	seal	or	special	seal	for	contract);	The	annex	is	the	integral	part of	this	contract	and	has	the	same	legal	effect.	However,	the	property	delivery	in	Attachment	1	is	the	property	list	committed	by	Party	A,	which	shall be	separately	signed	and	sealed	by	Party	B	during	acceptance.
@@ -2253,34 +1921,6 @@ Party	A:																																		(Seal)
 Date	of	Signing:	August	26,	2020
 
 第	15	页	共	17
-****************************************************************************************************
-Document 2:
-
-第	14	页	共	17
-
-(This	page	is	the	first	page	of	the	Signing	of	the	House	Lease	Contract	without	text)
-
-Party	A:																																		(Seal)
-
-Date	of	Signing:	August	26,	2020
-
-第	15	页	共	17
-
-(This	page	is	the	signing	page	2	of	"House	Lease	Contract"	without	text)
-
-Party	B:																																		(Seal)
-
-Date	of	Signing
-
-第	16	页	共	17
-
-(This	page	is	the	signing	page	3	of	the	House	Lease	Contract	without	text)
-
-Witness:																																		(Seal)
-
-Date	of	Signing
-
-第	17	页	共	17
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -2337,8 +1977,24 @@ Date	of	signature:	January	18,	2021
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 66
-Number of chunks retrieved: 2
+Number of chunks retrieved: 3
 Document 1:
+
+Section	8.	HEIRS	AND	SUCCESSORS	IN	INTEREST.	It	is	further	agreed	that	each	obligation	hereunder
+
+shall	extend	to	and	be	binding	upon	and	every	benefit	hereof	shall	inure	to	the	heirs,	executors,	administrators,	successors	of or	assigns	of	the	respective	parties	hereto.
+
+Section	9.	This	lease	is	issued	by	virtue	of	and	under	the	authority	conferred	by	Title	36,	W.S.	1977	as	to	the	State	and
+
+School	Lands	and	Title	11,	W.S.	1977	as	to	State	Lands	and	Investment	Board	and	amendments	thereto.
+
+Sect	ion	10	.	Sovereign	Immunity.	The	State	of	Wyoming	and	the	lessor	do	not	waive	sovereign	immunity	by	entering into	 this	 lease,	 and	 specifically	 retain	 immunity	 and	 all	 defenses	 available	 to	 them	 as	 sovereigns	 pursuant	 to	 Wyoming Statute§	1-39-104(a)	and	all	other	state	laws.
+
+IN	 WITNESS	 WHEREOF,	 this	 lease	 has	 been	 executed	 by	 lessor	 and	 lessee	 effective	 on	 the	 day	 and	 year	 first	 above
+
+written.
+****************************************************************************************************
+Document 2:
 
 IN	 WITNESS	 WHEREOF,	 this	 lease	 has	 been	 executed	 by	 lessor	 and	 lessee	 effective	 on	 the	 day	 and	 year	 first	 above
 
@@ -2380,22 +2036,30 @@ BOND:
 
 STIP:
 ****************************************************************************************************
-Document 2:
+Document 3:
 
-Sodium/Trona	and	associated	mineral	salts
+A.
 
-All	Section	16,	Township	21N,	Range	108W,	6th	p.m.
+B.
 
-consisting	 of	 640.00	 acres,	 more	 or	 less,	 Sweetwater	 county,	 together	 with	 the	 right	 to	 construct	 and	 maintain	 thereon	 all works,	 buildings,	 plants,	 waterways,	 roads,	 communication	 lines,	 power	 lines,	 tipples,	 hoists,	 or	 other	 structures	 and appurtenances	necessary	to	the	full	enjoyment	thereof,	subject	however,	to	the	conditions	hereinafter	set	forth;
+PAYMENTS	-	To	make	all	payments	accruing	hereunder	to	the	Office	of	State	Lands	and	Investments	122
 
-Section	 2	 -	 TERM	 OF	 LEASE.	 This	 lease	 unless	 terminated	 at	 an	 earlier	 date	 as	 hereinafter	 provided,	 shall	 remain	 in force	and	effect	for	a	term	of	ten	(10)	years	beginning	on	the	2nd	day	of	August	2019	and	expiring	on	the	1st	day	of	August 2029.
+West	25th	Street-1	West,	Herschler	Building,	Cheyenne,	Wyoming	82002-0600.
 
-Section	3.	In	consideration	of	the	foregoing,	the	lessee	covenants	and	agrees	as	follows:
+C.
+
+RENTALS	 -	 Prior	 to	 the	 discovery	 of	 commercial	 quantitie5	 of	 the	 said	 mineral	 or	 minerals	 in	 the	 lands
+
+herein	leased,	to	pay	to	the	lessor
+
+in	advance,	beginning	with	the	effective	date	hereof,	an	annual	rental	of	one	dollar	($1.00)	per	acre,	or	fraction	thereof,	prior to	the	discovery	of	metallic	and	non-metallic	rocks	and	minerals	for	the	first	five	(5)	years	of	lease.
+
+Two	dollars	($2.00)	per	acre,	or	fraction	thereof	for	the	sixth	to	tenth	(6-10)	years,	or	any	renewal	thereof,	provided	however, that	if	the	said	lands	are	not	on	a	commercial	mining	basis	and	so	operated	at	the	end	of	two	(2)	years	from	the	date	hereof, such	 annual	 rental	 may	 be	 increased	 at	 the	 option	 of	 the	 lessor	 to	 such	 an	 amount	 as	 the	 lessor	 may	 decide	 to	 be	 fair	 and equitable.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 67
-Number of chunks retrieved: 4
+Number of chunks retrieved: 2
 Document 1:
 
 This	Lease	Agreement	is	effective	as	of	the	date	indicated	in	the	first	paragraph	of	this	Lease.
@@ -2449,51 +2113,11 @@ LESSEE
 BACTERIN	INTERNATIONAL,	INC.
 
 By: /s/	Darrel	Holmes
-****************************************************************************************************
-Document 3:
-
-EX-10.33	5	ex10-33.htm
-
-Exhibit	10.33
-
-LEASE	AGREEMENT
-
-THIS	LEASE,	made	and	entered	into	this	7th	day	of	August,	2013,	by	and	between	McCLELLAN	FARM,	a	Montana	Corporation	of	Joplin, MT,	 or	 assigns,	 hereinafter	 designated	 “Lessor,”	 and	 BACTERIN	 INTERNATIONAL,	 INC.,	 a	 Nevada	 corporation	 with	 an	 address	 at	 600	 Cruiser Lane,	Belgrade,	MT	59714,	hereinafter	designated	“Lessee.”
-
-WITNESSETH
-
-Lessor	does	lease	to	Lessee	approximately	17,700	square	feet	of	office	manufacturing	and	shop	space	in	the	building	at	600	Cruiser	Lane,
-
-Belgrade,	MT,	59714	more	particularly	described	on	Exhibit	A,	attached	hereto.
-
-TO	HAVE	AND	TO	HOLD	the	same	unto	the	Lessee	from	the	7th	day	of	August,	2013	until	the	7th	day	of	August,	2023.
-
-AND	THE	LESSOR	AND	THE	LESSEE	FURTHER	COVENANT	AND	AGREE	AS	FOLLOWS:
-
-1.	 RENT.	 The	 Lessee	 agrees	 to	 pay	 Thirteen	 Thousand	 Dollars	 ($13,000.00)	 per	 month	 in	 advance	 commencing	 August	 7,	 2013.	 Lessee
-****************************************************************************************************
-Document 4:
-
-1.	 RENT.	 The	 Lessee	 agrees	 to	 pay	 Thirteen	 Thousand	 Dollars	 ($13,000.00)	 per	 month	 in	 advance	 commencing	 August	 7,	 2013.	 Lessee
-
-agrees	to	pay	Thirteen	Thousand	Dollars	($13,000.00)	per	month	on	or	before	the	7th	day	of	each	month	thereafter	during	the	term	of	this	Lease.
-
-2.	UTILITIES.	Lessee	shall	pay	all	utilities.
-
-3.	DEFAULT.	If	the	Lessee	does	not	make	the	rent,	taxes	and	utility	payments	on	time,	or	otherwise	fails	to	perform	any	terms	of	this	lease,
-
-the	Lessor	may,	following	fifteen	(15)	days’	written	notice:
-
-a.
-
-Terminate	this	lease,	whereupon	Lessee	shall	be	relieved	of	any	further	liabilities	or	obligations	hereunder	from	and	after	the	date	of such	termination,	except	with	respect	to	rentals	and	other	sums	due	or	accrued	prior	to	said	date	of	termination,	and	all	obligations under	paragraph	7	herein	through	the	date	of	termination	of	the	Lease,	and/or;
-
-b.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 68
-Number of chunks retrieved: 4
+Number of chunks retrieved: 3
 Document 1:
 
 Section	 8.	 HEIRS	 AND	 SUCCESSORS	 IN	 INTEREST.	 It	 is	 further	 agreed	 that	 each	 obligation	 hereunder	 shall extend	to	and	be	binding	upon	and	every	benefit	hereof	shall	inure	to	the	heirs,	executors,	administrators,	successors	of	or assigns	of	the	respective	parties	hereto.
@@ -2509,6 +2133,24 @@ IN	 WITNESS	 WHEREOF,	 this	 lease	 has	 been	 executed	 by	 lessor	 and	 lessee
 above	written.
 ****************************************************************************************************
 Document 2:
+
+A.
+
+B.
+
+PAYMENTS	-	To	make	all	payments	accruing	hereunder	to	the	Office	of	State	Lands	and	Investments
+
+122	West	25th	Street-1	West,	Herschler	Building,	Cheyenne,	Wyoming	82002-0600.
+
+C.
+
+RENTALS	 -	 Prior	 to	 the	 discovery	 of	 commercial	 quantities	 of	 the	 said	 mineral	 or	 minerals	 in	 the
+
+lands	herein	leased,	to	pay	to	the	lessor
+
+in	advance,	beginning	with	the	effective	date	hereof,	an	annual	rental	of	one	dollar	($1.00)	per	acre,	or	fraction	thereof, prior	 to	 the	 discovery	 of	 metallic	 and	 non-metallic	 rocks	 and	 minerals	 for	 the	 first	 five	 (5)	 years	 of	 lease.	 Two	 dollars ($2.00)	per	acre,	or	fraction	thereof	for	the	sixth	to	tenth	(6-10)	years,	or	any	renewal	thereof,	provided	however,	that	if the	said	lands	are	not	on	a	commercial	mining	basis	and	so	 operated	at	the	end	of	two	(2)	years	from	the	date	hereof, such	annual	rental	may	be	increased	at	the	option	of	the	lessor	to	such	an	amount	as	the	lessor	may	decide	to	be	fair	and equitable.
+****************************************************************************************************
+Document 3:
 
 IN	 WITNESS	 WHEREOF,	 this	 lease	 has	 been	 executed	 by	 lessor	 and	 lessee	 effective	 on	 the	 day	 and	 year	 first
 
@@ -2557,38 +2199,6 @@ FUND:	MH
 BOND:
 
 STIPS:
-****************************************************************************************************
-Document 3:
-
-Sodium/Trona	and	Associated	Mineral	Salts
-
-1.
-
-acres	Section	4	N2N2:S2	T20N	R109W				6th				p.m.
-
-consisting	of	519.24	acres,	more	or	less,	Sweetwater	county,	together	with	the	right	to	construct	and	maintain	thereon	all works,	 buildings,	 plants,	 waterways,	 roads,	 communication	 lines,	 power	 lines,	 tipples,	 hoists,	 or	 other	 structures	 and appurtenances	necessary	to	the	full	enjoyment	thereof,	subject	however,	to	the	conditions	hereinafter	set	forth;
-
-Section	2	-	TERM	OF	LEASE.	This	lease	unless	terminated	at	an	earlier	date	as	hereinafter	provided,	shall	remain in	force	and	effect	for	a	term	of	ten	(10)	years	beginning	on	the	2nd	day	of	November	2019	and	expiring	on	the	1st	day	of November	2029.
-
-Section	3.	In	consideration	of	the	foregoing,	the	lessee	covenants	and	agrees	as	follows:
-****************************************************************************************************
-Document 4:
-
-A.
-
-B.
-
-PAYMENTS	-	To	make	all	payments	accruing	hereunder	to	the	Office	of	State	Lands	and	Investments
-
-122	West	25th	Street-1	West,	Herschler	Building,	Cheyenne,	Wyoming	82002-0600.
-
-C.
-
-RENTALS	 -	 Prior	 to	 the	 discovery	 of	 commercial	 quantities	 of	 the	 said	 mineral	 or	 minerals	 in	 the
-
-lands	herein	leased,	to	pay	to	the	lessor
-
-in	advance,	beginning	with	the	effective	date	hereof,	an	annual	rental	of	one	dollar	($1.00)	per	acre,	or	fraction	thereof, prior	 to	 the	 discovery	 of	 metallic	 and	 non-metallic	 rocks	 and	 minerals	 for	 the	 first	 five	 (5)	 years	 of	 lease.	 Two	 dollars ($2.00)	per	acre,	or	fraction	thereof	for	the	sixth	to	tenth	(6-10)	years,	or	any	renewal	thereof,	provided	however,	that	if the	said	lands	are	not	on	a	commercial	mining	basis	and	so	 operated	at	the	end	of	two	(2)	years	from	the	date	hereof, such	annual	rental	may	be	increased	at	the	option	of	the	lessor	to	such	an	amount	as	the	lessor	may	decide	to	be	fair	and equitable.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -2601,24 +2211,6 @@ Number of chunks retrieved: 0
 Chunks for lease 70
 Number of chunks retrieved: 2
 Document 1:
-
-13.3
-
-No	indulgence,	leniency	or	extension	of	time	which	any	Party	may	give	or	allow	to	the	other	Party	in	respect	of	the	performance	of	any obligation	hereunder,	shall	in	any	way	prejudice	the	Party	giving	or	allowing	the	indulgence,	leniency	or	extension	or	preclude	such Party	from	exercising	any	of	its	rights	and	enforcing	the	obligations	of	the	other	Party	in	terms	of	this	Agreement.
-
-13.4
-
-No	addition	to,	alteration,	cancellation,	variation	or	novation	of	this	Agreement	and	no	waiver	of	any	right	arising	from	this	Agreement or	 its	 breach	 or	 termination	 shall	 be	 of	 any	 force	 or	 effect	 unless	 reduced	 to	 writing	 and	 signed	 by	 all	 the	 Parties	 or	 their	 duly authorised	representatives.
-
-14	SIGNATURE
-
-14.1
-
-This	Agreement	is	signed	by	the	Parties	on	the	dates	and	at	the	places	indicated	opposite	their	respective	names.
-
-14.2
-****************************************************************************************************
-Document 2:
 
 14	SIGNATURE
 
@@ -2637,11 +2229,53 @@ This	 Agreement	 may	 be	 executed	 in	 one	 or	 more	 counterparts,	 each	 of	 
 The	persons	signing	this	Agreement	in	a	representative	capacity	warrant	their	authority	to	do	so.
 
 16
+****************************************************************************************************
+Document 2:
+
+4	 COMMENCEMENT	AND	DURATION
+
+4.1
+
+This	Agreement	shall	come	into	operation	on	the	Commencement	Date	and	shall	subsist	for	a	period	of	10	months	(“Initial	Period”), subject	to	clause	4.2,	terminating	on	the	earlier	of	the	following	days	–
+
+4.1.1
+
+the	lapse	of	the	Initial	Period;	or
+
+4
+
+4.1.2
+
+if	this	Agreement	is	validly	terminated	or	cancelled	in	accordance	with	its	provisions.
+
+5	 RENTAL
+
+5.1
+
+The	Lessee	shall	make	payment	of	the	Rental	to	the	Lessor	in	advance	on	or	before	the	first	Business	Day	of	each	month,	with	the	first Rental	Payment	being	payable	on	or	before	1	September	2020.
+
+6	 LESSEE’S	RIGHTS	AND	OBLIGATIONS
+
+6.1
+
+Deposit
+
+6.1.1
+
+The	Lessee	shall	pay	–
+
+6.1.1.1
+
+€6000	(six	thousand	Euros)	as	a	deposit	in	respect	of	the	Rental;	and
+
+6.1.1.2
+
+€12.02	(twelve	Euros	and	two	cents)	as	a	deposit	in	respect	of	water	charge,
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 71
-Number of chunks retrieved: 2
+Number of chunks retrieved: 1
 Document 1:
 
 4) The	Lessor	represents	that	the	Lessor	has	informed	the	Lessee	of	any	and	all	pre-existing	terms	or	public	easements	described	in	clause	3.
@@ -2659,45 +2293,11 @@ Basic	Rent	Payable
 Lease.
 
 Operating	Expenses	and	Additional	Rent
-****************************************************************************************************
-Document 2:
-
-This	portion	is	herein	after	referred	to	as	“the	Lands.”
-
-Grant	of	Lease
-
-1) Subject	to	the	terms	and	conditions	set	out	in	this	Lease,	the	Lessor	agrees	to	lease	the	Lands	to	the	Lessee.
-
-Scope	of	the	Lands	Leased
-
-2) The	Lands	include	all:
-
-a) buildings	on	the	Lands	as	of	the	Effective	Date
-
-b) buildings	constructed	on	the	Lands	during	the	term	of	this	Lease;
-
-c) ways,	paths	and	passages	on	the	Lands;
-
-d) waters	and	water	courses	on	the	Lands,	including	access	to	and	use	of	water;	and
-
-e) privileges,	advantages	and	appurtenances	whatsoever	related	to	the	Lands;
-
-f) EXCEPT:
-
-i) any	residential	buildings.
-
-Exhibit	10.67
-
-Pre-existing	Terms	or	Easements
-
-3) This	grant	of	lease	is	subject	to:
-
-a) existing	terms	contained	in	any	original	grant	of	the	Lands	or	in	any	other	disposition	from	the	Crown	with	respect	to	the	Lands;	and b) any	highway,	or	public	right-of-way,	watercourse,	right	of	water	or	other	public	easement	found	on	the	Lands.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 72
-Number of chunks retrieved: 2
+Number of chunks retrieved: 1
 Document 1:
 
 3) This	grant	of	lease	is	subject	to:
@@ -2715,47 +2315,11 @@ Duration	of	Lease
 Basic	Rent	Payable
 
 6) The	Lessee	will	pay	to	the	Lessor	the	sum	of	$2,370	per	month	(the	“Basic	Rent”),	on	the	1st	day	of	each	and	every	month	during	such	period commencing	April	1,	2022	with	the	first	payment	made	on	April	2022	to	cover	rent	for	the	period	from	January	to	April	2022	(4	months	of	rent);
-****************************************************************************************************
-Document 2:
-
-This	portion	is	herein	after	referred	to	as	“the	Lands.”
-
-Grant	of	Lease
-
-1) Subject	to	the	terms	and	conditions	set	out	in	this	Lease,	the	Lessor	agrees	to	lease	the	Lands	to	the	Lessee.
-
-Scope	of	the	Lands	Leased
-
-2) The	Lands	include	all:
-
-a) buildings	on	the	Lands	as	of	the	Effective	Date
-
-b) buildings	constructed	on	the	Lands	during	the	term	of	this	Lease;
-
-c) ways,	paths	and	passages	on	the	Lands;
-
-d) waters	and	water	courses	on	the	Lands,	including	access	to	and	use	of	water;	and
-
-e) privileges,	advantages	and	appurtenances	whatsoever	related	to	the	Lands;
-
-f) EXCEPT:
-
-i) any	buildings	on	the	portion	shown	as	“SA1”	on	Appendix	1	(“Accessory	A”),	except	as	provided	per	clause	9;	and
-
-ii) any	residential	buildings.
-
-Exhibit	10.68
-
-Pre-existing	Terms	or	Easements
-
-3) This	grant	of	lease	is	subject	to:
-
-a) existing	terms	contained	in	any	original	grant	of	the	Lands	or	in	any	other	disposition	from	the	Crown	with	respect	to	the	Lands;	and
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 73
-Number of chunks retrieved: 1
+Number of chunks retrieved: 2
 Document 1:
 
 3
@@ -2775,11 +2339,67 @@ th
 Your	commencement	date	for	the	purposes	of	any	period	of	continuous	employment	and	for	statutory	purposes	is	the	Commencement	Date.
 
 3.3
+****************************************************************************************************
+Document 2:
+
+[Remainder	of	Page	Left	Intentionally	Blank]
+
+4
+
+IN	WITNESS	whereof	the	parties	have	executed	this	Agreement	on	the	date	first	written	above.
+
+SIGNED	by
+
+/s/	Carol	Forsyte
+
+duly	authorised	to	sign	this	agreement	on	behalf	of	ALC	Aircraft	Limited
+
+in	the	presence	of:
+
+/s/	Chelsea	Athens
+
+Signature	of	Witness
+
+Chelsea	Athens
+
+Name	of	Witness
+
+[*]
+
+Address	of	Witness
+
+Executive	Assistant
+
+Occupation	of	Witness
+
+/s/	Steven	Udvar-Házy
+
+Signature	of	Steven	Udvar-Házy
+
+in	the	presence	of:
+
+/s/	Megan	Bradford
+
+Signature	of	Witness
+
+Megan	Bradford
+
+Name	of	Witness
+
+[*]
+
+Address	of	Witness
+
+Executive	Assistant
+
+Occupation	of	Witness
+
+5
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 74
-Number of chunks retrieved: 2
+Number of chunks retrieved: 1
 Document 1:
 
 OPTION	to	RENEW
@@ -2799,21 +2419,11 @@ By:
 By:
 
 (Lessor)
-****************************************************************************************************
-Document 2:
-
-TERM,	RENT	and	OPERATING	EXPENSES
-
-Lessor	demises	a	one-room	office	space	within	the	above	premises	(the	“demised	space”)	along	with	the	use	of	common	areas	and	boardroom(s), and	 reception	 services,	 telephone	 and	 internet	 provided	 (all	 described	 further	 in	 this	 agreement)	 on	 a	 month-to-month	 basis,	 commencing	 on January	 1,	 2020	 and	 terminating	 on	 December	 31,	 2020	 or	 sooner	 as	 provided	 herein	 for	 a	 1-year	 total	 of	 rent	 and	 services	 (“rent”)	 of	 nine thousand	three	hundred	dollars	($9,300)	over	this	term	paid	in	equal	monthly	installments	of	seven	hundred	seventy-five	($775).
-
-All	rent	will	be	billed	and	payable	in	equal	installments	in	advance	on	the	first	day	of	each	month	and	no	later	than	the	tenth	day	of	said	month,	for that	month’s	rental,	during	the	term	of	this	lease.	All	rental	payments	shall	be	made	to	Lessor	at	the	address	specified	above.
-
-COMMON	AREA	USAGE	and	SERVICES
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 75
-Number of chunks retrieved: 3
+Number of chunks retrieved: 2
 Document 1:
 
 k.
@@ -2859,10 +2469,6 @@ By: Name: Chuck	Edwards Title: President,	CEO EIN/Taxpayer	Identification	Number
 /s/	Chuck	Edwards
 
 2
-****************************************************************************************************
-Document 3:
-
-This	conveyance	is	made	on	a	strictly	AS-IS,	WHERE-IS	basis.	Assignee	accepts	this	Assignment	and	hereby assumes	 and	 agrees	 to	 perform	 from	 and	 after	 the	 date	 hereof	 all	 of	 the	 covenants,	 agreements	 and	 obligations	 of Assignor	 under	 the	 Agreements	 and	 the	 Permits.	 Assignee	 agrees	 to	 indemnify,	 defend	 and	 hold	 Assignor	 harmless, from	 any	 loss,	 cost,	 claim,	 liability,	 expense	 or	 demand	 of	 any	 nature	 under	 the	 Agreements	 (including	 reasonable attorneys’	fees)	arising	or	accruing	on	or	after	the	date	hereof.	Assignor	agrees	to	indemnify,	defend	and	hold	Assignee harmless,	 from	 any	 loss,	 cost,	 claim,	 liability,	 expense	 or	 demand	 of	 any	 nature	 under	 the	 Agreements	 (including reasonable	attorneys’	fees)	arising	or	accruing	before	the	date	hereof.	This	Assignment	shall	be	binding	on	and	inure	to the	benefit	of	the	parties	herein	and	their	successors	and	assigns.	This	Assignment	shall	be	governed	by	and	construed
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -2899,132 +2505,14 @@ Name:	Frank	Monte Position:	Director
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 77
-Number of chunks retrieved: 4
-Document 1:
+Number of chunks retrieved: 0
 
-Pursuant	to	Section	4	of	the	Lease,	Annual	Base	Rent	will	be	payable	commencing	on	the	Rent	Commencement	Date.		As	of	the	Rent
-
-Commencement	Date,	the	Parties	are	obligated	to	execute	a	Rent	Commencement	Agreement.	The	Commencement	Date	specified	in	the	Parties' executed	Rent	Commencement	Agreement	for	the	payment	of	Rent	will	establish	the	“Commencement	Date”	and	the	"Rent	Commencement	Date" for	purposes	of	the	Lease.
-
-Pursuant	to	Section	1A	and	Section	4	of	the	Lease,	Tenant’s	pro	rata	share	of	the	Initial	Construction	will	be	payable	as	Annual	Base	Rent
-
-during	the	initial	ten	(10)	year	Term.
-
-NOW	THEREFORE,	the	parties	hereby	agree	that
-
-1.										The	“Commencement	Date”	and	the	“Rent	Commencement	Date”	for	the	purposes	of	the	Lease	is	_________________,	201_.
-
-2.										The	total	Initial	Construction	cost	is	_______	Dollars	($______).
-****************************************************************************************************
-Document 2:
-
-shall	execute	a	Rent	Commencement	Agreement	in	the	form	of	Exhibit	“D”	memorializing	the	Commencement	Date	and	the	Rent	Commencement Date.		The	Commencement	Date	shall	not	extend	beyond	May	1,	2016	unless	agreed	to	by	Tenant.		If	the	Commencement	Date	has	not	occurred	by June	1,	2016,	unless	Landlord	is	delayed	in	performance	by	(i)	delays	caused	by	Tenant	or	(ii)	force	majeure,	as	hereinafter	defined	and	subject	to the	 provisions	 of	 Section	 33	 hereof	 (together,	 clauses	 (i)	 and	 (ii)	 being	 referred	 to	 as	 the	 “Permitted	 Delays”)	 and	 (iii)	 extreme	 winter	 weather, Landlord	 shall	 reduce	 the	 initial	 monthly	 rent	 payments	 by	 an	 equivalent	 of	 one	 day’s	 rent	 for	 each	 one	 day	 delay	 in	 the	 Commencement	 Date beyond	June	1,	2016.	If	the	Commencement	Date	has	not	occurred	by	August	1,	2016,	Tenant	may,	at	its	sole	option,	either	elect	to	proceed	subject
-****************************************************************************************************
-Document 3:
-
-____	day	of	_______________,	2015.
-
-IN	PRESENCE	OF:
-
-SOLAR	COMMUNITIES,	INC.	DBA SUNCOMMON
-
-By:
-
-Witness
-
-Duly	Authorized	Agent
-
-STATE	OF	VERMONT COUNTY	OF	_________________,	SS.
-
-On	 this	 _____	 day	 of	 ________________,	 2015,	 personally	 appeared	 ____________________,	 Duly	 Authorized	 Agent	 of	 SOLAR	 COMMUNITIES, INC.	DBA	SUNCOMMON,	to	me	known	to	be	the	person	who	executed	the	foregoing	instrument,	and	he	acknowledged	this	instrument,	by	him signed,	to	be	his	free	act	and	deed	and	the	free	act	and	deed	of	SOLAR	COMMUNITIES,	INC.	DBA	SUNCOMMON.
-
-Before	me,
-
-Notary	Public
-
-Notary	commission	issued	in	______________	County My	commission	expires:	____________
-
-19-
-
-Exhibit	“A”
-
-Property	Site	Plan
-
-Exhibit	“B”
-
-Floor	Plan	of	Premises
-
-Exhibit	“C”
-
-Building	Specifications
-
-Exhibit	“D”
-
-COMPUTATION	OF	COST	OF	INITIAL	CONSTRUCTION AND	ANNUAL	BASE	RENT	FOR	INITIAL	TEN	(10)	YEAR	TERM
-****************************************************************************************************
-Document 4:
-
-Section	2.		Term	of	Lease.		(a)		The	Premises	are	hereby	leased	to	Tenant,	subject	to	all	of	the	terms	and	conditions	herein	contained,	for	a term	of	ten	(10)	years	(the	“Term”)	which	shall	commence	on	the	“Commencement	Date”	which	is	defined	as	ten	(10)	days	following	the	later	of	the following:		the	issuance	by	the	Town	of	Waterbury,	Vermont	of	certificate(s)	of	occupancy	for	the	Premises	(if	applicable)	under	(i)	permits	issued by	 the	 Town	 of	 Waterbury	 under	 its	 development	 review/planning	 and	 zoning	 laws	 and	 (ii)	 permits	 issued	 by	 the	 Vermont	 Department	 of	 Public Safety	Division	of	Fire	Safety,	and	shall	end	at	midnight	on	the	day	preceding	the	tenth	(10th)	anniversary	of	the	Commencement	Date.		The	parties shall	execute	a	Rent	Commencement	Agreement	in	the	form	of	Exhibit	“D”	memorializing	the	Commencement	Date	and	the	Rent	Commencement
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 79
-Number of chunks retrieved: 3
+Number of chunks retrieved: 1
 Document 1:
-
-The	stamp	duty	on	this	Agreement	and	its	counterpart	shall	be	borne	by	the	Landlord	and	the	Tenant	in	equal	shares.
-
-4
-
-AS	WITNESS	the	hands	of	the	parties	hereto	the	day	and	year	first	above	written.
-
-SIGNED	by	/s/	Nong	Bing	Luw
-
-for	and	on	behalf	of	the	Landlord
-
-) ) ) )
-
-SIGNED	by	the	Tenant Treasure	Success	International	Limited
-
-) )
-
-OR
-
-SIGNED	by	/s/	Choi	Lin	Hung
-
-for	and	on	behalf	of	the	Tenant
-
-) ) ) )
-
-5
-
-FIRST	SCHEDULE
-
-The	Property: Unit	A,	19/F,	Ford	Glory	Plaza,	37-39	Wing	Hong	Street,	Cheung	Sha	Wan,	Kowloon,	Hong	Kong
-
-SECOND	SCHEDULE
-
-Term
-
-: 2	years
-
-Period
-
-: 26	February	2021	to	25	February	2023
-
-Rent
-
-: HK$119,540	per	month	(payable	on	the	first	day	of	each	and	every	month,	management	fees,	rates	and	government	rent	to	be
-
-borne	by	Tenant)	and	without	any	set-off	and/or	deduction)
-
-Deposit
-
-: HK$239,080
-
-6
-****************************************************************************************************
-Document 2:
 
 (2)
 
@@ -3041,26 +2529,6 @@ First	Schedule	and	Second	Schedule.
 WHEREBY	IT	IS	AGREED	as	follows:-
 
 1.
-****************************************************************************************************
-Document 3:
-
-EX-10.21	3	f10k2021ex10-21_jerashhold.htm	LEASE	AGREEMENT	BETWEEN	TREASURE	SUCCESS	AND	EVER	WINLAND	LIMITED	DATED FEBRUARY	26,	2021
-
-Exhibit	10.21
-
-THIS	AGREEMENT	is	made	on	the	26th	day	of	February,	2021
-
-BETWEEN:-
-
-(1)
-
-Ever	Winland	 Limited	 whose	 registered	 office	 is	 situate	 at	 Unit	 06,	 3/F.,	 Siu	Wai	 Industrial	 Centre,	 29-33	Wing	 Hong	 Street,	 Cheung	 Sha Wan,	Kowloon,	Hong	Kong	(the	“Landlord”);	and
-
-(2)
-
-Treasure	Success	International	Limited	whose	registered	office	is	situate	at	Unit	A,	19/F,	Ford	Glory	Plaza,	37-39	Wing	Hong	Street,	Cheung Sha	Wan,	Kowloon,	Hong	Kong	(the	“Tenant”).
-
-RECITAL
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -3080,9 +2548,23 @@ SECTION	3.	TERM	AND	RENT
 ****************************************************************************************************
 Document 2:
 
-SECTION	12.	MISCELLANEOUS
+EX-10.13	5	ex1013aircraftleaseagreeme.htm	EX-10.13
 
-12.1				Entire	Agreement.	This	Agreement,	and	all	terms,	conditions,	warranties,	and	representations	herein,	are	for	the	sole and	 exclusive	 benefit	 of	 the	 signatories	 hereto.	 This	 Agreement	 constitutes	 the	 entire	 agreement	 of	 the	 parties	 as	 of	 its Effective	 Date	 and	 supersedes	 all	 prior	 or	 independent,	 oral	 or	 written	 agreements,	 understandings,	 statements, representations,	commitments,	promises,	and	warranties	made	with	respect	to	the	subject	matter	of	this	Agreement.
+LESSOR’S	CHECKLIST/SUMMARY
+
+Parties:								Lessor:								VT	Aviation	Leasing	LLC 								Lessee:								Douglas	Elliman	Inc. Aircraft:				Make/Model:				Learjet	Inc.	60 								Serial	Number:				349 								Registration:				N62VG
+
+Effective	Date:				December	21,	2021 Term:									1	Year Auto-Renewal	(Check	One)				Yes:	X	No:	_____
+
+Rental	Type	(Check	One):				Monthly	Rental:				___ Please	Read	Section	3.2				Hourly	Rental:									X
+
+Rental	Appraisal	Date:				June	22,	2021 First	Invoice	Date:								_________________________ First	Rent	Payment	Date:				_________________________
+
+Subject	to	Sales/Use	Tax	(Check	One)				Yes:	X	No:	_____ If	Yes:				Taxing	State:	Florida 				Vendor’s	License	No.:				_________________________
+
+First	Return	Due	Date:				_________________________
+
+Complete,	Executed	Copies	of	Lease	Provided	to	(Check	when	Provided): Lessor:	_____;	Lessee:	_____;	GKG	Law:	_____;	CPA/Accountant:	_____
 ****************************************************************************************************
 Document 3:
 
@@ -3113,8 +2595,28 @@ Title:					Executive	Vice	President	and	Chief	Operating	Officer
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 82
-Number of chunks retrieved: 2
+Number of chunks retrieved: 4
 Document 1:
+
+SECTION	12.	MISCELLANEOUS
+
+12.1				Entire	Agreement.	This	Agreement,	and	all	terms,	conditions,	warranties,	and	representations	herein,	are	for	the	sole	and	exclusive	benefit of	the	signatories	hereto.	This	Agreement	constitutes	the	entire	agreement	of	the	parties	as	of	its	Effective	Date	and	supersedes	all	prior	or independent,	oral	or	written	agreements,	understandings,	statements,	representations,	commitments,	promises,	and	warranties	made	with respect	to	the	subject	matter	of	this	Agreement.
+
+12.2				Other	Transactions.	 Except	as	specifically	provided	in	this	Agreement,	none	of	the	provisions	of	this	Agreement,	nor	any	oral	or	written statements,	 representations,	 commitments,	 promises,	 or	 warranties	 made	 with	 respect	 to	 the	 subject	 matter	 of	 this	Agreement	 shall	 be construed	or	relied	upon	by	any	party	as	the	basis	of,	consideration	for,	or	inducement	to	engage	in,	any	separate	agreement,	transaction	or commitment	for	any	purpose	whatsoever.
+
+10
+****************************************************************************************************
+Document 2:
+
+"Term"	means	the	entire	period	from	the	Effective	Date	to	the	date	this	Agreement	is	terminated	pursuant	to	Section	3.1.
+
+SECTION	2.				LEASE	AND	DELIVERY	OF	THE	AIRCRAFT
+
+2.1				Lease.	Lessor	agrees	to	lease	to	Lessee,	and	Lessee	agrees	to	lease	from	Lessor,	the	Aircraft,	on	the	terms	and	conditions	of	this	Agreement.
+
+2.2				Delivery.	The	Aircraft	shall	be	delivered	to	the	Lessee	on	a	mutually	agreed	date	at	the	Operating	Base,	or	such	other	location	as	the	parties may	 mutually	 agree,	 and	 "AS	 IS,"	 "WHERE	 IS,"	AND	 SUBJECT	 TO	 EACH	AND	 EVERY	 DISCLAIMER	 OF	 WARRANTY	AND REPRESENTATION	AS	SET	FORTH	IN	SECTION	4	HEREOF.	 Lessor	shall	not	be	liable	for	delay	or	failure	to	furnish	the	Aircraft pursuant	 to	 this	 Agreement	 when	 such	 failure	 is	 caused	 by	 government	 regulation	 or	 authority,	 mechanical	 difficulty,	 war,	 civil commotion,	strikes	or	labor	disputes,	weather	conditions,	or	acts	of	God.
+****************************************************************************************************
+Document 3:
 
 2 . 5				FSDO	Notice.	 At	 least	 48	 hours	 prior	 to	 the	 first	 flight	 to	 be	 conducted	 under	 this	Agreement,	 Lessee	 shall	 have	 completed	 the	 FSDO Notice,	substantially	in	the	form	attached	hereto	as	Schedule	C,	and	delivered	the	completed	FSDO	Notice	by	facsimile	to	the	FAA	Flight Standards	District	Office	located	nearest	to	the	departure	airport	of	said	first	flight.
 
@@ -3122,30 +2624,36 @@ SECTION	3.	TERM	AND	RENT
 
 3 . 1				Term.	 This	Agreement	 shall	 become	 effective	 on	 the	 Effective	 Date,	 and	 shall	 continue	 in	 effect	 for	 a	 period	 of	 one	 (1)	 year,	 unless terminated	sooner	pursuant	to	the	express	provisions	herein	contained.	At	the	end	of	the	first	one	(1)	year	period	or	any	subsequent	one	(1) year	 period,	 this	 Agreement	 shall	 automatically	 be	 renewed	 for	 an	 additional	 one	 (1)	 year	 period.	Each	 party	 shall	 have	 the	 right	 to terminate	this	Agreement	without	cause	on	thirty	(30)	days	written	notice	to	the	other	party.
 ****************************************************************************************************
-Document 2:
+Document 4:
 
-EX-10.12	4	ex1012aircraftleaseagreeme.htm	EX-10.12
+11
 
-LESSOR’S	CHECKLIST/SUMMARY
+AN	 EXPLANATION	 OF	 FACTORS	 BEARING	 ON	 OPERATIONAL	 CONTROL	 AND	 PERTINENT	 FEDERAL	 AVIATION REGULATIONS	 CAN	 BE	 OBTAINED	 FROM	 THE	 NEAREST	 FEDERAL	 AVIATION	 ADMINISTRATION	 FLIGHT	 STANDARDS DISTRICT	OFFICE.
 
-Parties:								Lessor:								VT	Equipment	Leasing	LLC 								Lessee:								Douglas	Elliman	Inc. Aircraft:				Make/Model:				Bombardier	Inc.	Challenger	605 								Serial	Number:				5905 								Registration:				N97NP
+THE	PARTIES	HERETO	CERTIFY	THAT	A	TRUE	COPY	OF	THIS	AGREEMENT	SHALL	BE	CARRIED	ON	THE	AIRCRAFT	AT	ALL TIMES	 AND	 SHALL	 BE	 MADE	 AVAILABLE	 FOR	 INSPECTION	 UPON	 REQUEST	 BY	 AN	 APPROPRIATELY	 CONSTITUTED IDENTIFIED	REPRESENTATIVE	OF	THE	ADMINISTRATOR	OF	THE	FAA.
 
-Effective	Date:				December	21,	2021 Term:									1	Year Auto-Renewal	(Check	One)				Yes:	X	No:	_____
+*	*	Signature	Page	Follows	*	*	*
 
-Rental	Type	(Check	One):				Monthly	Rental:				___ Please	Read	Section	3.2 				Hourly	Rental:									X
+12
 
-Rental	Appraisal	Date:				November	10,	2020 First	Invoice	Date:								_________________________ First	Rent	Payment	Date:				_________________________
+IN	 WITNESS	 WHEREOF,	 the	 Lessor	 and	 the	 Lessee	 have	 each	 caused	 this	 Aircraft	 Lease	Agreement 	 to	 be	 duly	 executed	 as	 of	 the Effective	Date.
 
-Subject	to	Sales/Use	Tax	(Check	One)				Yes:	X	No:	_____ If	Yes:				Taxing	State:	Florida 				Vendor’s	License	No.:				_________________________
+LESSOR:
 
-First	Return	Due	Date:				_________________________
+VT	Equipment	Leasing	LLC
 
-Complete,	Executed	Copies	of	Lease	Provided	to	(Check	when	Provided): Lessor:	_____;	Lessee:	_____;	GKG	Law:	_____;	CPA/Accountant:	_____
+By:				_/s/	J.	Bryant	Kirkland	III												 																				Print:					J.	Bryant	Kirkland	III 																				Title:					Manager
+
+LESSEE:
+
+Douglas	Elliman	Inc.
+
+By:				/s/	Richard	J.	Lampen																 																				Print:					Richard	J.	Lampen
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 84
-Number of chunks retrieved: 2
+Number of chunks retrieved: 1
 Document 1:
 
 Pursuant	to	Section	4	of	the	Lease,	Annual	Base	Rent	will	be	payable	commencing	on	the	Rent	Commencement	Date.		As	of	the	Rent	Commencement	Date,
@@ -3161,33 +2669,11 @@ NOW	THEREFORE,	the	parties	hereby	agree	that
 1.										The	“Commencement	Date”	and	the	“Rent	Commencement	Date”	for	the	purposes	of	the	Lease	is	_________________,	201_.
 
 2.										The	total	Initial	Construction	cost	is	_______	Dollars	($______).
-****************************************************************************************************
-Document 2:
-
-2,149,905	 	 $
-
-1,896,632
-
-Exhibit	“F”
-
-Projected	Construction	Schedule	and	Completion	Date
-
-Exhibit	“G”
-
-Form	of	Rent	Commencement	Agreement
-
-RENT	COMMENCEMENT	AGREEMENT
-
-ROUTE	2 WATERBURY,	VERMONT
-
-THIS	RENT	COMMENCEMENT	AGREEMENT	(this	“Agreement”)	is	made	and	entered	into	this	____	day	of	_________,	201_,	between	MALONE	RTE	2
-
-WATERBURY	PROPERTIES,	LLC,	a	Vermont	limited	liability	company	with	a	place	of	business	in	Montpelier,	Vermont	(the	“Landlord”)	and	SOLAR COMMUNITIES,	INC.	dba	SUNCOMMON,	a	Vermont	benefit	corporation	and	certified	B	corporation	with	a	place	of	business	in	Waterbury,	Vermont	(the “Tenant”)	pursuant	to	that	certain	Lease	Agreement	dated	as	of	October	__,	2015	by	and	between	Tenant	and	Landlord	(the	“Lease”).		Landlord	and	Tenant	are sometimes	collectively	referred	to	herein	as	the	“Parties”	and	individually	referred	to	herein	as	a	“Party”.		All	capitalized	terms	used	but	not	defined	herein	shall	have the	meanings	given	to	such	terms	in	the	Lease.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 85
-Number of chunks retrieved: 2
+Number of chunks retrieved: 1
 Document 1:
 
 k.
@@ -3209,39 +2695,11 @@ q.
 Commencement	Date:	April	26,	2015.	(Notwithstanding	anything	to	the	contrary,	the	Commencement	Date	shall	be	updated to	reflect	the	date	of	closing	on	the	Landlord	Purchase	Contract,	as	defined	below.	Accordingly,	the	Expiration	Date	and	all other	applicable	dates	shall	be	adjusted,	as	appropriate.)
 
 Expiration	Date:	April	30,	2022,	unless	sooner	terminated	in	accordance	with	the	provisions	hereinafter	set	forth.
-****************************************************************************************************
-Document 2:
-
-1.
-
-On	or	about	the	date	hereof,	Lumina	and	Edwards	entered	into	that	certain	Lease	Agreement	(the	“Lease”)	whereby
-
-Edwards	leased	from	Lumina	that	certain	real	property	more	particularly	described	on	Exhibit	A,	attached	hereto	and	incorporated herein	(the	“Property”).
-
-2.
-
-In	the	Lease,	Lumina	granted	to	Edwards	the	option	to	acquire	the	Property	(the	“Option”).
-
-3.
-
-The	terms	and	conditions	for	the	exercise	of	the	foregoing	Option	are	set	forth	in	the	Lease,	which	terms	and
-
-conditions	are	fully	incorporated	herein	by	reference	as	if	fully	set	forth	herein.	This	Memorandum	is	not	intended	to	change	any	of	the terms	of	the	Lease.
-
-4.
-
-Until	terminated	in	accordance	with	the	terms	of	the	Lease,	the	Option	is	a	continuing	right	which	encumbers	the
-
-Property.	For	purposes	hereof,	the	current	address	for	Edwards	is	420	Erskine	Street,	Lubbock,	Texas	79404.
-
-5.
-
-Notwithstanding	the	foregoing,	under	no	circumstances	shall	the	Option	survive	beyond	May	31,	2018,	and	such
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 86
-Number of chunks retrieved: 1
+Number of chunks retrieved: 3
 Document 1:
 
 3
@@ -3261,12 +2719,158 @@ th
 Your	commencement	date	for	the	purposes	of	any	period	of	continuous	employment	and	for	statutory	purposes	is	the	Commencement	Date.
 
 3.3
+****************************************************************************************************
+Document 2:
+
+[Remainder	of	Page	Left	Intentionally	Blank]
+
+4
+
+IN	WITNESS	whereof	the	parties	have	executed	this	Agreement	on	the	date	first	written	above.
+
+SIGNED	by
+
+/s/	Carol	Forsyte
+
+duly	authorised	to	sign	this	agreement	on	behalf	of	 ALC	Aircraft	Limited
+
+in	the	presence	of:
+
+/s/	Chelsea	Athens
+
+Signature	of	Witness
+
+Chelsea	Athens
+
+Name	of	Witness
+
+[*]
+
+Address	of	Witness
+
+Executive	Assistant
+
+Occupation	of	Witness
+
+/s/	John	Plueger
+
+Signature	of	John	Plueger
+
+in	the	presence	of:
+
+/s/	Megan	Bradford
+
+Signature	of	Witness
+
+Megan	Bradford
+
+Name	of	Witness
+
+[*]
+
+Address	of	Witness
+
+Executive	Assistant
+
+Occupation	of	Witness
+
+5
+****************************************************************************************************
+Document 3:
+
+EX-10.213	8	ex10213-q422.htm	EX-10.213
+
+EXHIBIT	10.213
+
+THIS	AGREEMENT	(this	Agreement)	is	made	on	14	February	2023	between
+
+(1)
+
+ALC	Aircraft	Limited	whose	registered	office	is	at	22	Earlsfort	Terrace,	Dublin	2	(the	 Company);	and
+
+(2)
+
+John	Plueger	of	whose	address	is	c/o	Air	Lease	Corporation,	2000	Avenue	of	the	Stars,	Suite	1000N,	Los	Angeles,	CA	90047	( you),
+
+(each	a	Party	and	together	the	 Parties).
+
+IT	IS	AGREED 	as	follows:
+
+1
+
+DEFINITIONS	AND	INTERPRETATION
+
+1.1
+
+Headings	are	for	convenience	only	and	shall	not	affect	the	construction	or	interpretation	of	this	Agreement.
+
+1.2
+
+In	this	Agreement	the	following	words	and	expressions	shall	have	the	following	meanings:
+
+Board	means	the	Board	of	Directors	for	the	time	being	of	the	Company	(including	any	committee	of	the	Board	duly	appointed	by	it);
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 87
-Number of chunks retrieved: 1
+Number of chunks retrieved: 3
 Document 1:
+
+[Remainder	of	Page	Left	Intentionally	Blank]
+
+4
+
+IN	WITNESS	whereof	the	parties	have	executed	this	Agreement	on	the	date	first	written	above.
+
+SIGNED	by
+
+/s/	Carol	Forsyte
+
+duly	authorised	to	sign	this	agreement	on	behalf	of	 ALC	Aircraft	Limited
+
+in	the	presence	of:
+
+/s/	Chelsea	Athens
+
+Signature	of	Witness
+
+Chelsea	Athens
+
+Name	of	Witness
+
+[*]
+
+Address	of	Witness
+
+Executive	Assistant
+
+Occupation	of	Witness
+
+/s/	Steven	Udvar-Házy
+
+Signature	of	Steven	Udvar-Házy
+
+in	the	presence	of:
+
+/s/	Megan	Bradford
+
+Signature	of	Witness
+
+Megan	Bradford
+
+Name	of	Witness
+
+[*]
+
+Address	of	Witness
+
+Executive	Assistant
+
+Occupation	of	Witness
+
+5
+****************************************************************************************************
+Document 2:
 
 3
 
@@ -3285,6 +2889,40 @@ th
 Your	commencement	date	for	the	purposes	of	any	period	of	continuous	employment	and	for	statutory	purposes	is	the	Commencement	Date.
 
 3.3
+****************************************************************************************************
+Document 3:
+
+EX-10.212	7	ex10212-q422.htm	EX-10.212
+
+EXHIBIT	10.212
+
+THIS	AGREEMENT	(this	Agreement)	is	made	on	14	February	2023	between
+
+(1)
+
+ALC	Aircraft	Limited	whose	registered	office	is	at	22	Earlsfort	Terrace,	Dublin	2	(the	 Company);	and
+
+(2)
+
+Steven	Udvar-Házy	whose	address	is	c/o	Air	Lease	Corporation,	2000	Avenue	of	the	Stars,	Suite	1000N,	Los	Angeles,	CA	90047	( you),
+
+(each	a	Party	and	together	the	 Parties).
+
+IT	IS	AGREED 	as	follows:
+
+1
+
+DEFINITIONS	AND	INTERPRETATION
+
+1.1
+
+Headings	are	for	convenience	only	and	shall	not	affect	the	construction	or	interpretation	of	this	Agreement.
+
+1.2
+
+In	this	Agreement	the	following	words	and	expressions	shall	have	the	following	meanings:
+
+Board	means	the	Board	of	Directors	for	the	time	being	of	the	Company	(including	any	committee	of	the	Board	duly	appointed	by	it);
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -3351,13 +2989,35 @@ existing	terms	contained	in	any	original	grant	of	the	Lands	or	in	any	other	disp
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 90
-Number of chunks retrieved: 0
+Number of chunks retrieved: 1
+Document 1:
 
+1. TERM.		Subject	to	the	terms	and	conditions	set	forth	herein,	the	term	of	this	Lease	shall	continence	on	November	1,	2019	(the "Commencement	 Date")	 and	 shall	 end	 on	October	 31,	 2021	 (the	 "Termination	 Date"),	 unless	 modified,	 terminated	 or	 extended	 as provided	herein.
+
+2.
+
+RENT.
+
+(a)
+
+Base	Rent.	 	 Tenant	 shall	 pay	 to	 Landlord	 as	 Base	 Rent	 beginning	November	 1,	 2019,	 at	 Landlord's	 office	 at	 the
+
+address	stated	above,	or	such	other	place	as	may	be	designated	from	time	to	time	by	Landlord's	notice,	the	following	sums:
+
+Years 1-2
+
+Rent/S.F, Mixed
+
+Annual	Base	Rent $21,141.00
+
+Monthly	Base	Rent $1,761.75
+
+Base	Rent	is	exclusively	for	interior	office/shop	space,	including	personal	employee	vehicle	parking	and	shall	be	payable	in advance	without	setoff	or	deduction	whatsoever,	and	without	notice	from	landlord	in	equal	monthly	payments	as	listed	above,	prorated for	any	partial	month,	promptly	on	the	first	day	of	every	calendar	month	of	the	initial	term.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 91
-Number of chunks retrieved: 1
+Number of chunks retrieved: 2
 Document 1:
 
 SECTION	12.	MISCELLANEOUS
@@ -3365,11 +3025,31 @@ SECTION	12.	MISCELLANEOUS
 1 2 . 1				Entire	 Agreement.	This	 Agreement,	 and	 all	 terms,	 conditions,	 warranties,	 and	 representations	 herein,	 are	 for	 the	 sole	 and exclusive	benefit	of	the	signatories	hereto.	This	Agreement	constitutes	the	entire	agreement	of	the	parties	as	of	its	Effective	Date and	 supersedes	 all	 prior	 or	 independent,	 oral	 or	 written	 agreements,	 understandings,	 statements,	 representations,	 commitments, promises,	and	warranties	made	with	respect	to	the	subject	matter	of	this	Agreement.
 
 12-
+****************************************************************************************************
+Document 2:
+
+Federal	Aviation	Administration Aircraft	Registration	Branch ATTN:	Technical	Section P.O.	Box	25724 Oklahoma	City,	Oklahoma	73125
+
+At	least	48	hours	prior	to	the	first	flight	to	be	conducted	under	this	Agreement: provide	notice	of	the	departure	airport	and	proposed	time	of	departure of	said	first	flight,	by	telephone	or	facsimile,	to	the	Flight	Standards District	Office	located	nearest	the	departure	airport.
+
+Carry	a	copy	of	this	Aircraft	Lease	Agreement	in	the	aircraft	at	all	times.
+
+*	*
+
+Schedule	A	contains	only	economic	rental	data	and	is intentionally	omitted	for	FAA	submission	purposes.
+
+146973802v2
+
+EXHIBIT	10.17
+
+This	NON-EXCLUSIVE	AIRCRAFT	 LEASE	AGREEMENT	(the	 "Agreement")	 is	 entered	 into	 as	 of	 December	 22,	 2020	 (the "Effective	 Date"),	 by	 and	 between	WESTWIND	ACQUISITION	 COMPANY,	 LLC. 	 ("Lessor"),	 and	CARLYLE	 INVESTMENT MANAGEMENT	L.L.C.	("Lessee").
+
+W	I	T	N	E	S	S	E	T	H	:
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 92
-Number of chunks retrieved: 3
+Number of chunks retrieved: 2
 Document 1:
 
 RECITAL
@@ -3443,36 +3123,68 @@ Deposit
 : HK$239,080
 
 6
-****************************************************************************************************
-Document 3:
-
-EX-10.21	3	f10k2021ex10-21_jerashhold.htm	LEASE	AGREEMENT	BETWEEN	TREASURE	SUCCESS	AND	EVER	WINLAND	LIMITED	DATED	FEBRUARY 26,	2021
-
-THIS	AGREEMENT	is	made	on	the	26th	day	of	February,	2021
-
-BETWEEN:-
-
-(1)
-
-Ever	Winland	Limited	whose	registered	office	is	situate	at	Unit	06,	3/F.,	Siu	Wai	Industrial	Centre,	29-33	Wing	Hong	Street,	Cheung	Sha	Wan,	Kowloon, Hong	Kong	(the	“Landlord”);	and
-
-(2)
-
-Treasure	 Success	 International	 Limited	 whose	 registered	 office	 is	 situate	 at	 Unit	A,	 19/F,	 Ford	 Glory	 Plaza,	 37-39	 Wing	 Hong	 Street,	 Cheung	 Sha	 Wan, Kowloon,	Hong	Kong	(the	“Tenant”).
-
-RECITAL
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 93
-Number of chunks retrieved: 0
+Number of chunks retrieved: 1
+Document 1:
 
+30.B.	In	the	event	Tenant	needs	to	expand	its	operation,	Landlord	is	amenable	to	working	with	Tenant	to	add	on	the	current	location	or	to assist	in	the	development	of	an	alternate	location.	In	the	event	this	Lease	is	still	in	effect,	it	is	agreed	that	this	Lease	will	be	extinguished upon	commencement	of	the	subsequent	Lease.	Lease	terms	for	any	alternative	site	shall	be	a	Triple	Net	Lease	based	on	a	ten	percent (10%)	return	on	the	total	cost	of	development.
+
+Sheehy	Mail	Contractors	Inc.
+
+Penta	Partners,	LLC
+
+By:
+
+/s/	John	P.	Sheehy 	 John	P.	Sheehy,	President
+
+By:
+
+/s/	Travis	M.	Sisson 	 Travis	M.	Sisson,	Manager
+
+Dated:
+
+01/26/2018
+
+Dated:
+
+2018-01-29
+
+The	Iowa	State	Bar	Association	2016 IowaDocs®
+
+Form	No.	164,	Lease	-	Business	Property Revised	January	2016
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 94
-Number of chunks retrieved: 1
+Number of chunks retrieved: 2
 Document 1:
+
+18
+
+IN	WITNESS	whereof	the	Lessors	and	the	Lessee	have	hereunto	affixed	their	respective	Common	Seals	the	day	and	year	first	before
+
+written
+
+THE	COMMON	SEAL	of	THE	COUNCIL
+
+OF	THE	CITY	0F	MANCHESTER	was
+
+hereunto	affixed	in	pursuance
+
+of	an	Order	of	the	Council	of
+
+the	said	City:-
+
+/s/
+
+Authorised	Signatory
+
+19
+****************************************************************************************************
+Document 2:
 
 EX-10.48	7	ex1048-creweroadwythenshaw.htm	EX-10.48
 
@@ -3544,6 +3256,16 @@ Chunks for lease 95
 Number of chunks retrieved: 3
 Document 1:
 
+4. Lease	period.
+
+The	lease	commences	12	August	2021	and	expires	without	termination	on	11	August	2031.	If	the	premises	are	ready	for takeover	at	an	earlier	time,	the	lease	shall	commence	when	the	takeover	protocol	has	been	signed	by	the	Tenant.
+
+In	addition,	the	Tenant	is	entitled	to	extend	the	lease	with	an	additional	two	periods	of	5	years	on	the	same	terms.
+
+The	lease	period	will	automatically	be	extended	with	an	additional	lease	period	if	the	Tenant	does	not	provide	written notification	about	termination	no	later	than	6	months	prior	to	the	expiry	of	the	current	lease	period.
+****************************************************************************************************
+Document 2:
+
 Either	party	may	allow	the	agreement	to	be	registered	in	the	Land	Registry	at	its	own	expenses.
 
 This	Agreement	is	conditional	upon	the	Tenant	having	approved	and,	no	later	than	at	the	time	of	entering	into	the	current agreement,	having	signed	the	"Framework	Agreement	for	delivery	of	goods	and	services	from	Mo	Industripark	AS".
@@ -3572,16 +3294,6 @@ Page	7	of	7-
 
 3028A
 ****************************************************************************************************
-Document 2:
-
-4. Lease	period.
-
-The	lease	commences	12	August	2021	and	expires	without	termination	on	11	August	2031.	If	the	premises	are	ready	for takeover	at	an	earlier	time,	the	lease	shall	commence	when	the	takeover	protocol	has	been	signed	by	the	Tenant.
-
-In	addition,	the	Tenant	is	entitled	to	extend	the	lease	with	an	additional	two	periods	of	5	years	on	the	same	terms.
-
-The	lease	period	will	automatically	be	extended	with	an	additional	lease	period	if	the	Tenant	does	not	provide	written notification	about	termination	no	later	than	6	months	prior	to	the	expiry	of	the	current	lease	period.
-****************************************************************************************************
 Document 3:
 
 From	the	date	of	entering	into	the	agreement	and	up	until	31	December	2021,	the	Tenant	has	the	right	to	terminate	the agreement	with	3	months'	written	notice,	subject	to	the	payment	of	six	months'	rent	from	the	expiry	of	the	termination	period. The	rental	object	shall	be	handed	over	to	the	Lessor	no	later	than	by	the	end	of	the	termination	period.	The	Tenant	shall	also cover	the	Lessor's	costs	related	to	adaptation	of	the	rental	object	as	described	in	the	Preparatory	Work	Agreement.	The Tenant's	obligation	to	return	the	rental	object	to	the	state	it	was	in	at	takeover,	cf	clause	10,	applies	correspondingly.
@@ -3595,7 +3307,7 @@ voluntary	registration	in	the	Value	Added	Tax	Register.	The	Tenant	ensures	that	
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 96
-Number of chunks retrieved: 2
+Number of chunks retrieved: 1
 Document 1:
 
 3 3 .					Authority.	Tenant	and	each	person	executing	this	Lease	on	behalf	of	Tenant	hereby	covenants	and	warrants	that	(a)	Tenant	is	duly	formed	and validly	 existing	 under	 the	 laws	 of	 the	 State	 of	 Georgia,	 (b)	 Tenant	 has	 full	 corporate	 power	 and	 authority	 to	 enter	 into	 this	 Lease	 and	 to	 perform	 all	 Tenant's obligations	under	this	Lease,	and	(c)	each	person	(and	all	of	the	persons	if	more	than	one	signs)	signing	this	Lease	on	behalf	of	Tenant	is	duly	and	validly	authorized to	do	so.
@@ -3609,52 +3321,6 @@ of	Landlord;	Tenant	has	only	a	usufruct,	not	subject	to	levy	or	sale,	and	not	co
 IN	WITNESS	WHEREOF,	Landlord	and	Tenant	have	executed	this	Lease	as	of	the	Effective	Date.
 
 LANDLORD:
-****************************************************************************************************
-Document 2:
-
-[SIGNATURES	COMMENCE	ON	FOLLOWING	PAGE]
-
-IN	WITNESS	WHEREOF,	Landlord	and	Tenant	have	executed	this	Lease	as	of	the	Effective	Date.
-
-LANDLORD:
-
-UCB,	INC., a	Delaware	corporation
-
-By:______________________________________
-
-Name:___________________________________
-
-Title:____________________________________
-
-Date:____________________________________
-
-TENANT:
-
-Geovax,	Inc. a	Georgia	corporation
-
-By:______________________________________
-
-Name:___________________________________
-
-Title:____________________________________
-
-Date:____________________________________
-
-EXHIBIT	A
-
-BUILDING	PLAN
-
-EXHIBIT	B
-
-SITE	PLAN
-
-EXHIBIT	D
-
-RULES	AND	REGULATIONS
-
-The	following	rules	and	regulations	shall	apply,	where	applicable,	to	the	Premises,	the	Building,	the	Common	Areas,	the	Project	and	the	appurtenances.
-
-1.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -3669,12 +3335,8 @@ accordance	of	the	terms	and	conditions	hereof	(the	“Lease”).
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 98
-Number of chunks retrieved: 2
+Number of chunks retrieved: 1
 Document 1:
-
-Article	2	Term	of	Lease,	Rent-free	Period	and	Commencement	Date 2.1	Term	of	lease:	2	years,	since	March	20,	2020	to	March	29,	2022; 2.2	Rent-free	period:0	days,	from	to (The	management	fees	are	still	charged	within	the	rent-free	period). 2.3	Commencement	date:	March	30,	2020.
-****************************************************************************************************
-Document 2:
 
 time	according	to	Party	A’s	requirements	instead	of	placing	them	again.	Party	A	shall	avoid	them	from	getting	wet	in	rain,	being	soaked	in	water	or	high	temperature; otherwise,	all	the	losses	thus	caused	shall	be	borne	by	Party	A. 3.	Party	A	shall	shoulder	the	safety	responsibilities	of	the	articles	leased	such	as	fire,	disaster	and	theft	resistance	and	normal	use. 18.5	Any	contract	term	not	made	in	the	typical	contract	format	herein	is	concluded	by	Party	A	and	Party	B	after	reaching	consensus	on	and	accepting	the	meanings. 18.6	This	Contract	is	made	in	duplicate	with	each	party	holding	one. 18.7	This	Contract	becomes	valid	once	signed	and	sealed	by	both	parties	until	the	term	of	lease	expires.
 
@@ -3689,16 +3351,8 @@ Appendix	1:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 99
-Number of chunks retrieved: 2
+Number of chunks retrieved: 1
 Document 1:
-
-2.			Term.	This	Lease	shall	continue	in	force	during	the	Term.	Should	the	Lease	Commencement	Date	fall	on	a	date	other	than	the	first	day	of	a	month,	Tenant	shall occupy	the	Premises	on	the	“Occupancy	Date”	and	the	Lease	Commencement	Date	shall	be	deemed	to	be	the	first	day	of	the	following	month.	Tenant	shall	occupy	the Demised	Premises	on	the	terms	and	conditions	contained	herein,	except	that	the	Base	Annual	Rent	for	the	partial	first	month	of	occupancy	shall	be	prorated	based	on	the number	of	days	following	the	Occupancy	Date	and	preceding	the	Lease	Commencement	Date.
-
-3.			Rent.
-
-a. Base	Rent.	 Commencing	 on	 the	 Lease	 Commencement	 Date,	Tenant	 shall	 pay	 to	 Landlord	 the	 Base	Annual	 Rent.	 Said	 Base	Annual	 Rent	 shall	 be	 paid	 in twelve	equal	monthly	installments	on	the	first	(1st)	day	of	each	and	every	month	during	the	Term,	with	appropriate	proration	for	the	first	and	last	months.
-****************************************************************************************************
-Document 2:
 
 Exhibit	10.32
 
@@ -3729,8 +3383,26 @@ WITNESSETH:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Chunks for lease 100
-Number of chunks retrieved: 3
+Number of chunks retrieved: 2
 Document 1:
+
+building	leased	hereunder,	other	than	temporarily	while	waiting	for	repair.	In	no	event	shall	such	waiting	period	exceed	ten	(10)	days.
+
+25.	DUMPSTER.	Lessee	agrees	to	pay	for	dumpster	rental	cost.
+
+26.	OPTION	TO	EXTEND	LEASE.	Lessee	by	giving	six	(6)	months	written	notice	to	Lessor	shall	be	able	to	extend	this	lease	for	one	(1)	additional	ten	(10)
+
+year	term.	The	rent	would	then	increase	by	the	percentage	that	the	consumer	price	index	had	increased	during	the	ten	(10)	years	preceding.
+
+27.	BINDING	EFFECT.	This	agreement	shall	be	binding	upon	and	inure	to	the	benefit	of	the	successors	and	assigns	of	the	parties	hereto.
+
+28.	INTERPRETATION.	If	any	portion	of	this	Lease	shall	be	held	to	be	void	or	unenforceable,	the	balance	thereof	shall	nevertheless	be	effective.	This	Lease
+
+has	been	made	and	entered	into	in	the	State	of	Montana	and	shall	be	governed	by	the	laws	of	the	State	of	Montana.
+
+This	Lease	Agreement	is	effective	as	of	the	date	indicated	in	the	first	paragraph	of	this	Lease.
+****************************************************************************************************
+Document 2:
 
 This	Lease	Agreement	is	effective	as	of	the	date	indicated	in	the	first	paragraph	of	this	Lease.
 
@@ -3763,44 +3435,6 @@ McClellan	Farm
 /s/	Hugh	B.	Brown
 
 6-
-****************************************************************************************************
-Document 2:
-
-building	leased	hereunder,	other	than	temporarily	while	waiting	for	repair.	In	no	event	shall	such	waiting	period	exceed	ten	(10)	days.
-
-25.	DUMPSTER.	Lessee	agrees	to	pay	for	dumpster	rental	cost.
-
-26.	OPTION	TO	EXTEND	LEASE.	Lessee	by	giving	six	(6)	months	written	notice	to	Lessor	shall	be	able	to	extend	this	lease	for	one	(1)	additional	ten	(10)
-
-year	term.	The	rent	would	then	increase	by	the	percentage	that	the	consumer	price	index	had	increased	during	the	ten	(10)	years	preceding.
-
-27.	BINDING	EFFECT.	This	agreement	shall	be	binding	upon	and	inure	to	the	benefit	of	the	successors	and	assigns	of	the	parties	hereto.
-
-28.	INTERPRETATION.	If	any	portion	of	this	Lease	shall	be	held	to	be	void	or	unenforceable,	the	balance	thereof	shall	nevertheless	be	effective.	This	Lease
-
-has	been	made	and	entered	into	in	the	State	of	Montana	and	shall	be	governed	by	the	laws	of	the	State	of	Montana.
-
-This	Lease	Agreement	is	effective	as	of	the	date	indicated	in	the	first	paragraph	of	this	Lease.
-****************************************************************************************************
-Document 3:
-
-EX-10.33	5	ex10-33.htm
-
-LEASE	AGREEMENT
-
-THIS	LEASE,	made	and	entered	into	this	7th	day	of	August,	2013,	by	and	between	McCLELLAN	FARM,	a	Montana	Corporation	of	Joplin,	MT,	or	assigns, hereinafter	 designated	 “Lessor,”	 and	 BACTERIN	 INTERNATIONAL,	 INC.,	 a	 Nevada	 corporation	 with	 an	 address	 at	 600	 Cruiser	 Lane,	 Belgrade,	 MT	 59714, hereinafter	designated	“Lessee.”
-
-WITNESSETH
-
-Lessor	does	lease	to	Lessee	approximately	17,700	square	feet	of	office	manufacturing	and	shop	space	in	the	building	at	600	Cruiser	Lane,	Belgrade,	MT,	59714
-
-more	particularly	described	on	Exhibit	A,	attached	hereto.
-
-TO	HAVE	AND	TO	HOLD	the	same	unto	the	Lessee	from	the	7th	day	of	August,	2013	until	the	7th	day	of	August,	2023.
-
-AND	THE	LESSOR	AND	THE	LESSEE	FURTHER	COVENANT	AND	AGREE	AS	FOLLOWS:
-
-1.	RENT.	The	Lessee	agrees	to	pay	Thirteen	Thousand	Dollars	($13,000.00)	per	month	in	advance	commencing	August	7,	2013.	Lessee	agrees	to	pay	Thirteen
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
