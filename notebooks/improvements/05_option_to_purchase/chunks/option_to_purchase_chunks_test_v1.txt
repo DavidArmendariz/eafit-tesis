@@ -1,0 +1,494 @@
+Chunks for lease 81
+Number of chunks retrieved: 2
+Document 1:
+
+EX-10.13	5	ex1013aircraftleaseagreeme.htm	EX-10.13
+
+LESSOR’S	CHECKLIST/SUMMARY
+
+Parties:								Lessor:								VT	Aviation	Leasing	LLC 								Lessee:								Douglas	Elliman	Inc. Aircraft:				Make/Model:				Learjet	Inc.	60 								Serial	Number:				349 								Registration:				N62VG
+
+Effective	Date:				December	21,	2021 Term:									1	Year Auto-Renewal	(Check	One)				Yes:	X	No:	_____
+
+Rental	Type	(Check	One):				Monthly	Rental:				___ Please	Read	Section	3.2				Hourly	Rental:									X
+
+Rental	Appraisal	Date:				June	22,	2021 First	Invoice	Date:								_________________________ First	Rent	Payment	Date:				_________________________
+
+Subject	to	Sales/Use	Tax	(Check	One)				Yes:	X	No:	_____ If	Yes:				Taxing	State:	Florida 				Vendor’s	License	No.:				_________________________
+
+First	Return	Due	Date:				_________________________
+
+Complete,	Executed	Copies	of	Lease	Provided	to	(Check	when	Provided): Lessor:	_____;	Lessee:	_____;	GKG	Law:	_____;	CPA/Accountant:	_____
+****************************************************************************************************
+Document 2:
+
+RE:					FAR	Section	91.23	FSDO	Notification
+
+First	Flight	Under	Lease	of	Learjet	Inc.	60	Aircraft s/n	349,	Registration	N62VG
+
+To	whom	it	may	concern:
+
+Pursuant	 to	 the	 requirements	 of	 Federal	 Aviation	 Regulation	 Section	 91.23(c)(3),	 please	 accept	 this	 letter	 as	 notification that	 the	 undersigned,	 will	 acquire	 and	 take	 delivery	 of	 a	 leasehold	 interest	 in	 the	 above	 referenced	 aircraft	 on	 the	 ___	 day	 of December,	2021,	and	that	the	first	flight	of	the	aircraft	under	the	lease	will	depart	from	_______________________________	Airport	on the	_____	day	of	_____________________,	20______,	at	approximately	______	(am	/	pm)	local	time.
+
+Sincerely,
+
+Douglas	Elliman	Inc.
+
+By:				_______________________ Print:				_______________________ Title:					_________________________
+
+3
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 60
+Number of chunks retrieved: 1
+Document 1:
+
+7) The	Lessee	will	pay,	at	the	times	and	in	the	manner	set	out	in	the	Lease,	all	applicable	GST/HST	on	any	amount	payable	by	the	Lessee	under	the	Lease.
+
+Accessory	A
+
+8) The	Lessor	 may	 contruct,	 modify,	 possess	 or	 otherwise	 utilize	 Accessory	 A	 without	 restriction	 and	 any	 said	 building	 remains	 the	 property	 of	 the	 Lessor, notwithstanding	any	other	provision	of	this	Lease.
+
+9) While	the	Lease	is	in	effect,	the	Lessee	may	elect	to	share	non-exclusive	usage	of	Accessory	A	 on	a	month-to-month	basis,	upon	providing	THIRTY	(30)	days written	notice	to	enact	or	terminate	this	option.	If	the	Lessee	elects	to	use	Accessory	A,	the	Lessee	shall	pay	as	additional	 rent	an	amount	as	determined	from	time- to-time	by	the	Lessor,	but	not	less	than	$500	per	month.
+
+Exhibit	10.68
+
+Operating	Expenses	and	Additional	Rent
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 48
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 100
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 10
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 33
+Number of chunks retrieved: 1
+Document 1:
+
+Real	Estate	Investing.	East.	Smart.	For	Everyone 1	Penn	Plaza	36th	Floor,	New	York,	NY,	10119	 hi@landa.app
+
+6
+
+Landlord’s	Right	To	Mortgage
+
+Tenant	agrees	to	accept	the	premises	subject	to	and	subordinate	to	any	existing	or	future	mortgage	or	other	lien,	and	Landlord	reserves	the	right	to subject	premises	to	same.	Tenant	agrees	to	and	hereby	irrevocably	grants	Landlord	power	of	attorney	for	Tenant	for	the	sole	purpose	of	executing and	delivering	in	the	name	of	the	Tenant	any	document(s)	related	to	the	Landlord’s	right	to	subject	the	premises	to	a	mortgage	or	other	lien.
+
+Possession	Of	Premises
+
+Tenant	shall	not	be	entitled	to	possession	of	the	premises	designated	for	lease	until	the	security	deposit	and	first	month’s	rent	(or	prorated	portion thereof),	less	any	applicable	promotional	discount,	is	paid	in	full	and	the	premises	designated	for	lease	is	vacated	by	the	prior	tenant.
+
+Materiality	Of	Application	To	Rent
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 38
+Number of chunks retrieved: 4
+Document 1:
+
+38.
+
+Right	to	Purchase.
+****************************************************************************************************
+Document 2:
+
+(b)				If	Tenant	timely	exercises	any	such	right	to	purchase,	the	parties	shall	within	forty-five	(45)	days	execute	and deliver	 to	 one	 another	 an	 agreement	 of	 purchase	 and	 sale	 reasonably	 acceptable	 to	 Landlord	 and	 Tenant	 (the	 “Purchase Agreement”).	The	Purchase	Agreement	shall	provide	that	Landlord	agrees	to	sell	and	Tenant	agrees	to	purchase	the	San	Diego Facility	 “as-is,	 where-is”,	 with	 customary	 representations	 and	 warranties	 made	 by	 Landlord	 or	 its	 Affiliates,	 but	 excluding	 any representation	 or	 warranty,	 express	 or	 implied,	 of	 any	 kind	 by	 Landlord	 relating	 to	 the	 physical	 condition	 of	 the	 San	 Diego Facility.	Each	of	the	parties	covenants	to	make	a	good	faith	effort	to	negotiate	the	Purchase	Agreement.
+
+739237752.8																					30
+****************************************************************************************************
+Document 3:
+
+(a)	 	 	 	 During	 the	 Term	 of	 the	 Lease,	 Tenant	 will	 have	 the	 one-time	 right	 to	 purchase	 the	 San	 Diego	 Facility	 as	 set forth	below.	The	option	set	forth	in	this	Section	38	is	personal	to	Quidel	Corporation	and	its	Affiliates	and	may	not	be	exercised	by any	 other	 assignee	 or	 sublessee.	 If	 either	 (x)	 Landlord	 determines	 to	 sell	 the	 San	 Diego	 Facility	 to	 an	 unaffiliated	 buyer	 or	 (y) Landlord	 receives	 an	 unsolicited	 offer	 to	 sell	 the	 San	 Diego	 Facility	 to	 an	 unaffiliated	 potential	 buyer	 and	 Landlord	 wishes	 to either	accept	such	offer	or	make	a	counter-offer	to	such	potential	buyer,	Landlord	shall	notify	Tenant	of	same,	setting	forth	the essential	terms	of	the	sale	(price,	payment	terms,	“AS	IS”	or	other	condition	of	property,	due	diligence	conditions,	title	and	other contingencies,	allocation	of	prorations	and	closing	costs,	and	closing	date).	Within	twenty-one	(21)	days	of	receipt	of	Landlord’s
+****************************************************************************************************
+Document 4:
+
+(c)				If	(i)	Tenant	does	not	timely	exercise	such	right,	(ii)	Tenant	timely	exercises	such	right	but	the	parties	do	not execute	the	Purchase	Agreement	within	such	45-day	period,	or	(iii)	the	parties	timely	execute	the	Purchase	Agreement	but	the Purchase	Agreement	is	thereafter	terminated	for	any	reason	other	than	Landlord’s	default,	then	Landlord	shall	thereafter	be	free to	sell	the	San	Diego	Facility	to	any	party	and	Tenant’s	rights	under	this	Section	38	shall	terminate	and	be	of	no	further	force	or effect.	Notwithstanding	the	foregoing,	Landlord	shall	not	sell	the	San	Diego	Facility	for	a	price	less	than	ninety	(95%)	of	the	price last	offered	to	Tenant	or	on	other	terms	which	are	materially	more	favorable	than	those	offered	to	Tenant	without	first	offering Tenant	again	the	right	to	purchase	the	San	Diego	Facility	at	the	lower	price	or	on	such	more	favorable	terms.	Notwithstanding the	 foregoing,	 in	 the	 event	 Landlord	 and	 Tenant	 did	 not	 execute	 the	 Purchase	 Agreement
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 5
+Number of chunks retrieved: 2
+Document 1:
+
+Building,	Tenant	shall	attorn	to	the	purchaser	and	recognize	such	purchaser	as	Landlord	under	this	Lease.
+
+26.																															SUBORDINATION.	At	the	option	of	Landlord	or	Landlord’s	lender,	or	both	of	them,	this	Lease	and	the	Tenant’s	interest	hereunder	shall	be	subject	and	subordinate	at	all	times	to	any	mortgage	or
+
+mortgages,	deed	or	deeds	of	trust,	or	such	other	security	instrument	or	instruments,	including	all	renewals,
+
+13
+
+extensions,	consolidations,	assignments	and	refinances	of	the	same,	as	well	as	all	advances	made	upon	the	security	thereof,	which	now	or	hereafter	become	liens	upon	the	Landlord’s	fee	and/or	leasehold	interest	in	the Premises,	and/or	any	and	all	of	the	buildings	now	or	hereafter	erected	or	to	be	erected	and/or	any	and	all	of	the	Land,	provided,	however,	that	in	such	case,	the	holder	of	such	other	security,	the	trustee	of	such	deed	of trust	or	holder	of	such	other
+****************************************************************************************************
+Document 2:
+
+Landlord	or	any	such	mortgagee	or	purchaser.	Such	estoppel	agreement	shall	be	in	the	form	reasonably	requested	by	Landlord	or	such	mortgagee	or	purchaser.
+
+29.																										NOTICES.	All	notices	required	to	be	given	by	either	party	to	the	other	shall	be	in	writing.	All	such	notices	shall	be	deemed	to	have	been	given	upon	delivery	in	person,	or	two	(2)	business	days	after
+
+depositing	in	the	United	States	mail,	by	certified	mail,	return	receipt	requested,	postage	prepaid,	or	by	delivery	by	telefax,	facsimile	or	telegraph,	or	by	Federal	Express	or	other	nationally	recognized	overnight	delivery service,	addressed	to	Landlord	at	825	Berkshire	Boulevard,	Suite	203,	Wyomissing,	Pennsylvania	19610	and	addressed	to	Tenant	at	the	Premises	or	to	such	other	address	which	either	party	may	hereafter	designate	in writing	by	notice	given	in	a	like	manner.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 74
+Number of chunks retrieved: 1
+Document 1:
+
+TERM,	RENT	and	OPERATING	EXPENSES
+
+Lessor	demises	a	one-room	office	space	within	the	above	premises	(the	“demised	space”)	along	with	the	use	of	common	areas	and	boardroom(s), and	 reception	 services,	 telephone	 and	 internet	 provided	 (all	 described	 further	 in	 this	 agreement)	 on	 a	 month-to-month	 basis,	 commencing	 on January	 1,	 2020	 and	 terminating	 on	 December	 31,	 2020	 or	 sooner	 as	 provided	 herein	 for	 a	 1-year	 total	 of	 rent	 and	 services	 (“rent”)	 of	 nine thousand	three	hundred	dollars	($9,300)	over	this	term	paid	in	equal	monthly	installments	of	seven	hundred	seventy-five	($775).
+
+All	rent	will	be	billed	and	payable	in	equal	installments	in	advance	on	the	first	day	of	each	month	and	no	later	than	the	tenth	day	of	said	month,	for that	month’s	rental,	during	the	term	of	this	lease.	All	rental	payments	shall	be	made	to	Lessor	at	the	address	specified	above.
+
+COMMON	AREA	USAGE	and	SERVICES
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 28
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 79
+Number of chunks retrieved: 2
+Document 1:
+
+(2)
+
+Treasure	Success	International	Limited	whose	registered	office	is	situate	at	Unit	A,	19/F,	Ford	Glory	Plaza,	37-39	Wing	Hong	Street,	Cheung Sha	Wan,	Kowloon,	Hong	Kong	(the	“Tenant”).
+
+RECITAL
+
+A. Pursuant	to	a	lease	agreement	entered	into	by	Ford	Glory	International	Limited	(Ford	Glory)	and	the	Tenant	dated	15	December	2020	with	a lease	term	expired	on	October	2,	2022	(the	“Old	Lease”),	and	a	sales	and	purchase	agreement	entered	into	by	Ford	Glory	and	the	Landlord in	respect	of	sales	and	purchase	of	the	property	corresponding	to	the	Property	referred	to	in	the	Old	Lease,	the	Landlord	and	the	Tenant agreed	to	enter	into	this	Lease	Agreement	with	the	terms	below	and	the	details	in	the	First	Schedule	and	the	Second	Schedule.
+
+B. Upon	execution	of	this	Lease	Agreement,	the	Old	Lease	is	deemed	to	terminate	on	the	date	the	term	of	this	Lease	Agreement	starts	per	the
+
+First	Schedule	and	Second	Schedule.
+
+WHEREBY	IT	IS	AGREED	as	follows:-
+
+1.
+****************************************************************************************************
+Document 2:
+
+The	stamp	duty	on	this	Agreement	and	its	counterpart	shall	be	borne	by	the	Landlord	and	the	Tenant	in	equal	shares.
+
+4
+
+AS	WITNESS	the	hands	of	the	parties	hereto	the	day	and	year	first	above	written.
+
+SIGNED	by	/s/	Nong	Bing	Luw
+
+for	and	on	behalf	of	the	Landlord
+
+) ) ) )
+
+SIGNED	by	the	Tenant Treasure	Success	International	Limited
+
+) )
+
+OR
+
+SIGNED	by	/s/	Choi	Lin	Hung
+
+for	and	on	behalf	of	the	Tenant
+
+) ) ) )
+
+5
+
+FIRST	SCHEDULE
+
+The	Property: Unit	A,	19/F,	Ford	Glory	Plaza,	37-39	Wing	Hong	Street,	Cheung	Sha	Wan,	Kowloon,	Hong	Kong
+
+SECOND	SCHEDULE
+
+Term
+
+: 2	years
+
+Period
+
+: 26	February	2021	to	25	February	2023
+
+Rent
+
+: HK$119,540	per	month	(payable	on	the	first	day	of	each	and	every	month,	management	fees,	rates	and	government	rent	to	be
+
+borne	by	Tenant)	and	without	any	set-off	and/or	deduction)
+
+Deposit
+
+: HK$239,080
+
+6
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 97
+Number of chunks retrieved: 4
+Document 1:
+
+the	Premises	shall	be	an	amount	equal	to	(x)	FOUR	MILLION	FIVE	HUNDRED	THOUSAND	AND	NO/100	DOLLARS	($4,500,000.00)	less	(y)	all	payments	of	Base Rent	 paid	 by	 Tenant	 under	 Section	 3	 prior	 to	 the	 completion	 of	 the	 purchase,	 and	 less	 (z)	 all	 Option	 Payments	 made	 prior	 to	 the	 completion	 of	 the	 purchase	 (the “Purchase	Price”).	In	the	event	Tenant	fails	to	provide	the	Notice	of	Intent	to	Purchase	as	outlined	herein,	the	Option	to	Purchase	shall	be	null	and	void.	In	the	event Tenant	provides	the	Notice	of	Intent	to	Purchase	as	outlined	herein,	Landlord	shall	sell	the	Premises	to	Tenant	pursuant	to	a	mutually	agreeable	purchase	agreement	(the “Purchase	Agreement”),	the	form	of	which	the	parties	hereby	agree	to	negotiate	in	good	faith	and	to	finalize	within	sixty	(60)	days	after	the	Commencement	Date	of	this Agreement.	 Prior	 to	 the	 closing	 of	 the	 sale	 of	 the	 Premises,	 Landlord	 shall	 cause	 to	 be	 removed	 and	 released	 any	 monetary	 liens	 arising
+****************************************************************************************************
+Document 2:
+
+16.									Option	to	Purchase.	Landlord	hereby	grants	to	Tenant	the	option	to	purchase	(the	“Option	to	Purchase”)	the	Premises.	The	Option	to	Purchase	shall	be exercisable	at	any	time	by	giving	written	notice	to	Landlord	of	Tenant’s	intent	to	exercise	the	Option	to	Purchase	no	later	than	ninety	days	prior	to	the	expiration	of	the Lease	(the	“Notice	of	Intent	to	Purchase”).	In	order	to	maintain	the	Option	to	Purchase	after	the	first	anniversary	of	the	Commencement	Date	and	for	the	subsequent Lease	Year,	on	or	before	the	first	anniversary	of	the	Commencement	Date	and	on	or	before	each	subsequent	anniversary	thereafter,	Tenant	shall	pay	Landlord	an	annual lumpsum	payment	of	ONE	HUNDRED	AND	EIGHTY-SIX	THOUSAND	AND	NO/100	DOLLARS	($186,000.00)	(each	an	“Option	Payment”).	The	purchase	price	of the	Premises	shall	be	an	amount	equal	to	(x)	FOUR	MILLION	FIVE	HUNDRED	THOUSAND	AND	NO/100	DOLLARS	($4,500,000.00)	less	(y)	all	payments	of	Base Rent	 paid	 by	 Tenant	 under	 Section	 3	 prior	 to
+****************************************************************************************************
+Document 3:
+
+Agreement.	 Prior	 to	 the	 closing	 of	 the	 sale	 of	 the	 Premises,	 Landlord	 shall	 cause	 to	 be	 removed	 and	 released	 any	 monetary	 liens	 arising	 by	 or	 through	 Landlord encumbering	the	Premises,	and	Tenant	shall	have	a	reasonable	opportunity	prior	to	the	closing	to	perform	reasonable	due	diligence	of	the	Premises.	In	the	event	Tenant is	not	satisfied	with	the	results	of	its	due	diligence,	Tenant	shall	have	the	right	not	to	close	on	the	Premises	and	to	terminate	the	Purchase	Agreement.	For	avoidance	of doubt,	termination	of	the	Purchase	Agreement	by	Tenant	as	a	result	of	due	diligence	will	not	result	in	the	refund	to	Tenant	of	any	Option	Payments.	The	closing	date (except	as	set	forth	above)	shall	not	be	later	than	ninety	(90)	days	from	the	date	of	the	Notice	of	Intent	to	Purchase,	at	which	time	the	Purchase	Price	shall	be	due	and
+****************************************************************************************************
+Document 4:
+
+(except	as	set	forth	above)	shall	not	be	later	than	ninety	(90)	days	from	the	date	of	the	Notice	of	Intent	to	Purchase,	at	which	time	the	Purchase	Price	shall	be	due	and payable	in	immediately	available	funds.	Landlord	shall	convey	title	to	the	Premises	by	special	warranty	deed	(or	local	equivalent)	free	and	clear	of	all	monetary	liens	and any	liens	and	encumbrances	to	which	Tenant	reasonably	objects	prior	to	closing.	Landlord	shall	have	the	opportunity	to	cure	any	of	Tenant’s	objections,	not	to	exceed thirty	 (30)	 days	 after	 receipt	 of	 written	 notice	 from	Tenant	 detailing	 the	 same.	The	 Lease	 shall	 automatically	 terminate	 as	 of	 the	 closing.	As	 more	 particularly	 to	 be specified	in	the	Purchase	Agreement,	property	taxes	shall	be	prorated	as	of	the	closing	date	and	the	parties	shall	share	escrow	fees,	recording	costs,	and	other	closing costs	in	accordance	with	the	customary	practice	in	the	state	in	which	the	Premises	is	located.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 54
+Number of chunks retrieved: 1
+Document 1:
+
+the	 Premises.	 Lessor	 shall	 pay	 Lessee	 the	 amount	 requested	 by	 Lessee	 for	 Lessee’s	 improvements	 in	 a	 single	 individual	 written	 draw	 request submitted	by	Lessee	to	Lessor	within	thirty	(30)	days	of	satisfaction	of	all	of	the	following	conditions:	(i)	no	Event	of	Default	then	exists	under this	 Lease;	 (ii)	 Lessee	 shall	 have	 delivered	 to	 Lessor	 a	 detailed	 written	 draw	 request	 to	 Lessor	 itemizing	 the	 cost	 related	 to	 the	 tenant improvements	 to	 be	 paid;	 (iii)	 Lessee	 shall	 have	 delivered	 to	 Lessor	 copies	 of	 the	 invoices	 related	 to	 the	 tenant	 improvements,	 together	 with conditional	lien	waivers	 and	releases	from	 all	contractors,	 subcontractors,	suppliers	and	 other	parties	 furnishing	labor	and/or	 material	for	 the tenant	improvements;	(iv)	Lessee	shall	have	delivered	to	Lessor	a	Certificate	of	Substantial	Completion	from	Lessee’s	architect	certifying	that	all
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 30
+Number of chunks retrieved: 1
+Document 1:
+
+public	 or	 private	 sale	 under	 the	 UCC,	 Landlord	 shall	 give	 Tenant	 five-days'	 prior	 written	 notice	 of	 the	 time	 and place	of	any	public	sale	of	the	Collateral	or	of	the	time	after	which	any	private	sale	or	other	intended	disposition thereof	is	to	be	made,	which	is	agreed	to	be	a	reasonable	notice	of	such	sale	or	other	disposition.	Tenant	grants to	 Landlord	 a	 power	 of	 attorney	 to	 execute	 and	 file	 any	 financing	 statement	 or	 other	 instrument	 necessary	 to perfect	Landlord's	security	interest	under	this	Section	20,	which	power	is	coupled	with	an	interest	and	shall	be irrevocable	 during	 the	 Term.	 Landlord	 may	 also	 file	 a	 copy	 of	 this	 Lease	 as	 a	 financing	 statement	 to	 perfect	 its security	interest	in	the	Collateral.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 35
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 13
+Number of chunks retrieved: 1
+Document 1:
+
+Options:	Tenant	shall	have	two	(2)	five	(5)	year	options	to	extend	the	term	of	the	Lease.	Tenant	shall	exercise	its	right	to	extend	by	written	notice	to
+
+4. Monthly	Rental:	Payment	of	Rent	shall	begin	on	the	Lease	Commencement	Date.	Tenant	will	pay	to	Landlord	Rent	payable	in	equal	installments	of $12,773.39	($16	67isflyr)	for	-	Rent	on	the	first	day	of	each	month,	the	first	such	payment	on	the	Lease	Commencement	Date	and	subsequent	monthly	payments on	the	first	(1st)	day	of	each	succeeding	month	during	the	Term,	except	when	that	day	falls	on	a	weekend	or	a	legal	holiday,	in	which	case	rent	is	due	on	the next	business	day.	The	Rent	(compounded)	shall	be	increased,	but	in	no	event	decreased,	on	the	date	of	commencement	of	each	Option	extension	as	provided	in Section	3	(each	such	anniversary	an	“Adjustment	Date")	by	a	fixed	amount	of	five	percent	(5%).
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 90
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 32
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 64
+Number of chunks retrieved: 2
+Document 1:
+
+4.	Mode	of	payment:	Party	B	shall	pay	rent	and	property	fees	on	a	quarterly	basis	via	cheque,	cash	or	remittance.	Party	B	shall	pay	the	rent	and
+
+property	fees	of	this	Premise	in	next	quarter	on	the	first	10	working	days	of	each	quarter.
+
+Opening	bank:	Bank	of	Communications	Beijing	West	3rd	Ring	Branch Account	name:	Beijing	Guochuan	Borui	Technology	Co.,	Ltd. Account	No.:	1100	6130	7018	8000	3674	3
+
+5.	Party	A	shall,	within	15	working	days	upon	receiving	Party	B’s	rent,	issue	ordinary	VAT	invoice	to	Party	B.	Party	A	shall	also	issue	the	deposit
+
+receipt	to	Party	B	upon	receiving	the	deposit	from	Party	B.
+
+6.	(1),	(3),	(5),	(6)	and	(7)	of	the	fees	below	are	borne	by	Party	A	while	(2)	and	(4)	are	borne	by	Party	B	during	the	whole	term	of	lease.	Details: (1)	 Water	 fees;	 (2)	 Electricity	 fees;	 (3)	 Heat	 supply	 fees;	 (4)	 Property	 management	 fees;	 (5)	 Sanitation	 fees;	 (6)	 Network	 fees	 (WiFi);	 (7)	 Air conditioning	and	fresh	air	fees.
+
+V.	Deposit
+****************************************************************************************************
+Document 2:
+
+V.	Deposit
+
+1.	Party	B	shall	pay	Party	A	deposit	of	RMB	69,594.00	(say:	RMB	SIXTY	NINE	THOUSAND	FIVE	HUNDRED	NINETY	FOUR	Only)	after	both
+
+parties	sign	this	Contract.
+
+2.	Refunding	of	deposit:	Party	A	shall	refund	the	deposit	to	Party	B	(no	interest	paid)	after	the	expiration	of	term	of	lease	once	Party	B	finishes handling	 the	 surrender	 formalities,	 moves	 all	 the	 belongings	 out	 of	 this	 Premise	 and	 submits	 Party	 A	 the	 deposit	 receipt,	 if	 Party	 A	 confirms through	acceptance	that	Party	B	does	not	damage	this	Premise,	has	no	any	fees	owed	and	does	not	go	against	the	contractual	obligations.	Party	A has	the	rights	not	to	refund	the	deposit	if	this	Contract	is	terminated	in	advance	or	cancelled	by	Party	B’s	noncompliance.
+
+VI.	Party	A’s	Rights	and	Obligations
+
+1.	Repair,	maintain	and	manage	the	public	equipment	and	facilities,	and	the	shared	parts	of	this	Premise,	maintain	the	public	order	and	offer
+
+assistance	for	safety	prevention;
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 62
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 94
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 37
+Number of chunks retrieved: 1
+Document 1:
+
+EX-10.17	6	tm2119416d10_ex10-17.htm	EXHIBIT	10.17
+
+15	July	2021
+
+Licence	to	assign relating	to	 Unit	1,	Camwal	Court,	Chapel	Street,	St	Philips	Marsh,	Bristol	BS2	0UW
+
+Anthony	Nigel	Sampson	(1) Vertical	Aerospace	Limited	(2) Imagination	Industries	Limited	(3) Vertical	Aerospace	Group	Ltd	(4)	and	 Imagination	Industries	Limited	(5)
+
+Womble	Bond	Dickinson	(UK)	LLP Tel	+44(0)345	415	0000	 www.womblebonddickinson.com
+
+Exhibit	10.17
+
+Clause
+
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. SCHEDULE	1 SCHEDULE	2
+
+1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. SCHEDULE	1 SCHEDULE	2
+
+CONTENTS
+
+DEFINITIONS	AND	INTERPRETATION CONSENT	TO	ASSIGN TENANT'S	AND	ASSIGNEE’S	OBLIGATIONS	RELATING	TO	THE	ASSIGNMENT TENANT'S	GUARANTOR GUARANTEE	AND	INDEMNITY	BY	ASSIGNEE'S	GUARANTOR COSTS RIGHT	OF	RE-ENTRY	IN	THE	LEASE LIABILITY INDEMNITY AGREEMENTS NOTICES THIRD	PARTY	RIGHTS GOVERNING	LAW	AND	JURISDICTION
+
+Guarantee	and	indemnity	by	Assignee's	Guarantor
+
+Page
+
+2 3 4 4 4 5 5 5 5 5 5 5 5 7 7 12 12
+
+DATE	15	July	2021
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 23
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 77
+Number of chunks retrieved: 1
+Document 1:
+
+19’	Scissor	Lift:	$400.00month 26’	Scissor	Lift:	$650.00month 40’	Boom	Lift:	$2,500.00month 30’	Scissor	Lift	4x4:	$1,895.00month Site	Laser:		$35.00day Pump	Jacks:	$45.00day	(Per	Pole) 25’	Staging	Plank:	$35.00day Electric	Concrete	Saw:	$125.00day Blade	Change:	$175.00 Electric	Jackhammer:	$95.00day Rotary	Concrete	Hand	Drill:	$45.00day Job	Trailer:	$175.00month
+
+Labor	&	Equipment	Rates
+
+Exhibit	“E”
+
+Budget	Estimate	for	Building	Construction	and	Development	Costs
+
+The	following	budget	estimate	is	based	upon	Landlord’s	development	and	construction	of	a	new	shared	use	14,000	Sq.	Ft.	building,	of		which SunCommon	occupies	8,640	Sq	Ft.	or	sixty-two	percent	(62%)	of	the	total	square	footage.		All	common	areas	are	shared.			Sixty-two	percent	(62%) of	common/site	improvement	and	procurement	costs	are	allocated	to	SunCommon.
+
+Site	Work Site	Lighting Concrete Metals Wood	&	Plastic
+
+Net	Zero	Adder Thermal	&	Moisture Net	Zero	Adder Doors	&	Windows Net	Zero	Adder
+
+Finishes HVAC	&	Mech
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 66
+Number of chunks retrieved: 1
+Document 1:
+
+LESSOR	 MAY	 TAKE	 ROYALTY	 IN	 KIND.	 At	 any	 time	 and	 from	 time	 to	 time	 the	 lessor	 may	 at	 its	 option notify	the	lessee	that	lessor	desires	its	royalty	proceeds	to	be	paid	direct	to	it	by	the	purchaser	of	the	mineral	or	minerals	and lessee	agrees	promptly	upon	receipt	of	such	notice	to	make,	execute	and	deliver	in	writing	to	lessor	a	royalty	authorization deduction	request	on	a	form	approved	by	lessor	requiring	the	mineral	purchaser	to	pay	lessor's	royalty	direct	to	it.
+
+E.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 46
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 18
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 73
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 75
+Number of chunks retrieved: 3
+Document 1:
+
+20
+
+ARTICLE	21
+
+21.01.
+
+PURCHASE	OPTION.	So	long	as	Tenant	is	not	then	in	default	under	the	terms	of	this	Lease,
+
+Tenant	(or	its	affiliate)	shall	have	the	option	to	purchase	the	Project,	along	with	the	associated	land	and	improvements (the	“Purchase	Option”),	during	the	following	periods	of	the	Lease	Term	and	for	the	applicable	purchase	price indicated:
+
+1)
+
+2)
+
+3)
+
+4)
+
+Tenant	shall	not	have	a	right	to	acquire	the	Project	under	the	Purchase	Option	prior	to	May 31,	2016. If	Tenant	closes	on	the	acquisition	of	the	Project	between	June	1,	2016	and	August	31,	2016, then	the	purchase	price	shall	be	$2,225,000.00. If	Tenant	closes	on	the	acquisition	of	the	Project	between	September	1,	2016	and	May	31, 2017,	then	the	purchase	price	shall	be	$2,275,000.00. If	Tenant	closes	on	the	acquisition	of	the	Project	between	June	1,	2017	and	May	31,	2018, then	the	purchase	price	shall	be	$2,325,000.00.
+****************************************************************************************************
+Document 2:
+
+If	Tenant	(or	its	affiliate)	fails	to	close	on	the	purchase	of	the	Project	by	May	31,	2018,	then	this	Purchase	Option	shall automatically	terminate	and	have	no	further	force	nor	effect.	Tenant	shall	exercise	the	Option	to	Purchase	by	providing written	notice	to	Landlord	thereof	(the	“Exercise	Notice”),	which	Exercise	Notice	shall	include	Tenant’s	desired	closing date	(the	“Closing	Date”),	which	Closing	Date	shall	be	not	earlier	than	fifteen	(15)	days	following	the	date	of	the Exercise	Notice.	If	Tenant	(or	its	affiliate)	exercises	its	Option	to	Purchase,	then	the	terms	of	the	purchase	and	sale shall	be	as	follows:	(i)	the	purchase	price	for	the	Project	shall	be	the	applicable	purchase	price	set	forth	above,	and	shall be	payable	in	cash	at	the	closing	of	the	acquisition	of	the	Project	by	Tenant	(or	its	affiliate)	(the	“Closing”);	(ii)	the Closing	shall	occur	at	and	the	owner’s	policy	of	title	insurance	shall	be	issued	by,	Chicago	Title	Company,	14160	N.
+****************************************************************************************************
+Document 3:
+
+3.02.
+
+3.03.
+
+SECURITY	DEPOSIT.	Tenant	shall	deposit	with	Landlord	on	the	closing	date	of	the	Landlord
+
+Purchase	Contract	the	sum	set	forth	in	Section	1.01(o)	hereof	as	a	Security	Deposit	on	the	understanding:	(a)	that	the Security	Deposit	or	any	portion	thereof	may	be	applied	to	the	curing	of	any	default,	without	prejudice	to	any	other remedy	or	remedies	which	the	Landlord	may	have	on	account	thereof,	and	upon	such	application	Tenant	shall	pay Landlord	on	demand	the	amount	so	applied	which	shall	be	added	to	the	Security	Deposit	so	the	same	will	be	restored	to its
+
+6
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 91
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
