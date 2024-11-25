@@ -11,7 +11,7 @@ Lease,Answer,Real answer,Correct
 4,Landlord,"Venable Tenant, LLC",0
 11,"HOLDER INVESTMENTS, INC.","Holder Investments, Inc",1
 69,"105 W First Street Owner, L.L.C.","105 W. First Street Owner, L.L.C.",1
-1,Kyle J. Beller,"BarBell Real Estate, LLC",0
+1,"BarBell Real Estate, LLC","BarBell Real Estate, LLC",1
 82,Lessor,VT Equipment Leasing LLC,0
 42,100 Chesapeake Blvd LLC,100 CHESAPEAKE BLVD LLC,1
 53,Hooten Non Exempt Family Trust B,Hooten Non Exempt Family Trust B,1
@@ -31,18 +31,18 @@ Lease,Answer,Real answer,Correct
 55,"Price-Poore House, LLC","Price-Poore House, LLC",1
 25,Landlord,"Wilks Ranch Texas, LTD",0
 14,"Adairsville GA, LLC","Adairsville GA, LLC",1
-70,,Mundo Talio SL,0
+70,The Lessor,Mundo Talio SL,0
 36,Landlord,PINAL COUNTY,0
 8,"Village Corner, LLC","Village Corner, LLC",1
 34,Landa App LLC - 1703 Summerwoods Lane Griffin GA LLC,Landa App LLC - 1703 Summerwoods Lane Griffin GA LLC,1
 52,Visions Federal Credit Union,VISIONS FEDERAL CREDIT UNION,1
 19,Chicago Executive Airport,Chicago Executive Airport,1
 43,Lessor,"Hudson Towers at Shore Center, LLC, a Delaware limited liability company",0
-15,"Narcoossee Acquisitions, LLC.","Narcoossee Acquisitions, LLC",1
+15,LESSOR,"Narcoossee Acquisitions, LLC",0
 21,"Industrial Developments International, Inc., a Delaware corporation","INDUSTRIAL DEVELOPMENTS INTERNATIONAL, INC.",0
 59,"Gifford Investments, Inc.","GIFFORD INVESTMENTS, INC.",1
 96,Landlord,"UCB, INC.",0
-47,"Apple Moving, INC.","Apple Moving, Inc.",1
+47,"Apple Moving, Inc.","Apple Moving, Inc.",1
 3,The Wheelership LLC,The Wheelership LLC,1
 57,Queen Mary Bioenterprises Limited,Queen Mary Bioenterprises Limited,1
 16,"Exponent Realty, LLC","EXPONENT REALTY, LLC",1
@@ -59,13 +59,13 @@ Lease,Answer,Real answer,Correct
 50,NWP Building 20 LLC,NWP BUILDING 20 LLC,1
 89,Queen Mary Bioenterprises Limited,Queen Mary Bioenterprises Limited,1
 41,"Bernardo Windell, LLC","BERNARDO WINDELL, LLC",1
-93,Sheehy Mail Contractors Inc.,"Penta Partners, LLC",0
+93,"Penta Partners, LLC","Penta Partners, LLC",1
 61,"Overlook At Rob Roy Owner (Delaware), LLC","Overlook At Rob Roy Owner, LLC",1
 31,CTROOK002 LLC,CTROOK002 LLC,1
 2,Sony Chocolate Industries Ltd.,Sony Chocolate Industries Ltd,1
 58,Party A,"Sichuan Anyi Hengke Technology Co., Ltd.",0
-7,,"AR Industrial No. 1, Ltd",0
-24,Owner,"APT Cowork, LLC",0
+7,Landlord,"AR Industrial No. 1, Ltd",0
+24,,"APT Cowork, LLC",0
 71,Steven and Janet Atkinson,Steven and Janet Atkinson,1
-56,"State of Wyoming, Acting by and through its Board of Land Commissioners and State Lands and Investment Board",State of Wyoming,0
-98,"Beijing Luji Technology Co., Ltd.","Beijing Hontao Management Consulting Co., Ltd.",0
+56,"State Of Wyoming, Acting By And Through Its Board Of Land Commissioners",State of Wyoming,0
+98,"Beijing Hontao Management Consulting Co., Ltd","Beijing Hontao Management Consulting Co., Ltd.",1
