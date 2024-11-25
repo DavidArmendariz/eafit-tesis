@@ -1,0 +1,622 @@
+Chunks for lease 81
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 60
+Number of chunks retrieved: 1
+Document 1:
+
+EX-10.68	3	ex10-68.htm
+
+THIS	AGREEMENT	(in	pursuance	of	the	Land	Transfer	Form	Act	-	Part	2),	effective	the	1st	day	of	April,	2022	(the	“Effective	Date”).
+
+BETWEEN:
+
+Kathryn	Joy	Atkinson of	2934	Jameson	Road,	Nanaimo,	BC	V9R	6W8 herein	after	referred	to	as	the	“Lessor”.
+
+AND:
+
+Taste	of	BC	Aquafarms	Inc.	(Tenant) of	2930	Jameson	Road,	Nanaimo,	BC	V9R	6W8 herein	after	referred	to	as	the	“Lessee”.
+
+WHEREAS	The	Lessor	is	the	registered	owner	of	the	following	property	in	Nanaimo,	Province	of	British	Columbia,	with	Civic	Address	2930	Jameson	Road,	Nanaimo BC	V9R	6W8	and	legally	described	as:
+
+PID	028	137	353	Plan	VIS6917	Lot	B,	Section	12	Range	4,	Mountain	District
+
+And	wishes	to	lease	only	the	portion	consisting	of	approximately	2.60	acres	as	shown	on	the	map	in	Appendix	1	and	for	futher	context,	as	shown	in	Appendix	2	labeled as	“A”.
+
+This	portion	is	herein	after	referred	to	as	“the	Lands.”
+
+Grant	of	Lease
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 48
+Number of chunks retrieved: 1
+Document 1:
+
+EX-10.10	3	mcac-20230930xex10d10.htm	EXHIBIT	10.10
+
+Exhibit	10.10
+
+STANDARD	FORM	COMMERCIAL	LEASE
+
+This	"Lease"	is	made	this							day	of	October						,	2022	by	and	between	Sunrise	Nominee	Trust,	a	Massachusetts	Trust ("Landlord")	ConnectM	Technologies,	LLC	dba	Bourque	Heating	and	Cooling	Co.	Inc.	a	Massachusetts	Corporation	("Tenant"). Pursuant	to	the	terms	of	this	Lease,	Landlord	agrees	to	lease	the	Premises	(hereinafter	defined)	to	Tenant	and	Tenant	agrees	to lease	the	Premises	from	Landlord	on	the	terms	set	forth.
+
+1. Premises	The	"Premises"	shall	mean	1199	Pitchers	Way	Hyannis	MA	including	the	right	to	use	the	hallways	and/or
+
+applicable	stairs	for	access	to	and	egress	from	said	Premises.
+
+2. Term	The	"Term"	of	this	Lease	shall	be	for	the	period	Five	(5)	years	,	Commencing	on	November	1,	2022	(the
+
+"Commencement	Date")	and	ending	on	October	31,	2027	(the	"Termination	Date").
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 100
+Number of chunks retrieved: 3
+Document 1:
+
+This	Lease	Agreement	is	effective	as	of	the	date	indicated	in	the	first	paragraph	of	this	Lease.
+
+LESSEE
+
+BACTERIN	INTERNATIONAL,	INC.
+
+By:
+
+/s/	Darrel	Holmes Its	COO,	CO-CEO July	26,	2013
+
+State	of	Montana Count	of	Gallatin Signed	and	sworn	to	me	this 26th	day	of	July,	2013 /s/	Gail	Slingsby By:
+
+-5-
+
+LESSOR
+
+MCCLELLAN	FARM
+
+By:
+
+/s/	Jerry	W.	Thorson Its	President August	1,	2013
+
+State	of	Montana 	 County	of	Liberty 	 Acknowledged	1	August	2013	before	the
+
+undersigned	notary	public	for	the	state	of	MT by	Jerry	W.	Thorson,	President	of
+
+McClellan	Farm
+
+/s/	Hugh	B.	Brown
+
+6-
+****************************************************************************************************
+Document 2:
+
+building	leased	hereunder,	other	than	temporarily	while	waiting	for	repair.	In	no	event	shall	such	waiting	period	exceed	ten	(10)	days.
+
+25.	DUMPSTER.	Lessee	agrees	to	pay	for	dumpster	rental	cost.
+
+26.	OPTION	TO	EXTEND	LEASE.	Lessee	by	giving	six	(6)	months	written	notice	to	Lessor	shall	be	able	to	extend	this	lease	for	one	(1)	additional	ten	(10)
+
+year	term.	The	rent	would	then	increase	by	the	percentage	that	the	consumer	price	index	had	increased	during	the	ten	(10)	years	preceding.
+
+27.	BINDING	EFFECT.	This	agreement	shall	be	binding	upon	and	inure	to	the	benefit	of	the	successors	and	assigns	of	the	parties	hereto.
+
+28.	INTERPRETATION.	If	any	portion	of	this	Lease	shall	be	held	to	be	void	or	unenforceable,	the	balance	thereof	shall	nevertheless	be	effective.	This	Lease
+
+has	been	made	and	entered	into	in	the	State	of	Montana	and	shall	be	governed	by	the	laws	of	the	State	of	Montana.
+
+This	Lease	Agreement	is	effective	as	of	the	date	indicated	in	the	first	paragraph	of	this	Lease.
+****************************************************************************************************
+Document 3:
+
+EX-10.33	5	ex10-33.htm
+
+LEASE	AGREEMENT
+
+THIS	LEASE,	made	and	entered	into	this	7th	day	of	August,	2013,	by	and	between	McCLELLAN	FARM,	a	Montana	Corporation	of	Joplin,	MT,	or	assigns, hereinafter	 designated	 “Lessor,”	 and	 BACTERIN	 INTERNATIONAL,	 INC.,	 a	 Nevada	 corporation	 with	 an	 address	 at	 600	 Cruiser	 Lane,	 Belgrade,	 MT	 59714, hereinafter	designated	“Lessee.”
+
+WITNESSETH
+
+Lessor	does	lease	to	Lessee	approximately	17,700	square	feet	of	office	manufacturing	and	shop	space	in	the	building	at	600	Cruiser	Lane,	Belgrade,	MT,	59714
+
+more	particularly	described	on	Exhibit	A,	attached	hereto.
+
+TO	HAVE	AND	TO	HOLD	the	same	unto	the	Lessee	from	the	7th	day	of	August,	2013	until	the	7th	day	of	August,	2023.
+
+AND	THE	LESSOR	AND	THE	LESSEE	FURTHER	COVENANT	AND	AGREE	AS	FOLLOWS:
+
+1.	RENT.	The	Lessee	agrees	to	pay	Thirteen	Thousand	Dollars	($13,000.00)	per	month	in	advance	commencing	August	7,	2013.	Lessee	agrees	to	pay	Thirteen
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 10
+Number of chunks retrieved: 1
+Document 1:
+
+11
+
+above.
+
+LANDLORD	 AND	 TENANT	 have	 executed	 this	 Lease	 on	 the	 respective	 dates	 set	 forth	 below,	 to	 be	 effective	 as	 of	 the	 date	 first	 set	 forth
+
+LANDLORD: YESCO	Properties	LLC
+
+By: Name: 	 Its:
+
+Date:
+
+Jul	5,	2018
+
+TENANT: Co-Diagnostics
+
+By: Name: 	 Its:
+
+Date:
+
+6/29/18
+
+12
+
+ADDENDUM	#1 TO LEASE	AGREEMENT
+
+That	certain	Lease	Agreement	dated								June	5,	2018								between	YESCO	Properties	LLC,	a	Utah	limited	liability	company	(“Landlord”)	and	Co- Diagnostics,	Inc.	(“Tenant”)	(the	“Lease”)	is	by	this	Addendum	#1	to	the	Lease	(this	“Addendum”)	amended.	Capitalized	terms	not	defined	in	this Addendum	shall	have	the	meaning	as	set	forth	in	the	Lease.	Notwithstanding	any	provision	of	the	Lease	to	the	contrary,	the	following	provisions control:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 33
+Number of chunks retrieved: 1
+Document 1:
+
+Real	Estate	Investing.	East.	Smart.	For	Everyone 1	Penn	Plaza	36th	Floor,	New	York,	NY,	10119	 hi@landa.app
+
+12
+
+WITNESS	THE	SIGNATURES	OF	THE	PARTIES	TO	THIS	RESIDENTIAL	LEASE	AGREEMENT:
+
+Landlord: Landa	Properties	LLC Yishai	Cohen January	5,	2022
+
+Tenant: [**] January	31,	2022
+
+Agent: Marlena	Harte January	5,	2022
+
+Real	Estate	Investing.	East.	Smart.	For	Everyone 1	Penn	Plaza	36th	Floor,	New	York,	NY,	10119	 hi@landa.app
+
+13
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 38
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 5
+Number of chunks retrieved: 3
+Document 1:
+
+6.									Effective	Date.	The	effective	date	for	Tenant’s	increased	space	and	rental	payments	shall	be	May	1,	2007	(the	“Effective	Date”).
+
+7.									Term	of	Lease.	The	Term	of	the	Lease	shall	include	the	increased	Leased	Premises	under	the	terms	of	the	Amended	and	Restated	Lease	Agreement	dated	April	5,	2005	that	provide	for	a	lease	term	ended March	31,	2012.
+
+1
+****************************************************************************************************
+Document 2:
+
+th
+
+WITNESSETH:
+
+The	 Tenant	 and	 the	 Landlord	 have	 executed	 a	 Lease	Agreement	 (the	 original	 Lease)	 dated	 March	 31,	 1995,	 as	 amended	 by	 certain	 amendments	 dated	April	 15,	 1997,	 October	 30,	 1997,	April	 23,	 1998, November	 16,	 1999,	August	 21,	 2000,	April	 5,	 2005,	 November	 20,	 2007,	 and	 May	 25,	 2012,	 respectively	 (collectively,	 the	 "Lease"),	 relating	 to	 leased	 premises	 located	 at	 825	 Berkshire	 Boulevard,	Wyomissing, Pennsylvania	19610.
+
+NOW,	THEREFORE,	INTENDING	TO	BE	LEGALLY	BOUND	HEREBY	and	in	consideration	of	the	mutual	covenants	set	forth	herein,	the	Landlord,	and	Tenant	agree	as	follows:
+
+1.
+
+Incorporation.	The	recitals	set	forth	above	are	incorporated	herein	by	reference.
+
+2.
+****************************************************************************************************
+Document 3:
+
+5.														Fixed	Annual	Minimum	Rent:	As	per	attached	Exhibit	A.
+
+6.														Effective	Date.	The	effective	date	for	Tenant’s	increased	space	and	rental	payments	shall	be	June	15,	2000.
+
+7.														Term	of	Lease.	Term	of	Lease	is	unchanged;	ten	(10)	years	starting	April	1,	1995	and	ending	March	31,	2005.
+
+8.														Binding	effect.	This	Amendment	shall	be	binding	upon,	and	shall	inure	to	the	benefit	of,	Landlord	and	Tenant,	and	their	respective	successors	and	assigns.
+
+IN	WITNESS	WHEREOF,	and	intending	to	be	legally	bound	hereby,	Landlord	and	Tenant	have	caused	this	Amendment	of	Lease	Terms	to	be	duly	executed	this	21	day	of	August,	2000.
+
+THIS	LEASE	MUST	BE	EXECUTED	FOR	TENANT,	IF	A	CORPORATION,	BY	THE	PRESIDENT	OR	VICE	PRESIDENT	AND	ATTESTED	BY	THE	SECRETARY	OR
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 74
+Number of chunks retrieved: 1
+Document 1:
+
+OPTION	to	RENEW
+
+There	is	no	option	to	renew	this	Month-to-Month	Lease.	Should	the	Lessee	wish	to	continue	to	lease	beyond	the	term	of	this	Lease,	the	Lessee	must provide	 written	 notice	 of	 this	 intention	 by	 December	 1,	 2020.	 Lessor	 will	 determine	 at	 that	 time	 if	 a	 new	 lease	 will	 be	 considered	 beyond	 the current	term	ending	December	31,	2020.
+
+ENTIRE	AGREEMENT
+
+The	 foregoing	 constitutes	 the	 entire	 agreement	 between	 the	 Parties	 and	 may	 be	 modified	 only	 in	 writing,	 signed	 by	 both	 parties.	 The	 following Exhibits,	if	any,	have	been	made	a	part	of	this	lease	before	the	Parties	execution	hereof:
+
+Signed	on	this	16th	day	of	December	2019.
+
+By:
+
+(Lessee)
+
+By:
+
+(Lessor)
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 28
+Number of chunks retrieved: 1
+Document 1:
+
+L.-	This	Agreement	and	each	and	all	of	its	stipulations	as	drafted,	are	for	the	sole	and	exclusive	use	by	IAMSA	with	its	lessees.	Its contents	shall	not	be	disclosed	to	or	used	by	other	parties,	for	any	other	purpose	whatsoever,	except	for	disclosures	to	a	party’s attorneys	or	accountants,	or	for	disclosure	required	under	applicable	laws	(including	without	limitation	securities	laws).
+
+M.-	 All	 Exhibits	 mentioned	 hereunder	 shall	 be	 signed	 by	 all	 parties	 involved,	 and	 shall	 be	 enforceable	 together	 with	 Lease Agreement.
+
+N.-	 This	 Agreement	 will	 be	 executed	 in	 the	 English	 and	 Spanish	 versions.	 In	 the	 event	 any	 inconsistency	 arises	 regarding	 its interpretation,	then	the	English	version	shall	prevail.
+
+[Signature	Page	Follows]
+
+IN	WITNESS	WHEREOF,	the	parties	have	executed	this	Lease	Agreement	in	the	city	of	Mexicali,	Baja	California,	Mexico,	on	the	1st day	of	September,	two	thousand	seven.
+
+INDUSTRIAS	ASOCIADAS MAQUILADORAS	S.A.	DE	C.V.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 79
+Number of chunks retrieved: 2
+Document 1:
+
+EX-10.21	3	f10k2021ex10-21_jerashhold.htm	LEASE	AGREEMENT	BETWEEN	TREASURE	SUCCESS	AND	EVER	WINLAND	LIMITED	DATED FEBRUARY	26,	2021
+
+Exhibit	10.21
+
+THIS	AGREEMENT	is	made	on	the	26th	day	of	February,	2021
+
+BETWEEN:-
+
+(1)
+
+Ever	Winland	 Limited	 whose	 registered	 office	 is	 situate	 at	 Unit	 06,	 3/F.,	 Siu	Wai	 Industrial	 Centre,	 29-33	Wing	 Hong	 Street,	 Cheung	 Sha Wan,	Kowloon,	Hong	Kong	(the	“Landlord”);	and
+
+(2)
+
+Treasure	Success	International	Limited	whose	registered	office	is	situate	at	Unit	A,	19/F,	Ford	Glory	Plaza,	37-39	Wing	Hong	Street,	Cheung Sha	Wan,	Kowloon,	Hong	Kong	(the	“Tenant”).
+
+RECITAL
+****************************************************************************************************
+Document 2:
+
+(2)
+
+Treasure	Success	International	Limited	whose	registered	office	is	situate	at	Unit	A,	19/F,	Ford	Glory	Plaza,	37-39	Wing	Hong	Street,	Cheung Sha	Wan,	Kowloon,	Hong	Kong	(the	“Tenant”).
+
+RECITAL
+
+A. Pursuant	to	a	lease	agreement	entered	into	by	Ford	Glory	International	Limited	(Ford	Glory)	and	the	Tenant	dated	15	December	2020	with	a lease	term	expired	on	October	2,	2022	(the	“Old	Lease”),	and	a	sales	and	purchase	agreement	entered	into	by	Ford	Glory	and	the	Landlord in	respect	of	sales	and	purchase	of	the	property	corresponding	to	the	Property	referred	to	in	the	Old	Lease,	the	Landlord	and	the	Tenant agreed	to	enter	into	this	Lease	Agreement	with	the	terms	below	and	the	details	in	the	First	Schedule	and	the	Second	Schedule.
+
+B. Upon	execution	of	this	Lease	Agreement,	the	Old	Lease	is	deemed	to	terminate	on	the	date	the	term	of	this	Lease	Agreement	starts	per	the
+
+First	Schedule	and	Second	Schedule.
+
+WHEREBY	IT	IS	AGREED	as	follows:-
+
+1.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 97
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 54
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 30
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 35
+Number of chunks retrieved: 2
+Document 1:
+
+e.	Refusal	to	allow	the	Landlord	to	inspect	the	premises.
+
+f.	Failure	of	the	Tenant	to	have	personal	property	insurance	to	cover	damage	or	losses	to	furniture.
+
+g.	Any	action	that	prevents	treatment	of	the	leased	premises	or	potentially	exasperates	or	increases	the	bedbug	issue.
+
+9.	Conflicts.	To	the	extent	that	the	terms	of	this	Addendum	are	inconsistent	with	the	terms	of	the	Lease,	the	terms	of	this	Addendum	shall	control.	By signing	below,	the	undersigned	Tenant	agrees	and	acknowledge	having	read	and	understood	this	addendum.
+
+By	signing	below,	the	undersigned	Tenant	agree	and	acknowledge	having	read	and	understood	this	addendum.
+
+Real	Estate	Investing.	East.	Smart.	For	Everyone 1	Penn	Plaza	36th	Floor,	New	York,	NY,	10119 hi@landa.app
+
+12
+
+WITNESS	THE	SIGNATURES	OF	THE	PARTIES	TO	THIS	RESIDENTIAL	LEASE	AGREEMENT:
+
+Landlord: Landa	Properties	LLC Yishai	Cohen
+
+October	29,	2021
+
+Tenant: [***] October	29,	2021
+
+Agent: Marlena	Harte
+
+October	29,	2021
+****************************************************************************************************
+Document 2:
+
+EX1A-6	MAT	CTRCT	5	ea150469ex6-80_landaapp.htm	LEASE	AGREEMENT	FOR	8679	ASHLEY	WAY,	DOUGLASVILLE,	GEORGIA	30134
+
+Landa	Lease
+
+This	 Residential	 Lease	 Agreement	 (hereinafter	 “Lease”)	 is	 entered	 into	 this	 on	 1st	 day	 of	 November,	 2021	 by	 and	 between	 the	 Lessor:	 Landa Properties	 LLC	 (hereinafter	 referred	 to	 as	 “Landlord”),	 and	 the	 Lessee(s):[***]	 .	 All	 Lessees	 (hereinafter	 referred	 to	 collectively	 as	 “Tenant”),	 are jointly,	severally	and	individually	bound	by,	and	liable	under,	the	terms	and	conditions	of	this	Lease.
+
+For	the	valuable	consideration	described	below,	the	sufficiency	of	which	is	hereby	acknowledged,	Landlord	and	Tenant	do	hereby	covenant,	contract and	agree	as	follows:
+
+Grant	Of	Lease
+
+Landlord	does	hereby	lease	unto	Tenant,	and	Tenant	does	hereby	rent	from	Landlord,	solely	for	use	as	a	personal	residence,	excluding	all	other	uses, the	personal	residence	located	in	USA,	GA,	with	address	of:	8679	Ashley	Way,	Douglasville,	GA,	USA
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 13
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 90
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 32
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 64
+Number of chunks retrieved: 1
+Document 1:
+
+2.	Either	party	shall	not	change	or	modify	this	Contract	without	reaching	written	consent	with	the	counterparty.
+
+3.	 This	 Contract	 is	 executed	 in	 quadruplicate	 with	 each	 party	 holding	 two,	 all	 of	 which	 have	 the	 same	 legal	 effect.	 This	 Contract	 comes	 into effect	 once	 signed	 by	 both	 parties’	 legal	 representatives	 or	 authorized	 agents	 and	 stamped	 with	 their	 respective	 official	 seal	 or	 special	 seal	 for contract.
+
+(No	text	hereunder)
+
+4
+
+Party	A	(seal):
+
+Legal	representative	or	authorized	agent	(signature):
+
+Party	B	(seal):
+
+Legal	representative	or	authorized	agent	(signature):
+
+Date	of	signature:	January	18,	2021
+
+5
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 62
+Number of chunks retrieved: 1
+Document 1:
+
+EX-10.31	3	knwn_ex1031.htm	LEASE	AGREEMENT
+
+EXHIBIT	10.31
+
+Lease	Agreement
+
+1.	Identification	of	Landlord	and	Tenants.	This	Agreement	is	made	and	entered	into	on	September	22,	2022,	between	Know	Labs,	Inc.,	for	itself	and	its	current	and future	subsidiaries	(“Tenants”),	and	Phil	Bosua	(“Landlord”).	Each	Tenant	is	jointly	and	severally	liable	for	the	payment	of	rent	and	performance	of	all	other	terms	of this	Agreement.
+
+2.	 Identification	 of	 Premises	 and	 Occupants.	 Subject	 to	 the	 terms	 and	 conditions	 set	 forth	 in	 this	Agreement,	 Landlord	 rents	 to	 Tenants,	 and	 Tenants	 rent	 from Landlord,	 1,700	 square	 feet	 of	 the	 total	 2,134	 square	 feet	 of	 premises	 located	 at	 58969	 Carmelita	 Circle,	Yucca	 Valley,	 CA	 92284,	 inclusive	 of	 1	 office,	 access	 to common	space,	kitchen,	and	bathroom	(the	Leased	Premises”).	The	Leased	Premises	shall	be	occupied	by	the	undersigned	Tenants,	their	employees,	and	consultants.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 94
+Number of chunks retrieved: 1
+Document 1:
+
+EX-10.48	7	ex1048-creweroadwythenshaw.htm	EX-10.48
+
+CERTAIN	INFORMATION	HAS	BEEN	OMITTED	FROM	THIS	DOCUMENT	BECAUSE	IT	IS	(I)	NOT	MATERIAL,	AND (II)	WOULD	BE	COMPETITIVELY	HARMFUL	IF	PUBLICLY	DISCLOSED.	OMISSIONS	ARE	MARKED	[*******].
+
+DATED
+
+th
+
+8 	February
+
+1988
+
+THE	COUNCIL	OF	THE	CITY
+
+OF	MANCHESTER
+
+and	-
+
+V.G.	INSTRUMENTS	GROUP	LIMITED
+
+LEASE
+
+of-
+
+land	situate	at
+
+Crewe	Road	Wythenshawe
+
+in	the	City	of	Manchester
+
+Town	Clerk
+
+Town	Hall
+
+Manchester
+
+M60	2LA
+
+LC/EM3/CP/55936
+
+1103CMM/SP
+
+Parties
+
+Interpretation
+
+H.M.	LAND	REGISTRY
+
+land	Registration	Acts	-	1925	to	1971
+
+County	-	Greater	Manchester
+
+District	-	City	of	Manchester	Registered	Title	No.
+
+land	situate	at	Crewe	Road	Wythenshawe	in	the
+
+City	of	Manchester
+
+THIS	LEASE	made	the	eighth	day	of	February	1988	Between	(1)	THE	COUNCIL	OF	THE	CITY	OF	MANCHESTER
+
+("the	Lessors")	and	(2)	V	G	INSTRUMENTS	GROUP	LIMITED	having	its	Regjstered	Office	at	29	Brighton	Road	Crawley
+
+West	Sussex	Rh10	6AE	(	"the	Lessee")
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 37
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 23
+Number of chunks retrieved: 2
+Document 1:
+
+LANDLORD	AND	TENANT	EXPRESSLY	DISCLAIM	ANY	IMPLIED	WARRANTY	THAT	THE	PREMISES	ARE	SUITABLE	FOR	TENANT’S	INTENDED COMMERCIAL	 PURPOSE,	 AND	 TENANT’S	 OBLIGATION	 TO	 PAY	 RENT	 HEREUNDER	 IS	 NOT	 DEPENDENT	 UPON	 THE	 CONDITION	 OF	 THE PREMISES	 OR	 THE	 PERFORMANCE	 BY	 LANDLORD	 OF	 ITS	 OBLIGATIONS	 HEREUNDER,	 AND,	 EXCEPT	 AS	 OTHERWISE	 EXPRESSLY PROVIDED	 HEREIN,	 TENANT	 SHALL	 CONTINUE	 TO	 PAY	 THE	 RENT,	 WITHOUT	 ABATEMENT,	 DEMAND,	 SETOFF	 OR	 DEDUCTION, NOTWITHSTANDING	ANY	BREACH	BY	LANDLORD	OF	ITS	DUTIES	OR	OBLIGATIONS	HEREUNDER,	WHETHER	EXPRESS	OR	IMPLIED.
+
+This	Lease	is	executed	on	the	respective	dates	set	forth	below,	but	for	reference	purposes,	this	Lease	shall	be	dated	as	of	the	date	first	above
+
+written.	If	the	execution	date	is	left	blank,	this	Lease	shall	be	deemed	executed	as	of	the	date	first	written	above.
+
+LANDLORD:
+
+MEADOWS	OFFICE,	L.L.C.,	a	Delaware	limited	liability	company
+
+By: Name: Title: Execution	Date:
+****************************************************************************************************
+Document 2:
+
+3.	 Tender	 of	 Possession.	 Landlord	 and	 Tenant	 presently	 anticipate	 that	 possession	 of	 the	 Premises	 will	 be	 tendered	 to	 Tenant	 in	 the condition	required	by	this	Lease	on	or	about	the	date	of	execution	and	delivery	of	this	Lease	by	Landlord	and	Tenant	(the	“Estimated	Delivery Date”).	If	Landlord	is	unable	to	tender	possession	of	the	Premises	in	such	condition	to	Tenant	by	the	Estimated	Delivery	Date,	then:	(a)	the	validity of	 this	 Lease	 shall	 not	 be	 affected	 or	 impaired	 thereby;	 (b)	 Landlord	 shall	 not	 be	 in	 default	 hereunder	 or	 be	 liable	 for	 damages	 therefor;	 and	 (c) Tenant	shall	accept	possession	of	the	Premises	when	Landlord	tenders	possession	thereof	to	Tenant.	By	occupying	the	Premises,	Tenant	shall	be deemed	 to	 have	 accepted	 the	 Premises	 in	 their	 condition	 as	 of	 the	 date	 of	 such	 occupancy.	 After	 determination	 of	 the	 Commencement	 Date,
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 77
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 66
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 46
+Number of chunks retrieved: 1
+Document 1:
+
+known	as	Principio	Flex	A,	Cecil	Technology	Campus,	Principio	Business	Park,	located	at	500	Principio	Parkway	West,	Suite	300,	400	and	900, North	East,	Maryland	(the	“Property”).
+
+The	boundaries	and	location	of	the	improvements	and	the	land	comprising	the	Premises	are	shown	on	the	plans	attached	hereto	and	made	a
+
+part	hereof	and	marked	as	Exhibit	D	-Site	Plan	and	Exhibit	F	-Floor	Plan.
+
+ARTICLE	1.	TERM:
+
+The	initial	base	term	of	this	Lease	shall	begin	on	the	Commencement	Date	and	shall	end	seven	(7)	years	after	the	Commencement	Date	(the
+
+“Term”).
+
+ARTICLE	2.	COMMENCEMENT	DATE:
+
+The	Commencement	Date	of	this	Lease	Agreement	shall	be	December	1,	2021.	Landlord	shall	send	Tenant	a	commencement	letter	in
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 18
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 73
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 75
+Number of chunks retrieved: 1
+Document 1:
+
+Executed	this	_________	day	of	___________________,	2015	to	be	effective	the	same	day	as	the	effective	date	of	the
+
+Lease.
+
+GUARANTORS:
+
+By:
+
+/s/	Chuck	Edwards Chuck	Edwards,	an	individual
+
+Address: 420	Erskine	St. Lubbock,	TX	79403
+
+SS#/Taxpayer	Identification	Number:
+
+Le-Mar	Holdings,	Inc. a	Texas	corporation
+
+By: Name: Chuck	Edwards Title: President,	CEO EIN/Taxpayer	Identification	Number:
+
+/s/	Chuck	Edwards
+
+2
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 91
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
