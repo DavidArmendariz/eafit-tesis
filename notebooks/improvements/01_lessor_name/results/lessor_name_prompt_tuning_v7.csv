@@ -1,101 +1,71 @@
 Lease,Answer,Real answer,Correct
-1,"BarBell Real Estate, LLC","BarBell Real Estate, LLC",1
-2,Sony Chocolate Industries Ltd.,Sony Chocolate Industries Ltd,1
-3,The Wheelership LLC,The Wheelership LLC,1
-4,Landlord,"Venable Tenant, LLC",0
-5,"Wyoming Professional Center III, Limited Partnership",Wyomissing Professional Center III Limited Partnership,1
-6,Hooten Non Exempt Family Trust B,Hooten Non Exempt Family Trust B,1
-7,,"AR Industrial No. 1, Ltd",0
-8,"Village Corner, LLC","Village Corner, LLC",1
-9,Lessor,GH4 Partners LLC,0
-10,Yesco Properties LLC,"YESCO Properties, LLC",1
-11,"Holder Investments, Inc.","Holder Investments, Inc",1
-12,"Orwig Property Management Center Square, LLC",ORWIG PROPERTY MANAGEMENT CENTER SQUARE LLC,1
-13,Douglas R. Rippel,Douglas R. Rippel,1
-14,"Adairsville GA, LLC","Adairsville GA, LLC",1
-15,"Narcoossee Acquisitions, LLC","Narcoossee Acquisitions, LLC",1
-16,"Exponent Realty, LLC","EXPONENT REALTY, LLC",1
-17,Landlord,"SRE TKC CHARLESTON IV, LLC",0
-18,Landlord,"BOYER RESEARCH PARK ASSOCIATES X, L.C.",0
-19,Chicago Executive Airport,Chicago Executive Airport,1
-20,Landlord,"UP 64 SIDNEY STREET, LLC",0
-21,"Industrial Developments International, Inc., a Delaware corporation","INDUSTRIAL DEVELOPMENTS INTERNATIONAL, INC.",0
-22,Landlord,"ARE-MA REGION NO. 75, LLC",0
-23,John Saracano Jr,"MEADOWS OFFICE, L.L.C.",0
-24,Owner,"APT Cowork, LLC",0
-25,Landlord,"Wilks Ranch Texas, LTD",0
-26,Landlord,"ARE-708 QUINCE ORCHARD, LLC",0
-27,"Farnam Street Financial, Inc.","FARNAM STREET FINANCIAL, INC",1
-28,"Industrias Asociadas Maquiladoras, S.A. de C.V.","Industrias Asociadas Maquiladoras, S.A. de C.V.",1
-29,fischer eco solutions GmbH,fischer group SE & Co. KG,0
-30,Landlord,"Eagle I Investments, L.L.C.",0
-31,CTROOK002 LLC,CTROOK002 LLC,1
-32,Landlord,"ARE-SAN FRANCISCO NO. 63, LLC",0
-33,Landa Properties LLC,Landa Properties LLC,1
-34,Landa App LLC - 1703 Summerwoods Lane Griffin GA LLC,Landa App LLC - 1703 Summerwoods Lane Griffin GA LLC,1
-35,Landa Properties LLC,Landa Properties LLC,1
-36,Landlord,PINAL COUNTY,0
-37,Anthony Nigel Sampson,Anthony Nigel Sampson,1
-38,"Are-Sd Region No. 71, Llc","ARE-SD REGION NO. 71, LLC",1
-39,"Cargill, Incorporated","CARGILL, INCORPORATED",1
-40,"Bernardo Windell, LLC","BERNARDO WINDELL, LLC",1
-41,"Bernardo Windell, LLC","BERNARDO WINDELL, LLC",1
-42,100 Chesapeake Blvd LLC,100 CHESAPEAKE BLVD LLC,1
-43,The Lessor,"Hudson Towers at Shore Center, LLC, a Delaware limited liability company",0
-44,Landlord,"Taylyn Holdings, LLC",0
-45,Minoan Capital Pty Ltd,MINOAN CAPITAL PTY LTD,1
-46,"Upper Cheaspeake Flex One, LLC","UPPER CHEASPEAKE FLEX ONE, LLC",1
-47,"Apple Moving, INC.","Apple Moving, Inc.",1
-48,Sunrise NT,Sunrise Nominee Trust,0
-49,"Cruiser Lane, LLC","Cruiser Lane, LLC",1
-50,Nwp Building 20 Llc,NWP BUILDING 20 LLC,1
-51,Phil Bosua,Phil Bosua,1
-52,Visions Federal Credit Union,VISIONS FEDERAL CREDIT UNION,1
-53,Hooten Non Exempt Family Trust B,Hooten Non Exempt Family Trust B,1
-54,Trustmark National Bank,Trustmark National Bank,1
-55,"Price-Poore House, LLC","Price-Poore House, LLC",1
-56,State Of Wyoming,State of Wyoming,1
-57,Queen Mary Bioenterprises Limited,Queen Mary Bioenterprises Limited,1
-58,Party A,"Sichuan Anyi Hengke Technology Co., Ltd.",0
-59,"Gifford Investments, Inc.","GIFFORD INVESTMENTS, INC.",1
-60,Kathryn Joy Atkinson,Kathryn Joy Atkinson,1
-61,"Overlook At Rob Roy Owner (Delaware), LLC","Overlook At Rob Roy Owner, LLC",1
-62,Phil Bosua,Phil Bosua,1
-63,Party A,"Hangzhou Zhexin Information Technology Co., LTD",0
-64,China Foreign Language Mansion,"Beijing Guochuan Borui Technology Co., Ltd.",0
-65,China Foreign Language Mansion,"Beijing Guochuan Borui Technology Co., Ltd.",0
-66,"State Of Wyoming, Acting By And Through Its Board Of Land Commissioners",STATE OF WYOMING,0
-67,McClellan Farm,McCLELLAN FARM,1
-68,"State Of Wyoming, Acting By And Through Its Board Of Land Commissioners",STATE OF WYOMING,0
-69,"105 W First Street Owner, L.L.C., A Delaware Limited Liability Company","105 W. First Street Owner, L.L.C.",0
-70,,Mundo Talio SL,0
-71,Steven and Janet Atkinson,Steven and Janet Atkinson,1
-72,Kathryn Joy Atkinson,Kathryn Joy Atkinson,1
-73,ALC Aircraft Limited,ALC Aircraft Limited,1
-74,Lessor,"5550 Nicollet, LLC",0
-75,"HP Lumina, LLC","HP LUMINA, LLC",1
-76,E. & E. McLaughlin Ltd.,TARGET GROUP INC.,0
-77,"Malone Rte 2 Waterbury Properties, LLC","MALONE US ROUTE 2 WATERBURY PROPERTIES, LLC",1
 78,"Rehco Holdings, LLC","Rehco Holdings, LLC",1
-79,Ever Winland Limited,Ever Winland Limited,1
-80,Landlord,Ailanthus L.L.C.,0
-81,Lessor,VT Aviation Leasing LLC,0
-82,Lessor,VT Equipment Leasing LLC,0
-83,"Rehco Holdings, LLC","Rehco Holdings, LLC",1
-84,"Malone Rte 2 Waterbury Properties, LLC","MALONE US ROUTE 2 WATERBURY PROPERTIES, LLC",1
-85,Landlord,"HP LUMINA, LLC",0
-86,ALC Aircraft Limited,ALC Aircraft Limited,1
-87,ALC Aircraft Limited,ALC Aircraft Limited,1
-88,Steven and Janet Atkinson,Steven and Janet Atkinso,1
-89,Queen Mary Bioenterprises Limited,Queen Mary Bioenterprises Limited,1
-90,Landlord,Ailanthus L.L.C.,0
-91,"Westwind Acquisition Company, L.L.C.","WESTWIND ACQUISITION COMPANY, L.L.C.",1
+68,"State Of Wyoming, Acting By And Through Its Board Of Land Commissioners",STATE OF WYOMING,0
+76,E. & E. McLaughlin Ltd.,TARGET GROUP INC.,0
+22,Landlord,"ARE-MA REGION NO. 75, LLC",0
 92,Ever Winland Limited,Ever Winland Limited,1
-93,"Penta Partners, LLC","Penta Partners, LLC",1
-94,The Council Of The City Of Manchester,THE COUNCIL OF THE CITY OF MANCHESTER,1
-95,Mo Industripark AS,Mo Industripark AS,1
-96,Landlord,"UCB, INC.",0
-97,"Cargill, Incorporated","CARGILL, INCORPORATED",1
-98,"Beijing Hontao Management Consulting Co., Ltd","Beijing Hontao Management Consulting Co., Ltd.",1
 99,Landlord,Wickfield Phoenix LLC,0
-100,McClellan Farm,McCLELLAN FARM,1
+80,Landlord,Ailanthus L.L.C.,0
+84,"Malone Rte 2 Waterbury Properties, LLC","MALONE US ROUTE 2 WATERBURY PROPERTIES, LLC",1
+39,"Cargill, Incorporated","CARGILL, INCORPORATED",1
+4,Landlord,"Venable Tenant, LLC",0
+11,"HOLDER INVESTMENTS, INC.","Holder Investments, Inc",1
+69,"105 W First Street Owner, L.L.C.","105 W. First Street Owner, L.L.C.",1
+1,Kyle J. Beller,"BarBell Real Estate, LLC",0
+82,Lessor,VT Equipment Leasing LLC,0
+42,100 Chesapeake Blvd LLC,100 CHESAPEAKE BLVD LLC,1
+53,Hooten Non Exempt Family Trust B,Hooten Non Exempt Family Trust B,1
+85,Landlord,"HP LUMINA, LLC",0
+27,"Farnam Street Financial, Inc.","FARNAM STREET FINANCIAL, INC",1
+9,Lessor,GH4 Partners LLC,0
+40,"Bernardo Windell, LLC","BERNARDO WINDELL, LLC",1
+51,Phil Bosua,Phil Bosua,1
+87,ALC Aircraft Limited,ALC Aircraft Limited,1
+65,China Foreign Language Mansion,"Beijing Guochuan Borui Technology Co., Ltd.",0
+88,Steven and Janet Atkinson,Steven and Janet Atkinso,1
+29,fischer eco solutions GmbH,fischer group SE & Co. KG,0
+67,McClellan Farm,McCLELLAN FARM,1
+12,"Orwig Property Management Center Square, LLC",ORWIG PROPERTY MANAGEMENT CENTER SQUARE LLC,1
+45,Minoan Capital Pty Ltd,MINOAN CAPITAL PTY LTD,1
+17,Landlord,"SRE TKC CHARLESTON IV, LLC",0
+55,"Price-Poore House, LLC","Price-Poore House, LLC",1
+25,Landlord,"Wilks Ranch Texas, LTD",0
+14,"Adairsville GA, LLC","Adairsville GA, LLC",1
+70,,Mundo Talio SL,0
+36,Landlord,PINAL COUNTY,0
+8,"Village Corner, LLC","Village Corner, LLC",1
+34,Landa App LLC - 1703 Summerwoods Lane Griffin GA LLC,Landa App LLC - 1703 Summerwoods Lane Griffin GA LLC,1
+52,Visions Federal Credit Union,VISIONS FEDERAL CREDIT UNION,1
+19,Chicago Executive Airport,Chicago Executive Airport,1
+43,Lessor,"Hudson Towers at Shore Center, LLC, a Delaware limited liability company",0
+15,"Narcoossee Acquisitions, LLC.","Narcoossee Acquisitions, LLC",1
+21,"Industrial Developments International, Inc., a Delaware corporation","INDUSTRIAL DEVELOPMENTS INTERNATIONAL, INC.",0
+59,"Gifford Investments, Inc.","GIFFORD INVESTMENTS, INC.",1
+96,Landlord,"UCB, INC.",0
+47,"Apple Moving, INC.","Apple Moving, Inc.",1
+3,The Wheelership LLC,The Wheelership LLC,1
+57,Queen Mary Bioenterprises Limited,Queen Mary Bioenterprises Limited,1
+16,"Exponent Realty, LLC","EXPONENT REALTY, LLC",1
+72,Kathryn Joy Atkinson,Kathryn Joy Atkinson,1
+6,Hooten Non Exempt Family Trust B,Hooten Non Exempt Family Trust B,1
+83,"Rehco Holdings, LLC","Rehco Holdings, LLC",1
+49,"Cruiser Lane, LLC","Cruiser Lane, LLC",1
+86,ALC Aircraft Limited,ALC Aircraft Limited,1
+95,Mo Industripark AS,Mo Industripark AS,1
+26,Landlord,"ARE-708 QUINCE ORCHARD, LLC",0
+20,Landlord,"UP 64 SIDNEY STREET, LLC",0
+44,Landlord,"Taylyn Holdings, LLC",0
+63,Party A,"Hangzhou Zhexin Information Technology Co., LTD",0
+50,NWP Building 20 LLC,NWP BUILDING 20 LLC,1
+89,Queen Mary Bioenterprises Limited,Queen Mary Bioenterprises Limited,1
+41,"Bernardo Windell, LLC","BERNARDO WINDELL, LLC",1
+93,Sheehy Mail Contractors Inc.,"Penta Partners, LLC",0
+61,"Overlook At Rob Roy Owner (Delaware), LLC","Overlook At Rob Roy Owner, LLC",1
+31,CTROOK002 LLC,CTROOK002 LLC,1
+2,Sony Chocolate Industries Ltd.,Sony Chocolate Industries Ltd,1
+58,Party A,"Sichuan Anyi Hengke Technology Co., Ltd.",0
+7,,"AR Industrial No. 1, Ltd",0
+24,Owner,"APT Cowork, LLC",0
+71,Steven and Janet Atkinson,Steven and Janet Atkinson,1
+56,"State of Wyoming, Acting by and through its Board of Land Commissioners and State Lands and Investment Board",State of Wyoming,0
+98,"Beijing Luji Technology Co., Ltd.","Beijing Hontao Management Consulting Co., Ltd.",0

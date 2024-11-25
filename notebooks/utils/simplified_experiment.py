@@ -27,6 +27,7 @@ class SimplifiedExperiment:
         use_embeddings_filter=False,
         temperature=0.0,
         chunks_filename: str | None = None,
+        numbers_list: list[str] | None = None,
     ):
         self.answers_df = answers_df
         self.question_id = question_id
@@ -35,7 +36,7 @@ class SimplifiedExperiment:
         self.already_vectorized = already_vectorized
         self.index_name = index_name
         self.lessor_question = lessor_question
-        self.numbers_list = [str(i).zfill(3) for i in range(1, 101)]
+        self.numbers_list = numbers_list or [str(i).zfill(3) for i in range(1, 101)]
         self.total_answers = 0
         self.correct_answers = 0
         self.results = []
