@@ -1,0 +1,1760 @@
+Chunks for lease 78
+Number of chunks retrieved: 3
+Document 1:
+
+13.	TERMINATION.	TENANT	SHALL	GIVE	RH	NOT	LESS	THAT	THIRTY	(30)	DAYS	WRITTEN	NOTICE	OF	TENANT'S	INTENTION	TO	DISCONTI NUE	ITS	TENANCY	HEREUNDER	PRIOR	TO	THE	END	OF	ANY	TERM.	If	Tenant	fails	to	provide	such	notice,	Tenant's	term	shall	automatically	be renewed	on	a	Month-to	Month	basis.	Any	renewal	shall	be	upon	the	same	terms,	conditions	and	provisions	as	in	this	Lease	except	that	the	rental shall	be	increased	by	TEN	Percent	(10%)	to	1.10	times	the	monthly	rental	which	was	in	effect	immediately	prior	to	such	renewal.	Said	notice	may not	be	given	more	than	SIXTY	(60)	days	prior	to	the	end	of	any	term.
+****************************************************************************************************
+Document 2:
+
+Lease	Schedule
+
+Office	Number
+
+214/15
+
+Number	of	Persons
+
+10
+
+Commencement	Date
+
+December	1,	2021
+
+Term	of	Lease
+
+5	Years
+
+Rent	214/215 Year	One	 Year	Two	 Year	Three	 Year	Four	 Year	Five
+
+$4,400.00/mo $4,800.00/mo
+
+$4,968.00/mo
+
+$5,142.00/mo
+
+$5,322.00/mo
+
+Marquis	and	Door	Sign
+
+$60.00
+
+Security	Deposit
+
+$4,400
+
+Total	Amount	Due
+
+$8,860.00
+
+1.	PREMISES.	RH	hereby	Leases	to	Tenant	and	Tenant	hereby	Leased	from	RH	the	premises	designated	above	herein.
+
+2.	TERM.	The	term	of	this	lease	shall	commence	on	the	date	set	forth	above	and	shall	continue	for	the	term	set	forth	above.	Such	term,	and	any extension	given	with	the	express	written	consent	of	RH,	is	hereafter	referred	to	as	“Term.”	If	RH	is	unable	to	deliver	possession	of	the	Premises	of the	Tenant	at	the	commencement	date	of	the	term,	Tenant	will	not	be	obligated	to	pay	the	basic	monthly	rate	as	defined	above	(the	“Rent”),	until RH	delivers	possessions.
+****************************************************************************************************
+Document 3:
+
+the	 possession	 date,	 tenant	 shall	 become	 a	 lessee	 at	 sufferance	 only,	 upon	 the	 same	 terms	 and	 conditions	 as	 contained	 herein	 except	 that	 the monthly	rent	shall	equal	TWO	(2)	times	the	monthly	rent	which	was	in	effect	immediately	prior	to	the	Possession	Date.	Acceptance	by	RH	of	rent after	 the	 Possession	 Date	 shall	 not	 constitute	 consent	 to	 a	 holdover	 by	 tenant	 or	 result	 in	 a	 renewal	 of	 this	 Lease.	 In	 addition,	 Tenant	 shall indemnify	and	hold	harmless	RH	from	any	and	all	claims,	demands,	losses	or	damages	incurred	by	or	asserted	against	RH	due	to	Tenant's	failure	to deliver	possession	of	the	Premises	at	the	Possession	Date	including,	without	limitation,	and	claims	by	and	succeeding	tenant	for	the	Premises	based on	such	delay. 15.	 Right	 of	 Entry.	 RH's	 agent	 may	 enter	 upon	 Premises	 upon	 48	 hours	 written	 notice	 to	 inspect	 and	 examine	 the	 Premises	 and	 to	 see	 that	 the
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 68
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 76
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 22
+Number of chunks retrieved: 3
+Document 1:
+
+Exhibit	10.16
+
+(a)
+
+Extension	Rights.		Tenant	shall	have	2	consecutive	rights	(each,	an	“Extension	Right”)	to	extend	the	term	of	this	Lease	for	5
+
+years	each	(each,	an	“Extension	Term”)	on	the	same	terms	and	conditions	as	this	Lease	(other	than	with	respect	to	Base	Rent,	which	shall	be	 determined	as	set	forth	below,	and	the	Work	Letter,	which	shall	not	be	applicable)	by	giving	Landlord	written	notice	(“Extension	Notice”)	of	its	 election	to	exercise	each	Extension	Right	at	least	12	months	prior	(but	no	earlier	than	18	months	prior)	to	the	expiration	of	the	Base	Term	of	this	 Lease	or	the	expiration	of	the	then-current	Extension	Term.
+****************************************************************************************************
+Document 2:
+
+deliver	to	the	other	a	proposal	containing	the	Market	Rate	and	escalations	that	the	submitting	party	believes	to	be	correct	(“Extension	 Proposal”).		If	Landlord	fails	to	timely	submit	an	Extension	Proposal,	Landlord’s	original	submission	will	be	used	for	this	purpose.		If	 Tenant	fails	to	timely	submit	an	Extension	Proposal,	Landlord’s	submitted	proposal	shall	determine	the	Base	Rent	and	escalations	for	the	 Extension	Term.		If	both	Parties	submit	Extension	Proposals,	then	Landlord	and	Tenant	shall	meet	within	7	business	days	after	delivery	of	 the	last	Extension	Proposal	and	make	a	good	faith	attempt	to	mutually	appoint	a	single	Arbitrator	(defined	below)	to	determine	the	 Market	Rate	and	escalations.		If	Landlord	and	Tenant	are	unable	to	agree	upon	a	single	Arbitrator,	then	each	shall,	by	written	notice	 delivered	to	the	other	within	10	business	days	after	the	meeting,	select	an	Arbitrator.		If	either	Party	fails	to	timely	give	notice	of	its
+****************************************************************************************************
+Document 3:
+
+(d)
+
+Rights	Personal.		Extension	Rights	are	personal	to	Kymera	Therapeutics,	Inc.	and	any	assignee	of	this	Lease	under	a
+
+Permitted	Assignment	(but	not	a	subtenant)	and	otherwise	are	not	assignable	without	Landlord’s	consent,	which	may	be	granted	or	withheld	in	 Landlord’s	sole	discretion	separate	and	apart	from	any	consent	by	Landlord	to	an	assignment	of	Tenant’s	interest	in	this	Lease.
+
+(e)
+
+Exceptions.		Notwithstanding	anything	set	forth	above	to	the	contrary,	Extension	Rights	shall,	at	Landlord’s	option,	not	be	in
+
+effect	and	Tenant	may	not	exercise	any	of	the	Extension	Rights:
+
+(i)
+
+if	Tenant	is	not	then	occupying	at	least	67%	of	the	Premises;
+
+(ii)
+
+during	any	period	of	time	that	Tenant	is	in	Default	under	any	provision	of	this	Lease;	or
+
+(iii)
+
+if	Tenant	has	been	in	Default	under	any	provision	of	this	Lease	3	or	more	times,	whether	or	not	the	Defaults	are
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 92
+Number of chunks retrieved: 1
+Document 1:
+
+RECITAL
+
+A. Pursuant	to	a	lease	agreement	entered	into	by	Ford	Glory	International	Limited	(Ford	Glory)	and	the	Tenant	dated	15	December	2020	with	a	lease	term	expired on	October	2,	2022	(the	“Old	Lease”),	and	a	sales	and	purchase	agreement	entered	into	by	Ford	Glory	and	the	Landlord	in	respect	of	sales	and	purchase	of	the property	corresponding	to	 the	 Property	 referred	 to	 in	 the	 Old	 Lease,	 the	 Landlord	 and	 the	Tenant	 agreed	 to	 enter	 into	 this	 Lease	Agreement	 with	 the	 terms below	and	the	details	in	the	First	Schedule	and	the	Second	Schedule.
+
+B. Upon	execution	of	this	Lease	Agreement,	the	Old	Lease	is	deemed	to	terminate	on	the	date	the	term	of	this	Lease	Agreement	starts	per	the	First	Schedule	and
+
+Second	Schedule.
+
+WHEREBY	IT	IS	AGREED	as	follows:-
+
+1.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 99
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 80
+Number of chunks retrieved: 2
+Document 1:
+
+1. TERM.	 	 Subject	 to	 the	 terms	 and	 conditions	 set	 forth	 herein,	 the	 term	 of	 this	 Lease	 shall	 continence	 on November	 1,	 2019	 (the	 "Commencement	 Date")	 and	 shall	 end	 on	 October	 31,	 2021	 (the	 "Termination	 Date"),	 unless modified,	terminated	or	extended	as	provided	herein.
+
+2.
+
+RENT.
+
+Base	 Rent.	 	 Tenant	 shall	 pay	 to	 Landlord	 as	 Base	 Rent	 beginning	 November	 1,	 2019,	 at	 Landlord's office	at	the	address	stated	above,	or	such	other	place	as	may	be	designated	from	time	to	time	by	Landlord's	notice,	the following	sums:
+
+(a)
+
+Years 1-2
+
+Rent/S.F, Mixed
+
+Annual	Base	Rent $21,141.00
+
+Monthly	Base	Rent $1,761.75
+****************************************************************************************************
+Document 2:
+
+10. HOLDING	OVER.		Unless	otherwise	agreed	to	in	writing	by	Landlord	and	'Tenant,	if	Tenant	retains	possession of	 the	 Premises,	 or	 any	 part	 thereof,	 after	 the	 termination	 of	 the	 term,	 Tenant	 shall	 be	 deemed	 to	 be	 in	 default hereunder,	 and	 Landlord	 shall	 have	 any	 and	 all	 remedies	 provided	 for	 in	 this	 Lease,	 and	 at	 law	 or	 in	 equity;	 and	 in addition	 thereto,	 Tenant	 shall	 pay	 Landlord	 Rent	 at	 double	 the	 monthly	 rate	 in	 effect	 immediately	 prior	 to	 the termination	 of	 the	 term	 for	 the	 time	 Tenant	 thus	 remains	 in	 possession.	 	 The	 provisions	 of	 this	 Section	 10	 do	 not exclude	Landlord's	right	of	re-entry	or	any	other	right	hereunder.		No	such	holding	over	shall	be	deemed	to	constitute	a renewal	or	extension	of	the	term	hereof. ASSIGNMENT,	 SUBLETTING	 AND	 TRANSFERS.	 	 Tenant	 shall	 not	 (a)	 assign,	 convey,	 mortgage,	 pledge, 11. encumber	 or	 otherwise	 transfer	 (whether	 voluntarily	 or	 otherwise)	 this
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 84
+Number of chunks retrieved: 1
+Document 1:
+
+(b)										Tenant	shall	have	the	right,	provided	it	is	not	then	in	default,	to	extend	the	term	of	the	Lease	for	two	(2)	additional	five	(5)	year	terms,	by	written notice	to	Landlord	not	less	than	six	(6)	months	prior	to	the	expiration	of	the	term	to	be	renewed.			Annual	Base	Rent	for	each	of	the	two	additional	five	year	terms	shall be	negotiated	and	mutually	agreed	in	writing	by	the	Parties	based	on	then	current	market	conditions	not	less	than	six	months	prior	to	the	expiration	of	the	term	to	be renewed.
+
+(c)										The	"Term"	means	the	initial	ten	(10)	year	term	and	any	exercised	extension	term(s)	under	this	Lease.		All	terms,	covenants	and	conditions	of	this
+
+Lease	shall	remain	in	full	force	and	effect	during	the	Term,	with	the	exception	of	the	Annual	Base	Rent	as	provided	for	in	Section	2(b).
+
+(d)										The	term	“Lease	Year”	means	the	twelve-month	period	beginning	on	the	Commencement	Date	and	each	successive	twelve-month	period	thereafter
+
+during	the	Term.
+
+2-
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 39
+Number of chunks retrieved: 1
+Document 1:
+
+Premises,	all	in	accordance	of	the	terms	and	conditions	hereof	(the	“Lease”).
+
+2.	 	 	 	 	 	 	 	 	 	 Term	 of	 the	 Lease.	 The	 term	 of	 the	 Lease	 shall	 be	 for	 a	 period	 of	 sixty	 (60)	 months,	 commencing	 on	 November	 1,	 2021	 (the “Commencement	Date”)	and	expiring	on	October	31,	2026	(the	“Lease	Term”	or	“term	of	the	Lease”).	Each	twelve-month	period	commencing	on the	Commencement	Date	and	each	one-year	period	thereafter,	is	hereinafter	referred	to	as	a	“Lease	Year”.	Upon	the	written	request	by	Tenant,	the Lease	may	be	terminated	prior	to	the	end	of	the	Lease	Term	in	order	to	facilitate	Tenant’s	purchase	of	the	Premises	as	set	forth	in	Section	16.	No right	of	renewal	is	expressed	or	implied	in	the	Lease.	The	“Effective	Time”	of	the	Commencement	Date	will	be	12:01	a.m.	Mountain	time	on	the Commencement	Date	for	all	purposes	of	the	Lease.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 4
+Number of chunks retrieved: 4
+Document 1:
+
+1.	Definition	of	Terms.		All	capitalized	terms	contained	herein	and	not	otherwise	defined	shall	be	defined	as	provided	in	the	Lease.
+
+2.	Term.
+
+(a)		The	term	of	the	Lease	currently	expires	on	February	28,	2016.		Landlord	has	agreed	to	extend	the	term	of	the	Lease	for	a
+
+period	of	sixty-five	(65)	months	(the	"Extended	Term")	for	a	revised	Termination	Date	of	July	31,	2021.
+
+(b)		During	the	Extended	Term,	the	Premises	shall	be	leased	by	Tenant	"as	is"	except	as	expressly	provided	herein,	and	subject
+
+to	Landlord’s	continuing	Lease	obligations	(such	as	repair	and	maintenance).
+
+3.	Premises.
+****************************************************************************************************
+Document 2:
+
+Amendment,	and	Landlord	and	Tenant	desire	to	memorialize	Tenant’s	extension	of	the	Term	of	the	Lease;	and
+
+I.All	capitalized	terms	used	in	this	Amendment	that	are	not	otherwise	defined	herein	shall	have	the	meanings	ascribed	to	such
+
+terms	in	the	Lease.
+
+NOW,	THEREFORE,	in	consideration	of	the	mutual	covenants	contained	herein,	and	for	other	good	and	valuable	consideration,
+
+the	receipt	and	sufficiency	of	which	are	hereby	acknowledged,	Landlord	and	Tenant	agree	as	follows:
+
+22.Term.		The	Term	of	the	Lease	is	extended	for	a	period	of	five	(5)	years,	commencing
+
+24
+
+upon	August	1,	2024	(the	“Renewal	Date”)	and	up	to	and	through	July	31,	2029	(the	“Expiration	Date”).
+
+23.Base	Rent.		Landlord	and	Tenant	acknowledge	that	there	are	multiple	and	different	Base	Rent	rates	for	different	portions	of
+****************************************************************************************************
+Document 3:
+
+Provided	there	is	no	default	or	event	of	default	by	Tenant	hereunder	at	the	time	such	rights	are	exercised	or	when	a	Renewal	Term	will	 commence,	Tenant	will	have	the	option	to	extend	the	term	of	this	Lease	for	two	(2)	Renewal	Terms	each	of	three	(3)	Lease	Years	by	 providing	Landlord	written	notice	of	its	desire	to	do	so	at	least	one	hundred	and	eighty	(180)	days	prior	to	the	end	of	the	then	current	 term	hereof.	The	date	of	the	commencement	of	the	Renewal	Term	will	be	the	day	after	the	expiration	of	the	then	current	term	of	the	 Lease	(unless	sooner	terminated	as	provided	herein).		All	terms	and	conditions	of	this	Lease	will	be	in	effect	during	the	Renewal	Term,	 except	that	(i)	the	Base	Annual	Rent	will	be	the	lesser	of	(a)	ninety-five	percent	(95%)	of	the	then	market	rate	for	comparable	laboratory	 space	in	downtown	Durham,	as		determined	in	accordance	with	this	Section	4,	or	(b)	the	increase	in	the	CPI	with	a	floor	of		two	and	one-
+****************************************************************************************************
+Document 4:
+
+11.	Option	to	Extend.		Tenant	shall	have	the	option	to	extend	the	term	of	the	Lease	for	one	period	of	five	Lease	Years	(the	"Renewal	 Term")	provided	that	Tenant	shall	give	written	notice	to	Landlord	of	its	desire	to	exercise	its	right	to	the	Renewal	Term	at	least	one	 hundred	and	eighty	days	prior	to	the	end	of	the	then	current	term;	failing	which	the	rights	of	Tenant	under	this	Section	shall	be	null	and	 void	and	of	no	further	force	and	effect.		During	the	Renewal	Term,	the	terms	of 4
+
+the	Lease	shall	continue	in	full	force	and	effect,	including,	that	Base	Rent	shall	continue	to	increase	by	the	Base	Rent	Escalation.		During	 the	Renewal	Term,		the	Premises	shall	be	leased	by	Tenant	"as	is,”	subject	to	Landlord’s	continuing	Lease	obligations	(such	as	repair	and	 maintenance).
+
+12.	Parking.		With	its	lease	of	the	Expansion	Space,	Tenant	shall	have	the	non-exclusive	right	to	the	use	of	up	to	forty-five	(45)	parking	 spaces	at	the	Project.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 11
+Number of chunks retrieved: 3
+Document 1:
+
+5.2	Initial	Base	Rent	Adjustment.	For	multiple	year	leases	the	initial	Base	Rent	for	each	twelve-month	period	after	the	first	complete	twelve
+
+(12)	Month	period	shall	be	increased	4%	(Four	Percent)	as	per	annum	as	follows:
+
+Lease	Period 3/1/24-2/28-25 3/1/25-2/28/26 3/1/26-2/28/27
+
+$ 	 $ 	 $
+
+Initial	Base Rent
+
+2,700.00	 	 $ 2,808.00	 	 $ 2,920.32	 	 $
+
+Additional Rent
+
+75.00	 	 $ 78.00	 	 $ 81.12	 	 $
+
+Total	 (Initial	Base Rent +	Additional Rent)
+
+Sales	Tax
+
+2,775.00	 	 $ 2,886.00	 	 $ 3,001.44	 	 $
+
+138.75	 	 $ 144.30	 	 $ 150.07	 	 $
+
+Total Monthly Rent Payment
+
+2,913.75	 3,030.30	 3,151.51
+****************************************************************************************************
+Document 2:
+
+3.	 Consent	 to	 Landlord’s	 Acts.	 The	 Guarantor	 consents,	 without	 affecting	 the	 Guarantor’s	 liability	 to	 the	 Landlord	 hereunder,	 that	 the Landlord	 may,	 without	 notice	 to	 or	 consent	 of	 the	 Guarantor,	 with	 or	 without	 consideration	 and	 upon	 such	 terms	 as	 it	 may	 deem	 advisable:	 (a) extend,	in	whole	or	in	part,	by	renewal	or	otherwise,	and	for	any	period	or	periods,	the	term	of	the	Lease	or	time	for	payment	of	amounts	now	or hereafter	owed	to	Landlord	by	the	Tenant	pursuant	to	the	Lease,	or	amounts	held	by	the	Landlord	as	security	for	any	such	obligation;	(b)	settle	or compromise	any	claim	of	the	Landlord,	and	(c)	release,	in	whole	or	in	part,	any	person	primarily	or	secondarily	liable	or	obligated	under	the	Lease or	any	other	indebtedness	or	obligation	of	Tenant	to	Landlord.	The	Guarantor	hereby	ratifies	and	confirms	any	such	extension,	renewal,	release,
+****************************************************************************************************
+Document 3:
+
+2.	Term	of	Guaranty.	The	liability	of	the	Guarantor	hereunder	shall	continue	until	all	obligations	to	be	performed	and	amounts	to	be	paid	by the	 Tenant	 pursuant	 to	 the	 terms	 and	 conditions	 of	 the	 Lease	 have	 been	 completely	 performed	 or	 fully	 paid,	 whether	 during	 the	 Lease	 Term	 or thereafter.	This	shall	include	the	payment	of	any	loss	or	damage	incurred	by	the	Landlord	with	respect	to	the	Lease	and	Tenant’s	occupancy	of	the Premises,	or	any	other	matter	covered	by	this	Guaranty.	Further,	this	Guaranty	shall	remain	in	full	force	and	effect	and	bind	Guarantor	to	its	terms and	conditions	during	or	with	respect	to	any	extension,	modification	or	renewal	of	the	Lease.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 1
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 82
+Number of chunks retrieved: 1
+Document 1:
+
+2 . 5				FSDO	Notice.	 At	 least	 48	 hours	 prior	 to	 the	 first	 flight	 to	 be	 conducted	 under	 this	Agreement,	 Lessee	 shall	 have	 completed	 the	 FSDO Notice,	substantially	in	the	form	attached	hereto	as	Schedule	C,	and	delivered	the	completed	FSDO	Notice	by	facsimile	to	the	FAA	Flight Standards	District	Office	located	nearest	to	the	departure	airport	of	said	first	flight.
+
+SECTION	3.	TERM	AND	RENT
+
+3 . 1				Term.	 This	Agreement	 shall	 become	 effective	 on	 the	 Effective	 Date,	 and	 shall	 continue	 in	 effect	 for	 a	 period	 of	 one	 (1)	 year,	 unless terminated	sooner	pursuant	to	the	express	provisions	herein	contained.	At	the	end	of	the	first	one	(1)	year	period	or	any	subsequent	one	(1) year	 period,	 this	 Agreement	 shall	 automatically	 be	 renewed	 for	 an	 additional	 one	 (1)	 year	 period.	Each	 party	 shall	 have	 the	 right	 to terminate	this	Agreement	without	cause	on	thirty	(30)	days	written	notice	to	the	other	party.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 42
+Number of chunks retrieved: 3
+Document 1:
+
+3
+
+ARTICLE	4.	OPTION	TO	RENEW:
+
+Provided	Tenant	is	not	then	in	default	of	the	terms,	conditions,	or	covenants	contained	in	this	Lease,	beyond	any	grace	or	cure	period
+
+established	herein,	Tenant	shall	have	the	right,	and	option	to	extend	or	renew	this	Lease	for	two	(2)	periods	of	five	(5)	years,	commencing immediately	after	the	end	of	each	applicable	Lease	term.	The	option	to	renew	for	each	five	(5)	year	period	is	only	exercisable	if	Tenant	is	not	then in	default	of	the	Lease	or	in	the	performance	of	any	of	its	terms	and	conditions	at	the	end	of	the	Lease	term	or	at	the	time	of	exercise	of	any	of	its options.	If	any	option	to	renew	is	exercised,	all	the	terms	and	conditions	of	the	Lease	shall	remain	except	that	the	rent	shall	be	adjusted	as	follows to	the	following:
+
+The	annual	rent	for	the	renewal	periods	shall	be	equal	to	the	following:
+
+OPTION	1:
+
+Period	1 Year	1 Year	2 Year	3 Year	4 Year	5
+
+Annual Base	Rent
+****************************************************************************************************
+Document 2:
+
+The	annual	rent	for	the	renewal	periods	shall	be	equal	to	the	following:
+
+OPTION	1:
+
+Period	1 Year	1 Year	2 Year	3 Year	4 Year	5
+
+Annual Base	Rent
+
+$ 648,746.85	 	 $ 	 $ 664,965.52	 	 $ 	 $ 681,589.66	 	 $ 	 $ 698,629.40	 	 $ 	 $ 716,095.13	 	 $
+
+OPTION	2:
+
+Period	1
+
+Annual Base	Rent
+
+Year	1 Year	2 Year	3 Year	4 Year	5
+
+$ 733,977.51	 	 $ 	 $ 752,347.45	 	 $ 	 $ 771,156.13	 	 $ 	 $ 790,435.04	 	 $ 	 $ 810,195.91	 	 $
+
+Tenant	must	give	written	notice	to	the	Landlord	one	hundred	eighty	(180)	calendar	days	prior	to	expiration	of	the	then	applicable	lease
+
+period	to	exercise	option	1	or	option	2,	as	the	case	may	be.
+
+4
+
+Monthly Base	Rent
+
+54,062.24	 55,413.79	 56,799.14	 58,219.12	 59,674.59
+
+Monthly Base	Rent
+
+61,166.46	 62,695.62	 64,263.01	 65,869.59	 67,516.33
+
+ARTICLE	6.	USE	OF	PREMISES:
+****************************************************************************************************
+Document 3:
+
+applicable	Purchase	Option	Deadline	(i.e.,	60	days	after	the	commencement	of	the	8th	year	of	the	Term,	60	days	after	the	commencement	of	the	9th year	of	the	Term,	and	60	days	after	the	commencement	of	the	10th	year	of	the	Term,	as	all	such	dates	may	be	extended,	at	the	Tenant’s	option,	if the	Landlord	fails	to	deliver	timely	the	Landlord’s	Reminder	Notice,	all	as	applicable).	The	Landlord	shall	only	be	required	to	remove	such	liens, judgements	and	encumbrances	to	title	that	were	initiated	or	otherwise	caused	by	Landlord	(excluding	easements	that	were	accepted	by	Tenant	by virtue	of	its	execution	of	this	Lease	and/or	agreed	to	by	Tenant	pursuant	to	this	Lease).	The	parties	will	share	equally	in	the	payment	of	applicable transfer	taxes	and	recording	fees	incurred	at	the	Closing,	and	the	Tenant	shall	be	responsible	for	all	other	closing	costs	(excluding	Landlord’s	legal
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 53
+Number of chunks retrieved: 2
+Document 1:
+
+Purchaser	upon	the	attornment,	to	the	extent	of	the	then	remaining	balance	of	the	term	of	this	Lease,	and	any	extensions	and	renewals,	shall	be and	are	the	same	as	those	set	forth	in	this	Lease.
+****************************************************************************************************
+Document 2:
+
+24.	HOLDING	OVER:	In	the	event	of	holding	over	by	Lessee	after	the	expiration	or	termination	of	this	Lease,	the	hold	over	shall	be	as	a	tenant at	will	and	all	of	the	terms	and	provisions	of	this	Lease	shall	be	applicable	during	that	period,	except	that	Lessee	shall	pay	Lessor	as	rental	for the	period	of	such	hold	over	an	amount	equal	to	one	and	one-half	the	rent	which	would	have	been	payable	by	Lessee	had	the	hold	over	period been	a	part	of	the	original	term	of	this	Lease.	Lessee	agrees	to	vacate	and	deliver	the	leased	premises	to	Lessor	upon	Lessee's	receipt	of	notice from	Lessor	to	vacate.	The	rental	payable	during	the	hold	over	period	shall	be	payable	to	Lessor	on	demand.	No	holding	over	by	Lessee,	whether with	or	without	consent	of	Lessor,	shall	operate	to	extend	this	Lease	except	as	otherwise	expressly	provided.
+
+6-
+
+25.	DEFAULT	BY	LESSEE:	The	following	shall	be	deemed	to	be	events	of	default	by	Lessee	under	this	Lease:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 85
+Number of chunks retrieved: 1
+Document 1:
+
+Tenant	or	its	estate	in	bankruptcy,	or	of	any	remedy	for	the	enforcement	thereof,	resulting	from	the	operation	of	any	present	or	future provision	of	the	federal	Bankruptcy	Code,	or	any	similar	law	or	statute	of	the	United	States	or	any	state	thereof.	Landlord	and	Tenant, without	 notice	 to	 or	 consent	 by	 the	 undersigned,	 may	 at	 any	 time	 or	 times	 enter	 into	 such	 extensions,	 renewals,	 amendments, assignments,	 subleases	 or	 other	 covenants	 with	 respect	 to	 the	 Lease	 as	 they	 may	 deem	 appropriate,	 and	 the	 undersigned	 shall	 not	 be released	thereby,	but	shall	continue	to	be	fully	liable	for	the	payment	and	performance	of	all	liabilities,	obligations	and	duties	of	Tenant under	the	Lease.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 27
+Number of chunks retrieved: 1
+Document 1:
+
+1.	 	 	 	 	 	 	 TERM:	 This	 Lease	 Agreement	 is	 effective	 from	 the	 date	 it	 is	 executed	 by	 both	 parties.	 The	 term	 of	 this	 Lease	 Agreement,	 as	 to	 all Equipment	designated	on	any	particular	Lease	Schedule,	shall	commence	on	the	Installation	Date	for	all	Equipment	on	such	Lease	Schedule	and shall	continue	for	an	initial	period	ending	that	number	of	months	from	the	Commencement	Date	as	set	forth	in	such	Lease	Schedule	(the	“Initial Term”)	and	shall	continue	from	year	to	year	thereafter	until	terminated.	The	term	of	this	Lease	Agreement	as	to	all	Equipment	designated	on	any particular	 Lease	 Schedule	 may	 be	 terminated	 without	 cause	 at	 the	 end	 of	 the	 Initial	 Term	 or	 any	 year	 thereafter	 by	 either	 party	 mailing	 written notice	of	its	termination	to	the	other	party	not	less	than	one-hundred	twenty	(120)	days	prior	to	such	termination	date.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 9
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 40
+Number of chunks retrieved: 4
+Document 1:
+
+Landlord	grants	to	Tenant	an	option	(the	“Option”)	to	extend	the	Term	for	three	(3)	additional	year(s)	(the	“Extension”)	on	the	same	terms and	conditions	as	set	forth	in	the	Lease,	except	that	the	Monthly	Basic	Rent	shall	be	adjusted	on	the	first	day	of	the	Extension	(the	“Adjustment Date”)	to	the	“fair	rental	value”	of	the	Premises	on	the	Adjustment	Date	as	follows:
+****************************************************************************************************
+Document 2:
+
+3.	The	term	of	the	Lease	shall	expire	on	____________,	20	____.	There	are	____________	options	to	extend	the	Lease	term	for	a	total	period	of
+
+___________	years,	none	of	which	has	been	exercised.	There	are	no	options	to	expand	the	Premises.
+
+4.	The	Lease	has:	(Initial	one)
+
+(_______)	not	been	amended,	modified,	supplemented,	extended,	renewed	or	assigned.
+
+(_______)	 been	 amended,	 modified,	 supplemented,	 extended,	 renewed	 or	 assigned	 by	 the	 following	 described	 agreements,	 copies	 of	 which
+
+are	attached	hereto:
+
+___________________________________________________ ___________________________________________________
+
+5.	Tenant	has	accepted	and	is	now	in	possession	of	the	Premises.
+****************************************************************************************************
+Document 3:
+
+arithmetic	 average	 of	 the	 two	 of	 the	 three appraisals	which	are	closest	in	amount,	and	the	third	appraisal	shall	be	disregarded.	In	no	event,	however,	shall	the	then-existing	monthly	rent	ever be	reduced	by	reason	of	such	computation,	nor	shall	there	be	any	rent	concession	or	additional	tenant	improvement	allowance	for	the	Extension term.	 Landlord	 and	 Tenant	 shall	 instruct	 the	 appraiser(s)	 to	 complete	 their	 determination	 of	 the	 fair	 rental	 value	 not	 later	 than	 thirty	 (30)	 days before	the	Adjustment	Date.	If	the	fair	rental	value	is	not	determined	before	the	Adjustment	Date,	then	Tenant	shall	continue	to	pay	to	Landlord	the monthly	rent	in	effect	immediately	prior	to	such	Extension,	until	the	fair	rental	value	is	determined.	When	the	fair	rental	value	of	the	Premises	is determined,	 Landlord	 shall	 deliver	 notice	 of	 that	 amount	 to	 Tenant,	 and	 Tenant	 shall	 pay	 to	 Landlord,	 within	 ten	 (10)	 days	 after	 receipt	 of	 such
+****************************************************************************************************
+Document 4:
+
+The	Option	shall	be	exercised	only	by	written	unconditional	notice	received	by	Landlord	at	least	nine	(9)	months,	but	no	more	than	one	(1) year	 before	 expiration	 of	 the	 Term.	 If	 Landlord	 does	 not	 timely	 receive	 Tenant’s	 written	 unconditional	 notice	 of	 the	 exercise	 of	 the	 Option,	 the Option	 under	 this	 Rider	 shall	 immediately	 lapse,	 and	 there	 shall	 be	 no	 further	 right	 to	 extend	 the	 Term	 or	 to	 the	 Extension.	 The	 Option	 shall	 be exercisable	by	Tenant	on	the	express	condition	for	Landlord’s	benefit	that	Tenant	shall	not	be	in	default	either	at	the	time	of	the	exercise	of	the Option	or	at	the	commencement	of	the	Extension.	If	Tenant	timely	exercises	the	Option	under	this	Rider,	“Term”	shall	mean,	for	all	purposes	under the	Lease,	the	sum	of	(a)	the	Term,	as	defined	under	Subparagraph	1(m)	of	the	Lease,	plus	(b)	the	term	of	the	Extension	for	which	the	Option	has been	exercised.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 51
+Number of chunks retrieved: 1
+Document 1:
+
+4.	Defining	the	Term	of	the	Tenancy.	The	term	of	the	rental	shall	retroactively	begin	on	September	1,	2021,	and	shall	expire	on	September	30, 2023	(“Term”).	Following	the	initial	Term,	this	Agreement	shall	continue	on	a	month-by-month	basis,	with	30	days	advance	notice	by	either	party	to terminate	 this	 Agreement	 and	 vacate	 the	 Leased	 Premised.	 Should	 Tenants	 vacate	 before	 expiration	 of	 the	 term,	 Tenants	 shall	 be	 liable	 for	 the balance	of	the	rent	for	the	remainder	of	the	term,	less	any	rent	Landlord	collects	or	could	have	collected	from	a	replacement	tenant	by	reasonably attempting	to	re-rent.
+
+5.	Amount	and	Schedule	for	the	Payment	of	Rent.	Tenants	shall	pay	to	Landlord	a	monthly	rent	of	$7,000,	payable	in	advance	on	the	1st	day	of each	month,	except	when	that	day	falls	on	a	weekend	or	legal	holiday,	in	which	case	rent	is	due	on	the	next	business	day.	Rent	shall	be	paid	to	Phil Bosua.
+
+a.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 87
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 65
+Number of chunks retrieved: 1
+Document 1:
+
+B	within	the	aforesaid	time	limit,	then	the	term	of	lease	will	be	calculated	since	the	actual	date	of	delivery.
+
+2.	Renewal:	Party	B	has	the	priority	to	lease	this	Premise	continuously	once	the	term	of	lease	prescribed	in	this	Contract	expires.	In	case	of deciding	to	renew	this	Contract,	Party	B	shall	bring	forth	a	written	application	to	Party	A	60	working	days	prior	to	the	expiration	of	term	of	lease. Upon	Party	A’s	consent,	both	parties	hereto	shall	sign	a	written	agreement.
+
+3.	If	the	term	of	lease	expires	or	this	Contract	is	cancelled,	Party	A	has	the	rights	to	take	back	this	Premise	from	Party	B	and	both	parties	shall
+
+make	settlement	on	the	fees	that	they	shall	bear	respectively.
+
+2
+
+IV.	Rent,	Property	Fees	and	Other	Expenses
+
+1.	Rent:	RMB	5.2/m2/day;	the	monthly	rent:	RMB	34,797.00	(say:	RMB	THIRTY	FOUR	THOUSAND	SEVEN	HUNDRED	NINETY	SEVEN	Only;
+
+the	price	is	tax	inclusive);
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 88
+Number of chunks retrieved: 3
+Document 1:
+
+14) If	the	Lessee	duly	and	punctually	observes	the	covenants,	agreements,	conditions,	and	provisos	in	this	Lease	on	the	part	of	the	Lessee	to	be	observed	and	performed, the	Lessor	shall	at	the	expiration	of	the	Term,	at	the	cost	of	the	Lessee	and	at	its	request	by	written	notice	 delivered	to	the	Lessor,	in	the	manner	provided	in	this Lease,	not	later	than	six	(6)	months	prior	to	the	expiration	of	the	Term,	grant	to	the	Lessee	a	renewal	lease	of	the	Premises	 for	two	further	terms	of	fix	(5)	years	(the “Renewal	Term”)	from	the	expiration	 of	the	Term,	upon	all	of	the	covenants,	agreements,	conditions,	and	provisos	contained	in	 this	Lease	except	this	covenant	for renewal	and	any	provisions	for	exclusive	use,	bonuses,	leasehold	improvements,	or	inducement	and	except	the	Basic	Rent	(the	“Renewal	Term	 Rent”)	to	be	paid during	the	Renewal	Terms.	The	Rent	for	the	Renewal	Terms	shall	be	 the	prevailing	fair	market	rental	for	lands	of	similar	size,	quality,	use	and	location,	as	agreed
+****************************************************************************************************
+Document 2:
+
+renewal	shall	not	be	less	than	the	rate	of	rent	for	the	preceding	term.	If	the	Lessor	or	Lessee	neglects	or	refuses	to	name	its	arbitrator	within	the	time	hereinbefore limited	or	to	proceed	with	the	said	arbitrator,	then	the	arbitrator	named	by	the	other	party	will	proceed	to	fix	the	rate	of	rent	to	be	paid	for	the	ensuing	term,	and	the award	of	such	arbitrator	will	be	final	and	binding	on	both	the	Lessor	and	the	Lessee.	Such	arbitration	will	otherwise	be	pursuant	to	the	provisions	of	the	Arbitration Act,	R.S.B.C.	1996	Chapter	55	as	it	is	from	time	to	time	amended. Lessor’s	Expenses	Enforcing	Lease
+****************************************************************************************************
+Document 3:
+
+40) In	the	event	that	the	Lessee	does	not	accept	the	Lessor’s	rental	demand	for	the	term	of	renewal,	then	the	said	rate	of	rent	will	be	determined	by	the	award	of	three arbitrators	or	a	majority	of	them,	one	to	be	named	by	Lessor	and	one	by	the	Lessee	at	least	SIXTY	(60)	days	before	the	expiration	of	the	term	hereby	granted	and	the two	arbitrators	thus	chosen	will	within	SEVEN	(7)	days	after	their	appointments	select	a	third	arbitrator,	and	their	award	or	the	award	of	the	majority	of	them	will	be made	not	later	than	FORTY	(40)	days	before	the	commencement	of	the	renewal	term.	But	in	the	determining	of	the	rent	aforesaid,	the	arbitrators	will	exclude	from the	calculations	made	in	such	determination	the	value	of	improvements	made	to	the	Premises	by	the	Lessee;	provided	always	that	the	rate	of	rent	for	any	period	of renewal	shall	not	be	less	than	the	rate	of	rent	for	the	preceding	term.	If	the	Lessor	or	Lessee	neglects	or	refuses	to	name	its	arbitrator	within	the	time	hereinbefore
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 29
+Number of chunks retrieved: 1
+Document 1:
+
+§	3 Term	of	lease,	handover
+
+3.1 The	lease	shall	commence	on	1	September	2021,	0:00	hrs.	CEST	and	end	on	31	August	2026,	24:00	hrs.	CEST	(fixed	lease	term).
+
+3.2 The	 Lessor	 shall	 grant	 the	 Lessee	 an	 option	 right	 to	 extend	 the	 lease	 by	 another	 five	 (5)	 years	 at	 the	 terms	 and	 conditions	 of	 this	 Lease Agreement	(option	term).	The	option	right	shall	be	exercised	by	written	declaration	of	the	Lessee,	which	must	be	delivered	to	the	Lessor	no later	than	ninety	(90)	days	prior	to	the	expiry	of	the	fixed	term.
+
+The	Lessee	is	entitled	to	terminate	the	lease	early	(even	during	fixed	lease	term	or	option	term),	to	the	end	of	each	calendar	quarter	with	a notice	period	of	4	months.
+
+3.3 The	Lessor	shall	handover	the	Leased	Premises	to	the	Lessee	on	1	September	2021.
+
+§	4 Rent	and	VAT	option
+
+4.1 The	monthly	basic	rental	fee	shall	be	EUR	7,768	plus	VAT	at	the	statutory	rate	in	force	at	the	time,	currently	nineteen	percent	(19%).
+
+Gleiss	Lutz
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 67
+Number of chunks retrieved: 1
+Document 1:
+
+25.	DUMPSTER.	Lessee	agrees	to	pay	for	dumpster	rental	cost.
+
+26.	 OPTION	 TO	 EXTEND	 LEASE.	 Lessee	 by	 giving	 six	 (6)	 months	 written	 notice	 to	 Lessor	 shall	 be	 able	 to	 extend	 this	 lease	 for	 one	 (1) additional	 ten	 (10)	 year	 term.	 The	 rent	 would	 then	 increase	 by	 the	 percentage	 that	 the	 consumer	 price	 index	 had	 increased	 during	 the	 ten	 (10) years	preceding.
+
+27.	BINDING	EFFECT.	This	agreement	shall	be	binding	upon	and	inure	to	the	benefit	of	the	successors	and	assigns	of	the	parties	hereto.
+
+28.	 INTERPRETATION.	 If	 any	 portion	 of	 this	 Lease	 shall	 be	 held	 to	 be	 void	 or	 unenforceable,	 the	 balance	 thereof	 shall	 nevertheless	 be
+
+effective.	This	Lease	has	been	made	and	entered	into	in	the	State	of	Montana	and	shall	be	governed	by	the	laws	of	the	State	of	Montana.
+
+This	Lease	Agreement	is	effective	as	of	the	date	indicated	in	the	first	paragraph	of	this	Lease.
+
+5-
+
+LESSEE
+
+BACTERIN	INTERNATIONAL,	INC.
+
+By: /s/	Darrel	Holmes
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 12
+Number of chunks retrieved: 3
+Document 1:
+
+Date”).
+
+(b)					Lessee	shall	have	the	option	to	extend	the	Term	of	this	Lease	for	four	successive	five	year	terms	(except	the	last	such	renewal	term	shall	be	59	months,
+
+not	a	full	five	years)	(each,	a	“Renewal	Term”),	on	the	same	terms	and	conditions	set	forth	herein.		Lessee	may	exercise	its	right	to	renew	the	Lease	Term	by	providing Lessor	with	written	notice	of	its	option	to	renew	the	Lease	not	less	than	nine	(9)	months	prior	to	the	expiration	of	the	then	current	Term	or	Renewal	Term.
+
+(c)			Notwithstanding	anything	to	the	contrary	contained	herein,	the	term	of	this	lease	shall	be	such	term	that	enables	Lessee	to	report	and	account	for	this
+****************************************************************************************************
+Document 2:
+
+(a)		Lessee’s	obligations	under	this	Lease	are	conditioned	upon	the	approval	of	this	Lease	and	the	location	of	such	bank	branch	by	the	Pennsylvania
+
+Department	of	Banking	and	the	FDIC	for	which	Lessee	shall	diligently	and	in	good	faith	apply	immediately	following	the	execution	of	this	Lease	by	the	parties	hereto.	In the	event	such	approvals	are	not	obtained	within	120	days	of	the	date	of	this	Lease,	this	Lease	shall	be	null	and	void	and	all	payments,	if	any,	made	by	Lessee	to	Lessor shall	be	refunded	to	Lessee	without	offset.
+
+2.
+
+TERM.
+
+(a)		The	term	of	this	Lease	for	the	Improved	Leased	Premises	shall	be	ten	(10)	years	(the	“Term”),	commencing	on	September	1,	2015,	(the	“Commencement
+
+Date”).
+
+(b)					Lessee	shall	have	the	option	to	extend	the	Term	of	this	Lease	for	four	successive	five	year	terms	(except	the	last	such	renewal	term	shall	be	59	months,
+****************************************************************************************************
+Document 3:
+
+ESTOPPEL	CERTIFICATE.		Both	parties	agree,	within	fifteen	(15)	days	after	the	other	party’s	written	request,	to	execute,	acknowledge	and	deliver	to the	requesting	party	a	written	instrument	in	recordable	form	certifying	(i)	whether	this	Lease	is	in	full	force	and	effect	and	whether	there	have	been	any	modifications, supplements,	side	agreements	or	amendments	and,	if	so,	stating	such	modifications,	supplements,	side	agreements	and	amendments;	(ii)	the	date	to	which	rent	has	been paid;	(iii)	the	amount	of	any	prepaid	rent	and	any	credit	due	Lessee	if	any;	(iv)	the	Commencement	Date	and	whether	any	option	to	renew	the	Term	has	been	exercised and,	if	so,	the	day	that	Renewal	Term	expires;	(v)	whether	either	party	is	in	default	in	the	performance	of	any	covenant,	agreement	or	condition	contained	in	this	Lease and,	if	so,	specifying	each	such	default;	and	(vi)	such	other	matters	as	Lessor	or	Lessor’s	mortgagee,	or	Lessee	or	Lessee’s	leasehold	mortgagee	(if	any)	may	reasonably
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 45
+Number of chunks retrieved: 1
+Document 1:
+
+EX-10.1	20	ex10_1.htm
+
+1
+
+THE	LANDLORD
+
+2
+
+THE	TENANT
+
+3
+
+THE	LEASED	PREMISES
+
+4
+
+THE	INITIAL	PERIOD
+
+5
+
+BASIC	MONTHLY	RENTAL	DURING	INITIAL	PERIOD
+
+6
+
+DEPOSIT	OR	BANK	GUARANTEE
+
+7
+
+DUE	DATE	OF	PAYMENT	OF	RENTAL
+
+8
+
+USE	OF	LEASED	PREMISES
+
+9
+
+10
+
+LETTING	&	ADMINISTRATION	AGENTS	TO	WHOM	RENTAL PAYABLE GUARANTOR/S	FOR	TENANTS
+
+11
+
+THE	RENEWAL	PERIOD
+
+Capital
+
+AGREEMENT	OF	LEASE
+
+THE	SCHEDULE
+
+Name:	MINOAN	CAPITAL	PTY	LTD
+
+Registration	No.:	2013/130048/07	Represented	By:	GREGORY	VIZIRGIANAKIS
+
+Postal	Address	:	PO	BOX	912,	Florida,	1710
+
+Name
+
+:	 DISA	 Medinotec	 Pty	 Ltd	 Registration	 No.:
+
+2015/117607/07	VAT	Reg.	No.:	4720269531 Represented	By	:	Pieter	van	Niekerk
+
+ID	No:	8505205045081
+
+Postal	Address	:	PO	BOX	912,	Florida,	1710
+
+Northlands	Business	Park	New	Market	Road
+
+171	Bush	Telegraph	Avenue	Northriding
+
+2169 (3)	Three-year	lease
+
+R48	887.50	excluding	VAT	of	15% •							Including	council	rates,	taxes	and	levies. •							Tenant	to	pay	own	utilities
+
+N/A
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 17
+Number of chunks retrieved: 4
+Document 1:
+
+landlord	would	accept,	in	arm's	length	bona	fide	negotiations	(for	renewal	leases	taking	into	consideration	all	relevant	factors	for	renewal	leases	 including,	without	limitation,	the	following	factors:	rent	being	charged	in	other	similar	buildings	located	in	Berkeley	County,	South	Carolina	for	 comparable	tenants,	for	renewal	leases	then	being	entered	into	for	comparable	space	to	the	Premises;	location,	quality,	amenities,	age	and	 reputation	of	the	buildings	in	which	the	space	being	compared	is	located;	use	and	size	of	the	space	under	comparison;	location	and/or	floor	level	of	 the	subject	space	and	any	comparison	space	within	their	respective	buildings;	extent	of	services	provided	or	to	be	provided;	extent	and	condition	of	 leasehold	improvements	in	the	subject	space	and	in	any	comparison	space;	abatements	pertaining	to	the	subject	space	and	to	any	comparison
+****************************************************************************************************
+Document 2:
+
+Subject	to	the	provisions	of	this	Section	l	(e	),	Tenant	is	hereby	granted	the	option	to	renew	the	Term	of	this	Lease	(the	 “Renewal	Options”)	as	to	all	(but	not	part)	of	the	Premises	for	two	(2)	consecutive	periods	of	three	(3)	years	each	(the	“Renewal	Terms”)	 provided	that	Tenant	shall	give	notice	of	the	election	of	any	such	Renewal	Option	no	later	than	nine	(9)	months	prior	to	the	expiration	of	the	then‐​ current	Term,	time	being	of	the	essence	and	timely	notice	being	an	express	condition	of	valid	exercise	of	a	Renewal	Option.	Each	Renewal	Option	 shall	be	upon	the	same	terms	and	conditions	of	this	Lease,	except:
+
+(e)
+
+(i)
+
+the	Monthly	Base	Rent	(as	hereinafter	defined)	for	the	Premises	during	the	first	three-year	Renewal	Term
+
+shall	be	as	stated	in	Section	2(a)	below	and	the	Monthly	Base	Rent	for	the	Premises	during	the	second	three-year	Renewal	Term	shall	be	the	 Current	Market	Rental	Rate	(hereinafter	defined);	and
+
+(ii)
+****************************************************************************************************
+Document 3:
+
+second	Renewal	Option	to	agree	upon	a	rental	rate	for	the	second	Renewal	Tenn.	However,	if	Landlord	and	Tenant	are	unable	to	agree	within	such	 sixty	(60)	day	period,	then	Landlord	and	Tenant	shall	each	within	the	next	fifteen	(15)	days	name	an	appraiser	to	represent	them,	and	the	two	so	 appointed	shall	endeavor	to	jointly	agree	on	the	then	Current	Market	Rental	Rate	of	the	Premises	(including	the	fixed	percentage	rate	for	annual	 rent	increases).	As	used	in	this	Lease,	“Current	Market	Rental	Rate”	shall	mean	the	market	annual	gross	rental	rate	per	square	foot	for	renewals	 of	existing	leases,	for	the	applicable	space	and	for	the	time	as	to	which	such	rate	is	being	determined,	that	a	willing	tenant	would	pay	and	a	willing	 landlord	would	accept,	in	arm's	length	bona	fide	negotiations	(for	renewal	leases	taking	into	consideration	all	relevant	factors	for	renewal	leases
+****************************************************************************************************
+Document 4:
+
+Landlord	and	Tenant	shall	endeavor	in	good	faith	within	the	next	sixty	(60)	days	following	Tenant's	notice	of	its	intention	to	exercise	the
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 55
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 25
+Number of chunks retrieved: 4
+Document 1:
+
+immediately	following	the	date	of	expiration	of	the	initial	Lease	Term.		On	or	before	the	commencement	date	of	the	Extended	Term,	Landlord	and	 Tenant	shall	execute	an	amendment	to	this	Lease	extending	the	Lease	Term	on	the	same	terms	provided	in	this	Lease,	except	as	follows: 1.									The	Minimum	Guaranteed	Rental	payable	for	each	month	during	such	Extended	Term	shall	be	the	greater	of	(i)	one-hundred	ten	percent	 (110%)	of	the	then	current	monthly	Minimum	Guaranteed	Rental	amount	payable	during	the	last	month	of	the	initial	Lease	Term,	or	(ii)	the	then	 prevailing	Market	Base	Rental	Rate	(as	defined	hereinbelow)	for	comparable	space	in	the	area	(it	being	hereby	agreed	that	as	used	in	this	Exhibit,	 the	term	"Market	Base	Rental	Rate"	shall	mean	the	annual	rental	rate	then	being	charged	and/or	quoted	for	renewal	space	comparable	to	the	space
+****************************************************************************************************
+Document 2:
+
+EXHIBIT	"D" RENEWAL	OPTION Provided	no	event	of	default	by	Tenant	under	the	Lease	then	exists	and	Tenant	is	then	leasing	the	entire	Premises	at	the	time	of	such	election,	 Tenant	(but	not	any	assignee,	sublessee	or	other	transferee	of	Tenant)	may	renew	this	Lease	for	one	(1)	additional,	successive	period	of	two	(2)	 consecutive	years	(such	extension	period	being	herein	called	the	"Extended	Term"),	at	mutually	acceptable	terms	provided	in	this	Lease	(except	as	 set	forth	below),	by	delivering	written	notice	of	the	exercise	thereof	to	Landlord	not	earlier	than	three	hundred	sixty-five	(365)	days	and	not	later	 than	one	hundred	eighty	(180)	days	before	the	expiration	of	the	initial	Lease	Term.	Such	Extended	Term	shall	then	commence	on	the	first	day	 immediately	following	the	date	of	expiration	of	the	initial	Lease	Term.		On	or	before	the	commencement	date	of	the	Extended	Term,	Landlord	and
+****************************************************************************************************
+Document 3:
+
+the	term	"Market	Base	Rental	Rate"	shall	mean	the	annual	rental	rate	then	being	charged	and/or	quoted	for	renewal	space	comparable	to	the	space	 for	which	the	Market	Base	Rental	Rate,	as	determined	in	Landlord’s	sole	discretion.	It	being	further	agreed	that	bona	fide	written	offers	to	lease	 the	relevant	space	made	to	Landlord	by	third	parties	may	be	used	by	Landlord	as	an	indication	of	such	Market	Base	Rental	Rate);	and 2.									Tenant	shall	have	no	further	renewal	options	with	respect	to	the	Lease	unless	otherwise	expressly	granted	by	Landlord	in	writing. It	is	agreed	that	Tenant	shall	take	and	occupy	the	Premises	during	such	Extended	Term	in	its	then	"AS	IS,	WHERE	IS	AND	WITH	ALL	FAULTS"	 condition,	and	that	Landlord	shall	not	be	obligated	to	perform	any	modifications,	alterations	or	improvements	to	the	Demised	Premises	nor	to	 provide	to	Tenant	any	allowances	or	other	tenant	concessions	or	inducements	in	connection	with	Tenant's	extension	of	the	Lease	Term	pursuant	to
+****************************************************************************************************
+Document 4:
+
+Property	Rentable	Area
+
+29,100	square	feet	of	buildings	39.99	acres	of	yard
+
+Lease	Term
+
+Beginning	on	the	Commencement	Date	and	ending	on	November	1,	 2033.Additionally,	Tenant	shall	have	the	option	to	renew	and	extend	the	Lease	 Term,	in	accordance	with	and	subject	to	the	terms	and	conditions	set	forth	in	 Exhibit	"D"	attached	hereto	and	made	a	part	hereof.
+
+Commencement	Date
+
+Effective	Date	of	this	Lease
+
+Permitted	Uses
+
+General	office,	general	yard,	administration,	distribution	and	warehouse	use;	 provided,	however,	Tenant	shall	not	use	the	Premises	in	a	manner	inconsistent	 with	the	uses	permitted	by	the	applicable	zoning	code,	and	in	no	event	shall	 manufacturing	be	permitted.
+
+2.
+
+LEASE	TERM
+
+a.
+
+Lease	of	Premises	for	Lease	Term.
+
+Landlord	hereby	leases	the	Premises	to	Tenant	and	Tenant	leases	the	Premises	from	Landlord	for	the	Lease	Term.
+
+b.
+
+Delivery.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 14
+Number of chunks retrieved: 2
+Document 1:
+
+1.03 Length	of	Term.	Subject	to	Landlord's	right	to	terminate,	the	term	("Term")	of	this	Lease	shall	be	for	a period	of	ten	(10)	years,	commencing	on	the	date	hereof.	If	said	commencement	date	is	other	than	the	first	day	of the	month,	the	first	year	of	the	Lease	term	shall	be	deemed	to	be	extended	to	include	such	partial	month	and	the following	 twelve	 (12)	 months,	 so	 as	 to	 end	 on	 the	 last	 day	 of	 the	 month.	 So	 long	 as	 no	 Default	 exists	 and	 with twelve	(12)	months'	written	notice	to	Landlord	prior	to	the	end	of	the	Term	(or	extended	Term),	Tenant	shall	have two (2)	five	(5)	year	options	to	extend	the	Term	hereof	under	the	same	terms	at	the	then	fair	rental	value	determined by	Landlord	and	Tenant	at	least	ten	(10)	months	prior	to	the	end	of	the	Term	(or	extended	Term.)	If	Landlord	and Tenant	cannot	agree	upon	a	fair	market	rental	by	such	deadline,	each	will	retain	a	real	estate	appraiser	or	broker	to
+****************************************************************************************************
+Document 2:
+
+Tenant	cannot	agree	upon	a	fair	market	rental	by	such	deadline,	each	will	retain	a	real	estate	appraiser	or	broker	to determine	such	fair	market	rental	prior	to	the	date	that	is	nine	(9)	months	prior	to	the	end	of	the	Term	(or	extended Term)	and	the	average	of	the	two	values	shall	be	the	fair	market	value	hereunder;	provided	that	if	Tenant	does	not agree	 with	 such	 fair	 market	 value	 determination,	 Tenant	 shall	 have	 the	 right	 to	 cancel	 its	 renewal	 election	 by written	notice	to	Landlord	within	five	(5)	business	days	after	the	fair	market	value	is	determined.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 70
+Number of chunks retrieved: 2
+Document 1:
+
+PAGE
+
+2
+
+4
+
+4
+
+4
+
+5
+
+5
+
+8
+
+9
+
+11
+
+12
+
+14
+
+14
+
+15
+
+15
+
+1
+
+LEASE	AGREEMENT
+
+1
+
+INTERPRETATION
+
+1.1
+
+In	this	Agreement,	unless	inconsistent	with	or	otherwise	indicated	by	the	context	–
+
+1.1.1
+
+“the/this	Agreement”	means	this	Lease	Agreement,	comprising	of	the	Schedule	and	the	terms	and	conditions	as	set	out	in	this document	and	the	annexures	hereto;
+
+1.1.2
+
+“Business	Day”	means	any	day	that	is	not	a	Saturday,	Sunday	or	South	African	public	holiday;
+
+1.1.3
+
+“Commencement	Date”	means	the	date	set	out	at	paragraph	3	of	the	Schedule,	notwithstanding	the	Signature	Date;
+
+1.1.4
+
+“Lessor”	means	the	party	set	out	in	paragraph	1	of	the	Schedule;
+
+1.1.5
+
+“Lessee”	means	the	party	set	out	in	paragraph	2	of	the	Schedule;
+
+1.1.6
+
+“Lease	Period”	means	the	period	of	this	Agreement	referred	to	in	clause	4.1;
+
+1.1.7
+
+“Leased	Premises”	means	the	premises	set	out	in	paragraph	4	of	the	Schedule;
+
+1.1.8
+****************************************************************************************************
+Document 2:
+
+Should	the	Lessor	elect	not	to	terminate	this	Agreement	-
+
+the	 Lessor	 shall	 reinstate	 the	 Leased	 Premises	 at	 its	 own	 cost	 within	 3	 months	 after	 its	 election	 not	 to	 terminate	 this
+
+Agreement	(or	such	longer	period	as	may	be	reasonable	in	the	circumstances);
+
+the	 Lessee	 shall	 not	 be	 liable	 for	 the	 payment	 of	 Rental	 as	 long	 as	 it	 is	 deprived	 of	 beneficial	 occupation	 of	 the	 Leased
+
+Premises;
+
+the	Lessee	shall	be	given	beneficial	occupation	from	time	to	time	on	any	part	of	the	Leased	Premises,	the	provisions	of	this
+
+Agreement	shall	mutatis	mutandis	apply	to	such	occupation	and
+
+the	Lessee	shall	make	payment	of	the	Rental	therefor	on	a	pro	rata	basis;	and
+
+the	period	of	this	Agreement	shall,	at	the	option	of	the	Lessee,	shall	be	extended	by	the	period	during	which	the	Lessee	is
+
+deprived	of	beneficial	occupation	of	the	whole	of	the	Leased	Premises.
+
+10
+
+9			BREACH
+
+9.1
+
+Should	–
+
+9.1.1
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 36
+Number of chunks retrieved: 2
+Document 1:
+
+If	 this	 Lease	 is	 terminated	 prior	 to	 its	 stated	 expiration	 date,	 Landlord	 agrees	 that	 it	 will	 give	 the Permitted	 Mortgagee	 notice	 of	 such	 termination	 and	 will	 enter	 into	 a	 new	 lease	 of	 the	 Premises	 with	 the	 Permitted Mortgagee	or,	at	the	request	of	the	Permitted	Mortgagee,	with	Permitted	Mortgagee’s	assignee,	designee,	or	nominee	for the	 remainder	 of	 the	 Term	 effective	 as	 of	 the	 date	 of	 such	 termination,	 upon	 the	 same	 covenants,	 agreements,	 terms, provisions,	and	limitations	herein	contained,	provided:	(i)	the	Permitted	Mortgagee	makes	written	request	upon	Landlord for	 such	 new	 lease	 within	 thirty	 (30)	 days	 after	 the	 Landlord’s	 giving	 notice	 of	 termination	 and	 such	 written	 request	 is accompanied	 by	 payment	 to	 Landlord	 of	 all	 amounts	 then	 due	 to	 Landlord	 of	 which	 Landlord	 shall	 have	 given	 the
+****************************************************************************************************
+Document 2:
+
+1.58 Unavoidable	Delay;	Extension	of	Time	of	Performance.	In	addition	to	specific	provisions	of	this	Lease, performance	by	any	Party	hereunder	shall	not	be	deemed	to	be	in	default	where	delays	or	defaults	are	due	to	any	Force Majeure	 Event.	 Performance	 by	 Tenant	 shall	 not	 be	 deemed	 in	 default	 where	 delays	 are	 defaults	 are	 due	 to	 delays	 in granting	of	governmental	approvals	contemplated	by	the	Development	Agreement	or	this	Lease.	An	extension	of	time	for any	such	cause	shall	be	one	day	for	each	day	during	the	continuance	of	any	Force	Majeure	Event.	Each	of	Landlord	and Tenant	 shall	 inform	 the	 other	 of	 the	 occurrence	 of	 a	 Force	 Majeure	 Event	 where	 an	 extension	 of	 time	 is	 claimed.	 In addition	to	automatic	extensions	for	Force	Majeure	Events,	Landlord	may	extend	time	for	performance	for	up	to	a	total	of sixty	(60)	days	upon	good	faith	showing	by	Tenant	of	the	need	for	such	extension.	“Force	Majeure	Event”	means	any event	 which	 prohibits	 or
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 8
+Number of chunks retrieved: 2
+Document 1:
+
+2.2											Option	Term.					Tenant	shall	have	the	right	or	option	to	lease	the	Premises	for	four	additional	terms (hereinafter	sometimes	called	the	"Option	Term")	of	five	(5)	years	each	for	a	total	of	twenty	(20)	years	following	the	termination	of the	Initial	Term.	Such	options	shall	be	exercised	by	Tenant	sending	written	notice	to	Landlord	of	its	intention	to	exercise	this	option at	least	six	(6)	months	prior	to	the	expiration	of	the	Initial	Term	and	each	subsequent	term,	time	being	of	the	essence.	Tenant's	right to	extend	the	term	for	each	Option	Term	shall	automatically	be	extinguished	as	if	it	had	never	existed	if	Tenant	fails	to	exercise	its option	in	the	required	manner	within	the	required	period	of	time.	If	Tenant	shall	duly	exercise	its	right	or	option	to	lease	the Premises	for	such	Option	Terms,	all	terms	and	conditions	herein	shall	remain	the	same,	except	that	(i)	Tenant	shall	have	no	further
+****************************************************************************************************
+Document 2:
+
+Page	5
+
+Village	Comer	EMBASSY	Lease	022503
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 34
+Number of chunks retrieved: 3
+Document 1:
+
+Notice	Of	Intent	To	Surrender
+
+Any	other	provision	of	this	lease	to	the	contrary	notwithstanding,	at	least	thirty	(30)	days	prior	to	the	normal	expiration	of	the	term	of	this	Lease	as noted	under	the	heading	TERM	OF	LEASE	above,	Tenant	shall	give	written	notice	to	Landlord	of	Tenant’s	intention	to	surrender	the	residence	at	the expiration	of	the	Lease	term.	If	said	written	notice	is	not	timely	given,	the	Tenant	shall	become	a	month-to-month	tenant	as	defined	by	applicable Georgia	law,	and	all	provisions	of	this	Lease	will	remain	in	full	force	and	effect,	unless	this	Lease	is	extended	or	renewed	for	a	specific	term	by	written agreement	of	Landlord	and	Tenant.
+
+Real	Estate	Investing.	Easy.	Smart.	For	Everyone 6	W	18	St,	New	York,	NY,	10011 landa.app
+
+8
+****************************************************************************************************
+Document 2:
+
+Exhibit	6.57
+
+Term	Of	Lease
+
+This	Lease	shall	commence	1st	day	of	February,	2022	to	31st	day	of	January,	2023,	unless	renewed	or	extended	pursuant	to	the	terms	herein.
+
+Notice	Of	Injuries
+
+In	the	event	of	any	significant	injury	or	damage	to	Tenant,	Tenant’s	family,	or	Tenant’s	invitees,	licensees,	and/or	guests,	or	any	personal	property, suffered	in	the	leased	premises	or	in	any	common	area,	written	notice	of	same	shall	be	provided	by	Tenant	to	Landlord	at	the	address	designated	for delivery	of	notices	(identical	to	address	for	payment	of	rent)	as	soon	as	possible	but	not	later	than	five	(5)	days	after	said	injury	or	damage.	Failure	to provide	such	notice	shall	constitute	a	breach	of	this	Lease.
+
+Materiality	Of	Application	To	Rent
+****************************************************************************************************
+Document 3:
+
+Real	Estate	Investing.	Easy.	Smart.	For	Everyone 6	W	18	St,	New	York,	NY,	10011 landa.app
+
+8
+
+If	 Tenant	 becomes	 a	 month-to-month	 tenant	 in	 the	 manner	 described	 above,	 Tenant	 must	 give	 a	 thirty	 (30)	 day	 written	 notice	 to	 the	 Landlord	 of Tenant’s	intention	to	surrender	the	residence.	At	any	time	during	a	month-to-month	tenancy	Landlord	may	terminate	the	month-to-month	Lease	by serving	Tenant	with	a	written	notice	of	termination,	or	by	any	other	means	allowed	by	applicable	Georgia	law.	Upon	termination,	Tenant	shall	vacate the	premises	and	deliver	same	unto	Landlord	on	or	before	the	expiration	of	the	period	of	notice.
+
+Condition	Of	Leased	Premises
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 52
+Number of chunks retrieved: 3
+Document 1:
+
+4. OPTION	TO	RENEW:
+
+If	at	the	end	of	the	current	lease	term,	the	Lessee	shall	not	be	in	default	in	the	performance	of	the	terms,	covenants,	and conditions	of	this	lease	agreement	on	its	part	to	be	performed,	then	Lessee	shall	have	the	option	to	renew	this	lease	for	an additional	two	(2)	years.	Should	Lessee	elect	to	exercise	this	option,	it	must	provide	Lessor	with	written	notice	of	its desire	to	renew	at	least	nine	(9)	months	prior	to	the	expiration	of	this	lease,	or	March	31,	2024.	The	renewal	option	will be	on	the	same	terms	and	conditions	as	set	forth	herein,	except	for	rent	which	shall	adjust	as	follows:	for	the	term commencing	on	January	1,	2025,	the	fixed	annual	rent	shall	be	$15,208.20	payable	in	monthly	installments	of	$1,267.35 through	December	31,	2027.
+
+5. RENT:
+****************************************************************************************************
+Document 2:
+
+2. TERM:
+
+The	leased	Premises	are	leased	for	a	term	of	2	years	or	24	months,	commencing	on	January	1,	2023,	and	terminating	at midnight	on	December	31,	2024,	unless	earlier	terminated	or	extended	as	provided	hereunder.
+
+3. DELIVERY	OF	POSSESSI	ON:
+
+Delivery	 of	 possession	 occurs	 on	 which	 Lessee's	 security	 deposit	 has	 been	 paid	 in	 full,	 this	 lease	 is	 fully	 executed,	 and Lessee	delivers	to	Lessor	a	Certificate	of	Insurance,	as	outlined	in	Article	28	herein.
+
+4. OPTION	TO	RENEW:
+****************************************************************************************************
+Document 3:
+
+D. The	prospective	Assignee	or	Sub-Lessee	is,	in	the	Lessor's	sole	opinion,	financially	responsible,	commercially
+
+reputable	and	creditworthy	as	a	Lessee;	and	the	proposed	use	is	the	same	or	substantially	similar	to	that	of the	Lessee;
+
+E. The	Lessee	pays	the	Lessor	the	reasonable	attorney's	fees	of	the	Lessor	incurred	in	processing	such
+
+assignment	or	sub-lease;
+
+F. All	other	terms	and	conditions	of	this	lease	shall	remain	in	full	force	and	effect	during	the	renewal	term(s)	;
+
+G. The	Lessor	shall	have	the	option,	exercisable	in	its	sole	discretion,	of	negotiating	a	new	lease	directly	with
+
+any	proposed	Assignee	or	Sub-Lessee	;	and,	upon	the	effective	date	thereof,	the	within	Lease	shall	terminate ("Termination	Date");	with	the	Lessee	being	responsible	for	the	payment	of	all	monetary	obligations,	and	the performance	of	all	non-monetary	obligations	due	hereunder,	through	and	including	the	Termination	Date.
+
+15. COMPLIANCE	WITH	RULES	AND		REGULATIONS:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 19
+Number of chunks retrieved: 1
+Document 1:
+
+vi. If	 this	 Lease	 is	 terminated	 for	 Lessee’s	 breach	 before	 the	 end	 of	 the	 Term,	 for	 any	 reason	 other	 than	 a	 default	 that	 has	 not been	cured	by	Lessee	or	Approved	Leasehold	Mortgagee	within	the	period	specified,	including,	without	limitation,	as	a	result of	 a	 rejection	 or	 disaffirmation	 of	 the	 Lease	 in	 a	 bankruptcy,	 insolvency	 or	 other	 proceeding	 affecting	 creditor’s	 rights	 then Lessor	 shall	 provide	 a	 copy	 of	 the	 termination	 notice	 to	 the	 Approved	 Leasehold	 Mortgagee.	 Upon	 the	 written	 request	 of Approved	Leasehold	Mortgagee	made	any	time	within	thirty	(30)	days	after	the	receipt	of	such	notice	from	Lessor,	Lessor	shall agree	 to	 enter	 into	 a	 new	 lease	 of	 the	 Premises	 with	 Approved	 Leasehold	 Mortgagee	 for	 the	 remainder	 of	 the	 Term	 of	 the Lease	upon	the	same	covenants,	conditions,	limitations	and	agreements	contain	in	the	Lease,	except	for	such	provisions	which must	 be	 modified	 to	 reflect	 any	 such
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 43
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 15
+Number of chunks retrieved: 3
+Document 1:
+
+LESSOR	 hereby	 grants	 to	 LESSEE	 an	 option	 to	 continue	 leasing	 the	 Leased	 Premises	 for	 one	 (1)	 period	 of	 five	 (5)	 year(s). commencing	on	the	day	following	the	last	day	of	the	initial	term	of	this	Lease,	provided	that	LESSEE	has	not	been	in	default	under	the	Lease	during the	 term	 of	 the	 Lease	 and	 does	 not	 go	 into	 default	 before	 the	 renewal	 term	 commences.	 LESSEE	 shall	 exercise	 a	 renewal	 option	 by	 serving	 on Landlord	 at	 least	 One	 Hundred	 and	 Eighty	 (180)	 days	 prior	 to	 the	 expiration	 of	 the	 initial	 term	 of	 this	 Lease,	 written	 notice	 from	 the	 LESSEE stating	whether	or	not	LESSEE	intends	to	exercise	said	renewal	option.	In	the	event	such	notice	states	that	LESSEE	is	not	exercising	its	renewal option	hereunder,	or	the	notice	from	LESSEE	is	not	timely	received,	all	renewal	options	shall	immediately	cease	and	be	thereafter	null	and	void.
+****************************************************************************************************
+Document 2:
+
+64.	EXHIBITS	AND	ADDENDUM
+
+Exhibits	A,	B,	C,	D,	and	E	together	with	any	fully	executed	Addendum,	shall	be	attached	to	and	made	a	part	of	the	LEASE.
+
+65.	NO	RECORDING
+
+This	LEASE	shall	not	be	recorded	in	the	public	records	however,	a	Memorandum	of	LEASE,	acceptable	to	LESSOR,	may	be	executed
+
+and	delivered	for	such	purpose.
+
+66.	LAWS	AND	REGULATIONS
+
+Lessee	shall	comply	with	all	Federal,	State,	County	and	City	laws,	ordinances,	rules	and	regulations	affecting	or	respecting	the	use
+
+or	occupancy	of	the	Leased	Premises	by	the	Lessee	or	the	business	at	any	time	thereon	transacted	by	the	Lessee.
+
+12-
+
+67.	OPTION	TO	RENEW
+****************************************************************************************************
+Document 3:
+
+option	hereunder,	or	the	notice	from	LESSEE	is	not	timely	received,	all	renewal	options	shall	immediately	cease	and	be	thereafter	null	and	void. During	any	renewal	term,	the	terms	and	provisions	of	this	Lease	shall	remain	unchanged.	Shall	LESSEE	exercise	the	option,	the	Base	Rental	rate during	the	five	(5)	year	option	period	shall	be	$25.30	per	square	foot	and	Additional	Rent	shall	be	calculated	based	on	LESSOR’s	actual	Operating Costs.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 21
+Number of chunks retrieved: 3
+Document 1:
+
+Landlord	and	Tenant	agree,	at	any	time,	and	from	time	to	time,	within	fifteen	(15)	days	after	written	request	of	the	other,	to	execute, acknowledge	and	deliver	a	statement	in	writing	in	recordable	form	to	the	requesting	party	and/or	its	designee	certifying	that:	(i)	this Lease	 is	 unmodified	 and	 in	 full	 force	 and	 effect	 (or,	 if	 there	 have	 been	 modifications,	 that	 the	 same	 is	 in	 full	 force	 and	 effect,	 as modified),	(ii)	the	dates	to	which	Base	Rent,	Additional	Rent	and	other	charges	have	been	paid,	(iii)	whether	or	not,	to	the	best	of	its knowledge,	there	exists	any	failure	by	the	requesting	party	to	perform	any	term,	covenant	or	condition	contained	in	this	Lease,	and,	if so,	specifying	each	such	failure,	(iv)	(if	such	be	the	case)	Tenant	has	unconditionally	accepted	the	Demised	Premises	and	is	conducting its	 business	 therein,	 and	 (v)	 and	 as	 to	 such	 additional	 matters	 as	 may	 be	 requested,	 it	 being	 intended	 that	 any	 such	 statement
+****************************************************************************************************
+Document 2:
+
+If	Tenant	remains	in	possession	of	the	Demised	Premises	after	expiration	of	the	Term,	with	or	without	Landlord’	s	acquiescence	and without	any	express	agreement	of	the	parties	(any	such	period	of	possession	being	deemed	a	“	Holdover	Period”),	Tenant	shall	be	a tenant-at-	sufferance	and	shall	pay	to	Landlord	as	Base	Rent	(in	lieu	of	that	otherwise	provided	during	the	Term	of	this	Lease)	holdover rent	(“Holdover	Rent”):	(i)	with	respect	to	the	first	30	days	of	any	Holdover	Period,	a	rental	payment	equal	[*****]	percent	([*****]%)	of the	Monthly	Base	Rent	Installment	that	was	due	with	respect	to	the	last	month	of	the	Term	of	the	Lease;	and	(ii)	with	respect	to	each 30	 day	 period	 of	 the	 Holdover	 Period	 after	 the	 first	 thirty	 day	 period,	 a	 rental	 payment	 equal	 to	 *****]	 percent	 ([*****]%)	 of	 the Monthly	 Base	 Rent	 Installment	 that	 was	 due	 with	 respect	 to	 the	 last	 month	 of	 the	 Term	 of	 the	 Lease.	 During	 any	 Holdover	 Period,
+****************************************************************************************************
+Document 3:
+
+Term.	To	have	and	to	hold	the	Demised	Premises	for	a	preliminary	term	(the	“Preliminary	Term”)	commencing	on	the	Lease	Date	and	ending on	 the	 day	 immediately	 preceding	 the	 Lease	 Commencement	 Date	 as	 set	 forth	 in	 Section	 1(f),	 and	 a	 primary	 term	 (the	 “Primary	 Term”) commencing	 on	 the	 Lease	 Commencement	 Date	 and	 terminating	 on	 the	 Expiration	 Date	 as	 set	 forth	 in	 Section	 1(h),	 as	 the	 Lease Commencement	Date	and	the	Expiration	Date	may	be	revised	pursuant	to	Section	17	(the	Preliminary	Term,	the	Primary	Term,	and	any	and all	 extensions	 thereof,	 herein	 referred	 to	 as	 the	 “Term”).	 The	 term	 “Lease	 Year”,	 as	 used	 in	 this	 Lease,	 shall	 mean	 the	 12-month	 period commencing	on	the	Lease	Commencement	Date,	and	each	12-month	period	thereafter	during	the	Term;	provided,	however,	that	if	the	Base Rent	 Commencement	 Date	 is	 a	 day	 other	 than	 the	 first	 day	 of	 a	 calendar	 month,	 the	 first	 Lease	 Year	 shall	 include	 the
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 59
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 96
+Number of chunks retrieved: 1
+Document 1:
+
+Building:
+
+That	 certain	 building	 having	 the	 street	 address	 of	 1950	 Lake	 Park	 Drive,	 1900	 bldg,	 suite	 380,	 Smyrna,	 Georgia	 30080, located	in	Cobb	County,	Georgia.
+
+Project:
+
+The	 Premises,	 the	 Building,	 the	 Common	Areas	 (as	 hereinafter	 defined),	 the	 land	 upon	 which	 they	 are	 located	 and	 all improvements	 thereon,	 with	 the	 Project	 approximately	 depicted	 as	 a	 hatch-marked	 area	 on	 a	 site	 plan	 attached	 hereto	 as Exhibit	B.
+
+Lease	Term:
+
+Thirty-Six	 (36)	 months	 beginning	 on	 the	 Commencement	 Date	 (January	 1,	 2020	 as	 hereinafter	 defined)	 and	 expiring	 at 6:00	P.M.	Eastern	Time	on	the	last	day	of	the	thirty-sixth	(36th)	month	thereafter	(December	31,	2022,	the	" Expiration Date"),	unless	extended	as	provided	below.
+
+Commencement	Date:
+
+January	1,	2020	(the	"Commencement	Date").
+
+Base	Rent:
+
+Pursuant	to	the	Base	Rent	table	set	forth	in	Section	3	below.
+
+Security	Deposit:
+
+None.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 47
+Number of chunks retrieved: 2
+Document 1:
+
+27.
+
+27.
+
+28.
+
+28.
+
+29.
+
+29.
+
+30.
+
+30.
+
+31.
+
+31.
+
+32.
+
+32.
+
+33.
+
+1.
+
+an	amount	determined	by	reducing	to	present	worth	at	an	assumed	interest	rate	of	twelve	percent (12%)	per	annum	all	Base	Rent	and	estimated	Additional	Rent	to	become	payable	during	the	period which	would	have	constituted	the	unexpired	portion	of	the	Term,	such	determination	to	be	made	by the	Landlord,	who	may	make	reasonable	estimates	of	when	any	such	other	amounts	would	have become	payable	and	may	make	such	other	assumptions	of	the	facts	as	may	be	reasonable	in	the circumstances;	or
+
+2.
+
+an	amount	equal	to	the	Base	Rent	and	estimated	Additional	Rent	for	a	period	of	six	(6)	months.
+
+INSPECTIONS
+
+Tenant	acknowledges	that	it	inspected	the	Premises,	including	the	grounds	and	all	buildings	and	improvements,	and	that	they	are,	at the	time	of	the	execution	of	this	Lease,	good	order,	good	repair,	safe,	clean,	and	tenantable	condition.
+
+RENEWAL	OF	LEASE
+****************************************************************************************************
+Document 2:
+
+RENEWAL	OF	LEASE
+
+Upon	giving	written	notice	no	later	than	90	days	before	the	expiration	of	the	Term,	the	Tenant	may	renew	this	Lease	for	an	additional term.	All	terms	of	the	renewed	lease	will	be	the	same	except	for	any	signing	incentives/inducements	and	this	renewal	clause.
+
+SIGNING	INCENTIVES
+
+The	Landlord	will	give,	make	or	perform	the	following	signing	incentives:	The	Landlord	will	prorate	the	November	2019	lease	according to	access	to	the	property.
+
+TENANT	IMPROVEMENTS
+
+The	Tenant	may	make	the	following	improvements	to	the	Premises:
+
+a.
+
+The	Landlord	has	agreed	to	allow	Tenant	to	expand	the	warehouse	to	accommodate	on	site	vehicle	maintenance	and	the landlord	will	contribute	$15,000.00	toward	the	$51,000.00	estimated	construction	cost;	and
+
+b.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 3
+Number of chunks retrieved: 2
+Document 1:
+
+Term.	 The	 term	 of	 the	 License	 shall	 be	 for	 a	 period	 commencing	 on	 the	 Commencement Date	of	the	Lease	Agreement	and	ending	one	(1)	day	prior	to	the	end	of	the	term	of	Licensor’s	term	of	the Landlord	under	the	Lease	Agreement	or	such	earlier	date	the	upon	which	the	Lease	Agreement	term	shall terminate	 (the	 “Term”);	 provided,	 however,	 from	 and	 after	 the	 	 third	 (3rd)	 	 anniversary	 date	 of	 the Commencement	 Date	 either	 Licensor	 or	 Licensee	 may	 terminate	 this	 License	 Agreement	 upon	 120	 days written	notice	to	the	other	Party	for	any	reason.		Further,	in	the	event	Landlord	determines	to	terminate	the Lease	 Agreement	 under	 the	 terms	 of	 the	 Lease	 Agreement	 because	 of	 a	 default	 by	 the	 Licensor	 of	 its obligations	under	the	Lease	Agreement	or	because	of	casualty	or	condemnation	of	all	of	part	of	the	Premises, this	 License	Agreement	 shall	 terminate	 upon	 such	 notice	 of	 termination	 from	 the	 Landlord	 to	Tenant	 and Licensee	 shall
+****************************************************************************************************
+Document 2:
+
+C.
+
+Holdover.	If	Licensee	shall	continue	to	use,	or	store	personal	property	in,	the	Premises at	the	termination	of	this	Agreement	or	expiration	of	the	Term	without	a	written	agreement,	such	use	shall	be deemed	 a	 month-to-month	 use	 under	 the	 same	 terms	 and	 conditions	 of	 this	 Agreement	 except	 that	 the monthly	 reimbursement	 shall	 be	 in	 the	 amount	 of	 150%	 of	 the	 monthly	 reimbursement	 (or	 such	 other amount	as	Licensor	and	Licensee	may	mutually	agree)	in	effect	at	the	expiration	of	this	Agreement	prorated to	the	date	Licensee	removes	its	personal	property	from	the	Building	and	completes	restoration	and	repair	of all	 damage,	 if	 any,	 resulting	 from	 the	 removal	 of	 such	 property.	 Nothing	 contained	 herein	 shall	 grant Licensee	the	right	to	holdover	after	the	Term	of	this	Agreement	(as	it	may	be	extended)	has	expired.
+
+D.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 57
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 16
+Number of chunks retrieved: 4
+Document 1:
+
+(vi)				Extension	Term	Adjustment.	The	Extension	Term	Initial	Monthly	Base	Rent	shall	be	subject	to
+
+adjustment	on	the	first	anniversary	of	the	commencement	date	of	the	Extension	Term	and	on	each	subsequent anniversary	of	that	date	during	the	Extension	Term	(each	an	“Adjustment	Date”)	as	provided	in	section	C.9.	of	the Information	Sheet.	At	the	time	of	the	commencement	date	of	the	Extension	Term,	Landlord	and	Tenant	shall	execute	an “Extension	Term	Commencement	Date	Memorandum”	in	the	form	attached	hereto	as	EXHIBIT	D,	unless,	at	that	time, Landlord	and	Tenant	decide	to	amend	the	Lease	in	other	ways,	in	which	event,	such	information	may	instead	be included	in	any	amendment	of	this	Lease.
+
+(vii)				Notice	to	Landlord	and	Tenant.	After	the	Extension	Term	Initial	Monthly	Rent	for	the	first
+****************************************************************************************************
+Document 2:
+
+9
+
+Brokers	are	given	to	set	the	Extension	Term	Initial	Monthly	Base	Rent;	provided,	however,	if	the	two	Broker’s	proposed Extension	Term	Initial	Monthly	Base	Rent	figures	are	ten	percent	(10%)	or	less	apart,	the	two	figures	shall	instead	be added	together	and	such	total	be	divided	by	two	to	determine	the	Extension	Term	Initial	Monthly	Base	Rent.	If	they	are unable	to	agree	on	the	third	Broker,	either	Landlord	or	Tenant,	by	delivering	ten	(10)	days’	notice	to	the	other	party, may	apply	to	the	then	Presiding	Judge	of	the	Superior	Court	of	the	County	for	the	selection	of	a	third	Broker	who	meets the	qualifications	stated	in	this	Paragraph.	Landlord	and	Tenant	each	shall	bear	one‑half	(1/2)	of	the	cost	of	appointing the	third	Broker	and	of	paying	the	third	Broker’s	fee.
+
+(v)				Value	Determined	by	Three	(3)	Brokers.	Within	thirty	(30)	days	after	the	selection	of	the	third
+****************************************************************************************************
+Document 3:
+
+(iii)				Landlord	and	Tenant	to	Seek	to	Agree.	Landlord	and	Tenant	shall	have	thirty	(30)	days	after
+
+Landlord	receives	the	Exercise	Notice	in	which	to	seek	to	agree	on	the	Extension	Term	Initial	Monthly	Base	Rent.	If Landlord	and	Tenant	agree	on	the	Extension	Term	Initial	Monthly	Base	Rent	during	such	thirty	(30)-day	period	(or	at any	time	thereafter),	they	immediately	shall	execute	an	amendment	to	this	Lease	confirming	the	Extension	Term	Initial Monthly	Base	Rent	as	so	agreed	as	the	monthly	Base	Rent	for	the	first	year	of	the	Extension	Term.
+
+(iv)				Selection	of	Brokers	to	determine	the	Extension	Term	Initial	Monthly	Base	Rent.	If
+****************************************************************************************************
+Document 4:
+
+E.				Option	To	Extend.
+
+(i)				Conditions	to	Exercise	of	Option.	Provided	that	Tenant	is	not	in	Default	under	this	Lease	at	the
+
+time	of	exercise	of	the	option	to	extend	or	at	the	commencement	of	the	extension	term,	Tenant	shall	have	the	right	to extend	the	Term	of	this	Lease	for	an	additional	period	of	three	years	(“Extension	Term”)	commencing	upon	April	1, 2019.
+
+(ii)				Notice	of	Exercise.	If	Tenant	elects	to	extend	this	Lease	for	the	Extension	Term,	Tenant	shall deliver	written	notice	(“Exercise	Notice”)	of	its	exercise	to	Landlord	not	earlier	than	270	days	prior	to	the	Expiration Date	of	the	initial	Term	of	this	Lease	and	not	less	than	180	days	prior	to	the	Expiration	Date	of	the	initial	Term	of	this Lease.	Tenant’s	failure	to	deliver	the	Exercise	Notice	in	a	timely	manner	shall	be	deemed	a	waiver	of	Tenant’s	right	to extend	the	Term	of	this	Lease.
+
+(iii)				Terms	of	the	Extension	Term.	The	delivery	of	an	Exercise	Notice	shall	constitute	an
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 72
+Number of chunks retrieved: 3
+Document 1:
+
+16) If	 the	 Lessee	 duly	 and	 punctually	 observes	 the	 covenants,	 agreements,	 conditions,	 and	 provisos	 in	 this	 Lease	 on	 the	 part	 of	 the	 Lessee	 to	 be observed	and	performed,	the	Lessor	shall	at	the	expiration	of	the	Term,	at	the	cost	of	the	Lessee	and	at	its	request	by	written	notice	delivered to	 the	 Lessor,	 in	 the	 manner	 provided	 in	 this	 Lease,	 not	 later	 than	 six	 (6)	 months	 prior	 to	 the	 expiration	 of	 the	 Term,	 grant	 to	 the	 Lessee	 a renewal	 lease	 of	 the	 Premises	 for	 two	 further	 terms	 of	 fix	 (5)	 years	 (the	 “Renewal	 Term”)	 from	 the	 expiration	 of	 the	 Term,	 upon	 all	 of	 the covenants,	agreements,	conditions,	and	provisos	contained	in	this	Lease	except	this	covenant	for	renewal	and	any	provisions	for	exclusive	use, bonuses,	leasehold	improvements,	or	inducement	and	except	the	Basic	Rent	(the	“Renewal	Term	Rent”)	to	be	paid	during	the	Renewal	Terms.
+****************************************************************************************************
+Document 2:
+
+bonuses,	leasehold	improvements,	or	inducement	and	except	the	Basic	Rent	(the	“Renewal	Term	Rent”)	to	be	paid	during	the	Renewal	Terms. The	Rent	for	the	Renewal	Terms	shall	be	the	prevailing	fair	market	rental	for	lands	of	similar	size,	quality,	use	and	location,	as	agreed	between the	parties,	and	failing	such	agreement,	as	determined	by	arbitration	pursuant	to	clause	42,	provided	however	that	during	the	Renewal	Term, the	Rent	shall	not	be	less	than	the	Rent	payable	in	the	last	month	of	the	expiring	term.
+****************************************************************************************************
+Document 3:
+
+Lessee;	 provided	 always	 that	 the	 rate	 of	 rent	 for	 any	 period	 of	 renewal	 shall	 not	 be	 less than	 the	 rate	 of	 rent	 for	 the	 preceding	 term.	 If	 the	 Lessor	 or	 Lessee	 neglects	 or	 refuses	 to	 name	 its	 arbitrator	 within	 the	 time	 hereinbefore limited	or	to	proceed	with	the	said	arbitrator,	then	the	arbitrator	named	by	the	other	party	will	proceed	to	fix	the	rate	of	rent	to	be	paid	for	the ensuing	term,	and	the	award	of	such	arbitrator	will	be	final	and	binding	on	both	the	Lessor	and	the	Lessee.	Such	arbitration	will	otherwise	be pursuant	to	the	provisions	of	the	Arbitration	Act,	R.S.B.C.	1996	Chapter	55	as	it	is	from	time	to	time	amended. Lessor’s	Expenses	Enforcing	Lease
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 6
+Number of chunks retrieved: 2
+Document 1:
+
+obligations	of	Lessee	and	the	Purchaser	upon	the	attornment,	to	the	extent	of	the	then	remaining	balance	of	the	term	of	this	Lease,	and	any	extensions	and	renewals, shall	be	and	are	the	same	as	those	set	forth	in	this	Lease.
+****************************************************************************************************
+Document 2:
+
+31.	RIGHTS	OF	MORTGAGEE:	If	the	interests	of	Lessor	under	this	Lease	shall	be	transferred	by	reason	of	foreclosure	or	other	proceedings	for	enforcement	of any	first	mortgage	on	the	leased	premises,	Lessee	shall	be	bound	to	the	transferee	(sometimes	called	the	"Purchaser")	under	the	terms,	covenants	and	conditions	of this	Lease	for	the	balance	of	the	term	remaining,	and	any	extensions	or	renewals,	with	the	same	force	and	effect	as	if	the	Purchaser	were	the	Lessor	under	this	Lease, and	Lessee	agrees	to	attorn	to	the	Purchaser,	including	the	mortgagee	under	any	such	mortgage,	if	it	be	the	Purchaser,	as	its	Lessor,	the	attornment	to	be	effective	and self-operative	without	the	execution	of	any	further	instruments	upon	the	Purchaser	succeeding	to	the	interest	of	Lessor	under	this	Lease.	The	respective	rights	and obligations	of	Lessee	and	the	Purchaser	upon	the	attornment,	to	the	extent	of	the	then	remaining	balance	of	the	term	of	this	Lease,	and	any	extensions	and	renewals,
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 83
+Number of chunks retrieved: 2
+Document 1:
+
+13.	TERMINATION.	TENANT	SHALL	GIVE	RH	NOT	LESS	THAT	THIRTY	(30)	DAYS	WRITTEN	NOTICE	OF	TENANT'S	INTENTION	TO	DISCONTI	NUE ITS	 TENANCY	 HEREUNDER	 PRIOR	 TO	 THE	 END	 OF	ANY	 TERM.	 If	 Tenant	 fails	 to	 provide	 such	 notice,	 Tenant's	 term	 shall	 automatically	 be	 renewed	 on	 a Month-to	Month	basis.	Any	renewal	shall	be	upon	the	same	terms,	conditions	and	provisions	as	in	this	Lease	except	that	the	rental	shall	be	increased	by	TEN	Percent (10%)	to	1.10	times	the	monthly	rental	which	was	in	effect	immediately	prior	to	such	renewal.	Said	notice	may	not	be	given	more	than	SIXTY	(60)	days	prior	to	the	end of	any	term.
+****************************************************************************************************
+Document 2:
+
+Lease	Schedule
+
+Office	Number
+
+214/15
+
+Number	of	Persons
+
+10
+
+Commencement	Date
+
+December	1,	2021
+
+Term	of	Lease
+
+5	Years
+
+Rent	214/215 Year	One	 Year	Two	 Year	Three	 Year	Four	 Year	Five
+
+$4,400.00/mo $4,800.00/mo $4,968.00/mo $5,142.00/mo $5,322.00/mo
+
+Marquis	and	Door	Sign
+
+$60.00
+
+Security	Deposit
+
+$4,400
+
+Total	Amount	Due
+
+$8,860.00
+
+1.	PREMISES.	RH	hereby	Leases	to	Tenant	and	Tenant	hereby	Leased	from	RH	the	premises	designated	above	herein.
+
+2.	TERM.	The	term	of	this	lease	shall	commence	on	the	date	set	forth	above	and	shall	continue	for	the	term	set	forth	above.	Such	term,	and	any	extension	given	with	the express	written	consent	of	RH,	is	hereafter	referred	to	as	“Term.”	If	RH	is	unable	to	deliver	possession	of	the	Premises	of	the	Tenant	at	the	commencement	date	of	the term,	Tenant	will	not	be	obligated	to	pay	the	basic	monthly	rate	as	defined	above	(the	“Rent”),	until	RH	delivers	possessions.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 49
+Number of chunks retrieved: 4
+Document 1:
+
+33 34
+
+36 37 38 39 40 41 42
+
+44
+
+45 46
+
+49 50
+
+52 53 54
+
+58 59
+
+61 62 63 64 65
+
+Returned	Check	Fee Other
+
+$											250																			for	any	returned	check. Describe:
+
+RENEWAL:	Provided	that	Tenant	is	not	in	default	in	the	performance	of	the	terms,	conditions	and/or covenants	of	this	Commercial	Lease,	Tenant	shall	have	the	option	to	extend	the	term	of	this	Commercial Lease	for	☐	one	additional	term	of	_____	years	or	☒		2		additional	terms	of		5			years, by	giving	written	notice	to	Landlord	not	later	than				120					days	prior	to	the	expiration	of	the	term or	renewal	term,	as	provided	above. COST	OF	LIVING	INCREASES:	The	monthly	rent,	as	set	out	above,	shall	be	increased	in	the	manner	and at	the	times	indicated	as	follows:
+
+☐	No	Increase
+
+☐	per	the	Costs	of	Living	Increase Paragraph	in	the	General	Terms,	to	be increase	every																				years
+****************************************************************************************************
+Document 2:
+
+The	following	rental	rates	shall	apply	for	the	initial	term:
+
+Year	1 Year	2 Year	3 Year	4 Year	5 Year	6 Year	7
+
+Annual Increase
+
+Annual	Lease 	 	 Monthly	Lease 	 9,450.00	 		 	 $ 9,450.00	 0.00%	 $ 9,450.00	 0.00%	 $ 9,450.00	 0.00%	 $ 9,922.50	 5.00%	 $ 10,418.63	 5.00%	 $ 10,939.56	 5.00%	 $
+
+113,400.00	 	 $ 113,400.00	 	 $ 113,400.00	 	 $ 113,400.00	 	 $ 119,070.00	 	 $ 125,023.50	 	 $ 131,274.68	 	 $
+
+2
+
+Provided,	however,	that	notwithstanding	the	foregoing,	Rent	shall	commence	upon	Lease	Commencement.
+
+The	Section	entitled	“Renewal”	is	hereby	revised	to	clarify	that	so	long	as	Tenant	is	not	in	default,	Tenant	is	granted	an	option	to	renew	this lease	 for	 two	 five	 (5)	 year	 periods	 (the	 “Renewal	 Term”);	 provided,	 however,	 that	 the	 rental	 rate	 for	 the	 Renewal	 Term(s)	 shall	 be renegotiated	prior	to	renewal.
+
+GENERAL	TERMS.	The	portion	of	the	Lease	entitled	“General	Terms”	is	hereby	amended	as	follows:
+****************************************************************************************************
+Document 3:
+
+paragraph	to	the	contrary,	if	more	than	75%	of	the	value	of	the	Leased	Property	is	at	any time	destroyed	or	the	Leased	Property	is	condemned,	then	Landlord	may	at	his	election and	upon	notice	to	Tenant	within	30	days	after	such	damage,	terminate	this	Commercial Lease	as	of	the	date	of	such	damage.
+
+any	part	thereof	after	the	expiration	of	the	term	of	this	Commercial	Lease,	unless	renewed as	provided	for	herein,	then,	and	unless	otherwise	agreed	in	writing,	such	holding	over shall	constitute	a	tenancy	from	month-to-month	only	and	shall	in	no	event	be	construed	as a	renewal	of	this	Commercial	Lease	and	all	provisions	of	this	Commercial	Lease,	not inconsistent	with	a	tenancy	from	month-to-month,	shall	remain	in	full	force	and	effect.
+****************************************************************************************************
+Document 4:
+
+RENEWALS:	Any	renewal	of	this	Commercial	Lease	permitted	under	the	Specific	Terms shall	be	on	the	same	terms	and	conditions	as	are	provided	this	Commercial	Lease	and	at the	same	rent	as	was	last	being	paid	by	Landlord,	prior	to	renewal,	being	further	subject to	all	Cost	of	Living	Adjustments	as	provided	for	herein.
+
+COST	OF	LIVING	INCREASES:	If	the	Cost	of	Living	Increases	is	selected	in	the	Specific Terms,	at	the	times	as	set	out	in	the	Specific	Terms	of	this	Commercial	Lease	the	Monthly Rent	shall	be	increased	to	reflect	any	increase	in	the	cost	of	living	based	upon	the	increase in	the	U.S.	Consumer	Price	Index	for	All	Urban	Consumers,	as	published	by	the	Bureau of	Labor	Statistics	for	the	metropolitan	area	closest	in	proximity	to	the	Leased	Property	(the “CPI”).	The	increase	shall	be	calculated	as	follows:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 86
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 95
+Number of chunks retrieved: 1
+Document 1:
+
+4. Lease	period.
+
+The	lease	commences	12	August	2021	and	expires	without	termination	on	11	August	2031.	If	the	premises	are	ready	for takeover	at	an	earlier	time,	the	lease	shall	commence	when	the	takeover	protocol	has	been	signed	by	the	Tenant.
+
+In	addition,	the	Tenant	is	entitled	to	extend	the	lease	with	an	additional	two	periods	of	5	years	on	the	same	terms.
+
+The	lease	period	will	automatically	be	extended	with	an	additional	lease	period	if	the	Tenant	does	not	provide	written notification	about	termination	no	later	than	6	months	prior	to	the	expiry	of	the	current	lease	period.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 20
+Number of chunks retrieved: 4
+Document 1:
+
+ARTICLE	I. Such	right	to	extend	the	Term	shall	be	exercised	by	the	giving	of	notice	by	Tenant	to	Landlord	at	least nine	(9)	months	prior	to	the	expiration	of	the	then	current	Term.	Upon	the	giving	of	such	notice,	this	Lease	and	the	Term hereof	shall	be	extended	for	an	additional	term	of	five	(5)years	without	the	necessity	for	the	execution	of	any	additional documents	except	a	document	evidencing	the	Annual	Fixed	Rent	for	the	Extension	Term	to	be
+
+5
+
+ACTIVE/103568117.9
+
+determined	as	set	forth	below.	Time	shall	be	of	the	essence	with	respect	to	the	Tenant’s	giving	notice	to	extend	the Term.
+
+The	Extension	Term	shall	be	upon	all	the	terms,	conditions	and	provisions	of	this	Lease	except	the Annual	Fixed	Rent	during	such	five	(5)	year	Extension	Term	shall	be	the	then	Extension	Fair	Rental	Value	of	the Premises	for	such	Extension	Term	to	be	determined	under	this	Section	2.6.
+
+(1)
+****************************************************************************************************
+Document 2:
+
+binding	upon	the	parties.	If	both	parties	receive	reports	within	such	time	and	the	lower	determination	is	within	ten percent	(10%)	of	the	higher	determination,	then	the	average	of	these	determinations	shall	be	deemed	to	be	the Extension	Fair	Rental	Value	for	the	Premises.	If	these	determinations	differ	by	more	than	ten	percent	(10%),	then the	Landlord	and	the	Tenant	shall	mutually	select	a	person	with	the	qualifications	stated	above	(the	“Final Professional”)	to	resolve	the	dispute	as	to	the	Extension	Fair	Rental	Value	for	the	Premises.	If	the	Landlord	and the	Tenant	cannot	agree	upon	the	designation	of	the	Final	Professional	within	ten	(10)	days	of	the	exchange	of	the first	valuation	reports,	either	party	may	apply	to	the	American	Arbitration	Association,	the	Greater	Boston	Real Estate	Board,	or	any	successor	thereto,	for	the	designation	of	a	Final	Professional.	Within	ten	(10)	days	of	the
+****************************************************************************************************
+Document 3:
+
+Tenant.	Each	party	shall	pay	the	fees	and	expenses	of	its	real	estate	professional	and	counsel,	if	any,	in	connection with	any	proceeding	under	this	paragraph,	and	one-half	of	the	fees	and	expenses	of	the	Final	Professional.	In	the event	that	the	commencement	of	the	Extension	Term	occurs	prior	to	a	final	determination	of	the	Extension	Term Fair	Rental	Value	therefor	(the	“Extension	Rent	Determination	Date”),	then	the	Tenant	shall	pay	the	Annual Fixed	Rent	at	the	then	applicable	Fixed	Rental	Rate	(such	amount	being	referred	to	as	the	“Interim	Rent”).	If	the Annual	Fixed	Rent	as	finally	determined	for	the	Extension	Term	is	determined	to	be	greater	than	the	Interim	Rent, then	the	Tenant	shall	pay	to	the	Landlord	the	amount	of	the	underpayment	for	the	period	from	the	end	of	the	initial term	of	this	Lease	until	the	Extension	Rent	Determination	Date	within	thirty	(30)	days	of	the	Extension	Rent
+****************************************************************************************************
+Document 4:
+
+term	of	this	Lease	until	the	Extension	Rent	Determination	Date	within	thirty	(30)	days	of	the	Extension	Rent Determination	Date.	If	the	Annual	Fixed	Rent	as	finally	determined	for	the	Extension	Term	is	determined	to	be	less than	the	Interim	Rent,	then	the	Landlord	shall	credit	the	amount	of	such	overpayment	against	the	monthly installments	of	Annual	Fixed	Rent	coming	due	after	the	Extension	Rent	Determination	Date.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 44
+Number of chunks retrieved: 3
+Document 1:
+
+1
+
+2.
+
+B.
+
+This	Lease	shall	automatically	renew	after	the	Initial	Term	in	five	(5)	year	terms	thereafter	(each,	a	“Renewal	Term”),	unless	either party	 gives	 written	 notice	 to	 the	 other	 party	 not	 less	 than	 one	 (1)	 year	 prior	 to	 the	 expiration	 of	 the	 Initial	 Term,	 or	 the	 Renewal Term,	of	that	party’s	election	to	not	renew	the	Lease.	The	Renewal	Term	shall	be	at	the	rental	set	forth	below	and	otherwise	upon the	 same	 covenants,	 conditions	 and	 provisions	 as	 provided	 in	 this	 Lease.	 The	 Initial	 Term	 and	 any	 Renewal	 Term	 (as	 hereinafter defined,	if	any),	shall	be	deemed	the	“Term”	hereunder.
+
+C.
+****************************************************************************************************
+Document 2:
+
+D.
+
+Landlord	may	terminate	this	Lease	after	the	Initial	Term	by	providing	written	notice	(the	“Termination	Notice”)	to	the	Tenant	at	least twelve	(12)	months	before	the	effective	termination	date	(the	date	of	termination	in	the	Termination	Notice,	the	“Termination	Date”). If	Landlord	terminates	this	Lease	under	this	paragraph,	then	Tenant	shall	have	the	option	under	Section	25	below.
+
+Rental.
+
+A.
+
+Tenant	 shall	 pay	 to	 Landlord	 during	 the	 Initial	 Term,	 base	 rent	 (“Base	 Rent”)	 of	 $219,989.16	 annually,	 payable	 in	 installments	 of $18,332.43	per	month.	Starting	January	1,	2025,	the	Base	Rent	rate	shall	be	increased	by	Landlord	three	percent	(3%)	annually.
+
+B.
+****************************************************************************************************
+Document 3:
+
+If	at	any	time	during	the	Term	of	this	Lease,	including	any	extensions	or	renewals	thereof,	Landlord	or	an	affiliate	of	Landlord	(collectively, the	“Landlord	Parties”	or	“Landlord	Party”)	receives	a	bona	fide	offer	(a	“Third	Party	Offer”)	from	a	third	party	(other	than	a	purchaser	making	a bid	at	any	sale	incidental	to	the	exercise	of	any	remedy	provided	for	in	any	mortgage	encumbering	the	Leased	Premises)	to	purchase	the	Leased Premises,	which	Third	Party	Offer	is	in	all	respects	acceptable	to	Landlord,	then	Landlord	shall	notify	Tenant	of	such	Third	Party	Offer	and	for	a period	of	sixty	(60)	days	after	such	notice	is	received	by	Tenant,	Tenant	shall	have	the	exclusive	right	to	accept	Landlord’s	offer	to	purchase	the Leased	Premises	upon	the	terms	and	conditions	the	same	as	or	substantially	similar	to	those	set	forth	in	the	Third	Party	Offer.	Tenant	shall	exercise
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 63
+Number of chunks retrieved: 2
+Document 1:
+
+2.	If	both	parties	fail	to	renew	the	contract	at	the	expiration	of	the	lease	term,	or	terminate	the	contract	in	advance	through	negotiation,	or Party	A	sends	a	notice	of	termination	to	Party	B	for	reasons	agreed	herein,	the	expiration	date	or	termination	(rescission)	date	of	the	lease	shall	be the	termination	date	of	the	contract.	Party	B	shall	pay	all	the	relevant	fees	and	move	out	of	the	premises	within	three	(3)	days	after	the	termination of	this	contract.	The	articles	left	in	the	premises	after	three	(3)	days	shall	be	regarded	as	party	B's	abandoned	articles	and	may	be	disposed	of	by Party	 A	 at	 its	 discretion.	 However,	 if	 the	 difference	 between	 the	 termination	 date	 and	 the	 date	 of	 termination	 is	 less	 than	 15	 days,	 party	 B	 shall extend	the	aforementioned	vacating	period	to	15	days	so	as	to	give	Party	B	a	reasonable	time	to	prepare	for	vacating	and	to	restore	the	original condition.	 Before	 the	 termination	 of	 the	 contract,	 Party	 B	 shall,	 as
+****************************************************************************************************
+Document 2:
+
+2.Upon	the	expiration	of	the	lease	term,	Party	A	has	the	right	to	take	back	the	leased	premises	and	the	facilities	and	equipment	(if	any),	and Party	 B	 will	 return	 them	 on	 schedule.	 If	 Party	 B	 intends	 to	 renew	 the	 lease,	 it	 shall	 give	 a	 written	 notice	 to	 Party	 A	 60	 (60)	 days	 prior	 to	 the expiration	of	the	lease	term	hereof	and	sign	a	new	lease	contract	with	Party	A's	consent.	Party	A	shall	have	the	priority	to	renew	the	lease	with Party	B	under	the	same	conditions	(including	but	not	limited	to	the	total	rent,	payment	method	and	payment	conditions).
+
+第	2	页	共	17	页
+
+Three:Rent	and	payment	method
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 50
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 89
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 41
+Number of chunks retrieved: 4
+Document 1:
+
+Landlord	grants	to	Tenant	an	option	(the	“Option”)	to	extend	the	Term	for	three	(3)	additional	year(s)	(the	“Extension”)	on	the	same	terms and	conditions	as	set	forth	in	the	Lease,	except	that	the	Monthly	Basic	Rent	shall	be	adjusted	on	the	first	day	of	the	Extension	(the	“Adjustment Date”)	to	the	“fair	rental	value”	of	the	Premises	on	the	Adjustment	Date	as	follows:
+****************************************************************************************************
+Document 2:
+
+3.	The	term	of	the	Lease	shall	expire	on	____________,	20	____.	There	are	____________	options	to	extend	the	Lease	term	for	a	total	period	of
+
+___________	years,	none	of	which	has	been	exercised.	There	are	no	options	to	expand	the	Premises.
+
+4.	The	Lease	has:	(Initial	one)
+
+(_______)	not	been	amended,	modified,	supplemented,	extended,	renewed	or	assigned.
+
+(_______)	 been	 amended,	 modified,	 supplemented,	 extended,	 renewed	 or	 assigned	 by	 the	 following	 described	 agreements,	 copies	 of	 which
+
+are	attached	hereto:
+
+___________________________________________________ ___________________________________________________
+
+5.	Tenant	has	accepted	and	is	now	in	possession	of	the	Premises.
+****************************************************************************************************
+Document 3:
+
+arithmetic	 average	 of	 the	 two	 of	 the	 three appraisals	which	are	closest	in	amount,	and	the	third	appraisal	shall	be	disregarded.	In	no	event,	however,	shall	the	then-existing	monthly	rent	ever be	reduced	by	reason	of	such	computation,	nor	shall	there	be	any	rent	concession	or	additional	tenant	improvement	allowance	for	the	Extension term.	 Landlord	 and	 Tenant	 shall	 instruct	 the	 appraiser(s)	 to	 complete	 their	 determination	 of	 the	 fair	 rental	 value	 not	 later	 than	 thirty	 (30)	 days before	the	Adjustment	Date.	If	the	fair	rental	value	is	not	determined	before	the	Adjustment	Date,	then	Tenant	shall	continue	to	pay	to	Landlord	the monthly	rent	in	effect	immediately	prior	to	such	Extension,	until	the	fair	rental	value	is	determined.	When	the	fair	rental	value	of	the	Premises	is determined,	 Landlord	 shall	 deliver	 notice	 of	 that	 amount	 to	 Tenant,	 and	 Tenant	 shall	 pay	 to	 Landlord,	 within	 ten	 (10)	 days	 after	 receipt	 of	 such
+****************************************************************************************************
+Document 4:
+
+The	Option	shall	be	exercised	only	by	written	unconditional	notice	received	by	Landlord	at	least	nine	(9)	months,	but	no	more	than	one	(1) year	 before	 expiration	 of	 the	 Term.	 If	 Landlord	 does	 not	 timely	 receive	 Tenant’s	 written	 unconditional	 notice	 of	 the	 exercise	 of	 the	 Option,	 the Option	 under	 this	 Rider	 shall	 immediately	 lapse,	 and	 there	 shall	 be	 no	 further	 right	 to	 extend	 the	 Term	 or	 to	 the	 Extension.	 The	 Option	 shall	 be exercisable	by	Tenant	on	the	express	condition	for	Landlord’s	benefit	that	Tenant	shall	not	be	in	default	either	at	the	time	of	the	exercise	of	the Option	or	at	the	commencement	of	the	Extension.	If	Tenant	timely	exercises	the	Option	under	this	Rider,	“Term”	shall	mean,	for	all	purposes	under the	Lease,	the	sum	of	(a)	the	Term,	as	defined	under	Subparagraph	1(m)	of	the	Lease,	plus	(b)	the	term	of	the	Extension	for	which	the	Option	has been	exercised.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 93
+Number of chunks retrieved: 2
+Document 1:
+
+B.
+
+OPTION	TO	RENEW.
+
+INITIAL	IF	APPLICABLE
+
+Landlord
+
+Tenant
+
+Tenant	may	renew	this	lease	for	____	additional	terms	of	____	years	each	by	giving	Landlord	a	written	notice	or intent	 to	 renew	 at	 least	 ____	 days	 prior	 to	 the	 expiration	 of	 the	 term	 that	 precedes	 each	 such	 renewal	 term.	 Each renewal	will	be	on	the	same	terms	and	condition	as	the	original	term,	except	the	rent	for	each	renewal	will	be	as follows: First	renewal	term:	$________	per	month Second	renewal	term:	$________	per	month Other:	____________________________________________________________
+
+C.
+
+SURRENDER.	Tenant	agrees	that	upon	termination	of	this	lease	it	will	surrender	and	deliver	the	premises	in	good and	 clean	 condition,	 except	 the	 effects	 of	 ordinary	 wear	 and	 tear	 and	 depreciation	 arising	 from	 lapse	 of	 time,	 or damage	without	fault	or	liability	of	Tenant.
+
+D.
+****************************************************************************************************
+Document 2:
+
+D.
+
+HOLDING	OVER.	Continued	possession	by	Tenant,	beyond	the	expiration	of	its	tenancy,	coupled	with	the	receipt of	the	specified	rental	by	the	Landlord	(and	absent	a	written	agreement	by	both	parties	for	an	extension	of	this	lease, or	for	a	new	lease)	shall	constitute	a	month	to	month	extension	of	the	lease.
+
+E.
+
+REMOVAL	OF	FIXTURES.	Tenant	may,	at	the	expiration	of	its	tenancy,	if	Tenant	is	not	in	default,	remove	any fixtures	 or	 equipment	 which	 Tenant	 has	 installed	 in	 the	 premises,	 providing	 Tenant	 repairs	 any	 and	 all	 damages caused	by	removal.
+
+9.	ASSIGNMENT	AND	SUBLETTING.	Any	assignment	of	this	lease	or	subletting	of	the	premises	or	any	part	thereof, without	the	Landlord’s	written	permission	shall,	at	the	option	of	the	Landlord,	make	the	rental	for	the	balance	of	the	lease	term due	and	payable	at	once.	Such	written	permission	shall	not	be	unreasonably	withheld.
+
+10.	REAL	ESTATE	TAXES.
+
+A.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 61
+Number of chunks retrieved: 3
+Document 1:
+
+Lessor	 and/or	 prospective tenants	for	damages,	including	lost	rentals,	storage	expenses,	and	attorney's	fees,	and	(5)	at	Lessor's	sole	option,	Lessee	may	extend	the	lease	term	for	a	period	of	one month	at	the	then	current	rental	rates	for	the	office	building,	as	reasonably	determined	by	Lessor,	by	hand	delivering	written	notice	to	Lessee	or	to	Lessee's	office	space while	 Lessee	 is	 holding	 over.	 	 Holdover	 rents	 shall	 be	 immediately	 due	 on	 a	 daily	 basis	 and	 delinquent	 without	 notice	 or	 demand;	 and	 the	 prior	 written	 notice	 and waiting	period	requirements	of	this	lease	shall	not	be	necessary	in	order	for	Lessor	to	exercise	remedies	thereunder.
+****************************************************************************************************
+Document 2:
+
+LEASE,	OR	(3)	RELEASE	LESSEE	FROM	ALL	OR	PART	OF	THIS	LEASE,	UNLESS	SUCH	ACTION	IS	IN	WRITING	AND	SIGNED	BY	BOTH	PARTIES	TO THIS	LEASE.		Multiple	lessees	shall	be	jointly	and	severally	liable	under	this	lease.		Notices,	requests,	or	agreements	to,	from,	or	with	one	of	multiple	lessees	shall	be deemed	to	be	to,	from,	or	with	all	such	Lessees.		Under	no	circumstances	shall	Lessor	or	Lessee	be	considered	an	agent	of	the	other.		Nonsubstantial	errors	in	space footage	calculations	shall	entitle	the	parties	to	correct	the	rental	figures	in	the	lease	and	adjust	rentals	previously	paid	to	present	Owner	accordingly,	but	not	to	terminate the	lease.		The	lease	shall	not	be	construed	against	either	party	more	or	less	favorably	by	reason	of	who	drafted	the	lease	or	changes	in	the	lease.		Texas	law	applies.		If any	 date	 of	 performance	 or	 exercise	 of	 a	 right	 ends	 on	 a	 Saturday,	 Sunday,	 or	 state	 holiday,	 such	 date	 shall	 be	 automatically	 extended	 through	 the	 next	 business
+****************************************************************************************************
+Document 3:
+
+27.1 If	Lessee	remains	in	possession	of	the	leased	premises	after	the	expiration	or	mutually-agreed	termination	date	of	the	lease,	without	the	execution	by	Lessor	and	Lessee of	a	new	lease	or	a	renewal	or	extension	of	the	lease,	then	(1)	Lessee	shall	be	deemed	to	be	occupying	the	leased	premises	as	a	tenant-at-sufferance	on	a	daily	basis, subject	to	all	obligations	of	the	lease,	(2)	Lessee	shall	pay	rent	for	the	entire	holdover	period	at	the	rate	of	150%	of	the	then-current	rental	rate	plus	150%	of	all	additional rent	 due	 hereunder,	 (3)	 Lessee	 shall	 be	 subject	 to	 all	 other	 remedies	 of	 Lessor	 as	 provided	 in	 paragraph	 19.1,	 (4)	 Lessee	 shall	 indemnify	 Lessor	 and/or	 prospective tenants	for	damages,	including	lost	rentals,	storage	expenses,	and	attorney's	fees,	and	(5)	at	Lessor's	sole	option,	Lessee	may	extend	the	lease	term	for	a	period	of	one
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 31
+Number of chunks retrieved: 4
+Document 1:
+
+20___.
+
+1.8 Expiration	 Date.	 	 The	 Term	 of	 the	 Lease	 will	 expire	 on	 _______________	 (unless
+
+sooner	terminated	or	extended	in	accordance	with	the	Lease).
+
+1.9 Options	to	Renew	or	Extend.		Tenant	has	no	option	to	renew	or	extend	the	Term of	the	Lease,	except	as	follows:	____________________	(if	none,	write	“None”).
+
+1.10 No	Default.		There	exists	no	breach,	default,	or	event	or	condition	which,	with the	giving	of	notice	or	the	passage	of	time	or	both,	would	constitute	a	breach	or default	 under	 the	 Agreements	 by	 Tenant	 or,	 to	 Tenant’s	 actual	 knowledge, Landlord,	 except	 as	 follows:	 __________________(if	 none,	 write	 “None”).	 	 Tenant has	 no	 existing	 claims,	 defenses	 or	 offsets	 against	 Rent	 due	 or	 to	 become	 due under	the	Lease,	except	as	follows:	__________________(if	none,	write	“None”).
+****************************************************************************************************
+Document 2:
+
+38. OPTION	TO	RENEW.
+
+A.
+
+Tenant	 shall	 have	 the	 right,	 at	 its	 election	 made	 in	 its	 sole	 discretion,	 to	 extend	 the Term	(the	“Renewal	Option”)	for	the	additional	periods	set	forth	in	Section	1.F	(each, a	“Renewal	Term”),	provided	that	each	of	the	following	occurs:
+
+1.
+
+Landlord	 receives	 irrevocable	 written	 notice	 of	 exercise	 of	 the	 Renewal	 Option	 (the “Renewal	Notice”),	not	less	than	twelve	(12)	full	months	prior	to	the	expiration	of	the then	existing	Term	(or	Renewal	Term,	as	case	may	be);	and
+
+2.
+
+There	is	no	uncured	Event	of	Default	beyond	any	applicable	notice	and	cure	period	at the	time	that	Tenant	delivers	the	Renewal	Notice.
+
+B.
+****************************************************************************************************
+Document 3:
+
+The	 Renewal	 Term	 shall	 be	 upon	 the	 same	 terms	 and	 conditions	 as	 in	 this	 Lease except:		(i)	Base	Rent	for	the	initial	three	(3)	additional	periods	of	five	(5)	years	each shall	be	as	set	forth	in	Exhibit	A	attached	hereto	and	made	a	part	hereof;	and	(ii)	for the	 remaining	 three	 (3)	 additional	 periods	 of	 five	 (5)	 years	 each,	 Base	 Rent	 for	 the first	 year	 of	 the	 applicable	 Renewal	 Term	 shall	 be	 equal	 to	 the	 greater	 of	 (a)	 one hundred	 and	 two	 percent	 (102%)	 of	 the	 Base	 Rent	 for	 the	 immediately	 preceding lease	 year,	 and	 (b)	 the	 then	 Market	 Rate	 for	 the	 Premises,	 and	 thereafter	 the	 Base Rent	 shall	 increase	 by	 two	 percent	 (2%)	 annually	 during	 each	 such	 Renewal	 Term. “Market	Rate”	for	the	Premises	shall	mean	the	Base	Rent	rate	(including	escalations) that	the	Premises	would	be	expected	to	be	leased	for,	for	a	term	commencing	on	the applicable	 commencement	 date	 and	 ending	 on	 the	 applicable	 expiration	 date,
+****************************************************************************************************
+Document 4:
+
+C. Within	forty-five	(45)	days	after	receipt	of	the	Renewal	Notice,	Landlord	shall	advise Tenant	 of	 Landlord’s	 determination	 of	 the	 Market	 Rate	 for	 the	 applicable	 Renewal Term.	 	 Tenant,	 within	 thirty	 (30)	 days	 after	 the	 date	 on	 which	 Landlord	 advises Tenant	 of	 the	 applicable	 Market	 Rate	 for	 the	 Renewal	 Term,	 shall	 either	 (i)	 give Landlord	 final	 binding	 written	 notice	 (the	 “Binding	 Notice”)	 of	 Tenant’s	 exercise	 of the	Renewal	Option,	or	(ii)	if	Tenant	disagrees	with	Landlord’s	determination,	provide Landlord	 with	 written	 notice	 of	 rejection	 (the	 “Rejection	 Notice”).	 	 If	 Tenant	 fails	 to provide	Landlord	with	either	a	Binding	Notice	or	Rejection	Notice	within	such	forty- five	(45)	day	period,	Tenant’s	Renewal	Option	shall	be	null	and	void	and	of	no	further force	 and	 effect.	 	 If	 Tenant	 provides	 Landlord	 with	 a	 Binding	 Notice,	 Landlord	 and
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 2
+Number of chunks retrieved: 3
+Document 1:
+
+renewal/extension	of	such	approval(s)	from	the	concerned	authorities.
+
+c) Each	Party	to	this	Lease	Agreement	shall	continue	to	maintain	in	full	force	and	effect	consents,	approvals,	and	other	authorizations	necessary	for
+
+the	performance	of	that	party’s	obligations	under	this	Lease	Agreement	or	for	the	validity	or	enforceability	of	the	Lease	Agreement.
+
+15. TERMINATION:
+
+a)
+
+The	Parties	acknowledge	and	agree	that	the	lease	is	not	terminable	by	the	LESSOR	before	expiry	of	the	Lease	Term	unless	there	is	a	material
+
+breach	on	the	part	of	the	LESSEE	in	complying	with	the	terms	of	this	Lease	Agreement,	in	which	case	the	LESSOR	shall	give	6	(six)	months
+
+prior	notice	in	writing	to	the	LESSEE	to	rectify	any	such	breach.	In	the	event	of	failure	on	the	part	of	the	LESSEE	to	rectify	the	breach	within	the
+
+period	of	6	(six)	months,	the	LESSOR	shall	have	the	right	to	terminate	this	Lease	Agreement	by	giving	3	(three)	months’	prior	written	notice	to
+****************************************************************************************************
+Document 2:
+
+mutual	discussion	provided	that	removal	can	be	accomplished	without	any	material	damage	to	the	DEMISED	PREMISES.
+
+d) Upon	expiry	of	the	Lease	Term	(unless	the	same	is	renewed),	the	LESSEE	will	hand	over	the	possession	of	the	DEMISED	PREMISES	to	the
+
+LESSOR.
+
+11. HOLD	OVER:
+
+Notwithstanding	 anything	 contained	 elsewhere	 in	 this	 Lease	 Agreement,	 in	 the	 event	 that	 the	 parties	 are	 unable	 to	 agree	 on	 the	 terms	 and
+
+conditions	in	relation	to	an	extension	of	the	Lease	Term	then	if	the	LESSEE	should	be	desirous	of	continuing	to	occupy	the	DEMISED	PREMISES
+
+upon	the	expiry	of	the	Lease	Term,	the	LESSORS	shall,	on	the	written	request	of	the	LESSEE	before	the	Expiration	Date	of	the	Lease	Term,	allow
+
+the	LESSEE	to	continue	occupying	the	DEMISED	PREMISES	for	a	further	period	of	up	to	3	(Three)	months	after	the	Expiration	Date	at	the	same
+
+prevailing	Rent	and	upon	the	same	terms	and	conditions	as	this	Lease	Agreement.
+
+12. BILLS	AND	UTILITIES:
+****************************************************************************************************
+Document 3:
+
+b)
+
+In	the	event	of	extension	of	the	Lease	period	by	mutual	agreement,	the	Advance	Rent,	Rent,	Service	Charge	and	other	terms	and	conditions shall	 be	 reviewed,	 re-fixed	 and	 decided	 on	 the	 basis	 of	 market	 rates	 for	 the	 lease	 of	 commercial	 spaces	 of	 adjacent	 areas	 of	 the	Tejgaon- Gulshan	link	Road,	Dhaka-1208	on	mutual	understanding.
+
+c) For	the	purposes	of	extending	the	Lease	Term,	the	Parties	shall	initiate	the	discussions	6	(six)	months	prior	to	the	expiry	of	the	Lease	Term	or
+
+any	extended	Lease	Term;	as	applicable.
+
+2. RENT:
+
+a) Commencing	on	the	Commencement	Date	and	continuing	up	to	the	Expiration	Date,	the	LESSEE	agrees	to	pay	the	LESSOR	monthly	rent	for the	DEMISED	PREMISES	(the	“Rent”)	in	the	following	amounts	and	for	the	following	periods,	beginning	either	on	the	date	set	forth	below	or the	date	LESSOR	delivers	possession	of	the	DEMISED	PREMISES.
+
+Page 1 of 28
+
+Exhibit 10.41
+
+Floor	17
+
+Handover	Date
+
+Rent Effective	Date 1	April	2024 to 31	March	2026
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 58
+Number of chunks retrieved: 3
+Document 1:
+
+2.	Party	B	shall	return	the	leased	house	within	five	working	days	after	the	termination	of	the	contract	upon	the	expiration
+
+of	the	lease	term.
+
+3.	If	Party	B	intends	to	continue	the	lease,	it	should	submit	a	written	request	for	renewal	to	Party	A	90	days	in	advance and	re-sign	the	lease	contract	after	consultation	with	Party	A	upon	the	expiration	of	the	lease	term.	If	Party	A	repossesses	the house	and	rents	it	to	others,	Party	B	shall	enjoy	the	priority	right	to	rent	under	the	same	conditions.	Party	B's	right	to	renew	the lease	shall	be	regarded	as	abandoned	if	Party	B	fails	to	submit	a	written	request	to	Party	A	for	renewal	of	the	lease	within	the aforementioned	period	and	fails	to	sign	a	new	lease	contract	within	one	month	before	the	expiration	of	this	contract	due	to	Party B's	cause.	In	such	case,	Party	A	shall	have	the	right	to	rent	the	leased	house	agreed	under	this	contract	to	any	third	party. Article	V	House	Rent,	Security	Deposit	and	Payment	Method
+****************************************************************************************************
+Document 2:
+
+4.	Party	B	shall	not	use	Party	A's	name	or	its	public	logo	without	the	special	written	permission	of	Party	A.
+
+Article	IV	Lease	Term
+
+1.	 The	 lease	 term	 of	 the	 house	 is	 4.5	 lease	 years	 (12	 months	 as	 one	 year),	 i.e.	 the	 lease	 term	 starts	 from	 September	 1,
+
+2021	and	ends	on	February	28,	2026.
+
+2.	Party	B	shall	return	the	leased	house	within	five	working	days	after	the	termination	of	the	contract	upon	the	expiration
+
+of	the	lease	term.
+****************************************************************************************************
+Document 3:
+
+9
+
+Contract	No.:	AYH-YBJZ-ZLHT-2021-01
+
+(5)	Party	B	shall	properly	transact	the	cancellation	or	change	procedures	of	industry	and	commerce,	water	and	electricity, etc.	 with	 the	 house	 as	 registered	 address	 or	 business	 address	 upon	 the	 expiry	 of	 lease	 term	 of	 this	 contract	 or	 within	 30	 days after	this	contract	is	rescinded,	revoked	or	void	as	confirmed.	Otherwise,	Party	B	shall	pay	0.5‰	of	the	contract	price	that	year to	Party	A	as	liquidated	damages	for	every	overdue	day.
+
+Article	9	Sublease,	transfer	and	exchange
+
+1.	Within	the	lease	term,	Party	B	shall	not	sublease	the	house.
+
+2.	 Within	 the	 lease	 period,	 if	 the	 house	 ownership	 changes,	 Party	 A	 shall	 undertake	 that	 the	 transfer	 of	 property	 right doesn't	affect	the	validity	of	this	lease	contract	concluded	and	signed	with	Party	B	and	is	obliged	to	notify	the	new	house	owner of	the	lease	fact.
+
+Article	10	Cancellation	and	termination	of	contract
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 7
+Number of chunks retrieved: 2
+Document 1:
+
+Tenant	provides	notice	to	Landlord	at	least	nine	(9)	months	prior	to	the	termination	of	the	Lease	that	Tenant	desires	to	hold	over	(the	“Holdover	Notice”).	Tenant	shall	 be	entitled	to	hold	over	for	a	period	of	up	to	ninety	(90)	days	following	the	date	of	termination	of	this	Lease	(the	“Permitted	Holdover	Period”)	whereupon	Tenant	 shall	pay,	in	addition	to	other	Rent,	Basic	Rent	equal	to	125%	of	the	Basic	Rent	payable	during	the	last	month	of	the	Term	(the	“Initial	Holdover	Rent”).	Tenant’s	 delivery	of	the	Holdover	Notice	shall	be	irrevocable,	and	upon	the	termination	of	the	initial	Term.	Tenant	shall	be	obligated	to	pay	to	Landlord	the	Initial	Holdover	Rent	 for	the	entirety	of	the	Permitted	Holdover	Period,	regardless	of	whether	Tenant	vacates	the	Premises	prior	to	the	expiration	of	the	Permitted	Holdover	Period,	which	 amount	stall	be	payable	on	a	monthly	basis	on	or	before	the	first	day	of	each	month
+
+LEASE	AGREEMENT	(INDUSTRIAL)	-	Page	16
+****************************************************************************************************
+Document 2:
+
+23.										Holding	Over.	Provided	that	(a)	Tenant	does	not	elect	to	exercise	any	of	the	Renewal	Options	which	may	be	granted	to	Tenant	hereunder,	and	(b)
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 24
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 71
+Number of chunks retrieved: 4
+Document 1:
+
+14) If	 the	 Lessee	 duly	 and	 punctually	 observes	 the	 covenants,	 agreements,	 conditions,	 and	 provisos	 in	 this	 Lease	 on	 the	 part	 of	 the	 Lessee	 to	 be observed	and	performed,	the	Lessor	shall	at	the	expiration	of	the	Term,	at	the	cost	of	the	Lessee	and	at	its	request	by	written	notice	delivered to	 the	 Lessor,	 in	 the	 manner	 provided	 in	 this	 Lease,	 not	 later	 than	 six	 (6)	 months	 prior	 to	 the	 expiration	 of	 the	 Term,	 grant	 to	 the	 Lessee	 a renewal	 lease	 of	 the	 Premises	 for	 two	 further	 terms	 of	 fix	 (5)	 years	 (the	 “Renewal	 Term”)	 from	 the	 expiration	 of	 the	 Term,	 upon	 all	 of	 the covenants,	agreements,	conditions,	and	provisos	contained	in	this	Lease	except	this	covenant	for	renewal	and	any	provisions	for	exclusive	use, bonuses,	leasehold	improvements,	or	inducement	and	except	the	Basic	Rent	(the	“Renewal	Term	Rent”)	to	be	paid	during	the	Renewal	Terms.
+****************************************************************************************************
+Document 2:
+
+Lessee;	 provided	 always	 that	 the	 rate	 of	 rent	 for	 any	 period	 of	 renewal	 shall	 not	 be	 less than	 the	 rate	 of	 rent	 for	 the	 preceding	 term.	 If	 the	 Lessor	 or	 Lessee	 neglects	 or	 refuses	 to	 name	 its	 arbitrator	 within	 the	 time	 hereinbefore limited	or	to	proceed	with	the	said	arbitrator,	then	the	arbitrator	named	by	the	other	party	will	proceed	to	fix	the	rate	of	rent	to	be	paid	for	the ensuing	term,	and	the	award	of	such	arbitrator	will	be	final	and	binding	on	both	the	Lessor	and	the	Lessee.	Such	arbitration	will	otherwise	be pursuant	to	the	provisions	of	the	Arbitration	Act,	R.S.B.C.	1996	Chapter	55	as	it	is	from	time	to	time	amended. Lessor’s	Expenses	Enforcing	Lease
+****************************************************************************************************
+Document 3:
+
+bonuses,	leasehold	improvements,	or	inducement	and	except	the	Basic	Rent	(the	“Renewal	Term	Rent”)	to	be	paid	during	the	Renewal	Terms. The	Rent	for	the	Renewal	Terms	shall	be	the	prevailing	fair	market	rental	for	lands	of	similar	size,	quality,	use	and	location,	as	agreed	between the	parties,	and	failing	such	agreement,	as	determined	by	arbitration	pursuant	to	clause	40,	provided	however	that	during	the	Renewal	Term, the	Rent	shall	not	be	less	than	the	Rent	payable	in	the	last	month	of	the	expiring	term.
+****************************************************************************************************
+Document 4:
+
+40) In	the	event	that	the	Lessee	does	not	accept	the	Lessor’s	rental	demand	for	the	term	of	renewal,	then	the	said	rate	of	rent	will	be	determined	by the	 award	 of	 three	 arbitrators	 or	 a	 majority	 of	 them,	 one	 to	 be	 named	 by	 Lessor	 and	 one	 by	 the	 Lessee	 at	 least	 SIXTY	 (60)	 days	 before	 the expiration	of	the	term	hereby	granted	and	the	two	arbitrators	thus	chosen	will	within	SEVEN	(7)	days	after	their	appointments	select	a	third arbitrator,	and	their	award	or	the	award	of	the	majority	of	them	will	be	made	not	later	than	FORTY	(40)	days	before	the	commencement	of	the renewal	term.	But	in	the	determining	of	the	rent	aforesaid,	the	arbitrators	will	exclude	from	the	calculations	made	in	such	determination	the value	 of	 improvements	 made	 to	 the	 Premises	 by	 the	 Lessee;	 provided	 always	 that	 the	 rate	 of	 rent	 for	 any	 period	 of	 renewal	 shall	 not	 be	 less than	 the	 rate	 of	 rent	 for	 the	 preceding	 term.	 If	 the	 Lessor	 or	 Lessee	 neglects
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 56
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 98
+Number of chunks retrieved: 3
+Document 1:
+
+Article	11	Sublet	and	Renewal 11.1	Party	A	shall	not	sublet,	lend,	sublease	or	exchange	this	Premise	with	others	at	will	by	any	means	within	the	whole	term	of	this	Contract. 11.2	If	Party	A	decides	to	lease	this	Premise	continuously	after	the	expiration	of	this	Contract,	it	shall	apply	to	Party	B	for	renewal	in	writing	three	months	prior	to expiration	at	least,	on	the	basis	that	it	pays	rent,	management	fees	and	other	expenses	in	time	and	abides	by	and	performs	all	the	terms	contained	herein.	Party	A	has	the priority	of	lease	under	equivalent	conditions.	Where	both	parties	reach	a	consensus	on	renewal	of	this	Contract,	they	shall	sign	a	new	house	lease	contract;	otherwise, Party	A	is	seen	to	waive	the	right	of	renewal.	Party	B	can	rent	out	this	Premise	to	others. 11.3	If	Party	A	does	not	renew	this	Contract	with	Party	B	but	refuses	to	move	out	of	this	Premise	in	due	time	after	the	term	of	lease	expires,	Party	B	can	ask	for	rent
+****************************************************************************************************
+Document 2:
+
+11.3	If	Party	A	does	not	renew	this	Contract	with	Party	B	but	refuses	to	move	out	of	this	Premise	in	due	time	after	the	term	of	lease	expires,	Party	B	can	ask	for	rent which	is	three	times	of	the	original	rent	in	the	overdue	period	and	Party	A	shall	pay	it	off	within	three	days. 11.4	Party	B	can	view	this	Premise	within	two	months	prior	to	the	expiration	of	term	of	lease	together	with	any	third	party.	In	such	case,	Party	B	shall	inform	Party	A	in advance	and	Party	A	shall	provide	necessary	assistance.
+****************************************************************************************************
+Document 3:
+
+1.3	Where	Party	A	applies	to	relevant	government	organs	for	changing	the	enterprise	name,	legal	representative,	enterprise	nature	or	investor	in	term	of	lease,	Party	A shall	deal	with	these	matters	without	affecting	the	validity	of	this	Contract	and	report	to	Party	B	for	filing	within	three	days	after	the	announcement	of	the	information change.	If	necessary,	both	parties	shall	sign	a	new	House	Lease	Contract.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+

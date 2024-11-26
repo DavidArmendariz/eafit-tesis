@@ -25,7 +25,7 @@ Lease,Answer,Real answer,Correct
 29,True,1.0,1
 67,True,1.0,1
 12,True,1.0,1
-45,False,0.0,1
+45,True,0.0,0
 17,True,1.0,1
 55,False,0.0,1
 25,True,1.0,1
@@ -65,3 +65,5 @@ Lease,Answer,Real answer,Correct
 7,False,1.0,0
 24,False,0.0,1
 71,True,1.0,1
+56,False,0.0,1
+98,True,1.0,1
