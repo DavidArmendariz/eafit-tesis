@@ -1,0 +1,788 @@
+Chunks for lease 81
+Number of chunks retrieved: 2
+Document 1:
+
+SECTION	9.	DEFAULTS	AND	REMEDIES
+
+9.1				Upon	the	occurrence	of	any	failure	of	Lessee	to	duly	observe	or	perform	any	of	its	obligations	hereunder,	and	at	any	time thereafter	 so	 long	 as	 the	 same	 shall	 be	 continuing,	 Lessor	 may,	 at	 its	 option,	 declare	 in	 writing	 to	 the	 Lessee	 that	 this Agreement	 is	 in	 default;	 and	 at	 any	 time	 thereafter,	 so	 long	 as	 Lessee	 shall	 not	 have	 remedied	 the	 outstanding	 default, Lessor	may	cancel,	terminate,	or	rescind	this	Agreement.
+
+SECTION	10.	NOTICES
+****************************************************************************************************
+Document 2:
+
+manner	to	the	operation,	maintenance,	or	use	of	the	Aircraft	by	Lessee	under	this	Agreement.
+
+SECTION	6.	RETURN	OF	AIRCRAFT
+
+6.1				Return.	On	the	last	day	of	the	Term	or	the	date	of	earlier	termination	hereof,	Lessee	shall	return	the	Aircraft	to	Lessor	by delivering	the	same	at	Lessee's	expense	to	Lessor	at	the	Operating	Base	or	such	other	location	within	the	48	contiguous United	States	as	Lessor	may	designate,	fully	equipped	with	all	Engines	and	Parts	installed	thereon.
+
+6.2	 	 	 	 Condition	 of	 Aircraft.	 The	 Aircraft,	 at	 the	 time	 of	 its	 return	 to	 Lessor,	 shall	 have,	 and	 be	 in	 compliance	 with,	 a	 current valid	certificate	of	airworthiness	issued	by	the	FAA,	and	shall	be	airworthy	according	to	manufacturer's	specifications	and FAA	regulations,	shall	have	been	maintained	and	repaired	in	accordance	with	the	provisions	of	this	Agreement,	and	shall be	in	the	same	condition	as	it	was	in	on	the	Effective	Date	of	this	Agreement,	ordinary	wear	and	tear	excepted.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 60
+Number of chunks retrieved: 4
+Document 1:
+
+Termination
+
+17) This	Lease	may	be	terminated	in	the	following	ways:
+
+a)
+
+upon	written	agreement	of	both	Lessor	and	Lessee	to	terminate	this	Lease;
+
+b)
+
+the	Lessee	gives	the	Lessor	30	days	advance	written	notice	that	the	Lessee	wishes	to	terminate	this	Lease,	notwithstanding	rent	will	be	payable	to	the	nearest	5 year	anniversary	of	the	lease;
+
+c)
+
+the	Lessee	does	not	pay	Rent	when	due	and	the	Lessor	gives	the	Lessee	written	notice	of	an	intention	to	terminate	this	Lease	for	non-payment	of	Rent,	unless the	Lessee	pays	the	outstanding	Rent	in	full	within	30	days	of	receipt	of	the	notice,	in	which	case	this	Lease	remains	in	force;
+
+d)
+
+any	party	 to	 this	 Lease	 gives	 the	 opposing	 party	 written	 notice	 of	 the	 opposing	 party’s	non-performance	 of	 one	 or	 more	 of	 the	 covenants	 contained	 in	 this Lease,	specifying	the	instance(s)	of	non-performance,	and	the	opposing	party	does	not
+
+i)
+
+contest	the	notice	by	initiating	dispute	resolution	pursuant	to	this	Lease,	or
+
+ii)
+****************************************************************************************************
+Document 2:
+
+i)
+
+contest	the	notice	by	initiating	dispute	resolution	pursuant	to	this	Lease,	or
+
+ii)
+
+correct	the	non-performance;
+
+e)
+
+the	Lessee	becomes	insolvent	or	bankrupt	and	takes	the	benefit	of	any	act	that	may	be	in	force	for	bankrupt	or	insolvent	debtors;
+
+f)
+
+any	of	the	Lessee’s	property	on	the	Lands	is	seized	or	taken	in	execution	or	attachment	by	any	creditor	of	the	Lessee;	or
+
+g)
+
+the	Lessee	makes	an	assignment	for	the	benefit	of	his	creditors.
+
+18) If	the	Lessor	terminates	this	Lease	in	accordance	to	subclause	17	b)	or	17	c)	then	the	Lessor	must	notify	the	Lessee	of	the	termination,	after	which	the	Lessor	may immediately:
+
+a)
+
+take	possession	of	the	Lands	or	any	part	thereof;	and
+
+b)
+
+subject	to	clause	22,	remove	all	persons	and	property	from	the	Lands,	if	the	Lessee	does	not	do	so.
+
+Overholding
+****************************************************************************************************
+Document 3:
+
+16) If	the	Lessee	duly	and	punctually	observes	the	covenants,	agreements,	conditions,	and	provisos	in	this	Lease	on	the	part	of	the	Lessee	to	be	observed	and	performed, the	Lessor	shall	at	the	expiration	of	the	Term,	at	the	cost	of	the	Lessee	and	at	its	request	by	written	notice	 delivered	to	the	Lessor,	in	the	manner	provided	in	this Lease,	not	later	than	six	(6)	months	prior	to	the	expiration	of	the	Term,	grant	to	the	Lessee	a	renewal	lease	of	the	Premises	 for	two	further	terms	of	fix	(5)	years	(the “Renewal	Term”)	from	the	expiration	 of	the	Term,	upon	all	of	the	covenants,	agreements,	conditions,	and	provisos	contained	in	 this	Lease	except	this	covenant	for renewal	and	any	provisions	for	exclusive	use,	bonuses,	leasehold	improvements,	or	inducement	and	except	the	Basic	Rent	(the	“Renewal	Term	 Rent”)	to	be	paid during	the	Renewal	Terms.	The	Rent	for	the	Renewal	Terms	shall	be	 the	prevailing	fair	market	rental	for	lands	of	similar	size,	quality,	use	and	location,	as	agreed
+****************************************************************************************************
+Document 4:
+
+a)
+
+take	possession	of	the	Lands	or	any	part	thereof;	and
+
+b)
+
+subject	to	clause	22,	remove	all	persons	and	property	from	the	Lands,	if	the	Lessee	does	not	do	so.
+
+Overholding
+
+19) If,	following	the	expiry	of	the	term	of	this	Lease,	the	Lessee	continues	to	occupy	the	Lands	and	the	Lessor	continues	to	accept	Rent,	the	new	tenancy	created	is deemed	to	be	a	monthly	tenancy	subject	to	all	the	provisions	of	this	Lease	insofar	as	those	provisions	apply	to	a	tenancy	from	month	to	month.
+
+Ownership	and	Transfer
+
+20) The	Lessee	owns	all	personal	property	improvements	(chattels)	brought	or	made	on	the	Lands	at	the	Lessee’s	expense	or	on	the	Lessee’s	behalf	during	the	period	of time	covered	by	this	Lease.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 48
+Number of chunks retrieved: 3
+Document 1:
+
+18. Landlords'	Remedies.	In	the	event	of	a	Tenant's	Default,	Landlord	shall	have	the	right	to	terminate	this	Lease	or
+
+terminate	Tenant's	right	to	possession.	Upon	receipt	of	a	notice	of	termination	Tenant	shall	immediately	surrender	the Premises	to	Landlord.	If	Tenant	fails	to	surrender	the	Premises,	Landlord	may	enter	upon	and
+
+4
+****************************************************************************************************
+Document 2:
+
+collect	any	rent.	In	lieu	of	determining	damages	as	described	above,	Landlord	may	elect	to	receive	as	damages	the	sum	of	a) all	rent	accrued	through	the	date	of	termination	of	this	Lease	or	of	Tenants'	right	to	possession,	and	b)	an	amount	equal	to	the total	Rent	that	Tenant	would	have	been	required	to	pay	for	the	remainder	of	the	Term	discounted	to	present	value,	minus	the then	present	fair	rental	value	of	the	Premises	for	the	remainder	of	the	Term,	comparably	discounted,	after	deducting	all anticipated	costs	of	reletting.	If	Tenant	is	in	default	of	any	of	the	non-financial	duties	under	the	Lease,	Landlord	shall	have	the right	to	perform	such	duties.	Upon	demand,	tenant	shall	reimburse	Landlord	for	the	cost	of	such	performance	plus	an administrative	fee	equal	to	ten	percent	(10%)	of	the	cost	of	the	work	performed.	Termination	of	Tenant's	Lease	or	right	to possession	or	Landlord's	entry	on	all	or	part	of	the	Premises	shall	not	relieve	Tenant	of	its	duties	and	liabilities	under	the
+****************************************************************************************************
+Document 3:
+
+property	and	surrender	the	Premises	to	Landlord	in	good	order	and	in	"broom	clean"	condition,	ordinary	wear	and	tear	and damage	excepted,	removing,	as	requested	by	Landlord,	any	improvements	or	alterations	made	by	Tenant.	If	tenant	fails	to remove	any	of	Tenant's	personal	property	within	two	(2)	business	days	after	termination,	Landlord	shall	not	be	responsible	for the	safekeeping	or	preservation	of	Tenant's	personal	property.	Tenant	shall	pay	Landlord,	upon	demand,	all	costs	of	storage. If	Tenant	fails	to	remove	Tenant's	personal	property	from	the	Premises	or	from	storage	with	thirty	(30)	days	after	delivery	of notice,	Landlord	may	deem	all	or	any	part	of	Tenant's	Property	to	be	abandoned	and	title	to	that	property	shall	vest	in Landlord.	If	tenant	fails	to	remove	any	of	the	alternations	or	improvements	made	by	tenant	by	the	Termination	date	and complete	related	repairs	in	a	timely	manner,	Landlord	my	perform	such	work	at	Tenant's	expense.	If	Tenant	fails	to	surrender
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 100
+Number of chunks retrieved: 2
+Document 1:
+
+4.	TERMINATION	WITHOUT	NOTICE.	If	the	Lessee	fails	to	pay	rent	within	30	days	after	receipt	of	written	notice	requiring	its	payment,	stating	the	amount which	is	due,	or	where	Lessee	continues	in	possession	of	the	premises	after	a	neglect	or	failure	to	perform	other	conditions	or	covenants	of	this	Agreement,	and	30	days’ notice	in	writing,	requiring	the	performance	of	such	conditions	or	covenants	has	been	served	upon	it,	then	Lessee	is	guilty	of	unlawful	detainer,	and	this	lease	is	thereby terminated.	Thereafter,	upon	30	days’	written	notice	to	Lessee	to	vacate	the	premises,	Lessor	shall	be	entitled	to	possession	of	the	premises,	and	may	immediately	pursue any	remedy	for	possession	without	further	notice.
+
+1-
+****************************************************************************************************
+Document 2:
+
+1.	RENT.	The	Lessee	agrees	to	pay	Thirteen	Thousand	Dollars	($13,000.00)	per	month	in	advance	commencing	August	7,	2013.	Lessee	agrees	to	pay	Thirteen
+
+Thousand	Dollars	($13,000.00)	per	month	on	or	before	the	7th	day	of	each	month	thereafter	during	the	term	of	this	Lease.
+
+2.	UTILITIES.	Lessee	shall	pay	all	utilities.
+
+3.	DEFAULT.	If	the	Lessee	does	not	make	the	rent,	taxes	and	utility	payments	on	time,	or	otherwise	fails	to	perform	any	terms	of	this	lease,	the	Lessor	may,
+
+following	fifteen	(15)	days’	written	notice:
+
+a.
+
+Terminate	this	lease,	whereupon	Lessee	shall	be	relieved	of	any	further	liabilities	or	obligations	hereunder	from	and	after	the	date	of	such	termination, except	with	respect	to	rentals	and	other	sums	due	or	accrued	prior	to	said	date	of	termination,	and	all	obligations	under	paragraph	7	herein	through	the date	of	termination	of	the	Lease,	and/or;
+
+b.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 10
+Number of chunks retrieved: 3
+Document 1:
+
+16.1.	 Surrender	 of	 Premises.	 On	 the	 expiration	 of	 the	 Term	 or	 sooner	 termination	 of	 this	 Lease,	 Tenant	 will,	 at	 Tenant’s	 sole	 cost, promptly	 and	 peaceably	 surrender	 the	 Premises	 to	 Landlord	 in	 good	 order	 and	 condition,	 and	 deliver	 all	 keys	 to	 the	 Premises	 to	 Landlord.	 All personal	property,	trade	fixtures	and	other	property	then	located	on	the	Premises	will	remain	on	the	Premises	and	may	be	used,	sold	or	otherwise disposed	of	by	Landlord.	No	sun-ender	of	the	Premises	will	be	effected	by	Landlord’s	acceptance	of	the	keys	or	of	the	rent	or	by	any	other	means without	 Landlord’s	 written	 acknowledgement	 of	 such	 acceptance	 as	 a	 surrender.	 All	 accounts	 receivable	 and	 accounts	 payable	 will	 be	 allocated between	Landlord	and	Tenant	as	of	the	date	of	the	expiration	of	the	Term	or	sooner	termination	of	this	Lease,	and	Landlord	and	Tenant	will	each cooperate	with	the	other	in	such	allocation	and	the	related	payment	and	collection.
+****************************************************************************************************
+Document 2:
+
+18.14.	 Merger.	 The	 surrender	 of	 this	 Lease	 by	 Tenant,	 the	 cancellation	 of	 this	 Lease	 by	 agreement	 of	 Landlord	 and	 Tenant	 or	 the termination	of	this	Lease	on	account	of	Tenant’s	default	will	not	work	a	merger,	and	will,	at	Landlord’s	option,	either	terminate	any	subleases	of part	or	all	of	the	Premises	or	operate	as	an	assignment	to	Landlord	of	any	of	those	subleases.	Landlord’s	option	under	this	Paragraph	18.14	may	be exercised	by	notice	to	Tenant	and	all	known	subtenants	in	the	Premises.
+****************************************************************************************************
+Document 3:
+
+16.2.	Holding	Over.	Tenant	will	indemnify,	defend	and	hold	harmless	Landlord	from	and	against	all	claims,	liabilities	and	expenses, including	attorneys’	fees,	resulting	from	delay	by	Tenant	in	surrendering	the	Premises	in	accordance	with	the	provisions	of	this	Lease.	If	Tenant remains	 in	 possession	 of	 the	 Premises	 after	 the	 expiration	 of	 the	 Tern,	 or	 sooner	 termination	 of	 this	 Lease	 with	 the	 prior	 written	 consent	 of Landlord,	such	occupancy	will	be	a	tenancy	from	month	to	month	at	a	rental	(and	not	as	a	penalty)	in	the	amount	of	one	hundred	fifty	percent	(	l 50%)	 of	 the	 last	 monthly	 rental,	 plus	 all	 other	 charges	 payable	 under	 this	 Lease,	 and	 on	 all	 of	 the	 terms	 of	 this	 Lease	 applicable	 to	 a	 month	 to month	tenancy.
+
+16.3.	Survival.	The	provisions	of	this	Paragraph	16	will	survive	the	expiration	of	the	Term	or	sooner	termination	of	this	Lease.
+
+9
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 33
+Number of chunks retrieved: 4
+Document 1:
+
+Real	Estate	Investing.	East.	Smart.	For	Everyone 1	Penn	Plaza	36th	Floor,	New	York,	NY,	10119	 hi@landa.app
+
+2
+
+In	case	of	such	breach	Landlord	may	deliver	a	written	notice	to	the	Tenant	in	breach	specifying	the	acts	and	omissions	constituting	the	breach	and that	the	Lease	Agreement	will	terminate	upon	a	date	not	less	than	thirty	(30)	days	after	receipt	of	the	notice	if	the	breach	is	not	remedied	within	a reasonable	time	not	in	excess	of	thirty	(30)	days;	and	the	Lease	Agreement	shall	terminate	and	the	Tenant	shall	surrender	possession	as	provided	in the	notice	subject	to	the	following:
+
+(a) If	the	breach	is	remediable	by	repairs,	the	payment	of	damages,	or	otherwise,	and	the	Tenant	adequately	remedies	the	breach	prior	to	the	date
+
+specified	in	the	notice,	the	Lease	Agreement	shall	not	terminate;
+****************************************************************************************************
+Document 2:
+
+specified	in	the	notice,	the	Lease	Agreement	shall	not	terminate;
+
+(b) In	the	absence	of	a	showing	of	due	care	by	the	Tenant,	if	substantially	the	same	act	or	omission	which	constituted	a	prior	noncompliance	of	which notice	was	given	recurs	within	six	(6)	months,	the	Landlord	party	may	terminate	the	Lease	Agreement	upon	at	least	fourteen	(14)	days	written notice	specifying	the	breach	and	the	date	of	termination	of	the	Lease	Agreement;
+
+(c) However,	 if	 the	 breach	 by	 the	 Tenant	 is	 nonpayment	 of	 rent,	 the	 Landlord	 shall	 not	 be	 required	 to	 deliver	 thirty	 (30)	 days’	 written	 notice	 as provided	above.	In	such	event,	the	Landlord	may	serve	Tenant	with	a	seven	(7)	day	written	notice	of	termination,	whereupon	the	Tenant	must pay	the	unpaid	rent	in	full	or	surrender	possession	of	the	premises	by	the	expiration	of	the	seven	(7)	day	notice	period.
+****************************************************************************************************
+Document 3:
+
+If	the	Lease	Agreement	is	terminated,	Landlord	shall	return	all	prepaid	and	unearned	rent,	and	any	amount	of	the	security	deposit	recoverable	by	the Tenant.
+
+Furthermore,	the	Lease	may	be	terminated	by	a	three	(3)	day	written	notice	delivered	by	Landlord	if	the	Tenant	has	committed	a	substantial	violation of	the	Lease	Agreement	or	applicable	law	that	materially	affects	health	and	safety.
+
+Delivery	Of	Notices
+
+Any	giving	of	notice	under	this	Lease	or	applicable	Georgia	law	shall	be	made	by	Tenant	in	writing	and	delivered	to	the	address	noted	above	for	the payment	of	rent,	either	by	hand	delivery	or	by	mail.	Certified	or	registered	mail	is	recommended.	Delivery	by	mail	shall	not	be	considered	complete until	actual	receipt	by	Landlord	or	Landlord’s	agent.
+****************************************************************************************************
+Document 4:
+
+Notice	Of	Intent	To	Surrender
+
+Any	other	provision	of	this	lease	to	the	contrary	notwithstanding,	at	least	thirty	(30)	days	prior	to	the	normal	expiration	of	the	term	of	this	Lease	as noted	under	the	heading	TERM	OF	LEASE	above,	Tenant	shall	give	written	notice	to	Landlord	of	Tenant’s	intention	to	surrender	the	residence	at	the expiration	of	the	Lease	term.	If	said	written	notice	is	not	timely	given,	the	Tenant	shall	become	a	month-to-month	tenant	as	defined	by	applicable Georgia	law,	and	all	provisions	of	this	Lease	will	remain	in	full	force	and	effect,	unless	this	Lease	is	extended	or	renewed	for	a	specific	term	by	written agreement	of	Landlord	and	Tenant.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 38
+Number of chunks retrieved: 2
+Document 1:
+
+(ii)	 	 	 	 Employ	 the	 remedy	 described	 in	 California	 Civil	 Code	 §	 1951.4	 (Landlord	 may	 continue	 this	 Lease	 in effect	 after	 Tenant’s	 breach	 and	 abandonment	 and	 recover	 Rent	 as	 it	 becomes	 due,	 if	 Tenant	 has	 the	 right	 to	 sublet	 or assign,	subject	only	to	reasonable	limitations);	or
+
+(iii)				Notwithstanding	Landlord’s	exercise	of	the	remedy	described	in	California	Civil	Code	§	1951.4	in	respect of	 an	 event	 or	 events	 of	 default,	 at	 such	 time	 thereafter	 as	 Landlord	 may	 elect	 in	 writing,	 to	 terminate	 this	 Lease	 and Tenant’s	right	to	possession	of	the	Premises	and	recover	an	award	of	damages	as	provided	above	in	Section	19(b)(i).
+****************************************************************************************************
+Document 2:
+
+Landlord’s	notice	electing	to	exercise	the	Assignment	Termination.	If	Tenant	withdraws	such	Assignment	Notice,	this	Lease	shall continue	in	full	force	and	effect.	If	Tenant	does	not	withdraw	such	Assignment	Notice,	this	Lease,	and	the	term	and	estate	herein granted,	shall	terminate	as	of	the	Assignment	Date	with	respect	to	the	space	described	in	such	Assignment	Notice.	No	failure	of Landlord	to	exercise	any	such	option	to	terminate	this	Lease,	or	to	deliver	a	timely	notice	in	response	to	the	Assignment	Notice, shall	be	deemed	to	be	Landlord’s	consent	to	the	proposed	assignment,	sublease	or	other	transfer.	Tenant	shall	not	be	required	to pay	 to	 Landlord	 a	 fee	 in	 connection	 with	 its	 consideration	 of	 any	 Assignment	 Notice	 and/or	 its	 preparation	 or	 review	 of	 any consent	documents.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 5
+Number of chunks retrieved: 3
+Document 1:
+
+(c)						In	case	of	any	Event	of	Default,	re-entry,	expiration	and/or	dispossession	by	summary	proceedings,	whether	or	not	this	Lease	shall	have	been	terminated	as	aforesaid:
+
+(i)									All	delinquent	rent	and	additional	rent	shall	become	payable	thereupon	and	be	paid	up	to	the	time	of	such	re-entry,	expiration	and/or	dispossession;
+
+(ii)											Landlord	shall	have	the	right,	but	not	the	obligation,	to	relet	the	Premises	or	any	part	or	parts	thereof	for	the	account	of	Tenant,	either	in	the	name	of	Landlord	or	otherwise,
+
+11
+
+for	a	term	or	terms	which	may,	at	Landlord’s	option,	be	less	than	or	exceed	the	period	which	would	otherwise	have	constituted	the	balance	of	the	term	of	this	Lease	and	to	grant	reasonable	concessions	for	rent,	costs, brokerage	fees	and	attorneys’	fees;
+****************************************************************************************************
+Document 2:
+
+present	or	future	bankruptcy	laws	of	the	United	States	or	any	other	state	or	political	subdivision	thereof,	and	if	within	ninety	(90)	days	after	the	commencement	of	any	such	proceeding	against	Tenant,	such	proceedings shall	not	have	been	dismissed,	or	if,	within	ninety	(90)	days	after	the	appointment,	without	the	consent	or	acquiescence	of	Tenant,	or	any	trustee,	receiver	or	liquidator	of	the	Tenant	or	of	all	or	any	substantial	part	of Tenant’s	property,	such	appointment	shall	not	have	been	vacated	or	stayed	on	appeal	or	otherwise,	or	if,	within	sixty	(60)	days	after	the	expiration	of	any	such	stay,	such	appointment	shall	not	have	been	vacated.
+
+21.									LANDLORD’S	REMEDIES.
+
+(a)						Upon	the	occurrence	of	any	Event	of	Default,	Landlord	may,	at	its	option,	terminate	this	Lease,	whereupon	the	estate	hereby	vested	in	Tenant	shall	cease	and	any	and	all	other	right,	title	and
+****************************************************************************************************
+Document 3:
+
+interest	of	Tenant	hereunder	shall	likewise	cease	without	notice	or	lapse	of	time,	as	fully	and	with	like	effect	as	if	the	entire	term	of	this	Lease	had	elapsed,	but	Tenant	shall	continue	to	be	liable	to	Landlord	as hereinafter	provided.
+
+(b)						Upon	the	occurrence	of	any	Event	of	Default,	or	at	any	time	thereafter,	Landlord,	in	addition	to	and	without	prejudice	to	any	other	rights	and	remedies	Landlord	shall	have	at	law	or	in	equity,
+
+shall	have	the	right	to	re-enter	the	Premises,	and	recover	possession	thereof	and	dispossess	any	or	all	occupants	of	the	Premises	in	the	manner	prescribed	by	the	statute	relating	to	summary	proceedings,	or	similar statutes,	but	Tenant	in	such	case	shall	remain	liable	to	Landlord	as	hereinafter	provided.
+
+(c)						In	case	of	any	Event	of	Default,	re-entry,	expiration	and/or	dispossession	by	summary	proceedings,	whether	or	not	this	Lease	shall	have	been	terminated	as	aforesaid:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 74
+Number of chunks retrieved: 3
+Document 1:
+
+Should	Lessee	default	in	the	payment	of	rent,	or	defaults	in	the	performance	of	any	of	the	other	covenants	or	conditions	hereof,	Lessor	may	give Lessee	notice	of	such	default	and	if	Lessee	does	not	cure	any	such	default	within	sixty	(60)	days,	after	the	giving	of	such	notice	(or	if	such	other default	 is	 of	 such	 nature	 that	 it	 cannot	 be	 completely	 cured	 within	 such	 period,	 of	 Lessee	 does	 not	 commence	 such	 during	 within	 said	 sixty	 (60) days	and	thereafter	proceed	with	reasonable	diligence	and	in	good	faith	to	cure	said	default),	then	Lessor	may	terminate	this	lease	on	not	less	than thirty	 (30)	 days	 notice	 to	 Lessee.	 On	 the	 date	 specified	 in	 such	 notice	 the	 term	 of	 this	 lease	 shall	 terminate,	 and	 Lessee	 shall	 then	 quit	 and surrender	 the	 premises	 to	 Lessor,	 but	 Lessee	 shall	 remain	 liable	 as	 hereinafter	 provided.	 If	 this	 lease	 shall	 have	 been	 so	 terminated	 by	 Lessor,
+****************************************************************************************************
+Document 2:
+
+Lessee	 shall	 then	 quit	 and surrender	 the	 premises	 to	 Lessor,	 but	 Lessee	 shall	 remain	 liable	 as	 hereinafter	 provided.	 If	 this	 lease	 shall	 have	 been	 so	 terminated	 by	 Lessor, Lessor	may	at	any	time	thereafter	resume	possession	of	the	premises	by	any	lawful	means	and	remove	Lessee	of	other	occupants	and	their	effects. No	failure	to	enforce	any	term	shall	be	deemed	a	waiver.
+****************************************************************************************************
+Document 3:
+
+SECURITY	DEPOSIT
+
+Lessor	shall	not	require	a	security	deposit	from	Lessee.
+
+TERM	and	TERMINATION
+
+If	not	terminated	sooner	this	Lease	will	expire	December	31,	2020.	Lessee	or	Lessor	may	terminate	this	lease	without	cause	at	any	time	during	the term	upon	thirty	(30)	days	written	notice	to	the	other	party.	Any	partial	month’s	rent,	based	on	a	termination	date	prior	to	expiry	of	the	Lease,	will be	prorated	at	a	daily	rate	of	twenty-six	dollars	($26)	per	day.
+
+NOTICES
+
+Notices	 given,	 or	 that	 might	 be	 required	 to	 be	 given	 by	 either	 party	 shall	 be	 accomplished	 by	 emailing,	 to	 Lessor	 at	 achong@plexusintl.com,	 or Lessee	at	wbartkowski@cqens.com.
+
+OPTION	to	RENEW
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 28
+Number of chunks retrieved: 4
+Document 1:
+
+E.-	Early	Termination	of	Lease	Agreement.	In	the	event	that	IAMSA	and	COMPANY	enter	into	a	new	lease	for	additional	premises in	any	IAMSA	development	(the	“Additional	Premises”),	COMPANY	shall	have	the	right	to	terminate	this	Lease	Agreement	upon the	 delivery	 of	 written	 notice	 to	 IAMSA.	 COMPANY’s	 termination	 right	 under	 this	 paragraph	 may	 be	 exercised	 at	 any	 time	 after COMPANY’s	commencement	of	beneficial	occupancy	of	the	Additional	Premises	and	shall	be	effective	upon	delivery	to	IAMSA,	at which	time	this	Lease	Agreement	shall	terminate.
+****************************************************************************************************
+Document 2:
+
+D.-	Renewal	of	Lease	Agreement.	It	is	understood	and	agreed	upon	that	COMPANY	shall	have	the	right	to	extend	the	term	of	the Lease	 Agreement	 after	 the	 termination	 of	 the	 original	 lease	 term,	 for	 one	 (1)	 additional	 term	 of	 five	 (5)	 years.	 It	 is	 understood that	COMPANY	shall	notify	IAMSA	in	writing,	at	least	180	days	prior	to	the	termination	of	the	initial	lease	term	or	its	extensions, regarding	 its	 intention	 to	 exercise	 this	 option.	 If	 no	 written	 notice	 is	 received	 prior	 to	 such	 period,	 it	 is	 understood	 that	 the COMPANY	 has	 no	 intention	 to	 renew	 the	 lease	 and	 consequently	 shall	 immediately	 proceed	 to	 vacate	 the	 premises	 as	 stated hereunder	 at	 the	 expiration	 of	 the	 lease	 term.	 It	 is	 also	 agreed	 that	 the	 payment	 of	 rent	 during	 the	 first	 year	 of	 the	 extension period,	 will	 be	 the	 same	 as	 was	 in	 force	 during	 the	 last	 year	 of	 the	 original	 lease	 term,	 reflecting	 only	 the	 annual	 increases
+****************************************************************************************************
+Document 3:
+
+XXIV.-	SURRENDER.
+
+On	 the	 last	 day	 of	 the	 term	 of	 this	 Lease	 Agreement,	 or	 the	 sooner	 termination	 thereof	 pursuant	 to	 other	 provisions	 hereof, COMPANY	 shall	 quit	 and	 surrender	 the	 Leased	 Property,	 broom	 clean,	 in	 good	 condition	 together	 with	 all	 alterations,	 additions and	 improvements	 that	 may	 have	 been	 made	 to	 the	 same,	 except	 furniture,	 machinery	 and	 equipment	 owned	 by	 COMPANY. Upon	the	termination	of	this	Lease	Agreement,	COMPANY	shall	immediately	remove	all	of	its	property,	with	the	exception	noted above,	and	all	property	not	removed	shall	be	deemed	abandoned	by	COMPANY.	COMPANY	shall	immediately	repair	any	and	all damage	caused	to	the	Leased	Property	by	the	removal	of	COMPANY’s	property.
+
+XXV.-	QUIET	ENJOYMENT.
+****************************************************************************************************
+Document 4:
+
+A.-	Total.	In	the	event	that	the	whole	or	a	substantial	part	of	the	Leased	Property	is	damaged	or	destroyed	by	fire,	act	of	nature, or	any	other	cause,	so	as	to	make	COMPANY	unable	to	continue	the	operation	of	its	business,	IAMSA	shall,	within	fifteen	(15)	days from	such	destruction,	determine	whether	the	Leased	Property	can	be	restored	within	six	(6)	months.	If	IAMSA	determines	that the	 Leased	 Property	 cannot	 be	 restored	 within	 six	 (6)	 months,	 either	 IAMSA	 or	 COMPANY	 shall	 have	 the	 right	 and	 option	 to immediately	 terminate	 this	 Lease	 Agreement,	 by	 advising	 the	 other	 thereof	 by	 written	 notice.	 If	 this	 Lease	 Agreement	 is	 not terminated	 as	 provided	 in	 the	 preceding	 sentence,	 IAMSA	 shall	 proceed	 diligently	 to	 reconstruct	 the	 Leased	 Property,	 in	 that event	the	IAMSA	will	accept	in	lieu	of	the	rent	during	this	period	the	rental	insurance	or	bond	acquired	by	the	COMPANY.	During the	 period	 of	 reconstruction	 the	 COMPANY	 will	 not
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 79
+Number of chunks retrieved: 3
+Document 1:
+
+If	the	Rent	hereby	stipulated	or	any	part	thereof	shall	remain	unpaid	for	15	days	after	becoming	payable	(whether	legally	demanded or	not)	or	if	the	Tenant	or	other	person	in	whom	for	the	time	being	the	term	hereby	created	shall	be	vested	shall	failed	to	observe	or perform	any	of	the	conditions	herein	in	any	material	respect	or	shall	become	bankrupt	or	enter	into	any	composition	or	arrangement with	creditors	or	suffer	any	prosecution	in	respect	of	the	non-payment	of	any	money	due	to	the	Government	then	and	in	any	of	the said	cases	it	shall	be	lawful	for	the	Landlord	at	any	time	thereafter	to	re-enter	upon	the	Property	or	any	part	thereof	in	the	name	of the	whole	and	thereupon	this	Agreement	shall	absolutely	determine	but	without	prejudice	to	any	right	of	action	of	the	Landlord	in respect	 of	 any	 breach	 of	 the	 Tenant’s	 terms	 and	 conditions	 herein	 contained	 and	 a	 written	 notices	 served	 by	 the	 Landlord	 on	 the
+****************************************************************************************************
+Document 2:
+
+non-performance	 by	 the	 Tenant	 of	 any	 of	 the	 agreements, stipulations,	 terms	 or	 conditions	 of	 this	 Agreement	 in	 any	 material	 respect	 the	 Landlord	 shall	 be	 entitled	 (without	 prejudice	 to	 any	 other right	or	remedy	hereunder)	to	terminate	this	Agreement	and	to	deduct	from	the	Deposit	the	amount	of	any	loss	reasonably	incurred	by	the Landlord	 in	 consequence	 of	 the	 breach,	 non-observance	 or	 non-performance	 by	 the	 Tenant	 of	 this	 Agreement	 in	 which	 event	 the	 Tenant shall	as	a	condition	precedent	to	the	continuation	of	the	tenancy	hereby	created	within	seven	(7)	days’	written	notice	by	the	Landlord	or	its agent	deposit	with	the	Landlord	the	amount	so	deducted	and	if	the	Tenant	shall	fail	so	to	do	the	Landlord	shall	forthwith	be	entitled	to	re- enter	on	and	upon	the	Property	or	any	part	thereof	in	the	name	of	the	whole	and	to	determine	this	Agreement	in	which	event	the	Deposit
+****************************************************************************************************
+Document 3:
+
+enter	on	and	upon	the	Property	or	any	part	thereof	in	the	name	of	the	whole	and	to	determine	this	Agreement	in	which	event	the	Deposit may	be	forfeited	to	the	Landlord	by	way	of	liquidated	damages	without	prejudice	to	any	other	right	or	remedy	hereunder.	If	any	deduction	is made	by	the	Landlord	from	the	Deposit	during	the	Term	the	Tenant	shall	within	seven	(7)	days	following	demand	by	the	Landlord	make	a further	deposit	equal	to	the	amount	deducted	and	failure	by	the	Tenant	so	to	do	shall	entitle	the	Landlord	to	re-enter	the	Property	and	to terminate	this	Agreement.	Subject	as	aforesaid	the	Deposit	shall	be	refunded	to	the	Tenant	by	the	Landlord	without	interest	within	thirty days	after	the	expiration	or	termination	of	this	Agreement	and	the	delivery	of	vacant	possession	to	the	Landlord	and	after	the	settlement	of the	 last	 outstanding	 claim	 by	 the	 Landlord	 against	 the	 Tenant	 in	 respect	 of	 any	 arrears	 of	 Rent	 and	 telephone	 charges	 and	 any	 material
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 97
+Number of chunks retrieved: 2
+Document 1:
+
+25.									Default.	If	at	any	time	either	party	shall	have	defaulted	in	or	breached	any	of	the	terms	or	covenants	contained	in	the	Lease	and	such	default	or	breach is	not	remedied	within	thirty	(30)	days	after	written	notice	of	the	same	to	the	non-defaulting	party,	then	the	non-defaulting	party	may	terminate	the	Lease	and	pursue	all other	rights	and	remedies	otherwise	available	(at	law	or	in	equity)	under	the	laws	of	the	United	States	or	State	in	which	the	Premises	is	located;	provided,	however,	if	the nature	of	such	default	is	such	that	the	same	cannot	be	cured	within	such	30-day	period,	the	defaulting	party	shall	not	be	deemed	to	be	in	default	if	such	defaulting	party shall	within	such	period	commence	such	cure	and	thereafter	diligently	prosecute	the	same	to	completion. 2 6 .									Recording.	The	Lease	shall	not	be	recorded,	but	Landlord	and	Te$1,994,	587nant	shall	execute	a	memorandum	of	lease	substantially	in	the	form attached	 hereto	 as	Exhibit	D,	 which	 memorandum	 of
+****************************************************************************************************
+Document 2:
+
+19.									Eminent	Domain.	If	the	Premises	or	a	part	thereof	is	taken	in	a	condemnation	proceeding	or	by	the	exercise	of	any	right	of	eminent	domain	or	by	any transfer	in	lieu	thereof,	Tenant	shall	have	the	option	to	terminate	the	Lease.	In	such	event,	neither	party	shall	have	any	obligation	to	the	other	except	that	Landlord	shall pay	to	Tenant	a	prorated	refund	of	earned	prepaid	rentals,	if	any.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 54
+Number of chunks retrieved: 3
+Document 1:
+
+(1)										Lessor	may	re-enter	and	take	possession	of	the	Premises	and	the	Building,	exclude	the	Lessee	from	possession	thereof	and	rent	the
+
+same	for	and	on	account	of	the	Lessee,	holding	Lessee	liable	for	the	deficiency	due	thereunder;
+
+(2)										Lessor	may	terminate	this	Lease,	exclude	the	Lessee	from	possession	of	the	Premises	and	the	Building	and	lease	the	same	for	and	on
+
+account	of	Lessor,	continuing	to	hold	Lessee	liable	for	all	deficiency	due	hereunder;
+
+(3)										Lessor	may	declare	all	payments	of	Base	Rent,	additional	rent	and	any	other	monies	due	or	to	become	due	from	Lessee	during	the remainder	of	the	Primary	Term	immediately	due	and	payable	in	full;	provided	that	such	amount	shall	be	reduced	by	actual	rent	received	as	a result	of	reletting	the	premises;	or
+
+(4)										Lessor	may	take	whatever	other	action	at	law	or	in	equity	may	appear	necessary	or	desirable	to	collect	the	rent	then	due	or	to	enforce
+****************************************************************************************************
+Document 2:
+
+(3)	 	 	 	 	 	 	 	 	 	 The	 filing	 by	 Lessee	 of	 a	 voluntary	 petition	 in	 bankruptcy,	 or	 Lessee’s	 failure	 to	 stay	 or	 discharge,	 within	 sixty	 (60)	 days,	 any execution,	garnishment	or	attachment	of	a	size	as	seriously	to	impair	its	ability	to	discharge	its	obligations	hereunder;	the	commission	by	Lessee of	any	act	of	bankruptcy	or	Lessee’s	adjudication	as	a	bankrupt;	an	assignment	by	Lessee	for	the	benefit	of	creditors	or	the	entry	by	Lessee	into an	agreement	of	compromise	with	creditors.
+
+B.										Remedies	on	Default.	Whenever	any	such	Event	of	Default	shall	have	occurred	and	be	continuing,	in	addition	to	all	other	rights	and remedies	available	at	law	or	in	equity	and	subject	to	Lessor’s	duty	to	mitigate	damages,	the	Lessor	shall	have	the	right	take	any	one	or	more	of the	following	steps:
+
+(1)										Lessor	may	re-enter	and	take	possession	of	the	Premises	and	the	Building,	exclude	the	Lessee	from	possession	thereof	and	rent	the
+****************************************************************************************************
+Document 3:
+
+of	such	events,	Lessor	may,	within	ninety	(90)	days	after	such	fire	or	other	cause,	give	Lessee	a	notice	in	writing	of	such	decision	and	thereupon the	term	of	this	Lease	shall	terminate	upon	the	third	day	after	such	notice	is	given,	and	Lessee	shall	vacate	the	Premises	and	the	Building	and shall	surrender	the	same	to	Lessor.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 30
+Number of chunks retrieved: 3
+Document 1:
+
+(a)
+
+Terminate	 this	 Lease	 by	 giving	 Tenant	 written	 notice	 thereof,	 in	 which	 event,	 Tenant	 shall
+
+pay	to	Landlord	 the	sum	of	(1)	all	Rent	accrued	hereunder	through	the	date	of	termination, (2)all	 amounts	 due	 under	 Section	 19.(a),	 and	 (3)	 an	 amount	 equal	 to	 (A)	 the	 total	 Rent	 that	 Tenant	 would	have been	required	to	pay	for	the	remainder	of	the	Term	discounted	 to	present	value	at	a	 per	annum	 rate	equal	to	the "Prime	Rate"	as	published	on	the	date	this	Lease	is	terminated	by	The	Wall	Street	Journal,	Southwest	Edition,	in its	listing	of	"Money	Rates",	minus	(B)	the	then	present	fair	rental	value	of	the	Premises	for	such	period,	similarly discounted;	or
+****************************************************************************************************
+Document 2:
+
+Terminate	 Tenant's	 right	 to	 possession	 of	 the	 Premises	 without	 terminating	 this	 Lease	 by giving	 written	 notice	 thereof	 to	 Tenant,	 in	 which	 event	 Tenant	 sh_all	 pay	 to	 Landlord	 (	 l)	 all	 Rent	 and	 other amounts	accrued	hereunder	to	the	date	of	termination	of	possession,	(2)	all	amounts	due	from	time	to	time	under Section	19.(a),	and	(3)	all	Rent	and	other	sums	required	hereunder	to	be	paid	by	Tenant	during	the	remainder	of the	 Term,	 diminished	 by	 any	 net	 sums	 thereafter	 received	 by	 Landlord	 through	 reletting	 the	 Premises	 during such	 period.	 Landlord	 shall	 use	 reasonable	 effo1ts	 to	 relet	 the	 Premises	 on	 such	 terms	 and	 conditions	 as Landlord	 in	 its	 so	 le	 discretion	 may	 determine	 (including	 a	 term	 different	 from	 the	 Term,	 rental	 concessions, and	 alterations	 to,	 and	 improvement	 of,	 the	 Premises);	 however,	 Landlord	 shall	 not	 be	 obligated	 to	 relet	 the Premises	 before	 leasing	 other	 portions	 of
+****************************************************************************************************
+Document 3:
+
+remedies	under	this	Section	18.
+
+Terminate	this	Lease	as	to	all	or	that	portion,	as	the	case	may	be,	of	the	Premises	that	Tenant dese1ts,	 abandons,	 vacates,	 moves	 out	 of.	 If	 Landlord	 terminates	 this	 Lease	 as	 to	 any	 portion	 of	 the	 Premises deserted,	abandoned,	vacated	or	moved	out	of	by	Tenant,	then	this	Lease	shall	be	terminated	for	such	portion	of the	Premises	and	Tenant	shall	pay	Landlord	all	Rent	accrued	through	the	termination	date	relating	to	the	po1tion of	 the	 Premises	 deserted,	 abandoned,	 vacated	 or	 moved	 out	 of	 through	 the	 termination	 date	 relating	 to	 the portion	of	the	Premises	covered	by	such	termination	and	all	brokerage	commissions	paid	or	payable	by	Landlord in	connection	with	this	Lease	that	are	allocable	to	such	portion	of	the	Premises.	Thereafter,	Landlord	may	lease such	portion	of	the	Premises	to	another	tenant	without	liability	to	Tenant.
+
+(e)
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 35
+Number of chunks retrieved: 4
+Document 1:
+
+(a)	If	the	breach	is	remediable	by	repairs,	the	payment	of	damages,	or	otherwise,	and	the	Tenant	adequately	remedies	the	breach	prior	to	the	date specified	in	the	notice,	the	Lease	Agreement	shall	not	terminate;
+
+Real	Estate	Investing.	East.	Smart.	For	Everyone 1	Penn	Plaza	36th	Floor,	New	York,	NY,	10119 hi@landa.app
+
+2
+
+(b)	In	the	absence	of	a	showing	of	due	care	by	the	Tenant,	if	substantially	the	same	act	or	omission	which	constituted	a	prior	noncompliance	of	which notice	was	given	recurs	within	six	(6)	months,	the	Landlord	party	may	terminate	the	Lease	Agreement	upon	at	least	fourteen	(14)	days	written	notice specifying	the	breach	and	the	date	of	termination	of	the	Lease	Agreement;
+****************************************************************************************************
+Document 2:
+
+(c)	 However,	 if	 the	 breach	 by	 the	 Tenant	 is	 nonpayment	 of	 rent,	 the	 Landlord	 shall	 not	 be	 required	 to	 deliver	 thirty	 (30)	 days’	 written	 notice	 as provided	above.	In	such	event,	the	Landlord	may	serve	Tenant	with	a	seven	(7)	day	written	notice	of	termination,	whereupon	the	Tenant	must	pay the	unpaid	rent	in	full	or	surrender	possession	of	the	premises	by	the	expiration	of	the	seven	(7)	day	notice	period.
+
+If	the	Lease	Agreement	is	terminated,	Landlord	shall	return	all	prepaid	and	unearned	rent,	and	any	amount	of	the	security	deposit	recoverable	by	the Tenant.
+
+Furthermore,	the	Lease	may	be	terminated	by	a	three	(3)	day	written	notice	delivered	by	Landlord	if	the	Tenant	has	committed	a	substantial	violation of	the	Lease	Agreement	or	applicable	law	that	materially	affects	health	and	safety.
+
+Delivery	Of	Notices
+****************************************************************************************************
+Document 3:
+
+Consequences	Of	Breach	By	Tenant
+
+If	Tenant,	by	any	act	or	omission,	or	by	the	act	or	omission	of	any	of	Tenant’s	family	or	invitees,	licensees,	and/or	guests,	violates	any	of	the	terms	or conditions	of	this	Lease	or	any	other	documents	made	a	part	hereof	by	reference	or	attachment,	Tenant	shall	be	considered	in	breach	of	this	Lease (breach	by	one	tenant	shall	be	considered	breach	by	all	tenants	where	Tenant	is	more	than	one	person).
+
+In	case	of	such	breach	Landlord	may	deliver	a	written	notice	to	the	Tenant	in	breach	specifying	the	acts	and	omissions	constituting	the	breach	and that	the	Lease	Agreement	will	terminate	upon	a	date	not	less	than	thirty	(30)	days	after	receipt	of	the	notice	if	the	breach	is	not	remedied	within	a reasonable	time	not	in	excess	of	thirty	(30)	days;	and	the	Lease	Agreement	shall	terminate	and	the	Tenant	shall	surrender	possession	as	provided	in the	notice	subject	to	the	following:
+****************************************************************************************************
+Document 4:
+
+Real	Estate	Investing.	East.	Smart.	For	Everyone 1	Penn	Plaza	36th	Floor,	New	York,	NY,	10119 hi@landa.app
+
+3
+
+Notice	Of	Intent	To	Surrender
+
+Any	other	provision	of	this	lease	to	the	contrary	notwithstanding,	at	least	thirty	(30)	days	prior	to	the	normal	expiration	of	the	term	of	this	Lease	as noted	under	the	heading	TERM	OF	LEASE	above,	Tenant	shall	give	written	notice	to	Landlord	of	Tenant’s	intention	to	surrender	the	residence	at	the expiration	of	the	Lease	term.	If	said	written	notice	is	not	timely	given,	the	Tenant	shall	become	a	month-to-month	tenant	as	defined	by	applicable Georgia	law,	and	all	provisions	of	this	Lease	will	remain	in	full	force	and	effect,	unless	this	Lease	is	extended	or	renewed	for	a	specific	term	by	written agreement	of	Landlord	and	Tenant.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 13
+Number of chunks retrieved: 3
+Document 1:
+
+Term:	 The	 term	 of	 this	 Lease	 shall	 commence	 on	 October	 1,	 2017	 ("Lease	 Commencement	 Date")	 and	 terminate	 on	 September	 30,	 2022	 ("Term") 2. unless	sooner	terminated	as	herein	set	forth	or	unless	extended	in	accordance	with	the	provisions	hereof	Possession	shall	be	given	at	the	Lease	Commencement Date,	all	subject	to	the	provisions	of	Section	43	of	this	Lease	below.
+
+3. Landlord	delivered	on	or	before	180	days	prior	to	the	expiration	of	the	Term,	as	extended.
+
+Options:	Tenant	shall	have	two	(2)	five	(5)	year	options	to	extend	the	term	of	the	Lease.	Tenant	shall	exercise	its	right	to	extend	by	written	notice	to
+****************************************************************************************************
+Document 2:
+
+In	the	event	of	Default	on	the	part	of	Tenant,	Landlord,	at	its	option,	in	addition	to	all	other	rights	and	remedies	provided	in	this	Lease,	at	law	or	in	equity	(a) terminate	 this	 Lease	 and	 Tenant's	 right	 of	 possession	 of	 the	 Premises,	 and	 recover	 all	 damages	 to	 which	 Landlord	 is	 entitled	 at	 law,	 specifically	 including, without	 limitation,	 the	 excess	 of	 the	 aggregate	 Fixed	 Rent	 and	 Additional	 Rent	 that	 would	 have	 accrued	 for	 the	 balance	 of	 the	 Term,	 together	 with	 all	 of Landlord's	expenses	of	re-leasing	(including	repairs,	alterations,	improvements,	additions,	decorations,	legal	fees	and	brokerage	commissions)	or	(b)	terminate Tenant's	 right	 of	 possession	 of	 the	 Premises	 without	 terminating	 this	 Lease.	 In	 all	 events,	 Landlord	 may	 re-lease	 the	 Premises,	 or	 any	 part	 thereof	 for	 the
+****************************************************************************************************
+Document 3:
+
+Tenant's	 right	 of	 possession	 of	 the	 Premises	 without	 terminating	 this	 Lease.	 In	 all	 events,	 Landlord	 may	 re-lease	 the	 Premises,	 or	 any	 part	 thereof	 for	 the account	of	Tenant,	for	such	rent	and	term	and	upon	such	terms	and	conditions	as	are	acceptable	to	Landlord.	If	Landlord	shall	have	elected	to	pursue	its	right to	terminate	Tenant's	right	of	possession	of	the	Premises	without	terminating	the	Lease,	then	Landlord	shall	have	the	further	right	and	remedy	to	subsequently rescind	such	election	and	terminate	the	Lease.	For	purposes	of	any	such	re-leasing,	Landlord	is	authorized	to	decorate,	repair,	alter	and	improve	the	Premises to	the	extent	deemed	necessary	by	Landlord,	in	its	reasonable	discretion,	all	at	Tenant's	expense.	If	Landlord	fails	to	re-lease	the	Premises,	or	if	the	Premises are	 re-leased	 and	 a	 sufficient	 sum	 is	 not	 realized	 therefrom	 after	 payment	 of	 all	 Landlord's	 expenses	 of	 re-leasing	 (including	 without	 limitation	 repairs,
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 90
+Number of chunks retrieved: 2
+Document 1:
+
+(a)
+
+If	Tenant	defaults	in	the	payment	of	Rent	and	such	default	continues	for	ten	(10)	days	after	written	notice	to	Tenant, or	if	Tenant	defaults	in	the	prompt	and	full	performance	of	any	other	provision	of	this	Lease,	and	if	such	other	default	continues	for	thirty (30)	days	after	written	notice,	or	if	the	leasehold	interest	of	Tenant	be	levied	upon	under	execution	or	be	attached	by	process	of	law,	then, and	 in	 any	 such	 event,	 Landlord	 may,	 at	 its	 election,	 either	 terminate	 this	 Lease	 and	Tenant's	 right	 to	 possession	 of	 the	 Premises,	 or, without	 terminating	 this	 Lease	 re-enter	 the	 Premises	 and	 endeavor	 to	 relet	 the	 Premises.	 	 Nothing	 herein	 shall	 relieve	 Tenant	 of	 any obligation,	including	the	payment	of	Rent,	as	provided	in	this	Lease.
+
+(b)
+****************************************************************************************************
+Document 2:
+
+(b)
+
+Upon	 any	 termination	 of	 this	 Lease,	Tenant	 shall	 surrender	 possession	 and	 vacate	 the	 Premises	 immediately,	 and deliver	possession	thereof	to	Landlord,	and	Tenant	hereby	grants	to	Landlord	full	and	free	license	to	enter	into	and	upon	the	Premises	in such	event	and	to	repossess	Landlord	of	the	Premises	as	of	Landlord's	former	estate,	and	to	expel	or	remove	Tenant	and	any	others	who may	be	occupying	or	within	the	Premises,	and	to	remove	any	and	all	property	therefrom,	using	such	force	as	may	be	allowed	by	law, without	being	deemed	in	any	manner	guilty	of	trespass,	eviction	or	forcible	entry	or	detainer,	and	without	relinquishing	Landlord's	right to	Rent,	or	any	other	right	given	to	Landlord	hereunder	or	by	operation	of	law.
+
+(c)
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 32
+Number of chunks retrieved: 3
+Document 1:
+
+Tenant:	 	 (a)	 the	 Security	 Deposit,	 or	 any balance	thereof	(i.e.,	after	deducting	therefrom	all	amounts	to	which	Landlord	is	entitled	under	the	provisions	of	this	Lease),	shall	be	returned	to Tenant,	and	(b)	neither	Landlord	nor	Tenant	shall	have	any	further	rights,	duties	or	obligations	under	this	Lease,	except	with	respect	to	provisions which	 expressly	 survive	 termination	 of	 this	 Lease.	 	 As	 used	 herein,	 the	 terms	 “Tenant	 Improvements”	 and	 “Tenant	 Improvement	 Work Readiness	Condition”	shall	have	the	meanings	set	forth	for	such	terms	in	the	Work	Letter.		If	Tenant	does	not	elect	to	void	this	Lease	within	5 business	 days	 of	 the	 lapse	 of	 such	 150	 day	 period	 (as	 extended	 for	 Force	 Majeure	 as	 provided	 for	 above),	 such	 right	 to	 void	 this	 Lease	 shall	 be waived	and	this	Lease	shall	remain	in	full	force	and	effect.
+****************************************************************************************************
+Document 2:
+
+(b)
+
+Remedies.	 	 Upon	 the	 occurrence	 of	 a	 Default,	 Landlord,	 at	 its	 option,	 without	 further	 notice	 or	 demand	 to	 Tenant, shall	 have	 in	 addition	 to	 all	 other	 rights	 and	 remedies	 provided	 in	 this	 Lease,	 at	 law	 or	 in	 equity,	 the	 option	 to	 pursue	 any	 one	 or	 more	 of	 the following	remedies,	each	and	all	of	which	shall	be	cumulative	and	nonexclusive,	without	any	notice	or	demand	whatsoever.
+
+(c)
+
+Terminate	 this	 Lease,	 or	 at	 Landlord’s	 option,	 Tenant’s	 right	 to	 possession	 only,	 in	 which	 event Tenant	shall	immediately	surrender	the	Premises	to	Landlord,	and	if	Tenant	fails	to	do	so,	Landlord	may,	without	prejudice	to	any	other remedy	 which	 it	 may	 have	 for	 possession	 or	 arrearages	 in	 rent,	 enter	 upon	 and	 take	 possession	 of	 the	 Premises	 and	 expel	 or	 remove Tenant	and	any	other	person	who	may	be	occupying	the	Premises	or	any	part	thereof,	without	being	liable	for	prosecution	or	any	claim for	damages	therefor;
+
+(i)
+****************************************************************************************************
+Document 3:
+
+(ii)
+
+(e)
+
+No	 Extensions.	 	 The	 period	 of	 time	 within	 which	 the	 Extension	 Right	 may	 be	 exercised	 shall	 not	 be	 extended	 or
+
+enlarged	by	reason	of	Tenant’s	inability	to	exercise	the	Extension	Right.
+
+Termination.		The	Extension	Right	shall,	at	Landlord’s	option,	terminate	and	be	of	no	further	force	or	effect	even	after Tenant’s	 due	 and	 timely	 exercise	 of	 the	 Extension	 Right,	 if,	 after	 such	 exercise,	 but	 prior	 to	 the	 commencement	 date	 of	 the	 Extension	 Term,	 (i) Tenant	 fails	 to	 cure	 any	 default	 by	 Tenant	 under	 this	 Lease	 within	 the	 applicable	 notice	 and	 cure	 period;	 or	 (ii)	 Tenant	 has	 Defaulted	 3	 or	 more times	during	the	period	from	the	date	of	the	exercise	of	the	Extension	Right	to	the	date	of	the	commencement	of	the	Extension	Term,	whether	or not	such	Defaults	are	cured.
+
+(f)
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 64
+Number of chunks retrieved: 4
+Document 1:
+
+VIII.	Change,	Termination	and	Cancellation	of	This	Contract
+
+1.	Both	parties	hereto	can	terminate,	change	or	cancel	this	Contract	via	negotiation.
+
+2.	Party	A	can	terminate	this	Contract	unilaterally	and	take	back	this	Premise,	if	Party	B	involves	any	one	of	the	following	cases: ①	Party	B	subleases,	sublets	or	transfers	this	Premise	arbitrarily; ②	Party	B	deals	with	illegal	activities	inside	this	Premise,	impairing	the	public	interests; ③	Party	B	delays	in	paying	rent	and	property	fees	for	at	least	15	days	with	no	just	cause; ④	Party	B	changes	the	structure	of	this	Premise	without	Party	A’s	written	consent.
+
+3.	If	both	parties	cannot	perform	this	Contract	any	longer	due	to	force	majeure	such	as	national	construction	demands,	both	parties	hereto	can
+
+change	or	cancel	this	Contract	via	negotiation.
+
+4.	This	Contract	will	become	null	and	void	naturally	after	the	expiration	of	term	of	lease.
+
+IX.	Violation	Liabilities
+****************************************************************************************************
+Document 2:
+
+is	entitled	to	terminate	this	Contract	unilaterally,	take	back	this	Premise	and	will	not	refund	the	rent	for	the	rest	term	of	lease.
+
+3.	Where	Party	B	goes	against	the	property	management	systems,	Party	A	or	the	property	management	company	of	this	Premise	is	entitled	to stop	Party	B’s	illegal	behaviors	and	ask	it	to	make	rectification,	recover	the	damaged	part	to	the	original	status	and	compensate	the	loss	within	a time	limit;	Party	B	shall	also	bear	all	the	legal	liabilities	arising	therefrom.
+
+4.	If	Party	A	terminate	this	Contract	unilaterally	with	no	just	cause	or	Party	B	moves	out	of	this	Premise	due	to	Party	A’s	cause	within	the	term of	lease,	Party	A	shall	pay	Party	B	liquidated	damages	which	are	10%	of	the	total	contract	price	and	refund	Party	B	the	rent	for	the	rest	term	of lease	and	deposit.
+****************************************************************************************************
+Document 3:
+
+change	or	cancel	this	Contract	via	negotiation.
+
+4.	This	Contract	will	become	null	and	void	naturally	after	the	expiration	of	term	of	lease.
+
+IX.	Violation	Liabilities
+
+1.	In	case	of	failing	to	pay	Party	A	rent	in	due	time,	Party	B	shall	pay	Party	A	liquidated	damages	which	are	0.3%	of	the	total	payables	for	each day	overdue.	If	Party	B	delays	in	paying	Party	A	rent	for	at	least	15	days,	Party	A	is	entitled	to	terminate	this	Contract,	take	back	this	Premise,	ask Party	B	to	pay	the	fees	owed	and	liquidated	damages	arising	therefrom	and	will	not	refund	the	rent	for	the	rest	term	of	lease.
+
+3
+
+2.	Party	B	is	seen	as	a	breach	of	this	Contract	if	subleasing	this	Premise	to	a	third	party	without	Party	A’s	written	consent.	In	such	case,	Party	A
+
+is	entitled	to	terminate	this	Contract	unilaterally,	take	back	this	Premise	and	will	not	refund	the	rent	for	the	rest	term	of	lease.
+****************************************************************************************************
+Document 4:
+
+to	dispose	Party	B’s	articles	but	all	the	fees	arising	therefrom	shall	be	borne	by	Party	B;
+
+6.	Do	not	deal	with	any	illegal	activities	within	this	Premise;
+
+7.	 Notify	 Party	 A,	 in	 time,	 of	 repairing	 the	 faults	 happened	 to	 this	 Premise	 and	 auxiliary	 facilities,	 within	 the	 term	 of	 lease.	 If	 the	 damage becomes	more	serious	due	to	Party	B’s	cause	or	Party	B’s	failure	in	notifying	Party	A	in	time,	the	maintenance	fees	for	the	expanded	part	shall	be borne	by	Party	B.
+
+VIII.	Change,	Termination	and	Cancellation	of	This	Contract
+
+1.	Both	parties	hereto	can	terminate,	change	or	cancel	this	Contract	via	negotiation.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 62
+Number of chunks retrieved: 3
+Document 1:
+
+12.	Possession	of	the	Leased	Premises.	If,	after	signing	this	Agreement,	Tenants	fail	to	take	possession	of	the	Leased	Premises,	they	shall	still	be	responsible	for	paying rent	and	complying	with	all	other	terms	of	this	Agreement.	In	the	event	Landlord	is	unable	to	deliver	possession	of	the	Leased	Premises	to	Tenants	for	any	reason	not within	Landlord’s	control,	including,	but	not	limited	to,	failure	of	prior	occupants	to	vacate	or	partial	or	complete	destruction	of	the	Leased	Premises,	Tenants	shall	have the	right	to	terminate	this	Agreement.	In	such	event,	Landlord’s	liability	to	Tenants	shall	be	limited	to	the	return	of	all	sums	previously	paid	by	Tenants	to	Landlord.
+****************************************************************************************************
+Document 2:
+
+22.	Grounds	for	Termination	of	Tenancy. 	The	failure	of	Tenant	or	Tenant’s	guests	or	invitees	to	comply	with	any	term	of	this	Agreement,	or	the	misrepresentation	of any	material	fact	on	Tenant’s	Rental	Application,	are	grounds	for	termination	of	the	tenancy,	with	appropriate	notice	to	Tenant	and	procedures	as	required	by	law.
+****************************************************************************************************
+Document 3:
+
+b.
+
+Landlord	shall	have	the	option	to	determine	that	the	Leased	Premises	are	only	partially	damaged	by	fire	or	other	cause.	In	that	event,	Landlord	shall	attempt to	 repair	 such	 damage	 and	 restore	 the	 Leased	 Premises	 within	 thirty	 (30)	 days	 after	 such	 damage.	 If	 only	 part	 of	 the	 Leased	 Premises	 cannot	 be	 used, Tenants	must	pay	rent	only	for	the	usable	part,	to	be	determined	solely	by	Landlord.	If	Landlord	is	unable	to	complete	repairs	within	thirty	(30)	days,	this Agreement	shall	expire	and	all	of	Tenants’	rights	pursuant	to	this	Agreement	shall	terminate	at	the	option	of	either	party.
+
+c.
+
+In	 the	 event	 that	Tenants,	 or	 their	 guests	 or	 invitees,	 in	 any	 way	 caused	 or	 contributed	 to	 the	 damage	 of	 the	 premises,	 Landlord	 shall	 have	 the	 right	 to terminate	this	Agreement	at	any	time,	and	Tenants	shall	be	responsible	for	all	losses,	including,	but	not	limited	to,	damage	and	repair	costs	as	well	as	loss of	rental	income.
+
+d.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 94
+Number of chunks retrieved: 1
+Document 1:
+
+adjoining	or
+
+16
+
+neighbouring	land	may	be	wholly	or	partially	released	or	any	breach	thereof	waived	without	thereby	releasing	the	Lessee	from
+
+any	of	the	covenants	or	provisions	herein	contained	or	giving	to	the	Lessee	any	right	of	action	against	the	Lessors	or	any	other
+
+person	or	persons
+
+Re-entry
+
+4.3	If	there	shall	be	any	breach	non-performance	or	non-observance	of	any	of	the	covenants	herein	contained	and	on
+
+the	Lessee’s	part	to	be	observed	and	performed	then	and	in	every	such	case	it	shall	be	lawful	for	the	Lessors	into	and	upon	the
+
+demised	premises	for	the	time	being	thereon	or	any	part	thereof	in	the	name	of	the	whole	to	re-enter	and	thereupon	this	demise
+
+shall	absolutely	determine	without	prejudice	to	any	right	of	action	or	remedy	of	the	Lessors	in	respect	of	any	breach	non-
+
+performance	or	non-observance	of	any	of	the	covenants	by	the	Lessee	herein	contained
+
+Avoidance	of	doubt	re	Lessors'	Powers
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 23
+Number of chunks retrieved: 3
+Document 1:
+
+or	equity,	take	any	one	or	more	of	the	following	actions:
+
+(a)	 Termination	 of	 Lease.	 Terminate	 this	 Lease	 by	 giving	 Tenant	 written	 notice	 thereof,	 in	 which	 event	 Tenant	 shall	 pay	 to Landlord	the	sum	of:	(1)	all	Rent	accrued	hereunder	through	the	date	of	termination;	(2)	all	amounts	due	under	Section	19(a);	and	(3)	an	amount equal	to	(A)	the	total	Rent	that	Tenant	would	have	been	required	to	pay	for	the	remainder	of	the	Term	discounted	to	present	value	at	a	per	annum rate	 equal	 to	 the	 Prime	 Rate	 (“Prime	 Rate”	 shall	 be	 the	 per	 annum	 interest	 rate	 publicly	 announced	 by	 a	 federally	 insured	 bank	 selected	 by Landlord	in	the	state	in	which	the	Premises	is	located	as	such	bank’s	prime	or	base	rate)	minus	one	percent	(1%),	minus	(B)	the	then	present	fair rental	value	of	the	Premises	for	such	period,	similarly	discounted;
+****************************************************************************************************
+Document 2:
+
+(b)	Termination	of	Possession.	Terminate	Tenant’s	right	to	possess	the	Premises	without	terminating	this	Lease	by	giving	written notice	thereof	to	Tenant,	in	which	event	Tenant	shall	pay	to	Landlord:	(1)	all	Rent	and	other	amounts	accrued	hereunder	to	the	date	of	termination of	 possession;	 (2)	 all	 amounts	 due	 from	 time	 to	 time	 under	 Section	 19(a);	 and	 (3)	 all	 Rent	 and	 other	 net	 sums	 required	 hereunder	 to	 be	 paid	 by Tenant	during	the	remainder	of	the	Term,	diminished	by	any	net	sums	thereafter	received	by	Landlord	through	reletting	the	Premises	during	such period,	 after	 deducting	 all	 costs	 incurred	 by	 Landlord	 in	 reletting	 the	 Premises.	 If	 Landlord	 elects	 to	 proceed	 under	 this	 Section	 18(b),	 Landlord may	remove	all	of	Tenant’s	property	from	the	Premises	and	store	the	same	in	a	public	warehouse	or	elsewhere	at	the	cost	of,	and	for	the	account of,	 Tenant,	 without	 becoming	 liable	 for	 any	 loss	 or	 damage	 which	 may	 be	 occasioned
+****************************************************************************************************
+Document 3:
+
+if	 Tenant	 fails	 to	 relocate within	 the	 time	 period	 stated	 in	 Landlord’s	 relocation	 notice	 to	 Tenant	 (or,	 if	 such	 relocation	 space	 is	 not	 available	 on	 the	 date	 specified	 in Landlord’s	relocation	notice,	as	soon	thereafter	as	the	relocation	space	becomes	available	and	is	tendered	to	Tenant	in	the	condition	required	by this	 Lease),	 then	 Landlord	 may	 terminate	 this	 Lease	 by	 notifying	 Tenant	 in	 writing	 thereof	 at	 least	 sixty	 (60)	 days	 prior	 to	 the	 termination	 date contained	in	Landlord’s	termination	notice.	Time	is	of	the	essence	with	respect	to	Tenant’s	obligations	under	this	Section. 25
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 77
+Number of chunks retrieved: 3
+Document 1:
+
+Section	35.		Termination.		On	the	termination	date	of	the	Term,	Tenant	shall:		(a)	immediately	vacate	the	Premises	and	surrender	the	same to	Landlord;	(b)	repair	all	damage	to	the	Premises	and	the	fixtures	and	personal	property	of	Landlord	located	on	the	Premises	caused	by	Tenant’s removal	 of	 its	 furniture	 and	 trade	 fixtures;	 and	 (c)	 at	 the	 option	 of	 Landlord	 either:	 	 (i)	 abandon	 all	 improvements,	 alterations	 and	 modifications made	by	Tenant	to	the	Leased	Premises	prior	to	the	date	of	termination	if	Landlord	indicated	at	the	time	of	approval	of	the	same	that	they	would become	 the	 property	 of	 Landlord	 at	 the	 end	 of	 the	 Lease	 Term,	 in	 which	 event	 such	 improvements,	 alterations	 and	 modifications	 shall	 be	 and become,	without	further	action	on	the	part	of	Tenant,	the	property	of	Landlord,	free	and	clear	of	all	claims	by	Tenant	and	any	person	claiming	by,
+****************************************************************************************************
+Document 2:
+
+Upon	any	termination	of	this	Lease,	Tenant	shall	immediately	vacate	the	Premises	and	surrender	the	same	to	Landlord	in	the	same	condition as	received,	reasonable	wear	and	tear	and	casualty	excepted.		In	the	event	Tenant	fails	to	so	vacate	and	surrender	the	premises,	Tenant	shall	pay all	costs	reasonably	incurred	by	Landlord	in	requiring	Tenant	to	vacate,	including	reasonable	attorneys’	fees	and	disbursements	and,	further,	will pay	Landlord	a	daily	occupancy	charge	equal	to	one	hundred	twenty-five	percent	(125%)	of	the	average	daily	rental	payable	by	Tenant	during	the most	recent	Lease	Agreement	year	until	Tenant	vacates	the	Premises	as	provided	in	the	terms	of	this	Lease.		Tenant	expressly	agrees	that,	for	so long	as	any	Event	of	Default	shall	exist	and	be	continuing,	Landlord	shall	have	the	right	to	immediately	regain	possession	of	the	Premises	and	to exclude	 Tenant	 from	 further	 use,	 occupancy	 and	 enjoyment	 thereof,	 and	 Tenant	 waives	 any	 and	 all	 claims	 which	 it	 may
+****************************************************************************************************
+Document 3:
+
+Tenant	 shall	 pay	 Landlord	 an	 amount	 equal	 to:	 	 (x)	 any	 Minimum	 Rent,	 Additional	 Rent	 and	 any	 damages	 which	 shall	 have been	 due	 or	 sustained	 prior	 to	 such	 termination,	 all	 reasonable	 costs,	 fees	 and	 expenses	 (including,	 but	 not	 limited	 to, reasonable	attorneys’	fees)	incurred	by	Landlord	in	pursuit	of	its	remedies	hereunder;	plus	an	additional	amount	equal	to	(y) the	 present	 worth	 (as	 of	 the	 date	 of	 such	 termination)	 of	 the	 Minimum	 Rent	 and	 Additional	 Rent	 which,	 but	 for	 such termination	 of	 this	 Lease,	 would	 have	 become	 due	 during	 the	 remainder	 of	 the	 term	 as	 then	 constituted;	 less	 (z)	 the	 fair rental	 value	 of	 the	 Premises	 as	 of	 the	 date	 of	 such	 termination,	 as	 reasonably	 determined	 by	 an	 independent	 real	 estate appraiser	 selected	 by	 Landlord.	 	 Such	 damages	 shall	 be	 payable	 to	 Landlord	 in	 one	 lump	 sum	 on	 demand	 and	 shall	 bear
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 66
+Number of chunks retrieved: 2
+Document 1:
+
+The	lessee	is	not	legally	obligated	to	pay	either	the	rental	or	the	penalty,	but	if	the	rental	and	penalty	are	not	received in	 this	 office	 within	 thirty	 (30)	 days	 after	 the	 Notice	 of	 Default	 has	 been	 received	 by	 the	 lessee,	 the	 lease	 will	 terminate automatically	by	operation	of	law.	Termination	of	the	lease	shall	not	relieve	the	lessee	of	any	obligation	incurred	under	the lease	 other	 than	 the	 obligation	 to	 pay	 rental	 or	 penalty.	 The	 lessee	 shall	 not	 be	 entitled	 to	 a	 credit	 on	 royalty	 due	 for	 any penalty	paid	for	late	payment	of	rental	on	an	operating	lease.
+
+D. ROYALTY.				Lessee	shall	pay	to	lessor:
+****************************************************************************************************
+Document 2:
+
+In	the	event	that	the	lessee	shall	fail	to	make	payments	of	rentals	and	royalties	as	herein	provided,	or	make	default	in the	 performance	 or	 observance	 of	 any	 of	 the	 terms,	 covenants	 and	 stipulations	 hereof,	 or	 of	 the	 general	 regulations promulgated	by	the	Board	of	Land	Commissioners	and	in	force	on	the	date	hereof,	the	lessor	shall	serve	notice	of	such	failure or	default,	either	by	personal	service	or	by	registered	mail	upon	the	lessee	and	if	such	failure	or	default	continues	for	a	period of	thirty	(30)	days	after	the	service	of	such	notice,	then	and	in	that	event	the	lessor	may	at	its	option,	declare	a	forfeiture	and cancel	 this	 lease,	 whereupon	 all	 rights	 and	 privileges	 except	 those	 granted	 in	 Section	 6	 hereof,	 obtained	 by	 the	 lessee hereunder	shall	terminate	and	cease	and	the	lessor	may	re-enter	and	take	possession	of	said	premises	or	any	part	thereof,	but
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 46
+Number of chunks retrieved: 3
+Document 1:
+
+a)	Terminate	this	Lease,	in	which	event	Tenant	shall	immediately	surrender	the	Premises	to	Landlord,	and	if	Tenant	fails	so	to	do,
+
+Landlord	may,	without	prejudice	to	any	other	remedy	which	it	may	have	for	possession	or	arrearage	in	rent,	enter	upon	and	take	possession	of	the Premises	and	expel	or	remove	Tenant	and	any	other	person	who	may	be	occupying	said	Premises	or	any	part	thereof,	without	being	liable	for prosecution	or	any	claim	of	damages	therefor;	and	Tenant	agrees	to	pay	to	Landlord	on	demand	the	amount	of	all	loss	and	damage	which	Landlord may	suffer	by	reason	of	such	termination.
+
+b)	Enter	upon	and	take	possession	of	the	Premises	and	expel	or	remove	Tenant	and	any	other	person	who	may	be	occupying	the
+****************************************************************************************************
+Document 2:
+
+d)	A	receiver	or	trustee	shall	be	appointed	for	all	or	substantially	all	of	the	assets	of	Tenant.
+
+e)	Tenant	shall	abandon	or	vacate	the	Premises	during	the	Term	of	this	Lease.
+
+f)	Tenant	shall	fail	to	occupy	the	leased	Premises	for	fifteen	(15)	consecutive	business	days	without	prior	written	notice	to	Landlord
+
+of	such	vacancy.
+
+Upon	the	occurrence	of	any	of	such	events	of	default,	Landlord	shall	have	the	right,	at	Landlord’s	election,	to	pursue,	in	addition	to	and cumulative	of	any	other	rights	Landlord	may	have	at	law	or	in	equity,	any	one	or	more	of	the	following	remedies	without	any	notice	or	demand whatsoever:
+
+a)	Terminate	this	Lease,	in	which	event	Tenant	shall	immediately	surrender	the	Premises	to	Landlord,	and	if	Tenant	fails	so	to	do,
+****************************************************************************************************
+Document 3:
+
+ARTICLE	33.	INTERPRETATION:
+
+Wherever	in	this	Lease	the	singular	number	is	used,	the	same	shall	include	the	plural,	and	the	masculine	gender	shall	include	the	feminine
+
+and	neuter	genders,	and	vice	versa,	as	context	shall	require.	The	section	headings	used	herein	are	for	reference	and	convenience	only	and	shall	not alter	the	interpretation	thereof.	This	Lease	may	be	executed	in	several	counterparts,	each	of	which	shall	be	an	original,	but	all	of	which	shall constitute	one	and	the	same	instrument.
+
+ARTICLE	34.	ENTIRE	AGREEMENT:
+
+No	oral	statement	or	prior	written	agreement	relating	to	this	matter	shall	have	any	force	or	effect.	Tenant	and	Landlord	agree	that	neither is	relying	on	any	representations	or	agreements	of	the	other	except	for	those	contained	in	this	Lease.	This	Lease	shall	not	be	modified	or	canceled except	by	writing	subscribed	by	all	parties.
+
+ARTICLE	35.	TERMINATION	OF	LEASES:
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 18
+Number of chunks retrieved: 3
+Document 1:
+
+Lease	 Contingency;	 Landlord’s	 Right	 to	 Terminate.	 Landlord	 is	 in	 the	 process	 of	 entering into	 a	 ground	 lease	 (as	 amended,	 restated,	 supplanted	 or	 otherwise	 modified	 from	 time	 to	 time,	 the	 “Ground	 Lease”) with	 the	 fee	 owner	 of	 the	 Property	 (the	 “Ground	 Lessor”).	 In	 the	 event	 that	 Landlord	 determines	 the	 Ground	 Lease contains	provisions	which	are	inconsistent	with	the	right	and	obligations	of	either	Landlord	or	Tenant	under	this	Lease, Landlord	 shall	 propose	 a	 form	 of	 amendment	 of	 this	 Lease	 to	 Tenant.	 Tenant	 shall	 not	 unreasonably	 withhold	 its consent	to	the	proposed	amendment	so	long	as	such	amendment	does	not	materially	adversely	affect	Tenant’s	rights	or obligations	hereunder.	Additionally,	Landlord	shall	have	the	right	to	terminate	this	Lease	upon	written	notice	to	Tenant in	the	event	any	one	of	the	conditions	listed	below	is	not	satisfied.	In	the	event	of	such	termination	by	Landlord,	neither
+****************************************************************************************************
+Document 2:
+
+16.3
+
+23
+
+XVII.PROVISIONS	APPLICABLE	AT	TERMINATION	OF	LEASE
+
+Surrender	of	Premises.	At	the	expiration	of	this	Lease,	except	for	changes	made	by	Tenant that	 were	 approved	 by	 Landlord,	 Tenant	 shall	 surrender	 the	 Leased	 Premises	 in	 the	 same	 condition,	 less	 reasonable wear	 and	 tear,	 as	 they	 were	 in	 upon	 delivery	 of	 possession	 thereto	 under	 this	 Lease	 and	 shall	 deliver	 all	 keys	 to Landlord.	Before	surrendering	the	Leased	Premises,	Tenant	shall	remove	all	of	its	personal	property	including,	but	not limited	to,	those	items	showing	on	Exhibit	“G”	and	trade	fixtures	and	such	property	or	the	removal	thereof	shall	in	no way	damage	the	Leased	Premises,	and	Tenant	shall	be	responsible	for	all	costs,	expenses	and	damages	incurred	in	the removal	thereof.	If	Tenant	fails	to	remove	its	personal	property	and	fixtures	upon	the	expiration	of	this	Lease,	the	same shall	be	deemed	abandoned	and	shall	become	the	property	of	Landlord.
+
+17.1
+****************************************************************************************************
+Document 3:
+
+(c)
+
+Remedies.	 In	 the	 event	 of	 any	 default	 by	 Tenant	 hereunder,	 Landlord	 may	 at	 any	 time, without	 waiving	 or	 limiting	 any	 other	 right	 or	 remedy	 available	 to	 it,	 terminate	 Tenant’s	 rights	 under	 this	 Lease	 by written	notice,	 reenter	 and	 take	 possession	 of	 the	 Leased	Premises	 by	 any	 lawful	 means	 (with	 or	 without	 terminating this	 Lease),	 or	 pursue	 any	 other	 remedy	 allowed	 by	 law.	 Tenant	 agrees	 to	 pay	 to	 Landlord	 the	 cost	 of	 recovering possession	 of	 the	 Leased	 Premises,	 all	 costs	 of	 reletting,	 and	 all	 other	 costs	 and	 damages	 arising	 out	 of	 Tenant’s default,	including	attorneys’	fees.	Notwithstanding	any	reentry,	the	liability	of	Tenant	for	the	rent	reserved	herein	shall not	 be	 extinguished	 for	 the	 balance	 of	 the	 Term,	 and	 Tenant	 agrees	 to	 compensate	 Landlord	 upon	 demand	 for	 any deficiency	arising	from	reletting	the	Leased	Premises	at	a	lesser	rent	than	applies	under	this	Lease.
+
+16.2
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 73
+Number of chunks retrieved: 0
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 75
+Number of chunks retrieved: 3
+Document 1:
+
+17
+
+reason	of	the	reletting,	and	Tenant	agrees	to	reimburse	Landlord	for	any	expenditures	made	in	order	to	relet;	(b)	enter the	Premises	and	perform	Tenant’s	obligations	and	Tenant	agrees	to	reimburse	Landlord	for	any	expenditures	made	to satisfy	Tenant’s	obligations;	(c)	terminate	this	lease	by	written	notice	and	sue	for	damages;	or	(d)	terminate	the Tenant’s	right	of	possession	and	sue	for	rent.	Landlord	may,	subject	to	compliance	with	applicable	law,	enter	and	take possession	of	the	Premises	by	self-help,	by	picking	or	changing	locks	if	necessary,	and	may	lock	out	Tenant	or	any	other person	who	may	be	occupying	the	Premises,	until	the	default	is	cured,	without	being	liable	for	damages.
+
+Any	personal	property,	inventory	or	equipment	left	in	the	Premises	shall	be	deemed	abandoned.
+****************************************************************************************************
+Document 2:
+
+It	 is	 hereby	 expressly	 stipulated	 by	 Landlord	 and	 Tenant	 that	 any	 of	 the	 above	 listed	 actions,	 including, without	limitation,	termination	of	this	Lease,	termination	of	Tenant’s	right	to	possession,	and	re-entry	by	Landlord,	will not	 affect	 the	 obligations	 of	 Tenant	 for	 the	 unexpired	 term	 of	 this	 Lease,	 including	 the	 obligations	 to	 pay	 unaccrued Monthly	Rent	and	Other	Charges	(as	hereinafter	defined)	provided	in	this	Lease	for	the	remaining	portion	of	the	Term of	the	Lease.	Exercise	by	Landlord	of	any	one	or	more	remedies	hereunder	granted	or	otherwise	available	shall	not	be deemed	to	be	an	acceptance	of	surrender	of	the	Premises	by	Tenant,	whether	by	agreement	or	by	operation	of	law.	It	is understood	that	such	surrender	can	be	effected	only	by	the	written	agreement	of	Landlord	and	Tenant	or	by	order	of	a court	 having	 jurisdiction.	 No	 such	 alteration	 of	 security	 devices	 and	 no	 removal	 or	 other	 exercise	 of	 dominion	 by Landlord	 over
+****************************************************************************************************
+Document 3:
+
+having	the	power	of	condemnation,	then	and	in	that	event,	this	Lease	shall	terminate,	and	the	date	of	such	termination shall	be,	at	Landlord’s	election,	the	earlier	of	either	the	date	upon	which	possession	shall	be	tendered	to	such	authority by	Landlord	or	the	date	upon	which	possession	is	taken	by	such	authority.	If	more	than	thirty	percent	(30%)	of	the Premises	should	be	so	taken,	then	Tenant	(and	not	Landlord)	shall	have	the	right	to	elect,	by	written	notice	given	to Landlord	within	thirty	(30)	days	of	such	event,	to:	(i)	terminate	this	Lease;	(ii)	continue	with	this	Lease	in	full	force	and effect	and	cause	Landlord	to,	at	Landlord’s	expense,	restore	and	reconstruct	the	Premises	in	a	manner	consistent	with subsection	(b)	below	(and	if	such	restoration	or	reconstruction	is	not	completed	within	one	hundred	twenty	(120)	days thereafter,	then	Tenant	shall	then	be	entitled	to	elect	to	terminate	this	Lease	or	to	afford	Landlord	additional	time	to
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Chunks for lease 91
+Number of chunks retrieved: 3
+Document 1:
+
+1 1 . 2				Repair	or	Termination .	In	 the	 event	 the	Aircraft	 is	 partially	 destroyed	 or	 damaged,	 Lessor	 shall	 have	 the	 option,	 in	 its	 sole discretion,	to	either	(i)	fully	repair	the	Aircraft	in	order	that	it	shall	be	placed	in	at	least	as	good	condition	as	it	was	prior	to	such partial	destruction	or	damage;	or	(ii)	terminate	this	Agreement.	Within	five	(5)	days	after	the	date	of	such	partial	destruction	or damage,	Lessor	shall	give	written	notice	to	Lessee	specifying	whether	Lessor	has	elected	fully	to	repair	the	Aircraft	and,	if	so,	the expected	date	the	Aircraft	will	be	fully	repaired	and	available	for	Lessee’s	use	in	accordance	with	this	Agreement,	or	to	terminate this	Agreement,	which	termination	shall	be	effective	immediately	upon	such	written	notice	from	Lessor	to	Lessee	setting	forth Lessor's	election	to	so	terminate	this	Agreement.
+****************************************************************************************************
+Document 2:
+
+SECTION	3.	TERM,	SCHEDULING,	AND	RENT
+
+3.1				Term.	The	Term	shall	commence	on	the	Effective	Date,	and	be	effective	for	a	period	of	one	(1)	year.	 At	the	end	of	the	first	one	(1) year	period	or	any	subsequent	one	(1)	year	period,	the	Term	shall	automatically	be	renewed	for	an	additional	one	(1)	year	period, unless	terminated	by	either	party.	Either	party	may	terminate	this	Agreement	with	or	without	cause	upon	forty-eight	(48)	hours notice	to	the	other	party;	provided,	however,	that	Lessee	shall	be	permitted	to	complete	any	scheduled	use	of	the	Aircraft	which has	commenced.
+
+3.2				Scheduling.	Lessee's	use	of	the	Aircraft	during	the	Term	of	this	Agreement	is	non-exclusive.	The	parties	agree	as	follows:
+****************************************************************************************************
+Document 3:
+
+to	 the	 account	 of Lessee	for	credit	against	future	Hourly	Rent	which	is	due	under	this	Agreement.	All	rent	accrued	during	any	calendar	month	shall be	 payable	 in	 arrears	 on	 the	 Rent	 Payment	 Date	 in	 the	 immediately	 succeeding	 calendar	 month	 without	 further	 demand	 or invoice.	All	rent	shall	be	paid	to	the	Lessor	in	immediately	available	U.S.	funds	and	in	form	and	manner	as	the	Lessor	in	its	sole discretion	 may	 instruct	 Lessee	 from	 time	 to	 time.	 In	 the	 event	 the	 Lease	 is	 terminated	 by	 either	 party	 pursuant	 to	 Section	 3.1, Lessee	shall	pay	upon	demand	all	outstanding	Hourly	Rent	for	each	used	Flight	Hour.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
